@@ -17,7 +17,14 @@ Education
 * BE Computer Engineering (2013-2017) \\
 [Cummins College of Engg for Women, Pune (India)](https://www.cumminscollege.org/)
 
-Work experience
+ **Work experience**
+======
+* Project Research Assistant (2017-2018)
+  * Centre for Formal Design and Verification of Software (CFDVS) 
+    Dept of Computer Science and Engg
+    IIT Bombay, India 
+
+Internships
 ======
 * Master's thesis 2019
   * Heinz Nixdorf Institut, Universität Paderborn, Germany
@@ -26,25 +33,18 @@ Work experience
 
 * Summer 2019: Research Assistant
   * Dept of Computer Science and Automation, IISc Bangalore, India 
-  * Supervisor: [Prof. Deepak D'Souza](https://www.csa.iisc.ac.in/~deepakd/), (May - July 2019). 
+  * Supervisor: [Prof. Deepak D'Souza](https://www.csa.iisc.ac.in/~deepakd/)
   * Objective : To study techniques for data race detection in Android.
 
 * Bachelor's thesis 2017 
   * GCC Resource Center, IIT Bombay, India
-  * Supervisor: [Prof. Supratim Biswas](https://www.cse.iitb.ac.in/~sb/), 
+  * Supervisor: [Prof. Supratim Biswas](https://www.cse.iitb.ac.in/~sb/)
   * Objective: Empirical evaluation of precision of pointer analysis variants.
  
- **Research experience**
-======
-* Project Research Assistant (2017-2018)
-  * Centre for Formal Design and Verification of Software (CFDVS) 
-    Dept of Computer Science and Engg
-    IIT Bombay, India 
-
 **Online Courses**
 ======
 *[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-* [Machine Learning](https://www.coursera.org/learn/machine-learning)
-* [*Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
+*[Machine Learning](https://www.coursera.org/learn/machine-learning)
+*[Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 
 
