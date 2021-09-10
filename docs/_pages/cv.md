@@ -20,10 +20,10 @@ redirect_from:
  **Work experience**
 ======
 * Project Research Assistant (2017-2018)
-  * Centre for Formal Design and Verification of Software (CFDVS) \\
+  * [Centre for Formal Design and Verification of Software (CFDVS)](http://www.cfdvs.iitb.ac.in/) \\
     Dept of Computer Science and Engg \\
     IIT Bombay, India 
-
+    
 **Internships**
 ======
 * Master's thesis 2019
