@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mugdha Khedkar"
 title_separator          : "-"
 name                     : &name "Mugdha Khedkar"
-description              : &description "I am a PhD student in the Secure Software Engineering group at Paderborn University, Germany"
+description              : &description "I am a PhD student in the Secure Software Engineering group at Paderborn University, Germany
 url                      : https://mugdhak30.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/mugdhak30.io"
@@ -85,8 +85,8 @@ author:
   bio              : I am a PhD student in the Secure Software Engineering group at Paderborn University, Germany
   location         : Germany"
   employer         :
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mugdhak30"
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : "mugdha_khedkar"
-#  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Mugdha Khedkar"
+  linkedin         : Mugdha Khedkar
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
