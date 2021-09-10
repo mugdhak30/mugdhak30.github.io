@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: archive
+author_profile: false
 ---
 {:refdef: style="text-align: center;"}
 ![](Mugdhaphoto.jpg){:width="300"}
