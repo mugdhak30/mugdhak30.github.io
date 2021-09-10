@@ -83,7 +83,7 @@ author:
   name             : "Mugdha Khedkar"
   avatar           : "Mugdhaphoto.jpg"
   bio              : "I am a PhD student in the Secure Software Engineering group at Universität Paderborn, Germany"
-  location         : "Germany"
+  #location         : "Germany"
   employer         :  "Universität Paderborn, Germany"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        : "mugdha_khedkar"
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Mugdha Khedkar"
+  linkedin         : "mugdha-khedkar-1410a3102"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -114,8 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
-
+  
 
 # Reading Files
 include:
