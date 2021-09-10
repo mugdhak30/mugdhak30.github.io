@@ -43,13 +43,14 @@ redirect_from:
  
 **Teaching Assistantship**
 ======
-* [Designing Code Analyses for Large-scale Software Systems II](https://www.hni.uni-paderborn.de/sse/lehre/deca2/) 
+* [Designing Code Analyses for Large-scale Software Systems II](https://www.hni.uni-paderborn.de/sse/lehre/deca2/) \\
 04/2021 – 08/2021, Universität Paderborn (Master course)  
 
 **Online Courses**
 ======
-*[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-*[Machine Learning](https://www.coursera.org/learn/machine-learning)
-*[Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
+* [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) 
 
+* [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+* [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 
