@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 ======
 *  MSc Computer Science (2018-2020) \\
 [Chennai Mathematical Institute (India)](https://www.cmi.ac.in/)
@@ -24,7 +24,7 @@ Education
     Dept of Computer Science and Engg
     IIT Bombay, India 
 
-Internships
+**Internships**
 ======
 * Master's thesis 2019
   * Heinz Nixdorf Institut, Universität Paderborn, Germany
