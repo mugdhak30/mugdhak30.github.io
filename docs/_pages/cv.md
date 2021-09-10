@@ -41,6 +41,11 @@ redirect_from:
   * Supervisor: [Prof. Supratim Biswas](https://www.cse.iitb.ac.in/~sb/)
   * Objective: Empirical evaluation of precision of pointer analysis variants.
  
+**Teaching Assistantship**
+======
+* [Designing Code Analyses for Large-scale Software Systems II](https://www.hni.uni-paderborn.de/sse/lehre/deca2/) 
+04/2021 – 08/2021, Universität Paderborn (Master course)  
+
 **Online Courses**
 ======
 *[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
