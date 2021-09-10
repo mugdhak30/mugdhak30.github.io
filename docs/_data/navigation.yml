@@ -19,9 +19,9 @@ main:
   - title: "Interests"
     url: /interests/
 
+  - title: "Contact"
+    url: /contact/
+
 #  - title: "Teaching"
 #    url: /teaching/    
     
-    
- - title: "Contact"
-    url: /contact/
