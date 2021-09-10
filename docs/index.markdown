@@ -5,8 +5,9 @@
 layout: archive
 author_profile: false
 ---
+{:refdef: style="text-align: center;"}
 ![](Mugdhaphoto.jpg){:width="300"}
-
+{:refdef}
 
 Hi! I am Mugdha Khedkar. I am a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/). I work as a Research Assistant in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/) at Paderborn University, Germany since February 2021.
 
