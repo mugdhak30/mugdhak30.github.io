@@ -15,4 +15,4 @@ Universität Paderborn \\
 Fürstenallee 11 \\
 33102 Paderborn 
 
-Due to the COVID-19 pandemic, I am working from my home office. 
+Due to the COVID-19 pandemic, I am currently working from my home office. 
