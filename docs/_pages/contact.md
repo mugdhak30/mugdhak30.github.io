@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Email ID: mugdha.khedkar@upb.de
+Email ID: (mugdha.khedkar@upb.de)
 
 Address: Room F1.209 \\
 Fachgruppe Secure Software Engineering \\
