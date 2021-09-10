@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mugdha Khedkar"
-  avatar           : "profile.png"
+  avatar           : "Mugdhaphoto.jpg"
   bio              : I am a PhD student in the Secure Software Engineering group at Paderborn University, Germany
   location         : Germany"
   employer         :
@@ -102,8 +102,8 @@ author:
   instagram        : "mugdha_khedkar"
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Mugdha Khedkar"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/mugdha-khedkar-1410a3102/"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
