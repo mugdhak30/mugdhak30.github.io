@@ -23,7 +23,7 @@ main:
     url: /contact/
 
   - title: Blog
-    link: /blog.html
+    url: /blog.html
 #  - title: "Teaching"
 #    url: /teaching/    
     
