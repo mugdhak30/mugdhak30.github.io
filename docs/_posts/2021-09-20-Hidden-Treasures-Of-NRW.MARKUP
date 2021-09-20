@@ -2,6 +2,6 @@
 layout: post
 title:  "Hidden Treasures of NRW"
 author_profile: true
-permalink: /blog/:title
+permalink: /blog/
 ---
 Coming soon!
