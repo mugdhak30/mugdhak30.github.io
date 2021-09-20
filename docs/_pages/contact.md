@@ -16,4 +16,4 @@ Fürstenallee 11 \\
 33102 Paderborn \\
 Germany
 
-Due to the COVID-19 pandemic, I am currently working from my home office. 
+Due to the COVID-19 pandemic, I am currently working from my home office at Paderborn.
