@@ -2,6 +2,6 @@
 layout: archive
 title:  "Test"
 author_profile: true
-permalink: /blog/
+permalink: /blog/:title
 ---
 Testing! Coming soon!
