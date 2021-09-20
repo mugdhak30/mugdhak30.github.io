@@ -22,8 +22,8 @@ main:
   - title: "Contact"
     url: /contact/
 
-  - title: Blog
-    link: /blog.html
+  - title: "Blog"
+    url: /year-archive/
 #  - title: "Teaching"
 #    url: /teaching/    
     
