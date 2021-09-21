@@ -6,4 +6,4 @@ author_profile: true
 Coming soon!
 
 
-![](/images/Bielefeld1.jpg){:width="300"}
+<!--  ![](/images/Bielefeld1.jpg){:width="300"} -->
