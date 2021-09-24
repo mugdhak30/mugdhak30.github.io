@@ -9,8 +9,8 @@ author_profile: true
 =====
 * Program Analysis
 * Compiler Optimization 
-* Self-aware computing
 * Software Security
+* Self-aware computing
 * Formal Verification
 
 **Personal Interests**
