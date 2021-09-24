@@ -7,10 +7,11 @@ author_profile: true
 
 **Professional Interests**
 =====
-* Formal Verification
 * Program Analysis
 * Compiler Optimization 
 * Self-aware computing
+* Software Security
+* Formal Verification
 
 **Personal Interests**
 =====
