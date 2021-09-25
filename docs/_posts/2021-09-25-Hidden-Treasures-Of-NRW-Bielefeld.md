@@ -43,4 +43,4 @@ Owing to the Annual Art Exhibitions, the picturesque Old Market (Alter Markt) wa
 ![](/images/Bielefeld7.jpg){:width="400" style="padding:50px"} 
 {:refdef}
 
-The rest of my stay in Bielefeld was made interesting as my hosts and I talked about the rich cultural heritage and history associated with almost all little German towns. There is an intriguing but massively heartbreaking story behind most towns in NRW, and I can't wait to explore at least a few of them while I get to live in this beautiful country.
+The rest of my stay in Bielefeld was interesting as my hosts and I talked about the rich cultural heritage and history associated with almost all little German towns. There is an intriguing but massively heartbreaking story behind most towns in NRW, and I can't wait to explore at least a few of them while I get to live in this beautiful country.
