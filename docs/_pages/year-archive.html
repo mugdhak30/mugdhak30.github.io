@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-<p> One fine day while on the train I realised how lucky I am to be spending my twenties in Europe... </p>
+<p> On a beautiful summer morning, while travelling on the train I realised how lucky I am to be spending my twenties in Europe... </p>
 
 <p>This is a small attempt to document and share some memories I make while travelling across Europe and also all the interesting things I learn along the way. If I am lucky enough, this blog will also have travelogues from other continents. And if I find time or just want to zone out from the PhD stress, I will write about my past experiences travelling around my own country, India. </p>
 
@@ -20,5 +20,4 @@ redirect_from:
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  {% include archive-single.html %}
 {% endfor %}
