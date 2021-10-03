@@ -39,7 +39,7 @@ There were a couple of more springs which led me to a beautiful Catholic church,
 ![](/images/Lippee3.jpg){:width="310" style="padding:20px"} 
 {:refdef}
 
-I had a nice time exloring the small lanes around the church. Each lane was decorated with half-timbered houses and I kept exploring them till I almost got lost (lost my way and track of time, too). Apparently Germany is one of the only countries where half-timbered houses are still so common. I feel like they really add a very antique look to any landscape. They seem to transport me to a much calmer and simpler time.. 
+I had a nice time exploring the small lanes around the church. Each lane was decorated with half-timbered houses and I kept exploring them till I almost got lost (lost my way and track of time, too). Apparently Germany is one of the only countries where half-timbered houses are still so common. I feel like they really add a very antique look to any landscape. They seem to transport me to a much calmer and simpler time.. 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Lippee11.jpg){:width="400" style="padding:40px"}
