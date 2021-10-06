@@ -42,7 +42,7 @@ IIT Bombay, India
   * Supervisor: [Prof. Supratim Biswas](https://www.cse.iitb.ac.in/~sb/)
   * Objective: Empirical evaluation of precision of pointer analysis variants.
  
-**Teaching Assistantship**
+**Teaching Assistant**
 ======
 *  [Designing Code Analyses for Large-scale Software Systems](https://www.hni.uni-paderborn.de/sse/lehre/deca/) \\
 Master Course, Universität Paderborn (Ongoing)\\
