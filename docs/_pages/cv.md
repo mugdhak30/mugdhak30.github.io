@@ -23,7 +23,7 @@ redirect_from:
 [Centre for Formal Design and Verification of Software (CFDVS)](http://www.cfdvs.iitb.ac.in/) \\
 Dept of Computer Science and Engg \\
 IIT Bombay, India 
-  * Objective: To develop a language to enable Dynamic Interleaving of reachability algorithms to outperform not only the individual algorithms, but also other state-of-the-art tools.
+  * Objective: To develop a language to enable dynamic interleaving of reachability algorithms to outperform not only the individual algorithms, but also other state-of-the-art tools.
 
 **Internships**
 ======
@@ -46,11 +46,11 @@ IIT Bombay, India
 ======
 *  [Designing Code Analyses for Large-scale Software Systems](https://www.hni.uni-paderborn.de/sse/lehre/deca/) \\
 Master Course, Universität Paderborn (Ongoing)\\
-This course covers several concepts in Static Code Analysis: intra-procedural data-flow analysis, call-graph construction algorithms, context-insensitivity, pointer analysis, analysis frameworks (IFDS, IDE, VASCO).
+This course covers several concepts in static code analysis: intra-procedural data-flow analysis, call-graph construction algorithms, context-insensitivity, pointer analysis, analysis frameworks (IFDS, IDE, VASCO).
 
 * [Designing Code Analyses for Large-scale Software Systems II](https://www.hni.uni-paderborn.de/sse/lehre/deca2/) \\
   Master Course, Universität Paderborn (04/2021 – 08/2021)\\
-This course covers several novel, advanced concepts in Static Code Analysis: sparse IFDS, pushdown Systems, demand-driven program analysis, hybrid analysis and improved user experience.
+This course covers several novel, advanced concepts in static code analysis: sparse IFDS, pushdown systems, demand-driven program analysis, hybrid analysis and improved user experience.
 
 **Online Courses**
 ======
