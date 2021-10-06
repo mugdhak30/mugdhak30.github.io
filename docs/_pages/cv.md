@@ -19,11 +19,12 @@ redirect_from:
 
  **Work experience**
 ======
-* Project Research Assistant (2017-2018)
-  * [Centre for Formal Design and Verification of Software (CFDVS)](http://www.cfdvs.iitb.ac.in/) \\
-    Dept of Computer Science and Engg \\
-    IIT Bombay, India 
-    
+* Project Research Assistant (2017-2018) \\
+[Centre for Formal Design and Verification of Software (CFDVS)](http://www.cfdvs.iitb.ac.in/) \\
+Dept of Computer Science and Engg \\
+IIT Bombay, India 
+  * Objective: To develop a language to enable Dynamic Interleaving of reachability algorithms to outperform not only the individual algorithms, but also other state-of-the-art tools.
+
 **Internships**
 ======
 * Master's thesis 2019
@@ -43,8 +44,13 @@ redirect_from:
  
 **Teaching Assistantship**
 ======
+*  [Designing Code Analyses for Large-scale Software Systems](https://www.hni.uni-paderborn.de/sse/lehre/deca/) \\
+Master Course, Universität Paderborn (Ongoing)\\
+This course covers several concepts in Static Code Analysis: intra-procedural data-flow analysis, call-graph construction algorithms, context-insensitivity, pointer analysis, analysis frameworks (IFDS, IDE, VASCO).
+
 * [Designing Code Analyses for Large-scale Software Systems II](https://www.hni.uni-paderborn.de/sse/lehre/deca2/) \\
-04/2021 – 08/2021, Universität Paderborn (Master course)  
+  Master Course, Universität Paderborn (04/2021 – 08/2021)\\
+This course covers several novel, advanced concepts in Static Code Analysis: sparse IFDS, pushdown Systems, demand-driven program analysis, hybrid analysis and improved user experience.
 
 **Online Courses**
 ======
