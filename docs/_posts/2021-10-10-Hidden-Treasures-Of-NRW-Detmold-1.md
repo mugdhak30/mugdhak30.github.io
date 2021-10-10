@@ -55,8 +55,8 @@ Adolf Hitler visited the monument in 1926 and after 1930 the Nazi Party used the
 
 The view from Hermannsdenkmal was beautiful and the whole town of Detmold was clearly visible. The beautifully maintained park at the back of the monument added to the charm. Hermannsdenkmal was full of curious tourists and some artists trying to sketch the monument. 
 {:refdef: style="text-align: center;"}
-![](/images/Detmold9.jpg){:width="310" style="padding:20px"} 
-![](/images/Detmold10.jpg){:width="310" style="padding:20px"} 
+![](/images/Detmold9.jpg){:width="400" style="padding:40px"} 
+![](/images/Detmold10.jpg){:width="400" style="padding:40px"} 
 {:refdef}
 
 {:refdef: style="text-align: center;"}
