@@ -48,7 +48,7 @@ Right in front of this church is the plague column. It was erected in 1713, at a
 *Left to Right: Plague columns at Budapest, Vienna and Bratislava*
 {:refdef} 
 
-The most exciting part of the trip was cruising through the Danube river at night and watching the beautiful city lights along the banks of the river. It was serene and I got to see the grand Hungarian Parliament, one of the most beautiful Parliaments in the whole world all lit up. It is the tallest building in Budapest situated along the banks of Danube on the Pest side of the city.
+The most exciting part of the trip was cruising through the Danube river at night. I got to see the Hungarian Parliament, one of the most beautiful Parliaments in the whole world all lit up. It is the tallest building in Budapest situated along the banks of Danube on the Pest side of the city. Sitting on the deck of our boat, sipping Hungarian Wine and watching the beautiful city lights along the banks of the river made for an experience I'm always going to cherish.
 
 {:refdef: style="text-align: center;"}
 ![](/images/Budapest7.jpg){:width="320" style="padding:20px"} 
