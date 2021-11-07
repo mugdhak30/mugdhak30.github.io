@@ -5,7 +5,7 @@ author_profile: true
 ---
 Halloween weekend was a long weekend for us so I went on a short trip to three capitals: Vienna, Budapest and Bratislava. I didn't expect to be able to roam around a lot in these places (given the time constraints), but Europe has a knack of proving me wrong, every single time. Every minute of this short trip was made worthwhile by the vast history, architecture and natural beauty these places had to offer. 
 
-We spent a lot of time in Budapest, the capital and the most important city of Hungary. In the past, the Danube river, which is the second largest river of Europe (it flows through 10 countries!) divided Buda and Pest into two separate cities. In 1837, Budapest became a single city. Seven bridges provide crossings over the Danube, the most famous one being the Chain Bridge. In 1849 it was the first bridge built to connect the hilly Buda and the flat Pest. It was destroyed during World War II and then rebuilt in 1949. Bollywood fans might recognize this bridge from "Hum Dil De Chuke Sanam" (the climax was shot at this bridge).
+We spent a lot of time in Budapest, the capital and the most important city of Hungary. In the past, the Danube river, which is the second largest river of Europe (it flows through 10 countries!) divided Buda and Pest into two separate cities. In 1837, Budapest became a single city. Seven bridges provide crossings over the Danube, the most famous one being the Chain Bridge. It was the first bridge built to connect the hilly Buda and the flat Pest. Bollywood fans might recognize this bridge from "Hum Dil De Chuke Sanam" (the climax was shot at this bridge).
 
 {:refdef: style="text-align: center;"}
 ![](/images/Budapest4.jpg){:width="320" style="padding:20px"} 
