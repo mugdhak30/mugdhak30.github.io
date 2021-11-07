@@ -17,7 +17,7 @@ We spent a lot of time in Budapest, the capital and the most important city of H
 *Left to Right: Buda, river Danube and the Chain Bridge connecting Buda to Pest*
 {:refdef} 
 
-Like most other cities in Europe, Budapest also has a castle atop the Castle hill on the Buda side of the city. It was constructed in the 14th century and is one of the UNESCO World Heritage Sites. It is home to various museums and government organizations. It suffered damage several times during wars. In the words of our tour guide, "Hungary has constantly been under attack hence a lot of Budapest had to be reconstructed. Some reconstruction is still going on and you might see a new Budapest if you visit again in two years!"
+Like most other cities in Europe, Budapest also has a castle atop the Castle hill on the Buda side of the city. It was constructed in the 14th century and is one of the UNESCO World Heritage Sites. It is home to various museums and government organizations. It suffered damage several times during wars. In the words of our tour guide, "Hungary has constantly been under attack hence a lot of Budapest had to be reconstructed. Some reconstruction is still going on and you might see a new Budapest if you visit again in two years!" The view from the castle was beautiful, but I suddenly noticed how different Budapest looked from all the German towns I have visited so far (yes, I love German half-timbered houses!). 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Budapest2.jpg){:width="700"}
