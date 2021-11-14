@@ -47,7 +47,7 @@ After savouring this moment, I noticed the castle of Bratislava. Sitting on a sm
 *Left to Right: Bratislava Castle and Danube River*
 {: refdef}
 
-While strolling across the town, we came across a beautiful street. It was gorgeous: a true example of Autumn beauty. I could see all shades of orange and yellow in front of my eyes, and I suddenly got reminded of the [poem](https://allpoetry.com/poem/14783571-Harvest-by-Mugdhak) I had written when I first witnessed Autumn here in Europe. This landscape was a poet's paradise and an artist's art. Needless to say, my friends and I sat here for sometime reminiscing about our college days. 
+While strolling across the town, we came across a beautiful street. It was surreal: a true example of Autumn beauty. I could see all shades of orange and yellow in front of my eyes, and I suddenly got reminded of the [poem](https://allpoetry.com/poem/14783571-Harvest-by-Mugdhak) I had written when I first witnessed Autumn here in Europe. This landscape was a poet's paradise and an artist's art. Needless to say, my friends and I sat here for sometime reminiscing about our college days. 
 {:refdef: style="text-align: center;"}
 ![](/images/Bratislava9.jpg){:width="320" style="padding:20px"} 
 ![](/images/Bratislava10.jpg){:width="320" style="padding:20px"} 
