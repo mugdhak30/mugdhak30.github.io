@@ -10,6 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
   # gem "jekyll",  "~> 3.4.2"
 
+gem 'jekyll-sitemap'
+
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
