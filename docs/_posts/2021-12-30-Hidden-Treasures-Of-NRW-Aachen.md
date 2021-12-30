@@ -38,7 +38,7 @@ On one of my visits to the city centre, I noticed a hot water spring, Eisenbrunn
 *Elisenbrunnen*
 {: refdef}
 
-When I searched online for things to see and do in Aachen, I stumbled upon something interesting and just had to go check it out! I mentioned in my [previous blog post](https://mugdhak30.github.io/Hidden-Treasures-Of-NRW-Minden/) about [Stolpherstein](https://en.wikipedia.org/wiki/Stolperstein) and I saw these in Aachen too. 
+When I searched online for things to see and do in Aachen, I stumbled upon something interesting and just had to go check it out! I mentioned in my [previous blog post](https://mugdhak30.github.io/Hidden-Treasures-Of-NRW-Minden/) about [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein) and I saw these in Aachen too. 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Aachen12.jpg){:width="500"}
