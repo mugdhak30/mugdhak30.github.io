@@ -39,4 +39,4 @@ Due to the C squared situation (Christmas + COVID), the town was very quiet and 
 
 After reading my blog posts, many of you might feel like I keep looking for home in all the places I visit, and I cannot comment on whether that is true. I know one thing though: this time it felt like home found me in another continent, catching me off guard! At the end of the tiring and freezing day, I was cold but Burano managed to warm my heart in ways I could have never imagined. It gave me exactly what I needed the most on a dull day: a little splash of color!
 
-[^1]: **You can read more aboit it [here](https://www.isoladiburano.it/en/leaning-bell-tower.html) if you are interested!**
+[^1]: **You can read more about it [here](https://www.isoladiburano.it/en/leaning-bell-tower.html) if you are interested!**
