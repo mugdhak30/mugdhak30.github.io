@@ -3,7 +3,7 @@ layout: archive
 title:  "Florence: A Renaissance Masterpiece"
 author_profile: true
 ---
-When I wrote about Burano, I said that every town in Europe need not have "royalty and grandeur oozing out of it", but some towns in Europe are straight up unreal! I mean, there's just no way such royalty can exist right? Well, it does. This beautiful city from the Tuscany region in Italy was like a work of Renaissance art and just the sight of its city center was enough to make artists cry tears of joy!
+When I wrote about Burano, I said that every town in Europe need not have "royalty and grandeur oozing out of it", but some towns in Europe are straight up unreal! I mean, there's just no way such royalty can exist right? Well, it does. This beautiful city from the Tuscany region in Italy was like a work of Renaissance art and just the sight of its city centre was enough to make artists cry tears of joy!
 
 Florence was in stark contrast with Burano, and traveling to both these just one day apart was a cultural shock, to say the least. Thanks to the short days, I saw most of Florence in the dark, and that really added a different charm to the whole experience. Would I love to see it during the day? Sure. But well lit nights in December are much brighter than dull winter days, so I have nothing to complain about!
 
