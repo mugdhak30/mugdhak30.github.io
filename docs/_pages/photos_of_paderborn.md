@@ -27,8 +27,8 @@ Here I share some photos of Paderborn that I have clicked on the numerous walks 
 *Paderborn Cathedral*
 {: refdef}
 
-{:refdef: style="text-align: center;"}
 
+{:refdef: style="text-align: center;"}
 ![](/images/Paderbornextra9.jpg){:width="400" style="padding:40px"}
 ![](/images/Paderbornextra10.jpg){:width="400" style="padding:40px"}
 ![](/images/Paderbornextra11.jpg){:width="400" style="padding:40px"}
@@ -37,6 +37,15 @@ Here I share some photos of Paderborn that I have clicked on the numerous walks 
 {:refdef: style="text-align: center;"}
 *Paderquellgebiet*
 {: refdef}
+
+{:refdef: style="text-align: center;"}
+![](/images/Paderbornextra13.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra14.jpg){:width="400" style="padding:40px"}
+{:refdef}
+
+
+
+{:refdef: style="text-align: center;"}
 
 {:refdef: style="text-align: center;"}
 ![](/images/Paderbornextra6.jpg){:width="750" style="padding:20px"}
