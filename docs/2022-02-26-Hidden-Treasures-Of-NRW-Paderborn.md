@@ -3,22 +3,17 @@ layout: archive
 title:  "Hidden Treasures of NRW: Paderborn"
 author_profile: true
 ---
-More photos can be found [here](http://localhost:4000/photos_of_paderborn/)! UPDATE THIS LINK!
-{:refdef: style="text-align: center;"}
-![](/images/Paderborn2_1.jpg){:width="750" style="padding:20px"}
-{:refdef}
-
-{:refdef: style="text-align: center;"}
-*Schloss Neuhaus*
-{: refdef}
+More photos can be found [here](http://mugdhak30.github.io/photos_of_paderborn/)! 
 
 
+Talk about Rathaus! Warme Pader is actually about 4-6°C warmer than the other arms of the Paderquell. Due to the higher temperature, the people of Paderborn used it in the past to wash their laundry. My perspective on Frau washing clothes
+
 {:refdef: style="text-align: center;"}
-![](/images/Paderborn2_2.jpg){:width="400" style="padding:40px"}
-![](/images/Paderborn2_3.jpg){:width="400" style="padding:40px"}
+![](/images/Paderborn2_5.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra10.jpg){:width="400" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
-*Lippeesee*
+*Left to Right: Town Hall and Warm Pader*
 {: refdef}
 
 
@@ -37,12 +32,21 @@ More photos can be found [here](http://localhost:4000/photos_of_paderborn/)! UPD
 ![](/images/Paderborn2_10.jpg){:width="400" style="padding:40px"}
 {:refdef}
 
-Talk about city centre and Rathaus!
+Away from the city!
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderborn2_5.jpg){:width="400" style="padding:40px"}
-![](/images/Paderborn2_6.jpg){:width="400" style="padding:40px"}
+![](/images/Paderborn2_1.jpg){:width="750" style="padding:20px"}
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+*Schloss Neuhaus*
+{: refdef}
+
+
+{:refdef: style="text-align: center;"}
+![](/images/Paderborn2_2.jpg){:width="400" style="padding:40px"}
+![](/images/Paderborn2_3.jpg){:width="400" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
-*City Centre*
+*Lippesee*
 {: refdef}
