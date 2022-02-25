@@ -40,7 +40,7 @@ Here I share some photos of Paderborn that I have clicked on the numerous walks 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Paderbornextra13.jpg){:width="400" style="padding:40px"}
-![](/images/Paderbornextra14.jpg){:width="400" style="padding:40px"}
+![](/images/Paderborn2_8.jpg){:width="400" style="padding:40px"}
 {:refdef}
 
 
