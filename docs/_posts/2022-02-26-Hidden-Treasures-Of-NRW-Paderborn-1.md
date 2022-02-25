@@ -18,7 +18,7 @@ As the birthplace of German Computer Scientist [Heinz Nixdorf](https://en.wikipe
 *Left to Right: Heinz Nixdorf Museum and Heinz Nixdorf Institute (my office)*
 {: refdef}
 
-Since I live in the town (or as Paderborners call it, a city), I walk around the Town Hall almost every week. It's a very unique little building which (like 80 percent of Paderborn), was almost destroyed in the World War II. A short walk from the Town Hall leads you to Warm Pader, which is actually about 4-6°C warmer than the other arms of the Paderquell. Due to the higher temperature, the people of Paderborn used it in the past to wash their laundry. I discovered this statue of women doing laundry very randomly on one of my walks. I think it is an ode to the tiring job women were expected to do in the past. An ode to the world we claim to have left behind, but it is worth introspecting whether we have REALLY left it behind!
+Since I live in the town (or as Paderborners call it, a city), I walk around the Town Hall almost every week. It's a very unique little building which (like 80 percent of Paderborn) was almost destroyed in the World War II. A short walk from the Town Hall leads you to Warm Pader, which is actually about 4-6°C warmer than the other arms of the Paderquell. Due to the higher temperature, the people of Paderborn used it in the past to wash their laundry. I discovered this statue of women doing laundry very randomly on one of my walks. I think it is an ode to the tiring job women were expected to do in the past. An ode to the world we claim to have left behind, but it is worth introspecting whether we have REALLY left it behind!
 
 {:refdef: style="text-align: center;"}
 ![](/images/Paderborn2_5.jpg){:width="400" style="padding:40px"}
