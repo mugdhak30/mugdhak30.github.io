@@ -12,8 +12,8 @@ Here I share some photos of Paderborn that I have clicked on the numerous walks 
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderbornextra3.jpg){:width="400" style="padding:40px"}
 ![](/images/Paderbornextra4.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra22.jpg){:width="400" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Schloss Neuhaus*
@@ -37,6 +37,25 @@ Here I share some photos of Paderborn that I have clicked on the numerous walks 
 {:refdef: style="text-align: center;"}
 *Paderquellgebiet*
 {: refdef}
+
+
+{:refdef: style="text-align: center;"}
+![](/images/Paderbornextra17.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra19.jpg){:width="400" style="padding:40px"}
+{:refdef}
+{:refdef: style="text-align: center;"}
+*Padersee*
+{: refdef}
+
+
+{:refdef: style="text-align: center;"}
+![](/images/Paderbornextra26.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra27.jpg){:width="400" style="padding:40px"}
+{:refdef}
+{:refdef: style="text-align: center;"}
+*Sunset at Lippesee*
+{: refdef}
+
 
 {:refdef: style="text-align: center;"}
 ![](/images/Paderbornextra13.jpg){:width="400" style="padding:40px"}
