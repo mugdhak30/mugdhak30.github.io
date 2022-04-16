@@ -50,6 +50,6 @@ On my way back to Germany, I took a window seat because I had heard that the tak
 *Northern Lights*
 {: refdef}
 
-A recent Marathi movie had a dialogue: "प्रवासात माणूस जुन्याचा नवा होतो!" (Translation: Travel transforms you into a new person)! I truly felt that in this trip: the woman almost crying looking at the Northern lights wasn't the same woman who left Germany three weeks ago. The laughs I shared with my partner as we watched the sun go down into the Pacific made me feel like I'm the luckiest person in the world. Sometimes my smiles sit miles away on the other side of the world, and if I go chasing after them they have the power to turn any strange new place into home!
+A recent Marathi movie had a dialogue: "प्रवासात माणूस जुन्याचा नवा होतो!" (Translation: Travel transforms you into a new person)! I truly felt that in this trip: the woman almost crying looking at the Northern lights wasn't the same woman who left Germany three weeks ago. The laughs I shared with my partner as we watched the sun go down into the Pacific made me feel like I'm the luckiest person in the world. Sometimes our smiles sit miles away on the other side of the world, and if we go chasing after them they have the power to turn any strange new place into home!
 
 [^1]: **If any of you plan on visiting Santa Cruz, I strongly recommend their tours!**
