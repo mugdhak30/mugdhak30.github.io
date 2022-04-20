@@ -65,6 +65,13 @@ Here I share some photos of Paderborn that I have clicked on the numerous walks 
 
 
 {:refdef: style="text-align: center;"}
+![](/images/Paderbornextra29.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra30.jpg){:width="400" style="padding:40px"}
+{:refdef}
+
+
+
+{:refdef: style="text-align: center;"}
 
 {:refdef: style="text-align: center;"}
 ![](/images/Paderbornextra6.jpg){:width="750" style="padding:20px"}
