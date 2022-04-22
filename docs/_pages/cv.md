@@ -53,9 +53,16 @@ IIT Bombay, India
   Master Course, Universität Paderborn (Ongoing, Summer 2021)\\
 This course covers several novel, advanced concepts in static code analysis: sparse IFDS, pushdown systems, demand-driven program analysis, hybrid analysis and improved user experience.
 
-*  [Designing Code Analyses for Large-scale Software Systems](https://www.hni.uni-paderborn.de/sse/lehre/deca/) \\
+*  [Designing Code Analyses for Large-scale Software Systems I](https://www.hni.uni-paderborn.de/sse/lehre/deca/) \\
 Master Course, Universität Paderborn (Winter 2021)\\
 This course covers several concepts in static code analysis: intra-procedural data-flow analysis, call-graph construction algorithms, context-insensitivity, pointer analysis, analysis frameworks (IFDS, IDE, VASCO).
+
+
+**Mentoring**
+======
+
+* Served as a mentor in the [perspeEktIve M](https://www.eim.uni-paderborn.de/en/faculty/courses-of-study/studies/mentoring-program) program\\
+  Universität Paderborn, Nov 2021 - April 2022
 
 **Online Courses**
 ======

@@ -14,6 +14,8 @@ Here I share some photos of Paderborn that I have clicked on the numerous walks 
 {:refdef: style="text-align: center;"}
 ![](/images/Paderbornextra4.jpg){:width="400" style="padding:40px"}
 ![](/images/Paderbornextra22.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra31.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra32.jpg){:width="400" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Schloss Neuhaus*
