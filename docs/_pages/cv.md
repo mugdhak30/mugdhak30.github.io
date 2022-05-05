@@ -66,9 +66,11 @@ This course covers several concepts in static code analysis: intra-procedural da
 
 **Online Courses**
 ======
-* [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) 
+* Computer Science
+  * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) 
+  * [Machine Learning](https://www.coursera.org/learn/machine-learning)
+  * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 
-* [Machine Learning](https://www.coursera.org/learn/machine-learning)
-
-* [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
-
+* Poetry  
+  * [Basic Elements of Poetry](https://allpoetry.com/group/20193-Course%3A_The_Basic_Elements_of_Poetry_--_Intermediate) 
+  * [Abstract Poetry 101](https://allpoetry.com/group/20221-Abstract_101__closed)
