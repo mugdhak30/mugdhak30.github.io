@@ -44,3 +44,8 @@ Some of my favourite quotes ...
    Does the winged life destroy; \\
    But he who kisses the joy as it flies \\
    Lives in eternity's sunrise. - William Blake
+
+   * Happy the man, and happy he alone, \\
+   He who can call today his own; \\
+   He who, secure within, can say, \\
+   Tomorrow, do thy worst, for I have lived today. - John Dryden
