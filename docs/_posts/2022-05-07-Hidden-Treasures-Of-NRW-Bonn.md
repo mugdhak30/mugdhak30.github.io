@@ -16,7 +16,7 @@ Situated along the banks of [Rhine](https://en.wikipedia.org/wiki/Rhine) is a ve
 *Cherry Blossoms Lane*
 {: refdef}
 
-I found Bonn to be of the perfect size: not as small as Paderborn but not even as huge as Frankfurt. While most of the town looked new to me, there were some historic places worth a visit. One of Germany’s oldest churches, Bonn Minster was glorious and was built in the 11th century by the Romans. I had heard of [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven) so it was fascinating to see his home. One very unique feature of the town center was the presence of cherry blossoms at random places on the street. The peak season was over but some trees still had a hint of pink (I guess you can see them in some photos below).  
+I found Bonn to be of the perfect size: not as small as Paderborn but not even as huge as Frankfurt. While most of the town looked new to me, there were some historic places worth a visit. One of Germany’s oldest churches, Bonn Minster was glorious and was built in the 11th century by the Romans. I had heard of [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven) so it was fascinating to see his home. A very unique feature of the town center was the presence of cherry blossoms at random places on the street. The peak season was over but some trees still had a hint of pink (I guess you can see them in some photos below).  
 
 
 {:refdef: style="text-align: center;"}
