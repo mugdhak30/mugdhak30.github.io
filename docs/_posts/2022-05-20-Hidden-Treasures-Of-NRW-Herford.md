@@ -64,4 +64,4 @@ I have heard of such stories even in India, but what got to me was suddenness of
 *Witch Hunt Memorial*
 {: refdef}
 
-I will visit Herford again before I leave Germany for good, for Herford is too beautiful a place to be remembered only for the unfortunate events it witnessed. I was disturbed by my visit, but living in a country as an adult involves exploring and accepting everything that is written in its book of memories. This quaint town showed me how pain and grief can birth beautiful art, and this is an experience I will not forget for a really long time.
+I will visit Herford again before I leave Germany for good, for it is too beautiful a place to be remembered only for the unfortunate events it witnessed. I was disturbed by my visit, but living in a country as an adult involves exploring and accepting everything that is written in its book of memories. This quaint town showed me how even pain and grief can birth beautiful art, and this is an experience I will not forget for a really long time.
