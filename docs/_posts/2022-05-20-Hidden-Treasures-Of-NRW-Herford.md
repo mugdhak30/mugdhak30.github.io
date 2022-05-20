@@ -14,7 +14,7 @@ It took me a long time to write about Herford because this fleeting moment of a 
 *MARTa Herford*
 {: refdef}
 
-Most artists know Herford, for it is home to [MARTa Herford](https://marta-herford.de/en/), a huge museum of contemporary art. Knowing well enough that contemporary art would be wasted on me, I decided to spend time in the town instead. The Old Town was well, old (no surprises there)! The town was founded by the Romans to guard a ford crossing the Werre river. Walking through the town felt like walking through centuries, for even buildings which had the most ordinary purpose (like grocery stores) were built in 13th or 14th century! When you live in a country where most towns were heavily destroyed in the war, finding a well preserved town is very special.
+Most artists know Herford, for it is home to [MARTa Herford](https://marta-herford.de/en/), a huge museum of contemporary art. Knowing well enough that contemporary art would be wasted on me, I decided to spend time in the town instead. The Old Town was, well, old (no surprises there)! The town was founded by the Romans to guard a ford crossing the Werre river. Walking through the town felt like walking through centuries, for even buildings which had the most ordinary purpose (like grocery stores) were built in 13th or 14th century! When you live in a country where most towns were heavily destroyed in the war, finding a well preserved town is very special.
 
 {:refdef: style="text-align: center;"}
 ![](/images/Herford5.jpg){:width="400" style="padding:40px"}
