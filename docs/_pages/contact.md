@@ -16,4 +16,6 @@ Fürstenallee 11 \\
 33102 Paderborn \\
 Germany
 
-Due to the COVID-19 pandemic, I am currently working from my home office at Paderborn.
+Due to the COVID-19 pandemic, I work from my home office twice or thrice a week.
+
+For students seeking a thesis topic, organization information [here](https://mugdhak30.github.io/info_for_students/) might interest you.
