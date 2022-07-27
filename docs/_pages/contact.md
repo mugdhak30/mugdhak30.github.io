@@ -18,4 +18,4 @@ Germany
 
 Due to the COVID-19 pandemic, I work from my home office twice or thrice a week.
 
-For students seeking a thesis topic, organization information [here](https://mugdhak30.github.io/info_for_students/) might interest you.
+For students seeking a thesis topic, organizational information [here](https://mugdhak30.github.io/info_for_students/) might interest you.

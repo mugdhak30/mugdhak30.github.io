@@ -13,4 +13,4 @@ Hi! I am Mugdha Khedkar. I am a PhD student advised by [Prof. Dr. Eric Bodden](h
 
 My research interests include an intersection of programming languages and software security. Most of my work is based on finding optimizations for static analyses. Currently my research is based on finding if static analysis can play a role in checking for software compliance. We aim to design a static analysis to ensure protection and privacy of user data. This involves a variety of concepts from program analysis, software security and formal verification.
 
-For students seeking a thesis topic, organization information [here](https://mugdhak30.github.io/info_for_students/) might interest you.
+For students seeking a thesis topic, organizational information [here](https://mugdhak30.github.io/info_for_students/) might interest you.
