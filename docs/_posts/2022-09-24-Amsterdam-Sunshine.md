@@ -19,14 +19,14 @@ Let me start with the most fascinating thing about Amsterdam: the dancing houses
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Amsterdam3.jpg){:width="400" style="padding:40px"}
-![](/images/Amsterdam2.jpg){:width="400" style="padding:40px"}
+![](/images/Amsterdam3.jpg){:width="400" style="padding:20px"}
+![](/images/Amsterdam2.jpg){:width="400" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 
 {:refdef: style="text-align: center;"}
-![](/images/Amsterdam1.jpg){:width="400" style="padding:40px"}
-![](/images/Amsterdam4.jpg){:width="400" style="padding:40px"}
+![](/images/Amsterdam1.jpg){:width="400" style="padding:20px"}
+![](/images/Amsterdam4.jpg){:width="400" style="padding:20px"}
 {:refdef}
 *Dancing Houses at Damrak Waterfront*
 {: refdef}
@@ -35,10 +35,10 @@ Let me start with the most fascinating thing about Amsterdam: the dancing houses
 The maze of canals in Amsterdam is straight out of a fairy tale! The picturesque little bridges were decorated with hanging baskets of beautiful flowers. We stopped at cafes to taste the local [stroopwafels](https://en.wikipedia.org/wiki/Stroopwafel), [bitterballen](https://en.wikipedia.org/wiki/Bitterballen) and [Dutch pancakes](https://pancakes.amsterdam/about/pancakes/dutch-pancakes). My partner, a foodie, was definitely in his happy place. The icing on the cake was the weather! The default weather in this part of Europe is cloudy, with rain often being an uninvited guest. This trip, however, showed us a tropical Amsterdam! The European in me was pleasantly surprised, and my California boy felt at home with all this sunshine. Even as a sombre afternoon awaited us, the sunshine kept us sane and happy.
 
 {:refdef: style="text-align: center;"}
-![](/images/Amsterdam5.jpg){:width="400" style="padding:40px"}
-![](/images/Amsterdam6.jpg){:width="400" style="padding:40px"}
-![](/images/Amsterdam11.jpg){:width="400" style="padding:40px"}
-![](/images/Amsterdam14.jpg){:width="400" style="padding:40px"}
+![](/images/Amsterdam5.jpg){:width="400" style="padding:20px"}
+![](/images/Amsterdam6.jpg){:width="400" style="padding:20px"}
+![](/images/Amsterdam11.jpg){:width="400" style="padding:20px"}
+![](/images/Amsterdam14.jpg){:width="400" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Canals of Amsterdam*
@@ -47,7 +47,7 @@ The maze of canals in Amsterdam is straight out of a fairy tale! The picturesque
 Amsterdam was [Anne Frank's](https://en.wikipedia.org/wiki/Anne_Frank) home, and one of the most famous tourist attractions of Amsterdam is the [Anne Frank House](https://www.annefrank.org/en/). Visiting the [Secret Annex](https://www.annefrank.org/en/anne-frank/secret-annex/) where Anne Frank and her family hid for two years during WWII was a life-changing experience: very disturbing, and yet very eye opening! In addition to this, we got to see her original diary, and some other things her family held on to while dodging death everyday. Her father was the only member of her family to have survived the concentration camps. He later published her diary and helped turn this house into a museum. Stepping into the Secret Annex made the horrors of the Holocaust very tangible, and yet I felt numb. I remember the stunned silence we shared while we digested all that we had witnessed. I am thankful I had my best friend by my side to get me through this emotional roller coaster.
 
 {:refdef: style="text-align: center;"}
-![](/images/Amsterdam13.jpg){:width="400" style="padding:40px"} 
+![](/images/Amsterdam13.jpg){:width="400" style="padding:20px"} 
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Anne Frank House*
@@ -56,10 +56,10 @@ Amsterdam was [Anne Frank's](https://en.wikipedia.org/wiki/Anne_Frank) home, and
 Let's move on to happier things! A canal cruise is a must when visiting Amsterdam. Many locals own boats and they often go for a cruise at the end of a working day. We went on a sunset canal cruise[^1] and it was a surreal experience. Our captain, who was also our bartender for the evening, told us many stories about his life in Amsterdam. Sunset is my favorite time of the day, and watching it with my favorite person while on a cruise was definitely a "pinch me" moment! 
 
 {:refdef: style="text-align: center;"}
-![](/images/Amsterdam7.jpg){:width="400" style="padding:40px"}
-![](/images/Amsterdam8.jpg){:width="400" style="padding:40px"}
-![](/images/Amsterdam9.jpg){:width="400" style="padding:40px"}
-![](/images/Amsterdam10.jpg){:width="400" style="padding:40px"}
+![](/images/Amsterdam7.jpg){:width="400" style="padding:20px"}
+![](/images/Amsterdam8.jpg){:width="400" style="padding:20px"}
+![](/images/Amsterdam9.jpg){:width="400" style="padding:20px"}
+![](/images/Amsterdam10.jpg){:width="400" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Canal Cruise at Sunset*
