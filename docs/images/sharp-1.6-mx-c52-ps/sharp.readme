@@ -1,0 +1,107 @@
+PPD files for PostScript Printer(MX-C52) 27 Jun 2018
+
+Installer : mx-c52-ps.install
+Version   : 1.6
+Language  : English
+
+Limitations
+- PS Only supported.
+- Tested on CUPS version 1.1.20
+
+PPD File Name               Printer Name
+----------------------------------------
+Sharp-MX-3070N-ps.ppd       MX-3070N
+Sharp-MX-3570N-ps.ppd       MX-3570N
+Sharp-MX-4070N-ps.ppd       MX-4070N
+Sharp-MX-3060N-ps.ppd       MX-3060N
+Sharp-MX-3560N-ps.ppd       MX-3560N
+Sharp-MX-4060N-ps.ppd       MX-4060N
+Sharp-MX-3050N-ps.ppd       MX-3050N
+Sharp-MX-3550N-ps.ppd       MX-3550N
+Sharp-MX-4050N-ps.ppd       MX-4050N
+Sharp-MX-5070N-ps.ppd       MX-5070N
+Sharp-MX-6070N-ps.ppd       MX-6070N
+Sharp-MX-5050N-ps.ppd       MX-5050N
+Sharp-MX-6050N-ps.ppd       MX-6050N
+Sharp-MX-3070V-ps.ppd       MX-3070V
+Sharp-MX-3570V-ps.ppd       MX-3570V
+Sharp-MX-4070V-ps.ppd       MX-4070V
+Sharp-MX-3060V-ps.ppd       MX-3060V
+Sharp-MX-3560V-ps.ppd       MX-3560V
+Sharp-MX-4060V-ps.ppd       MX-4060V
+Sharp-MX-3050V-ps.ppd       MX-3050V
+Sharp-MX-3550V-ps.ppd       MX-3550V
+Sharp-MX-4050V-ps.ppd       MX-4050V
+Sharp-MX-5070V-ps.ppd       MX-5070V
+Sharp-MX-6070V-ps.ppd       MX-6070V
+Sharp-MX-5050V-ps.ppd       MX-5050V
+Sharp-MX-6050V-ps.ppd       MX-6050V
+Sharp-M3070-ps.ppd          MX-M3070
+Sharp-M3570-ps.ppd          MX-M3570
+Sharp-M4070-ps.ppd          MX-M4070
+Sharp-M5070-ps.ppd          MX-M5070
+Sharp-M6070-ps.ppd          MX-M6070
+Sharp-M3050-ps.ppd          MX-M3050
+Sharp-M3550-ps.ppd          MX-M3550
+Sharp-M4050-ps.ppd          MX-M4050
+Sharp-M5050-ps.ppd          MX-M5050
+Sharp-M6050-ps.ppd          MX-M6050
+Sharp-MX-2630N-ps.ppd       MX-2630N
+Sharp-MX-M2630-ps.ppd       MX-M2630
+Sharp-MX-M905-ps.ppd        MX-M905
+Sharp-MX-B355W-ps.ppd       MX-B355W
+Sharp-MX-B455W-ps.ppd       MX-B455W
+Sharp-MX-6580N-ps.ppd       MX-6580N
+Sharp-MX-7580N-ps.ppd       MX-7580N
+Sharp-MX-7090N-ps.ppd       MX-7090N
+Sharp-MX-8090N-ps.ppd       MX-8090N
+Sharp-AR-B351-ps.ppd        AR-B351
+Sharp-AR-B351F-ps.ppd       AR-B351F
+Sharp-AR-B351W-ps.ppd       AR-B351W
+Sharp-AR-B352P-ps.ppd       AR-B352P
+Sharp-AR-B353P-ps.ppd       AR-B353P
+Sharp-AR-B451-ps.ppd        AR-B451
+Sharp-AR-B451F-ps.ppd       AR-B451F
+Sharp-AR-B451W-ps.ppd       AR-B451W
+Sharp-AR-B452P-ps.ppd       AR-B452P
+Sharp-AR-B453P-ps.ppd       AR-B453P
+Sharp-MX-B350-ps.ppd        MX-B350
+Sharp-MX-B350F-ps.ppd       MX-B350F
+Sharp-MX-B350P-ps.ppd       MX-B350P
+Sharp-MX-B350W-ps.ppd       MX-B350W
+Sharp-MX-B351P-ps.ppd       MX-B351P
+Sharp-MX-B450-ps.ppd        MX-B450
+Sharp-MX-B450F-ps.ppd       MX-B450F
+Sharp-MX-B450P-ps.ppd       MX-B450P
+Sharp-MX-B450W-ps.ppd       MX-B450W
+Sharp-MX-B451P-ps.ppd       MX-B451P
+Sharp-MX-M6570-ps.ppd       MX-M6570
+Sharp-MX-M7570-ps.ppd       MX-M7570
+
+Sharp-MX-2650FN-ps-jp.ppd   MX-2650FN
+Sharp-MX-3150FN-ps-jp.ppd   MX-3150FN
+Sharp-MX-3650FN-ps-jp.ppd   MX-3650FN
+Sharp-MX-4170FN-ps-jp.ppd   MX-4170FN
+Sharp-MX-5170FN-ps-jp.ppd   MX-5170FN
+Sharp-MX-6170FN-ps-jp.ppd   MX-6170FN
+Sharp-MX-4150FN-ps-jp.ppd   MX-4150FN
+Sharp-MX-5150FN-ps-jp.ppd   MX-5150FN
+Sharp-MX-6150FN-ps-jp.ppd   MX-6150FN
+Sharp-MX-2650FV-ps-jp.ppd   MX-2650FV
+Sharp-MX-3150FV-ps-jp.ppd   MX-3150FV
+Sharp-MX-3650FV-ps-jp.ppd   MX-3650FV
+Sharp-MX-4170FV-ps-jp.ppd   MX-4170FV
+Sharp-MX-5170FV-ps-jp.ppd   MX-5170FV
+Sharp-MX-6170FV-ps-jp.ppd   MX-6170FV
+Sharp-MX-4150FV-ps-jp.ppd   MX-4150FV
+Sharp-MX-5150FV-ps-jp.ppd   MX-5150FV
+Sharp-MX-6150FV-ps-jp.ppd   MX-6150FV
+Sharp-MX-M4070-ps-jp.ppd    MX-M4070
+Sharp-MX-M5070-ps-jp.ppd    MX-M5070
+Sharp-MX-M6070-ps-jp.ppd    MX-M6070
+Sharp-MX-2630FN-ps-jp.ppd   MX-2630FN
+Sharp-MX-3630FN-ps-jp.ppd   MX-3630FN
+Sharp-MX-B455W-ps-jp.ppd    MX-B455W
+Sharp-AR-B350W-ps-jp.ppd    AR-B350W
+Sharp-MX-M6570-ps-jp.ppd    MX-M6570
+Sharp-MX-M7570-ps-jp.ppd    MX-M7570

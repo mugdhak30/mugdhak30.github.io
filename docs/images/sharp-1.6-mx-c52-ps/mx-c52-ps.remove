@@ -1,0 +1,182 @@
+#!/bin/sh
+# Removal script for Sharp Printer Drivers version 1.6.
+# Produced using ESP Package Manager v3.7.0; report problems to epm@easysw.com.
+#%product Sharp MX-C52 Series PS PPD Printer Drivers
+#%vendor Easy Software Products
+#%copyright 1993-2019 by Easy Software Products, All Rights Reserved.
+#%version 1.6 999953
+#%rootsize 0
+#%usrsize 2316
+#
+PATH=/usr/xpg4/bin:/bin:/usr/bin:/usr/ucb:${PATH}
+SHELL=/bin/sh
+case "`uname`" in
+	Darwin*)
+	case "`id -un`" in
+		root)
+		;;
+		*)
+		echo Sorry, you must have administrative priviledges to remove this software.
+		exit 1
+		;;
+	esac
+	;;
+	*)
+	case "`id`" in
+		uid=0*)
+		;;
+		*)
+		echo Sorry, you must be root to remove this software.
+		exit 1
+		;;
+	esac
+	;;
+esac
+echo Copyright 1993-2019\ by\ Easy\ Software\ Products,\ All\ Rights\ Reserved.
+# Reset umask for remove...
+umask 002
+# Determine correct echo options...
+if (echo "testing\c"; echo 1,2,3) | grep c >/dev/null; then
+	ac_n=-n
+	ac_c=
+else
+	ac_n=
+	ac_c='\c'
+fi
+# Determine correct extract options for the tar command...
+if test `uname` = Darwin; then
+	ac_tar="tar -xpPf"
+else if test "`tar --help 2>&1 | grep GNU`" = ""; then
+	ac_tar="tar -xpf"
+else
+	ac_tar="tar -xpPf"
+fi fi
+if test ! "$*" = "now"; then
+	echo ""
+	echo This removal script will remove the 'Sharp\ Printer\ Drivers'
+	echo software version '1.6' from your system.
+	echo ""
+	while true ; do
+		echo $ac_n "Do you wish to continue? $ac_c"
+		read yesno
+		case "$yesno" in
+			y | yes | Y | Yes | YES)
+			break
+			;;
+			n | no | N | No | NO)
+			exit 1
+			;;
+			*)
+			echo Please enter yes or no.
+			;;
+		esac
+	done
+fi
+echo Removing/restoring installed files...
+if test -w /usr ; then
+	for file in /usr/share/cups/model/sharp/en/Sharp-MX-3060N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3070N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3570N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-4070N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3060N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3560N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-4060N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3050N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3550N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-4050N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-5070N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-6070N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-5050N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-6050N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3070V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3570V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-4070V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3060V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3560V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-4060V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3050V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-3550V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-4050V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-5070V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-6070V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-5050V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-6050V-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M3070-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M3570-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M4070-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M5070-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M6070-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M3050-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M3550-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M4050-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M5050-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M6050-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-2630N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M2630-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M905-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B355W-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B455W-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-6580N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-7580N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-7090N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-8090N-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-AR-B351-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-AR-B351F-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-AR-B351W-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-AR-B352P-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-AR-B353P-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-AR-B451-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-AR-B451F-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-AR-B451W-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-AR-B452P-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-AR-B453P-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B350-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B350F-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B350P-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B350W-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B351P-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B450-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B450F-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B450P-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B450W-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-B451P-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M6570-ps.ppd \
+/usr/share/cups/model/sharp/en/Sharp-MX-M7570-ps.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-2650FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-3150FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-3650FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-4170FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-5170FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-6170FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-4150FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-5150FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-6150FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-2650FV-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-3150FV-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-3650FV-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-4170FV-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-5170FV-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-6170FV-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-4150FV-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-5150FV-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-6150FV-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-M4070-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-M5070-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-M6070-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-2630FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-3630FN-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-B455W-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-AR-B350W-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-M6570-ps-jp.ppd \
+/usr/share/cups/model/sharp/jp/Sharp-MX-M7570-ps-jp.ppd; do
+		rm -f "$file"
+#%		if test -d "$file.O" -o -f "$file.O" -o -h "$file.O"; then
+#%			mv -f "$file.O" "$file"
+#%		fi
+	done
+fi
+echo Checking configuration files...
+echo Running post-remove commands...
+killall -HUP cupsd
+rm -f /etc/software/mx-c52-ps.remove
+echo Removal is complete.

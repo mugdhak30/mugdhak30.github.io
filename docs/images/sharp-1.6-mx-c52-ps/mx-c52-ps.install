@@ -1,0 +1,202 @@
+#!/bin/sh
+# Installation script for Sharp Printer Drivers version 1.6.
+# Produced using ESP Package Manager v3.7.0; report problems to epm@easysw.com.
+#%product Sharp MX-C52 Series PS PPD Printer Drivers
+#%vendor Easy Software Products
+#%copyright 1993-2019 by Easy Software Products, All Rights Reserved.
+#%version 1.6 999953
+#%rootsize 0
+#%usrsize 2048
+#
+PATH=/usr/xpg4/bin:/bin:/usr/bin:/usr/ucb:${PATH}
+SHELL=/bin/sh
+case "`uname`" in
+	Darwin*)
+	case "`id -un`" in
+		root)
+		;;
+		*)
+		echo Sorry, you must have administrative priviledges to install this software.
+		exit 1
+		;;
+	esac
+	;;
+	*)
+	case "`id`" in
+		uid=0*)
+		;;
+		*)
+		echo Sorry, you must be root to install this software.
+		exit 1
+		;;
+	esac
+	;;
+esac
+echo Copyright 1993-2019\ by\ Easy\ Software\ Products,\ All\ Rights\ Reserved.
+# Reset umask for install...
+umask 002
+# Determine correct echo options...
+if (echo "testing\c"; echo 1,2,3) | grep c >/dev/null; then
+	ac_n=-n
+	ac_c=
+else
+	ac_n=
+	ac_c='\c'
+fi
+# Determine correct extract options for the tar command...
+if test `uname` = Darwin; then
+	ac_tar="tar -xpPf"
+else if test "`tar --help 2>&1 | grep GNU`" = ""; then
+	ac_tar="tar -xpf"
+else
+	ac_tar="tar -xpPf"
+fi fi
+if test "$*" = "now"; then
+	echo Software license silently accepted via command-line option.
+else
+	echo ""
+	echo This installation script will install the 'Sharp\ Printer\ Drivers'
+	echo software version '1.6' on your system.
+	echo ""
+	while true ; do
+		echo $ac_n "Do you wish to continue? $ac_c"
+		read yesno
+		case "$yesno" in
+			y | yes | Y | Yes | YES)
+			break
+			;;
+			n | no | N | No | NO)
+			exit 1
+			;;
+			*)
+			echo Please enter yes or no.
+			;;
+		esac
+	done
+	more sharp.license
+	echo ""
+	while true ; do
+		echo $ac_n "Do you agree with the terms of this license? $ac_c"
+		read yesno
+		case "$yesno" in
+			y | yes | Y | Yes | YES)
+			break
+			;;
+			n | no | N | No | NO)
+			exit 1
+			;;
+			*)
+			echo Please enter yes or no.
+			;;
+		esac
+	done
+fi
+#%if test -x /etc/software/sharp.remove; then
+#%	echo Removing old versions of sharp software...
+#%	/etc/software/sharp.remove now
+#%fi
+case `uname` in
+	AIX)
+	dfroot=`df -k / | tr '\n' ' '`
+	dfusr=`df -k /usr | tr '\n' ' '`
+	fsroot=`echo $dfroot | awk '{print $15}'`
+	sproot=`echo $dfroot | awk '{print $11}'`
+	fsusr=`echo $dfusr | awk '{print $15}'`
+	spusr=`echo $dfusr | awk '{print $11}'`
+	;;
+
+	HP-UX)
+	dfroot=`df -k / | tr '\n' ' '`
+	dfusr=`df -k /usr | tr '\n' ' '`
+	fsroot=`echo $dfroot | awk '{print $1}'`
+	sproot=`echo $dfroot | awk '{print $9}'`
+	fsusr=`echo $dfusr | awk '{print $1}'`
+	spusr=`echo $dfusr | awk '{print $9}'`
+	;;
+
+	IRIX*)
+	dfroot=`df -k / | tr '\n' ' '`
+	dfusr=`df -k /usr | tr '\n' ' '`
+	fsroot=`echo $dfroot | awk '{print $15}'`
+	sproot=`echo $dfroot | awk '{print $13}'`
+	fsusr=`echo $dfusr | awk '{print $15}'`
+	spusr=`echo $dfusr | awk '{print $13}'`
+	;;
+
+	SCO*)
+	dfroot=`df -k -B / | tr '\n' ' '`
+	dfusr=`df -k -B /usr | tr '\n' ' '`
+	fsroot=`echo $dfroot | awk '{print $13}'`
+	sproot=`echo $dfroot | awk '{print $11}'`
+	fsusr=`echo $dfusr | awk '{print $13}'`
+	spusr=`echo $dfusr | awk '{print $11}'`
+	;;
+
+	*)
+	dfroot=`df -k / | tr '\n' ' '`
+	dfusr=`df -k /usr | tr '\n' ' '`
+	case "`printenv LANG`" in
+		ja_JP*)
+		fsroot=`echo $dfroot | awk '{print $12}'`
+		sproot=`echo $dfroot | awk '{print $10}'`
+		fsusr=`echo $dfusr | awk '{print $12}'`
+		spusr=`echo $dfusr | awk '{print $10}'`
+		;;
+		*)
+		fsroot=`echo $dfroot | awk '{print $13}'`
+		sproot=`echo $dfroot | awk '{print $11}'`
+		fsusr=`echo $dfusr | awk '{print $13}'`
+		spusr=`echo $dfusr | awk '{print $11}'`
+		;;
+	esac
+	;;
+esac
+
+spsw=0
+
+temp=`ls -ln sharp.ss | awk '{print $5}'`
+spss=`expr $temp / 1024`
+
+spall=`expr $spsw + $spss`
+
+if test x$sproot = x -o x$spusr = x; then
+	echo WARNING: Unable to determine available disk space; installing blindly...
+else
+	if test x$fsroot = x$fsusr; then
+		if test $spall -gt $sproot; then
+			echo Not enough free disk space for software:
+			echo You need $spall kbytes but only have $sproot kbytes available.
+			exit 1
+		fi
+	else
+		if test $spsw -gt $sproot; then
+			echo Not enough free disk space for software:
+			echo You need $spsw kbytes in / but only have $sproot kbytes available.
+			exit 1
+		fi
+
+		if test $spss -gt $spusr; then
+			echo Not enough free disk space for software:
+			echo You need $spss kbytes in /usr but only have $spusr kbytes available.
+			exit 1
+		fi
+	fi
+fi
+echo Installing software...
+if echo Write Test >/usr/.writetest 2>/dev/null; then
+	$ac_tar sharp.ss
+fi
+if test -d /etc/software; then
+	rm -f /etc/software/mx-c52-ps.remove
+else
+	mkdir -p /etc/software
+fi
+cp mx-c52-ps.remove /etc/software
+chmod 544 /etc/software/mx-c52-ps.remove
+echo Updating file permissions...
+if test -f /usr/.writetest; then
+	rm -f /usr/.writetest
+fi
+echo Running post-install commands...
+killall -HUP cupsd
+echo Installation is complete.
