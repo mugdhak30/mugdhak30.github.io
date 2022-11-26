@@ -5,9 +5,7 @@ title: "Interesting facts about Czech Republic"
 ---
 
 Here are some interesting and fun facts I learnt on our trip to Prague:
-
-
-* Prague Castle is the largest ancient castle in the world, with an area of over 750,000 square feet. 
+ 
 * Czech Republic has the largest number of castles in the world (2000). It is also called the "Castle Capital" of the world!
 * The Czechs drink more beer than anyone else in the world, on an average, 160 litres per person per year! 
 * It is one of the least religious countries in the world, with almost 80 percent being athiests.
