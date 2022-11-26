@@ -29,7 +29,7 @@ We kept coming back to the Old Town Square in the next days of our trip (can you
 ![](/images/Prague2_4.jpg){:width="400" style="padding:20px"}
 {:refdef}
 
-The Old Town is connected to the [Lesser Town](https://en.wikipedia.org/wiki/Mal%C3%A1_Strana) by the [Charles Bridge](https://en.wikipedia.org/wiki/Charles_Bridge). This bridge was constructed in the 15th century and is certainly the life of Prague! We walked along it in the morning, noon and at sunset; having missed out on sunrise purely on account of laziness. Everytime we went there it was full of tourists, musicians, artists, hawkers and almost reminded me of the evenings we spent at Marine Drive (Mumbai)! The bridge has thirty intricate statues and it forms a beautiful landscape over the [Vltava river](https://en.wikipedia.org/wiki/Vltava). 
+The Old Town is connected to the [Lesser Town](https://en.wikipedia.org/wiki/Mal%C3%A1_Strana) by the [Charles Bridge](https://en.wikipedia.org/wiki/Charles_Bridge). This bridge was constructed in the 15th century and is certainly the life of Prague! We walked along it in the morning, noon and at sunset; having missed out on sunrise purely on account of laziness. Everytime we went there it was full of tourists, musicians, artists, hawkers and almost reminded me of the evenings we spent at [Marine Drive](https://magnificentmaharashtra.wordpress.com/2014/08/11/marine-drive-mumbai-the-glorious-queens-necklace-in-the-dark-of-the-night/marine-drive-mumbai/) (Mumbai)! The bridge has thirty intricate statues and it forms a beautiful landscape over the [Vltava river](https://en.wikipedia.org/wiki/Vltava). 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Prague2_11.jpg){:width="400" style="padding:20px"}
