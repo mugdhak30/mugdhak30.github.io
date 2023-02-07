@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -46,16 +46,6 @@ IIT Bombay, India
   * Objective: Empirical evaluation of precision of pointer analysis variants.
   * You can find our report [here]({{mugdhak30.github.io}}/assets/MugdhaBachelorReport.pdf).
  
-**Teaching Assistant**
-======
-
-*  [Designing Code Analyses for Large-scale Software Systems I](https://www.hni.uni-paderborn.de/sse/lehre/deca/) \\
-Master Course, Universität Paderborn (Ongoing, Winter 2021)\\
-This course covers several concepts in static code analysis: intra-procedural data-flow analysis, call-graph construction algorithms, context-insensitivity, pointer analysis, analysis frameworks (IFDS, IDE, VASCO).
-
-* [Designing Code Analyses for Large-scale Software Systems II](https://www.hni.uni-paderborn.de/sse/lehre/designing-code-analyses-for-large-scale-software-systems-2-deca-2-ss2022/)\\
-  Master Course, Universität Paderborn (Summer 2022, Summer 2021)\\
-This course covers several novel, advanced concepts in static code analysis: sparse IFDS, pushdown systems, demand-driven program analysis, hybrid analysis and improved user experience.
 
 **Mentoring**
 ======
