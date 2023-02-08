@@ -9,7 +9,7 @@ author_profile: true
 ======
 
 *  [Designing Code Analyses for Large-scale Software Systems I](https://www.hni.uni-paderborn.de/sse/lehre/deca/) \\
-Master Course, Universität Paderborn (Ongoing, Winter 2021)\\
+Master Course, Universität Paderborn (Winter 2022, Winter 2021)\\
 This course covers several concepts in static code analysis: intra-procedural data-flow analysis, call-graph construction algorithms, context-insensitivity, pointer analysis, analysis frameworks (IFDS, IDE, VASCO).
 
 * [Designing Code Analyses for Large-scale Software Systems II](https://www.hni.uni-paderborn.de/sse/lehre/designing-code-analyses-for-large-scale-software-systems-2-deca-2-ss2022/)\\
