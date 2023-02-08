@@ -22,7 +22,7 @@ I have supervised the following Master or Seminar theses:
 * Master thesis - Improving User Experience of Program Slicing wrt Data Privacy (ongoing)
 * Master thesis - Labeling User-Input Privacy Data in Android Applications (ongoing)
 * Master thesis - Empirical Evaluation of Forward and Backward Taint Analysis (ongoing)
-* Master thesis - Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO) (ongoing)
+* Master thesis - Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO (ongoing)
 * [Seminar Secure Systems Engineering (Winter 2022)](https://www.hni.uni-paderborn.de/sse/lehre/seminar-secure-systems-engineering-ws-20222023/) - Studying Pseudonymisation Techniques for Data Protection (ongoing)
 * [Seminar Secure Systems Engineering (Summer 2022)](https://www.hni.uni-paderborn.de/sse/lehre/seminar-secure-systems-engineering-ss-2022/) - A Survey of Compliance Standards (finished)
 * [Seminar Secure Systems Engineering (Winter 2021)](https://www.hni.uni-paderborn.de/sse/lehre/vorlesungsarchiv/ws-202122/seminar-secure-systems-engineering-ws-2021/) - A Survey of Parametric Static Analysis (finished)
