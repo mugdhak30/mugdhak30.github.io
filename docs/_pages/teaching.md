@@ -5,10 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Teaching Assistant**
+**Teaching Assistance**
 ======
 
-*  [Designing Code Analyses for Large-scale Software Systems I](https://www.hni.uni-paderborn.de/sse/lehre/deca/) \\
+* [Seminar Secure Systems Engineering](https://www.hni.uni-paderborn.de/sse/lehre/seminar-secure-systems-engineering-ss-2023/) \\
+Master Course, Universität Paderborn (Ongoing)\\
+This course offers a unique opportunity for students to understand and experience how scientific research is conducted.
+
+* [Designing Code Analyses for Large-scale Software Systems I](https://www.hni.uni-paderborn.de/sse/lehre/deca/) \\
 Master Course, Universität Paderborn (Winter 2022, Winter 2021)\\
 This course covers several concepts in static code analysis: intra-procedural data-flow analysis, call-graph construction algorithms, context-insensitivity, pointer analysis, analysis frameworks (IFDS, IDE, VASCO).
 

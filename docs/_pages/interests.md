@@ -7,10 +7,9 @@ author_profile: true
 
 **Professional Interests**
 =====
-* Program Analysis
+* Static Program Analysis
+* Data Privacy and Protection
 * Compiler Optimization 
-* Software Security
-* Self-aware computing
 * Formal Verification
 
 **Personal Interests**

@@ -11,5 +11,5 @@ author_profile: false
 
 Hi! I am Mugdha Khedkar. I am a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/). I work as a Research Assistant in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/) at Paderborn University, Germany since February 2021.
 
-My research interests include an intersection of programming languages and data privacy. Most of my work is based on finding optimizations for static analyses. Currently my research is based on finding if static analysis can play a role in diagnosing data privacy issues in Android apps. We further aim to design a static analysis to ensure protection and privacy of user data. This involves a variety of concepts from static program analysis, data protection and formal verification.
+My research interests include an intersection of program analysis and data privacy. Most of my work is based on finding optimizations for static analyses. Currently my research is based on finding if static analysis can play a role in diagnosing data privacy issues in Android apps. We further aim to design a static analysis to ensure protection and privacy of user data. This involves a variety of concepts from static program analysis, data protection and formal verification.
 
