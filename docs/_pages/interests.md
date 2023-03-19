@@ -5,13 +5,6 @@ permalink: /interests/
 author_profile: true
 ---
 
-**Professional Interests**
-=====
-* Static Program Analysis
-* Data Privacy and Protection
-* Compiler Optimization 
-* Formal Verification
-
 **Personal Interests**
 =====
 
