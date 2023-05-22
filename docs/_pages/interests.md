@@ -10,7 +10,7 @@ author_profile: true
 
 I am an avid reader. I am also an author of more than 275 English poems, some of which can be found on my [poetry profile](https://allpoetry.com/Mugdhak).
 
-I like to travel. I try to share some of my travel adventures on my [blog](https://mugdhak30.github.io/year-archive/). 
+I like to travel. I share some of my travel adventures on my [blog](https://mugdhak30.github.io/year-archive/). 
 
 Some of my favourite quotes ...
 
