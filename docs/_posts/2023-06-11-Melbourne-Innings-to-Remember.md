@@ -6,14 +6,14 @@ author_profile: true
  
 A month ago, I spent a week in the Victorian city of Melbourne. I was there to attend a Software Engineering Conference, but took some afternoons off to experience the "Aussie life" and ended up making memories of a lifetime.
 
-I am a huge Cricket fan. On the first few evenings my fellow conference delegates were out spending time at the beach or in the zoo. My attention, however, was focused on only one place: the [Melbourne Cricket Ground](https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground). Frankly, the biggest incentive to apply for this conference was my hope to tour the MCG (I hope my advisor doesn't read my blog :D). It is the largest stadium in the Southern Hemisphere, but it is so much more than that. It has been a very important part of my childhood. Some of my fondest memories of home are watching nail-biting Cricket matches with my father and sister. The MCG and the Oval (in the UK) have always been stadiums that have seen the most milestones in test Cricket. For the greatest part of our childhood, the Aussies were almost unbeatable at Cricket. A lot of our childhood was spent witnessing the rivalry between the "Men in Blue" and "the Kangaroos"! The child me would have cried tears of joy had she predicted the kind of afternoon I had planned for myself.
+I am a huge cricket fan. On the first few evenings my fellow conference delegates were out spending time at the beach or in the zoo. My attention, however, was focused on only one place: the [Melbourne Cricket Ground](https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground). Frankly, the biggest incentive to apply for this conference was my hope to tour the MCG (I hope my advisor doesn't read my blog :D). It is the largest stadium in the Southern Hemisphere, but it is so much more than that. It has been a very important part of my childhood. Some of my fondest memories of home are watching nail-biting cricket matches with my father and sister. The MCG and the Oval (in the UK) have always been stadiums that have seen the most milestones in test criicket. For the greatest part of our childhood, the Aussies were almost unbeatable at cricket. A lot of our childhood was spent witnessing the rivalry between the "Men in Blue" and "the Kangaroos"! The child me would have cried tears of joy had she predicted the kind of afternoon I had planned for myself.
 
 {:refdef: style="text-align: center;"}
 ![](/images/Melbourne2_1.jpg){:width="400" style="padding:20px"}
 ![](/images/Melbourne2_2.jpg){:width="400" style="padding:20px"}
 {:refdef}
 
-I had booked a guided [MCG tour](https://www.getyourguide.com/melbourne-l202/melbourne-melbourne-cricket-grounds-mcg-guided-tour-t115996/) as soon as the conference had released its program. Most of our group was Indian (no surprises there) and some were from Australia. The Aussies were really emotional on seeing Shane Warne's statue and the stand in his honour. It made me realise how important the game of Cricket is for this country. The tour started with a walk along the stands. My mind went back to the commentators saying "And welcome back to the MCG......" after a commercial break between an ongoing Cricket match (those days <3). I was tempted to scream on top of my lungs, "East or West, Men in Blue are the best" (don't worry, I didn't).
+I had booked a guided [MCG tour](https://www.getyourguide.com/melbourne-l202/melbourne-melbourne-cricket-grounds-mcg-guided-tour-t115996/) as soon as the conference had released its program. Most of our group was Indian (no surprises there) and some were from Australia. The Aussies were really emotional on seeing Shane Warne's statue and the stand in his honour. It made me realise how important the game of cricket is for this country. The tour started with a walk along the stands. My mind went back to the commentators saying "And welcome back to the MCG......" after a commercial break between an ongoing cricket match (those days <3). I was tempted to scream on top of my lungs, "East or West, Men in Blue are the best" (don't worry, I didn't).
 
 {:refdef: style="text-align: center;"}
 ![](/images/Melbourne2_3.jpg){:width="750" style="padding:20px"}
@@ -21,7 +21,7 @@ I had booked a guided [MCG tour](https://www.getyourguide.com/melbourne-l202/mel
 ![](/images/Melbourne2_5.jpg){:width="400" style="padding:20px"}
 {:refdef}
 
-What was even more special about this tour was that it gave all of us a sneak peak into the "behind-the-scenes" of a Cricket match. From the player's lounge to the dining room to the exhibition of best performances in test Cricket, this place was truly a Cricket fan's dream! 
+What was even more special about this tour was that it gave all of us a sneak peak into the "behind-the-scenes" of a cricket match. From the player's lounge to the dining room to the exhibition of best performances in test cricket, this place was truly a cricket fan's dream! 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Melbourne2_15.jpg){:width="750" style="padding:20px"}
@@ -34,7 +34,7 @@ What was even more special about this tour was that it gave all of us a sneak pe
 ![](/images/Melbourne2_6.jpg){:width="400" style="padding:20px"}
 {:refdef}
 
-The afternoon I spent talking about Cricket, witnessing every record documented at the MCG and spotting all the Indian players' photos and names on the walls made me swell with pride. That afternoon was an innings to remember, and MCG is totally worth the hype! 
+The afternoon I spent talking about cricket, witnessing every record documented at the MCG and spotting all the Indian players' photos and names on the walls made me swell with pride. That afternoon was an innings to remember, and MCG is totally worth the hype! 
 
 ![](/images/Melbourne2_8.jpg){:width="400" style="padding:20px"}
 ![](/images/Melbourne2_9.jpg){:width="400" style="padding:20px"}
@@ -43,7 +43,6 @@ The afternoon I spent talking about Cricket, witnessing every record documented 
 I decided to not leave this beautiful coastal city without seeing the sun set over the Southern ocean. So I squeezed out another afternoon from the week-long conference and went to [St Kilda beach](https://www.visitmelbourne.com/regions/melbourne/see-and-do/nature-and-wildlife/beaches-and-coastlines/vv-st-kilda-beach), excited to be waiting for the Southernmost sunset I would have ever witnessed in my life.
 
 {:refdef: style="text-align: center;"}
-![](/images/Melbourne2_10.jpg){:width="750" style="padding:20px"}
 ![](/images/Melbourne2_11.jpg){:width="400" style="padding:20px"}
 ![](/images/Melbourne2_14.jpg){:width="400" style="padding:20px"}
 {:refdef}
@@ -51,6 +50,7 @@ I decided to not leave this beautiful coastal city without seeing the sun set ov
 The beach was beautiful! We met some other conference delegates who were at the beach to check if they can see [little penguins](https://stkildapenguins.com.au/). While we were all unlucky with penguins, my colleague and I enjoyed a long walk on the coast (those who have walked with Germans know how long their walks can be). We finally found a perfect spot to sit at and enjoy the sky the evening was painting for us...
 
 {:refdef: style="text-align: center;"}
+![](/images/Melbourne2_10.jpg){:width="750" style="padding:20px"}
 ![](/images/Melbourne2_13.jpg){:width="400" style="padding:20px"}
 ![](/images/Melbourne2_12.jpg){:width="400" style="padding:20px"}
 {:refdef}
