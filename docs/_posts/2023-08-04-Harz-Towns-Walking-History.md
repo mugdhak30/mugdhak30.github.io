@@ -6,7 +6,7 @@ author_profile: true
  
 I've spent the last few months perfecting my daily routine and waiting patiently for summer. So when I got a chance to spend a weekend at a friend's place in north Germany, I took it despite knowing that the north German summer feels more like the Mumbai monsoon. Even as rainy weather cancelled our trip to the North sea, we found ourselves in the fairytale towns of the mysteriously beautiful [Harz mountains](https://theculturetrip.com/europe/germany/articles/14-reasons-you-should-drop-everything-and-visit-the-harz-mountains-2)!
 
-I took one look at the towns and knew that this would have, in face, been my plan A! As fate would have it, I found some photos from these towns saved in my Instagram library as "places I want to visit". We first reached [Goslar](https://en.wikipedia.org/wiki/Goslar), and I soon realised how much I have missed strolling through medieval German towns.
+I took one look at the towns and knew that this would have, in fact, been my plan A! As fate would have it, I found some photos from these towns saved in my Instagram library as "places I want to visit". We first reached [Goslar](https://en.wikipedia.org/wiki/Goslar), and I soon realised how much I have missed strolling through medieval German towns.
 
 {:refdef: style="text-align: center;"}
 ![](/images/Harz1.jpg){:width="400" style="padding:20px"}
