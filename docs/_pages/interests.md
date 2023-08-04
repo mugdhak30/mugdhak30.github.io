@@ -12,6 +12,8 @@ I am an avid reader. I am also an author of more than 275 English poems, some of
 
 I like to travel. I share some of my travel adventures on my [blog](https://mugdhak30.github.io/year-archive/). 
 
+I am fond of photography. I share some of the photos I have clicked of Paderborn [here](https://mugdhak30.github.io/photos_of_paderborn/).
+
 Some of my favourite quotes ...
 
    * Poetry is when an emotion has found its thought and the thought has found words. - Robert Frost

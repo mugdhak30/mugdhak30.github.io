@@ -10,13 +10,21 @@ redirect_from:
 
 Here I share some photos of Paderborn that I have clicked on the numerous walks I have taken. Come see Paderborn through my lens!
 
+{:refdef: style="text-align: center;"}
+![](/images/Paderbornextra38.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra36.jpg){:width="400" style="padding:40px"}
+{:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderbornextra29.jpg){:width="400" style="padding:40px"}
-![](/images/Paderbornextra30.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra39.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra37.jpg){:width="400" style="padding:40px"}
+{:refdef}
+
+{:refdef: style="text-align: center;"}
+![](/images/Paderbornextra35.jpg){:width="750" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
-*Cherry Blossoms*
+*Adam und Eva Haus*
 {: refdef}
 
 {:refdef: style="text-align: center;"}
@@ -37,7 +45,6 @@ Here I share some photos of Paderborn that I have clicked on the numerous walks 
 *Paderborn Cathedral*
 {: refdef}
 
-
 {:refdef: style="text-align: center;"}
 ![](/images/Paderbornextra9.jpg){:width="400" style="padding:40px"}
 ![](/images/Paderbornextra10.jpg){:width="400" style="padding:40px"}
@@ -57,6 +64,13 @@ Here I share some photos of Paderborn that I have clicked on the numerous walks 
 *Padersee*
 {: refdef}
 
+{:refdef: style="text-align: center;"}
+![](/images/Paderbornextra29.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra30.jpg){:width="400" style="padding:40px"}
+{:refdef}
+{:refdef: style="text-align: center;"}
+*Cherry Blossoms*
+{: refdef}
 
 {:refdef: style="text-align: center;"}
 ![](/images/Paderbornextra26.jpg){:width="400" style="padding:40px"}
@@ -80,8 +94,6 @@ Here I share some photos of Paderborn that I have clicked on the numerous walks 
 ![](/images/Paderborn2_8.jpg){:width="400" style="padding:40px"}
 {:refdef}
 
-
-{:refdef: style="text-align: center;"}
 
 {:refdef: style="text-align: center;"}
 ![](/images/Paderbornextra6.jpg){:width="750" style="padding:20px"}
