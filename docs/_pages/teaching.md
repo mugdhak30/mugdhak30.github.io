@@ -24,7 +24,7 @@ This course covers several novel, advanced concepts in static code analysis: spa
 =====
 I have supervised the following Master or Seminar theses:
 * Master thesis - Improving User Experience of Program Slicing wrt Data Privacy (ongoing)
-* Master thesis - Labeling User-Input Privacy Data in Android Applications (ongoing)
+* Master thesis - Labeling User-Input Privacy Data in Android Applications (finished)
 * Master thesis - Empirical Evaluation of Forward and Backward Taint Analysis (finished)
 * Master thesis - Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO (finished)
 * [Seminar Secure Systems Engineering (Summer 2023)](https://www.hni.uni-paderborn.de/sse/lehre/seminar-secure-systems-engineering-ss-2023/) - Machine Learning-Based Identification of Personal Data Sources in Android (finished)
