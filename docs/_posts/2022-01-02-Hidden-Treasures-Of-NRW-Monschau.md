@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: Monschau"
 author_profile: true
+tags: Germany
 ---
 
 The many half-timbered houses sprinkled across the country make German landscapes every poet's muse! They make German towns stand apart from the rest of Europe. I am very lucky to wake up to the view of one such pretty house everyday, but I still cannot get enough of it! So when I told my friend how much I love them, she said "Wait till you visit Monschau!" The little girl in me dreaming about living in these little houses just couldn't wait, so I visited this half-timbered heaven just before 2021 drew to a close!

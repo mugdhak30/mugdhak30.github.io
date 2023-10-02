@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: Aachen"
 author_profile: true
+tags: Germany
 ---
 
 This December had been cold, dreary and pretty sad, until fate (and cancelled plans) got me to Aachen. I came to Aachen to meet my friend and for the both of us, this was our desperate attempt to bring some life into our winter. Aachen is not a city you can cover in a few days, which is why here I am: writing this post while still in Aachen! My friend Apeksha and this beautiful city of hers welcomed me with open arms and ensured that I end this year on a beautiful note!

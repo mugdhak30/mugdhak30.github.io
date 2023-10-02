@@ -2,6 +2,7 @@
 layout: archive
 title:  "A Tale of Two Cities: Buda and Pest"
 author_profile: true
+tags: Europe
 ---
 Halloween weekend was a long weekend for us so I went on a short trip to three capitals: Vienna, Budapest and Bratislava. I didn't expect to be able to roam around a lot in these places (given the time constraints), but Europe has a knack of proving me wrong, every single time. Every minute of this short trip was made worthwhile by the vast history, architecture and natural beauty these places had to offer. 
 

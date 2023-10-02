@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: Herford"
 author_profile: true
+tags: Germany
 ---
 Around three months ago, I took inspiration from my favorite poet Robert Frost and took the road less traveled by. While exploring the towns of NRW, I landed myself in a little town that seemed untouched by tourists. Herford was magical, out of touch with reality and frankly turned out to be an eye opener for me!
 

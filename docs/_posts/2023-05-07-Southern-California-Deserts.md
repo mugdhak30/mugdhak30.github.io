@@ -2,6 +2,7 @@
 layout: archive
 title:  "Southern California: Spring in the Deserts"
 author_profile: true
+tags: USA
 ---
 My first time visiting a National Park in the U.S. was very memorable, in more ways than one. Our [stargazing experience](https://mugdhak30.github.io/Joshua-Tree-Stargazing/) lit up our nights, but the days were equally bright and had many surprises in store for us!
 

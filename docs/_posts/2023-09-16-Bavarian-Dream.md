@@ -2,7 +2,10 @@
 layout: archive
 title:  "The Bavarian Dream"
 author_profile: true
+tags: Germany
 ---
+
+
 After constant rain in June and July, a much awaited August finally graced us with some rays of sunshine. With clear skies and comfortable temperatures, summer days are perfect to explore Europe. So our first summer trip of the year took us to Bavaria, which is known for its beautiful hiking trails and crystal clear Alpine lakes.
 
 Europe has so many attractive cultural and historical sites that I often forget to appreciate its natural gems. When we visited Bavaria for [a day last year](https://mugdhak30.github.io/The-Deutche-Experience-2/), we had spent all of our time attending the Oktoberfest and exploring Munich and I knew that we had missed experiencing the real beauty of Bavaria. This time we wanted to live the true Bavarian dream, so we skipped the cities and decided to live in a small town near the Austrian border, [Garmisch Partenkirchen](https://en.wikipedia.org/wiki/Garmisch-Partenkirchen). 

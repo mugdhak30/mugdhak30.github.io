@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: Minden"
 author_profile: true
+tags: Germany
 ---
 
 Minden is a small town situated about 85 km north-east of Paderborn. The town extends along both sides of the River Weser and is surrounded by Wiehen hills. The Wiehen hills descend to the North German Plain which extends till the North Sea. Sitting along the banks of river Weser made for a very beautiful and peaceful experience. 

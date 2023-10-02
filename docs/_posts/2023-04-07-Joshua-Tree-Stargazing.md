@@ -2,6 +2,7 @@
 layout: archive
 title:  "Joshua Tree: A Glimpse of the Heavens"
 author_profile: true
+tags: USA
 ---
 After a few months of being buried in work, I was ready to travel again! Luckily, traveling is also a way for me to meet my partner and my family, both of whom live in separate continents. So with a suitcase full of dreams, I head out to California to see my partner.
 

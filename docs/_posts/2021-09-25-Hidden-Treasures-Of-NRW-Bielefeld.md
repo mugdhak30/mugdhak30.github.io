@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: Bielefeld"
 author_profile: true
+tags: Germany
 ---
 For the first post in the series "Hidden Treasures of NRW", I will talk about a town called Bielefeld about 40 km north-west of Paderborn. The town is situated on the Hermannsweg, a hiking trail which runs for 156 km along Teutoburg Forest. Bielefeld is home to a significant number of internationally operating companies, including [Dr. Oetker](https://en.wikipedia.org/wiki/Dr._Oetker), [Gildemeister](https://en.wikipedia.org/wiki/DMG_Mori_Aktiengesellschaft) and Schüco. It has a university and several technical colleges (Fachhochschulen). I decided to visit Bielefeld because I was to visit some relatives who have been living there since the past 40 years: a loving couple who were gracious hosts to me.
 

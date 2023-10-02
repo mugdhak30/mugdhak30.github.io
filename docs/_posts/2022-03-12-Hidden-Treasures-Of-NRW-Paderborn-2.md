@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: Paderborn (2/2)"
 author_profile: true
+tags: Germany
 ---
 Paderborn is a beautiful town which gets even more charming as the river Pader flows away from it and merges with a larger river, Lippe. Today I talk about three places in Paderborn that are very close to my heart. Casual walks at these places introduced me to a new side of myself, something not many big cities have been able to do!
 

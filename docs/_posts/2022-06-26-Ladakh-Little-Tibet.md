@@ -2,6 +2,7 @@
 layout: archive
 title:  "Ladakh: India's Little Tibet"
 author_profile: true
+tags: India
 ---
 
 I won't be surprised if you all think that I fell in love with traveling after coming to Europe. But this is far from true! Ten years ago my family and I took a trip that turned out to be one of the most beautiful trips of our lives. We witnessed unimaginable beauty in a land unheard of at that time: [Ladakh](https://en.wikipedia.org/wiki/Ladakh)! We didn't know a cold desert could warm our hearts in so many ways. To this day, I believe this trip birthed in me an urge to explore the world and take the roads less traveled by.

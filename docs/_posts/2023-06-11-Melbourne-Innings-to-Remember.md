@@ -2,6 +2,7 @@
 layout: archive
 title:  "Melbourne: An Innings to Remember"
 author_profile: true
+tags: Australia
 ---
  
 A month ago, I spent a week in the Victorian city of Melbourne. I was there to attend a Software Engineering Conference, but took some afternoons off to experience the "Aussie life" and ended up making memories of a lifetime.

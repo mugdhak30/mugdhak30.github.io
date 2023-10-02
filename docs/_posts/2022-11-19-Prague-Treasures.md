@@ -2,6 +2,7 @@
 layout: archive
 title:  "Prague and its Unearthed Treasures"
 author_profile: true
+tags: Europe
 ---
 
 Our final goodbye to summer 2022 was as special as the summer itself. We planned a trip to the interesting city of Prague, not knowing that this destination would impress us in more ways than one. Prague was an emotional rollercoaster, and one of the best places in Europe to witness the onset of fall.

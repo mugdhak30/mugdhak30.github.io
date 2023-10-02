@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: Detmold (1/2)"
 author_profile: true
+tags: Germany
 ---
 Yesterday was surreal. The rain Gods were busy elsewhere and Paderborn woke up to a sunny day with clear skies. Thankfully, this was exactly what my weather app had predicted and I had big plans for the day!
 

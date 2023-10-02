@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: the Externsteine"
 author_profile: true
+tags: Germany
 ---
 
 I had promised myself that I would work this Saturday. By lunchtime, I had already purchased groceries, cooked lunch and finished a major powerpoint presentation. The weather was surprisingly good and I decided it was harsh to spend the rest of the day indoors. Thankfully, there are many interesting places very close to Paderborn and I decided to explore one such place: the Externsteine! The Externsteine is a sandstone rock formation located in the Teutoburg Forest, near the town of Horn-Bad Meinberg (half hour long train ride from Paderborn).

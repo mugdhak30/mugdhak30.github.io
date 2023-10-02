@@ -2,6 +2,7 @@
 layout: archive
 title:  "Havelock Island: A Homecoming to Remember"
 author_profile: true
+tags: India
 ---
 
 2022 has made me a more stable person and has given me the illusion that I can balance work, travel and my other hobbies. The last one month has been even more special. Before the year bid a final goodbye, I decided to focus on the most important things in life: family, friends and home!

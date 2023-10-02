@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: Bonn"
 author_profile: true
+tags: Germany
 ---
 
 Now that the weather is finally getting better, I am back to exploring towns in my state (North-Rhine Westphalia). My friend from [Aachen](https://mugdhak30.github.io/Hidden-Treasures-Of-NRW-Aachen/) and I wanted to catch up but were both too lazy to travel to each other's towns! We live on the opposite ends of the state. We took this opportunity to visit a new town, and we could spend a relaxing weekend along the banks of Rhine river.

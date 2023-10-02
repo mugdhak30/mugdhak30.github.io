@@ -2,6 +2,7 @@
 layout: archive
 title:  "To the Paradise \"Down Under\""
 author_profile: true
+tags: Australia
 ---
 
 After spending some weeks in California, I soon found myself in the opposite corner of the world: in the beautiful land of Australia. This was my first trip to the Southern Hemisphere, and those who look for paradise "up above" have no idea how beautiful it is "down under"!

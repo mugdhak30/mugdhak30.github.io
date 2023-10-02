@@ -11,7 +11,7 @@ redirect_from:
 {% capture written_year %}'None'{% endcapture %}
 <p> On a beautiful summer morning, while traveling on the train I realised how lucky I am to be spending my twenties in Europe... </p>
 
-<p>This is a small attempt to document and share some memories I make while travelling across Europe and also all the interesting things I learn along the way. If I am lucky enough, this blog will also have travelogues from other continents. And if I find time or just want to zone out from the PhD stress, I will write about my past experiences travelling around my own country, India. </p>
+<p>This is a small attempt to document and share some memories I make while travelling across Europe and also all the interesting things I learn along the way. If I am lucky enough, this blog will also have travelogues from other continents. And if I find time or just want to zone out from the PhD stress, I will write about my past experiences travelling around my own country, India. Click <a href="https://mugdhak30.github.io/blogs_by_tags/">here</a> to read blog posts by category.</p>
 
 <p> I have shared some photos of Paderborn <a href="https://mugdhak30.github.io/photos_of_paderborn/">here</a>. Come see Paderborn through my lens!
 
@@ -44,6 +44,28 @@ redirect_from:
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+<!-- HTML elements for search -->
+
+<h2>What do you want to read?</h2>
+<input type="text" id="search-input" placeholder="Search blogs..">
+<ul id="results-container"></ul>
+
+ <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
+
+ <script>
+      window.simpleJekyllSearch = new SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ site.baseurl }}/search.json',
+        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 15,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+    </script>
+
 <!--End mc_embed_signup-->
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}

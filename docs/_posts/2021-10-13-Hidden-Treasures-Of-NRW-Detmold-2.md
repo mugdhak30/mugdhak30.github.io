@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: Detmold (2/2)"
 author_profile: true
+tags: Germany
 ---
 The people you fall in love with, the books you read, the places you visit give you happiness; but only some (very few) become a part of you! Too poetic? I’ll try to describe to you why I loved this place but I’m not very sure why it affected me so much. I don’t know if I will call it extraordinary. But hey, you’ll never find any place extraordinary if you don’t make the ordinary come alive!
 

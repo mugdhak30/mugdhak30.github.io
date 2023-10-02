@@ -2,6 +2,7 @@
 layout: archive
 title:  "Bratislava: Sculpting Simplicity"
 author_profile: true
+tags: Europe
 ---
 On the last day of my trip where we covered three capitals, we visited the quiet town of Bratislava. Despite being in Central Europe, this town seemed to be tucked away in a corner and often overshadowed by the grandeur of the neighbouring cities of Vienna and Budapest. We had been told that half a day was enough to cover the little town. But even if you give a writer something simple, they still manage to carve out a written piece about it. As for me, there’s no place in the world I wouldn’t want to write about!
 

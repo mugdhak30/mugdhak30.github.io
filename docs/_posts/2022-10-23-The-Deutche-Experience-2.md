@@ -2,6 +2,7 @@
 layout: archive
 title:  "The Deutsche Experience (2/2)"
 author_profile: true
+tags: Germany
 ---
 The state of Bavaria (in South East Germany) has been on my bucket list since a year. Its main attractions are the Bavarian Alps and the city of Munich. On our first visit to Munich, we got a chance to attend the largest celebration of Bavarian culture: the Oktoberfest. The largest public festival in the world kicked off after a two-year hiatus, and the opening day drew a crowd like never before!
 

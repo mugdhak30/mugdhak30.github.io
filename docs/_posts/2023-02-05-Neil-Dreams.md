@@ -2,6 +2,7 @@
 layout: archive
 title:  "Neil Island: A Blanket of Dreams"
 author_profile: true
+tags: India
 ---
 
 We spent the first week of December island hopping in the Bay of Bengal. Our next destination was Neil Island ([Shaheed Dweep](https://en.wikipedia.org/wiki/Neil_Island)). The hypnotisingly blue water of this island was undoubtedly the hightlight of our trip. 

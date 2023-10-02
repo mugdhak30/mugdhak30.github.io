@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW: Bad Lippspringe"
 author_profile: true
+tags: Germany
 ---
 Since I moved to Germany, I have been noticing that many towns in Germany have the word "Bad" in their names (Bad Meinberg, Bad Driburg). My first thought: what is so bad in these towns? Now imagine my confusion on learning that "bad" actually means "bath" in Germany. My curiousity led me to aunt Google, who didn't disappoint me! Apparently, towns which contain a medical spa and are approved by the national authorities can have "Bad" in their name. This official designation may also be suspended if a town fails to maintain the required standards. This HAS to be one of the most German things I have ever seen :) I found this creative and I decided to explore a "bad" town in NRW! 
 

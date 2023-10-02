@@ -11,12 +11,15 @@ redirect_from:
 Here I share some photos of Paderborn that I have clicked on the numerous walks I have taken. Come see Paderborn through my lens!
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderbornextra38.jpg){:width="400" style="padding:40px"}
+
+![](/images/Paderbornextra40.jpg){:width="400" style="padding:40px"}
 ![](/images/Paderbornextra36.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra38.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra39.jpg){:width="400" style="padding:40px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderbornextra39.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra41.jpg){:width="400" style="padding:40px"}
 ![](/images/Paderbornextra37.jpg){:width="400" style="padding:40px"}
 {:refdef}
 
