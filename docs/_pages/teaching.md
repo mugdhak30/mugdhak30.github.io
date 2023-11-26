@@ -23,10 +23,13 @@ This course covers several novel, advanced concepts in static code analysis: spa
 **Supervision**
 =====
 I have supervised the following Master or Seminar theses:
+* Master thesis - Automatically Generating Data Safety Section Labels for Android Apps (ongoing)
 * Master thesis - Improving User Experience of Program Slicing wrt Data Privacy (ongoing)
 * Master thesis - Labeling User-Input Privacy Data in Android Applications (finished)
 * Master thesis - Empirical Evaluation of Forward and Backward Taint Analysis (finished)
 * Master thesis - Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO (finished)
+* [Seminar Secure Systems Engineering (Winter 2023)](https://www.hni.uni-paderborn.de/sse/lehre/seminar-secure-systems-engineering-ws-20232024/) - Privacy Labels: A boon for users or a bane for developers? (ongoing)
+* [Seminar Secure Systems Engineering (Winter 2023)](https://www.hni.uni-paderborn.de/sse/lehre/seminar-secure-systems-engineering-ws-20232024/) - Using Data Privacy Vocabulary in Static Analysis (ongoing)
 * [Seminar Secure Systems Engineering (Summer 2023)](https://www.hni.uni-paderborn.de/sse/lehre/seminar-secure-systems-engineering-ss-2023/) - Machine Learning-Based Identification of Personal Data Sources in Android (finished)
 * [Seminar Secure Systems Engineering (Summer 2023)](https://www.hni.uni-paderborn.de/sse/lehre/seminar-secure-systems-engineering-ss-2023/) - Loopholes in Google Play’s Data Safety Section (finished)
 [Seminar Secure Systems Engineering (Winter 2022)](https://www.hni.uni-paderborn.de/sse/lehre/seminar-secure-systems-engineering-ws-20222023/) - Studying Pseudonymisation Techniques for Data Protection (finished)
