@@ -24,4 +24,4 @@ If you are an app developer or an auditor and are interested in collaborating or
 
 **Publications**
 =====
-* Mugdha Khedkar. "Static Analysis for Android GDPR Compliance Assurance." *Proc. of 2023 IEEE/ACM 45th International Conference on Software Engineering Companion (ICSE’23 Companion)*, May 14-20, 2023, Melbourne, Australia ([Paper](https://arxiv.org/abs/2303.09606), [Poster]({{mugdhak30.github.io}}/assets/MugdhaICSE2023Poster.pdf)).
+* Mugdha Khedkar. 2023. Static Analysis for Android GDPR Compliance Assurance. In Proceedings of the 45th International Conference on Software Engineering: Companion Proceedings (ICSE '23). IEEE Press, 197–199. [https://doi.org/10.1109/ICSE-Companion58688.2023.00054](https://doi.org/10.1109/ICSE-Companion58688.2023.00054) ([Preprint](https://arxiv.org/abs/2303.09606), [Poster]({{mugdhak30.github.io}}/assets/MugdhaICSE2023Poster.pdf)).
