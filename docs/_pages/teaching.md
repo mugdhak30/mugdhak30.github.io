@@ -9,7 +9,7 @@ author_profile: true
 ======
 
 * [Seminar Secure Systems Engineering](https://www.hni.uni-paderborn.de/sse/lehre/seminar-secure-systems-engineering-ws-20232024/) \\
-Master Course, Universität Paderborn (Ongoing, Summer 2023)\\
+Master Course, Universität Paderborn (Winter 2023, Summer 2023)\\
 This course offers a unique opportunity for students to understand and experience how scientific research is conducted.
 
 * [Designing Code Analyses for Large-scale Software Systems I](https://www.hni.uni-paderborn.de/sse/lehre/deca/) \\
