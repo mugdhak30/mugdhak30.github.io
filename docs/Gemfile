@@ -10,14 +10,14 @@ source "https://rubygems.org"
 # Happy Jekylling!
   # gem "jekyll",  "~> 3.4.2"
 
-gem 'jekyll-sitemap'
+#gem 'jekyll-sitemap'
 
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
+gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
