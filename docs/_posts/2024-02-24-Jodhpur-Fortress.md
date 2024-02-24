@@ -7,7 +7,7 @@ tags: India
 
 I am continually spellbound by the diversity India offers to travelers. If you've ever thought that European cities are the epitome of culture and heritage, let me introduce you to the wonders of Rajasthan!
 
-Most tourists opt for Jaipur and Jaisalmer when exploring the desert in Rajasthan, but we had planned a shorter trip and wanted to skip exhausting long drives. So, after spending a couple of days experiencing the desert, we found ourselves in the second largest city of Rajasthan, Jodhpur. We were excited to visit the [Mehrangarh fort](https://en.wikipedia.org/wiki/Mehrangarh), which our driver called the "most beautiful fort in India". The European in me jumped with excitement when I realized that this fort has an elevator—such a luxury! Let me explain. Most of our apartment buildings in Europe don't have elevators, and on most of our European vacations, we're left lugging a suitcase up and down the stairs. The fort, standing tall and imposing, left me in awe, especially considering its construction in 1459!
+Most tourists opt for Jaipur and Jaisalmer when exploring the desert in Rajasthan, but we had planned a shorter trip and wanted to skip exhausting long drives. So, after spending a couple of days experiencing the desert, we found ourselves in the second largest city of Rajasthan, Jodhpur. We were excited to visit the [Mehrangarh Fort](https://en.wikipedia.org/wiki/Mehrangarh), which our driver called the "most beautiful fort in India". The European in me jumped with excitement when I realized that this fort has an elevator—such a luxury! Let me explain. Most of our apartment buildings in Europe don't have elevators, and on most of our European vacations, we're left lugging a suitcase up and down the stairs. The fort, standing tall and imposing, left me in awe, especially considering its construction in 1459!
 
 {:refdef: style="text-align: center;"}
 ![](/images/Jodhpur1.jpg){:width="400" style="padding:20px"}
@@ -33,7 +33,7 @@ It turns out that the views outside were not even the best the fort had to offer
 ![](/images/Jodhpur8.jpg){:width="400" style="padding:20px"}
 {:refdef}
 
-Rajasthan oozes royalty, and that vibe was all around us. From the stunning marble memorial, [Jaswant Thada](https://www.mehrangarh.org/visit/jaswant-thada/), to the towering Mehrangarh fort overlooking it, and the [Umaid Bhavan Palace](https://en.wikipedia.org/wiki/Umaid_Bhawan_Palace) — known for hosting big fat Indian weddings, including Priyanka Chopra's — royalty was everywhere! And that was not all: even the restaurant our driver brought us to looked as exquisite as a palace! I'll be honest, I was a little worried about the bill as soon as we entered. But we decided to live it up that afternoon, and were pretty satisfied as the afternoon ended. 
+Rajasthan oozes royalty, and that vibe was all around us. From the stunning marble memorial, [Jaswant Thada](https://www.mehrangarh.org/visit/jaswant-thada/), to the towering Mehrangarh Fort overlooking it, and the [Umaid Bhavan Palace](https://en.wikipedia.org/wiki/Umaid_Bhawan_Palace) — known for hosting big fat Indian weddings, including Priyanka Chopra's — royalty was everywhere! And that was not all: even the restaurant our driver brought us to looked as exquisite as a palace! I'll be honest, I was a little worried about the bill as soon as we entered. But we decided to live it up that afternoon, and were pretty satisfied as the afternoon ended. 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Jodhpur10.jpg){:width="400" style="padding:20px"}
