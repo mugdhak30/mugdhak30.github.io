@@ -46,13 +46,6 @@ IIT Bombay, India
   * Objective: Empirical evaluation of precision of pointer analysis variants.
   * You can find our report [here]({{mugdhak30.github.io}}/assets/MugdhaBachelorReport.pdf).
  
-
-**Mentoring**
-======
-
-* Served as a mentor in the [perspeEktIve M](https://www.eim.uni-paderborn.de/en/faculty/courses-of-study/studies/mentoring-program) program\\
-  Universität Paderborn, Nov 2021 - April 2022
-
 **Online Courses**
 ======
 * Computer Science

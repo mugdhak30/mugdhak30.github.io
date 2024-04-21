@@ -16,6 +16,6 @@ Fürstenallee 11 \\
 33102 Paderborn \\
 Germany
 
-Since the COVID-19 pandemic, I work from my home office twice a week.
+I am in my office on Wednesdays and Thursdays.
 
 For students seeking a thesis topic, organizational information [here](https://mugdhak30.github.io/info_for_students/) might interest you.

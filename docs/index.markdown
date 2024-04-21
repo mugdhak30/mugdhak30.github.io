@@ -6,10 +6,24 @@ layout: archive
 author_profile: false
 ---
 {:refdef: style="text-align: center;"}
-![](images/Yearbook.jpg){:width="350"}
+![](images/Yearbook.jpg){:width="250"}
 {:refdef}
 
 Hi! I am Mugdha Khedkar. I am a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/). I work as a Research Assistant in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/) at Paderborn University, Germany since February 2021.
 
-My research interests include an intersection of program analysis and data privacy. Most of my work is based on finding optimizations for static analyses. Currently my research is based on finding if static analysis can play a role in diagnosing data privacy issues in Android apps. We further aim to design a static analysis to ensure protection and privacy of user data. This involves a variety of concepts from static program analysis, data protection and formal verification.
+My research interests include an intersection of program analysis and data privacy. Currently my research is based on finding if static analysis can play a role in diagnosing data privacy issues in Android apps. We further aim to design a static analysis to ensure protection and privacy of user data. 
 
+**Latest News**
+=====
+
+📢 April 2024: I presented our short paper at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal. ![](images/new.jpeg){:width="25"}
+
+📢 March 2024: Our short paper was accepted at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) Research Forum. ([Preprint](https://arxiv.org/abs/2402.07889)) ![](images/new.jpeg){:width="25"}
+
+📢 October 2023: I participated in the [Dagstuhl Research Methods Seminar 2023](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23433). I have shared my experience [here](https://mugdhak30.github.io/Schloss-Dagstuhl/).
+
+📢 May 2023: I presented a poster at the [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) in Melbourne, Australia. I also gave a talk titled "Security and Privacy by Design" at Get to Know HNI 2023.
+
+📢 March 2023: My short paper was accepted at [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS). ([Preprint](https://arxiv.org/abs/2303.09606))
+
+📢 December 2022: I was selected as a Junior PC member for the research track of [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?).
