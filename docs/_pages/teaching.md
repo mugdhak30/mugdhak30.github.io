@@ -30,10 +30,10 @@ I have supervised the following Master theses:
 
 1) Master thesis - Explaining Privacy-Relevant Program Slices to App Developers (ongoing) \\
 2) Master thesis - Automatically Generating Data Safety Section Labels for Android Apps (ongoing) \\
-3) Master thesis - Improving User Experience of Program Slicing wrt Data Privacy (finished) \\
-4) Master thesis - Labeling User-Input Privacy Data in Android Applications (finished) \\
-5) Master thesis - Empirical Evaluation of Forward and Backward Taint Analysis (finished) \\
-6) Master thesis - Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO (finished) 
+3) Master thesis - Improving User Experience of Program Slicing wrt Data Privacy \\
+4) Master thesis - Labeling User-Input Privacy Data in Android Applications \\
+5) Master thesis - Empirical Evaluation of Forward and Backward Taint Analysis \\
+6) Master thesis - Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO
 
 For students seeking a thesis topic, organizational information [on my webpage](https://mugdhak30.github.io/info_for_students/) and on the [SSE webpage](https://www.hni.uni-paderborn.de/sse/lehre/bachelor-masterarbeiten) might interest you. 
 
@@ -47,11 +47,11 @@ For students seeking a thesis topic, organizational information [on my webpage](
 =====
 Additionally, I have supervised the following seminars:
 
-* Seminar Secure Systems Engineering (Winter 2023) - Privacy Labels: A boon for users or a bane for developers? (finished)
-* Seminar Secure Systems Engineering (Winter 2023) - Using Data Privacy Vocabulary in Static Analysis (finished)
-* Seminar Secure Systems Engineering (Summer 2023) - Machine Learning-Based Identification of Personal Data Sources in Android (finished)
-* Seminar Secure Systems Engineering (Summer 2023) - Loopholes in Google Play’s Data Safety Section (finished)
-* Seminar Secure Systems Engineering (Winter 2022) - Studying Pseudonymisation Techniques for Data Protection (finished)
-* Seminar Secure Systems Engineering (Summer 2022) - A Survey of Compliance Standards (finished)
-* Seminar Secure Systems Engineering (Winter 2021) - A Survey of Parametric Static Analysis (finished)
+* Seminar Secure Systems Engineering (Winter 2023) - Privacy Labels: A boon for users or a bane for developers? 
+* Seminar Secure Systems Engineering (Winter 2023) - Using Data Privacy Vocabulary in Static Analysis 
+* Seminar Secure Systems Engineering (Summer 2023) - Machine Learning-Based Identification of Personal Data Sources in Android
+* Seminar Secure Systems Engineering (Summer 2023) - Loopholes in Google Play’s Data Safety Section
+* Seminar Secure Systems Engineering (Winter 2022) - Studying Pseudonymization Techniques for Data Protection
+* Seminar Secure Systems Engineering (Summer 2022) - A Survey of Compliance Standards 
+* Seminar Secure Systems Engineering (Winter 2021) - A Survey of Parametric Static Analysis
 
