@@ -12,7 +12,7 @@ Grand canyon is huge. We booked a plane tour.
 ![](/images/GrandCanyon1.jpg){:width="750" style="padding:20px"}
 {:refdef}
 
-Views of the river. 
+Views of the river. Confluence of the Little Colorado River and Colorado River in Grand Canyon where the turquoise-colored water of the Little Colorado River spills into the muddy water of the larger Colorado River.
 
 {:refdef: style="text-align: center;"}
 ![](/images/GrandCanyon2.jpg){:width="400" style="padding:20px"}
