@@ -19,7 +19,7 @@ The flight was smooth, and the weather was perfect to take in the breathtaking v
 ![](/images/GrandCanyon3.jpg){:width="400" style="padding:20px"}
 {:refdef}
 
-We soon flew over the snowy North rim of the Canyon, feeling as though we were flying through multiple seasons at once. While flying back to the airport, we saw the long line of cars waiting to enter the Grand Canyon National Park. Our captain cheekily said, "If only they knew what they are missing out on!". We knew we would soon join that traffic, but flying over one of the world's natural wonders was the best start to our adventure.
+We soon flew over the snowy north rim of the Canyon, feeling as though we were flying through multiple seasons at once. While flying back to the airport, we saw the long line of cars waiting to enter the Grand Canyon National Park. Our captain cheekily said, "If only they knew what they are missing out on!". We knew we would soon join that traffic, but flying over one of the world's natural wonders was the best start to our adventure.
 
 {:refdef: style="text-align: center;"}
 ![](/images/GrandCanyon5.jpg){:width="400" style="padding:20px"}
