@@ -28,12 +28,13 @@ This course covers several novel, advanced concepts in static code analysis: spa
 =====
 I have supervised the following Master theses:
 
-1) Explaining Privacy-Relevant Program Slices to App Developers (ongoing) \\
-2) Automatically Generating Data Safety Section Labels for Android Apps (ongoing) \\
-3) Improving User Experience of Program Slicing wrt Data Privacy \\
-4) Labeling User-Input Privacy Data in Android Applications \\
-5) Empirical Evaluation of Forward and Backward Taint Analysis \\
-6) Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO
+1) Advancing Android Privacy Assessments with Automation (ongoing) \\
+2) Explaining Privacy-Relevant Program Slices to App Developers (ongoing) \\
+3) Automatically Generating Data Safety Section Labels for Android Apps (ongoing) \\
+4) Improving User Experience of Program Slicing wrt Data Privacy \\
+5) Labeling User-Input Privacy Data in Android Applications \\
+6) Empirical Evaluation of Forward and Backward Taint Analysis \\
+7) Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO
 
 For students seeking a thesis topic, organizational information [on my webpage](https://mugdhak30.github.io/info_for_students/) and on the [SSE webpage](https://www.hni.uni-paderborn.de/sse/lehre/bachelor-masterarbeiten) might interest you. 
 

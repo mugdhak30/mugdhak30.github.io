@@ -16,9 +16,11 @@ My research interests include an intersection of program analysis and data priva
 **Latest News**
 =====
 
+📢 September 2024: Two papers were accepted at the [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/) held in conjunction with [ASE 2024](https://conf.researchr.org/home/ase-2024). ![](images/new.jpeg){:width="25"}
+
 📢 April 2024: I have been invited to serve as a program committee member for [ASE 2024](https://conf.researchr.org/home/ase-2024) (Tool Demonstrations). ![](images/new.jpeg){:width="25"}
 
-📢 April 2024: I presented our short paper at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal. ![](images/new.jpeg){:width="25"}
+📢 April 2024: I presented our short paper at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal. 
 
 📢 March 2024: Our short paper was accepted at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) Research Forum. ([Preprint](https://arxiv.org/abs/2402.07889))
 
