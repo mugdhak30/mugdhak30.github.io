@@ -18,7 +18,7 @@ If you are an app developer or an auditor and are interested in collaborating or
 **Publications**
 =====
 
-* Mugdha Khedkar, Ambuj Kumar Mondal, and Eric Bodden. 2024. Do Android App Developers Accurately Report Collection of Privacy-Related Data? In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW ’24). *(To appear.)*
+* Mugdha Khedkar, Ambuj Kumar Mondal, and Eric Bodden. 2024. Do Android App Developers Accurately Report Collection of Privacy-Related Data? In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW ’24). ([Preprint](https://arxiv.org/abs/2409.04167))
 
 * Mugdha Khedkar, Michael Schlichtig, and Eric Bodden. 2024. Advancing Android Privacy Assessments with Automation. In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW ’24). *(To appear.)*
 
