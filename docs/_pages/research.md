@@ -18,13 +18,13 @@ If you are an app developer or an auditor and are interested in collaborating or
 **Publications**
 =====
 
-* Mugdha Khedkar, Ambuj Kumar Mondal, and Eric Bodden. 2024. Do Android App Developers Accurately Report Collection of Privacy-Related Data? In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW ’24). ([Preprint](https://arxiv.org/abs/2409.04167))
+* **Mugdha Khedkar**, Ambuj Kumar Mondal, and Eric Bodden. 2024. Do Android App Developers Accurately Report Collection of Privacy-Related Data? In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW ’24). ([Preprint](https://arxiv.org/abs/2409.04167))
 
-* Mugdha Khedkar, Michael Schlichtig, and Eric Bodden. 2024. Advancing Android Privacy Assessments with Automation. In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW ’24). *(To appear.)*
+* **Mugdha Khedkar**, Michael Schlichtig, and Eric Bodden. 2024. Advancing Android Privacy Assessments with Automation. In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW ’24). *(To appear.)*
 
-* Mugdha Khedkar and Eric Bodden. 2024. Toward an Android Static Analysis Approach for Data Protection. In Proceedings of the IEEE/ACM 11th International Conference on Mobile Software Engineering and Systems (MOBILESoft '24). Association for Computing Machinery, New York, NY, USA, 65–68. [https://doi.org/10.1145/3647632.3651389](https://doi.org/10.1145/3647632.3651389) ([Preprint](https://arxiv.org/abs/2402.07889))
+* **Mugdha Khedkar** and Eric Bodden. 2024. Toward an Android Static Analysis Approach for Data Protection. In Proceedings of the IEEE/ACM 11th International Conference on Mobile Software Engineering and Systems (MOBILESoft '24). Association for Computing Machinery, New York, NY, USA, 65–68. [https://doi.org/10.1145/3647632.3651389](https://doi.org/10.1145/3647632.3651389) ([Preprint](https://arxiv.org/abs/2402.07889))
 
-* Static Analysis for Android GDPR Compliance Assurance (Mugdha Khedkar), Proceedings of the 45th International Conference on Software Engineering: Companion Proceedings (ICSE '23). IEEE Press, 197–199. [https://doi.org/10.1109/ICSE-Companion58688.2023.00054](https://doi.org/10.1109/ICSE-Companion58688.2023.00054) ([Preprint](https://arxiv.org/abs/2303.09606), [Poster]({{mugdhak30.github.io}}/assets/MugdhaICSE2023Poster.pdf)).
+* M. Khedkar, Static Analysis for Android GDPR Compliance Assurance, 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion), Melbourne, Australia, 2023, pp. 197-199. [https://doi.org/10.1109/ICSE-Companion58688.2023.00054](https://doi.org/10.1109/ICSE-Companion58688.2023.00054) ([Preprint](https://arxiv.org/abs/2303.09606), [Poster]({{mugdhak30.github.io}}/assets/MugdhaICSE2023Poster.pdf)).
 
 **Research Interests**
 =====
