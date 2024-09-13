@@ -86,7 +86,7 @@ author:
   #location         : "Germany"
   employer         :  "Universität Paderborn, Germany"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=E737Q-wAAAAJ&hl=en"
   email            : "mugdha.khedkar@upb.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
