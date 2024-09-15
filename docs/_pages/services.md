@@ -8,9 +8,10 @@ author_profile: true
 **Academic Services**
 ======
 
+* [ASE 2024](https://conf.researchr.org/home/ase-2024), Student Volunteer
 * [ASE 2024 (Tool Demonstrations)](https://conf.researchr.org/track/ase-2024/ase-2024-tool-demonstrations), Program Committee Member
 * [MSR 2023 Technical Track](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?), Junior Program Committee Member
-* Universität Paderborn [perspeEktIve M](https://www.eim.uni-paderborn.de/en/faculty/studies/mentoring-program) (Nov 2021 - April 2022), Mentor
+* [perspeEktIve M](https://www.eim.uni-paderborn.de/en/faculty/studies/mentoring-programme) Universität Paderborn (Nov 2021 - April 2022), Mentor
 * [ASE 2021](https://conf.researchr.org/home/ase-2021), Student Volunteer
 
 **Other Activities**
