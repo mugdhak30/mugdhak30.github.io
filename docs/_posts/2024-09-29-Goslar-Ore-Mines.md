@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "Goslar: Ore Mines and their Secrets"
+title:  "Goslar: Ore Mines and Their Secrets"
 author_profile: true
 tags: Germany
 ---
