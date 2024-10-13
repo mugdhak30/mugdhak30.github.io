@@ -19,11 +19,13 @@ My research interests include an intersection of program analysis and data priva
 **Latest News**
 =====
 
+📢 October 2024: I gave a short talk about Android privacy at the [CyberResilience.NRW kickoff event](https://www.linkedin.com/feed/update/urn:li:activity:7249410975156563969/) in Paderborn. ![](images/new.jpeg){:width="25"}
+
 📢 September 2024: I got selected to be a student volunteer for [ASE 2024](https://conf.researchr.org/home/ase-2024). ![](images/new.jpeg){:width="25"}
 
 📢 September 2024: Two papers were accepted at the [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/) held in conjunction with [ASE 2024](https://conf.researchr.org/home/ase-2024). ![](images/new.jpeg){:width="25"}
 
-📢 July 2024: I became a member of the [Data Privacy Vocabularies and Controls Community Group](https://www.w3.org/community/dpvcg/). ![](images/new.jpeg){:width="25"}
+📢 July 2024: I became a member of the [Data Privacy Vocabularies and Controls Community Group](https://www.w3.org/community/dpvcg/). 
 
 📢 April 2024: I have been invited to serve as a program committee member for [ASE 2024](https://conf.researchr.org/home/ase-2024) (Tool Demonstrations). 
 
