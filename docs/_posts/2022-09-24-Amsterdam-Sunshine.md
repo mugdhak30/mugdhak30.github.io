@@ -2,7 +2,7 @@
 layout: archive
 title:  "Amsterdam: Sunshine on the Canals"
 author_profile: true
-tags: Europe
+tags: Netherlands
 ---
 
 This year has been special. After having spent a part of spring exploring my partner's home in California, I got a chance to show him the cozy little life I've built for myself here in Europe. What began as a heartwarming reunion soon turned into one of the most special summers of our lives!

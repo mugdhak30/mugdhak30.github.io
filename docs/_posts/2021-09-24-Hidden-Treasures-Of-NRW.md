@@ -2,6 +2,7 @@
 layout: archive
 title:  "Hidden Treasures of NRW"
 author_profile: true
+tags: Germany
 ---
 
 Hi guys! "Hidden Treasures of NRW" will be a series of blog posts that will describe my experiences visiting some small and quaint towns of North-Rhine Westphalia (NRW), Germany. Let's start with some hard facts about NRW (borrowed from [Wikipedia](https://en.wikipedia.org/wiki/North_Rhine-Westphalia)): it is the most densely populated and most populous state in Germany. It is in Western Germany and borders Belgium and the Netherlands. NRW has always been Germany's powerhouse with the largest economy among GDP states and you've probably heard of its capital, Düsseldorf.

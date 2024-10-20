@@ -2,7 +2,7 @@
 layout: archive
 title:  "Prague: A Bohemian Dreamland"
 author_profile: true
-tags: Europe
+tags: Czech
 ---
 People use fancy words to describe Prague's beauty, but words failed me when I visited it. It has many personalities and I was not at all prepared for what it had to offer. While I also loved its quirky side, it lived up to its reputation of being a cultural wonderland. Since it is one of the cheaper destinations in Europe, we had a luxurious trip to this paradise! 
 

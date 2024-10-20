@@ -2,7 +2,7 @@
 layout: archive
 title:  "Florence: A Renaissance Masterpiece"
 author_profile: true
-tags: Europe
+tags: Italy
 ---
 When I wrote about Burano, I said that every town in Europe need not have "royalty and grandeur oozing out of it", but some towns in Europe are straight up unreal! I mean, there's just no way such royalty can exist right? Well, it does. This beautiful city from the Tuscany region in Italy was like a work of Renaissance art and just the sight of its city centre was enough to make artists cry tears of joy!
 

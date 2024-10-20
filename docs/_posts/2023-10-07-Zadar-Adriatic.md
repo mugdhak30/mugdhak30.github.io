@@ -2,7 +2,7 @@
 layout: archive
 title:  "Zadar: Melodies of the Adriatic"
 author_profile: true
-tags: Europe
+tags: Croatia
 ---
 
 Towards the very end of summer, my partner and I decided to explore the Adriatic coast. We wanted to spend some peaceful time away from the extreme heat, and our quest guided us to Zadar, the oldest inhabited city of Croatia.

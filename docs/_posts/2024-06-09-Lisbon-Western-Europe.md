@@ -2,7 +2,7 @@
 layout: archive
 title:  "Lisbon: A Slice of Western Europe"
 author_profile: true
-tags: Europe
+tags: Portugal
 ---
 
 I had barely caught my breath from my trip to the U.S. when I got a chance to spend a week in the beautiful city of Lisbon. I went there to present a short paper at a conference, and the trip surpassed all my expectations!

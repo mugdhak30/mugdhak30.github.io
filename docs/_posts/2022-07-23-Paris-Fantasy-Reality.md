@@ -2,7 +2,7 @@
 layout: archive
 title:  "Paris: A Dollop of Fantasy, a Pinch of Reality"
 author_profile: true
-tags: Europe
+tags: France
 ---
 
 After spending a few weekends revisiting German cities, I got a chance to explore a new country. A friend from India visited Europe recently and we both spent a wonderful day along the banks of the Seine river, in a city that is a dream for many: Paris. 

@@ -2,7 +2,7 @@
 layout: archive
 title:  "Bruges: A Birthday Girl's Dream!"
 author_profile: true
-tags: Europe
+tags: Belgium
 ---
 
 The next destination of our summer trip was iconic—one with many accolades to its name. Known as Europe’s [best city to visit by train](https://metro.co.uk/2024/09/13/enchanting-european-destination-named-best-city-visit-train-21601180/), it's also one of the most [walkable cities](https://www.motel-one.com/en/corporate/press/walkable-cities-study/#:~:text=The%20Top%2020%20Most%20Walkable%20Cities) on the continent, and its city center is a UNESCO world heritage site. Bruges, Belgium had been sitting at the top of my bucket list for three years, and I finally got to celebrate my birthday there!

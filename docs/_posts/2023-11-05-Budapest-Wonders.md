@@ -2,7 +2,7 @@
 layout: archive
 title:  "Budapest: The Wonders on the Danube"
 author_profile: true
-tags: Europe
+tags: Hungary
 ---
 
 As the leaves slowly turned yellow, we embarked on an adventure that was a fitting end to yet another dreamy summer in Europe. I had the privilege of celebrating my birthday across two countries, and the day ended with our journey to Budapest, Hungary. 
