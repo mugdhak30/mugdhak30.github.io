@@ -22,9 +22,9 @@ If you are an app developer, a Data Protection Officer, or an auditor and are in
 **Publications**
 =====
 
-* **Mugdha Khedkar**, Ambuj Kumar Mondal, and Eric Bodden. 2024. Do Android App Developers Accurately Report Collection of Privacy-Related Data? In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW ’24). ([Preprint](https://arxiv.org/abs/2409.04167))
+* **Mugdha Khedkar**, Ambuj Kumar Mondal, and Eric Bodden. 2024. Do Android App Developers Accurately Report Collection of Privacy-Related Data? In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW '24). Association for Computing Machinery, New York, NY, USA, 176–186. [https://doi.org/10.1145/3691621.3694949](https://doi.org/10.1145/3691621.3694949) ([Preprint](https://arxiv.org/abs/2409.04167))
 
-* **Mugdha Khedkar**, Michael Schlichtig, and Eric Bodden. 2024. Advancing Android Privacy Assessments with Automation. In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW ’24). ([Preprint](https://arxiv.org/abs/2409.06564))
+* **Mugdha Khedkar**, Michael Schlichtig, and Eric Bodden. 2024. Advancing Android Privacy Assessments with Automation. In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW '24). Association for Computing Machinery, New York, NY, USA, 218–222. [https://doi.org/10.1145/3691621.3694953](https://doi.org/10.1145/3691621.3694953) ([Preprint](https://arxiv.org/abs/2409.06564))
 
 * **Mugdha Khedkar** and Eric Bodden. 2024. Toward an Android Static Analysis Approach for Data Protection. In Proceedings of the IEEE/ACM 11th International Conference on Mobile Software Engineering and Systems (MOBILESoft '24). Association for Computing Machinery, New York, NY, USA, 65–68. [https://doi.org/10.1145/3647632.3651389](https://doi.org/10.1145/3647632.3651389) ([Preprint](https://arxiv.org/abs/2402.07889))
 
