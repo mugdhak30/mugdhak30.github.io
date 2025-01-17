@@ -48,6 +48,7 @@ For students seeking a thesis topic, organizational information [on my webpage](
 =====
 Additionally, I have supervised the following seminars:
 
+* Seminar Secure Systems Engineering (Winter 2024) - Mapping Data Privacy Vocabulary to Source Code (ongoing)
 * Seminar Secure Systems Engineering (Winter 2023) - Privacy Labels: A boon for users or a bane for developers? 
 * Seminar Secure Systems Engineering (Winter 2023) - Using Data Privacy Vocabulary in Static Analysis 
 * Seminar Secure Systems Engineering (Summer 2023) - Machine Learning-Based Identification of Personal Data Sources in Android
