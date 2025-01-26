@@ -30,7 +30,7 @@ I have supervised the following Master theses:
 
 1) Automated Privacy Assessment for Android Applications: A DPV Visualisation Approach (ongoing) \\
 2) Explaining Privacy-Relevant Program Slices to App Developers (ongoing) \\
-3) Automatically Generating Data Safety Section Labels for Android Apps (ongoing) \\
+3) Automatically Generating Data Safety Section Labels for Android Apps \\
 4) Improving User Experience of Program Slicing wrt Data Privacy \\
 5) Labeling User-Input Privacy Data in Android Applications \\
 6) Empirical Evaluation of Forward and Backward Taint Analysis \\
