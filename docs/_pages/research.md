@@ -16,9 +16,6 @@ Static analysis checks the source code thoroughly before execution, and covers a
 If you are an app developer, a Data Protection Officer, or an auditor and are interested in collaborating or learning more about our work, please [contact me](mailto:mugdha.khedkar@upb.de). 
 
 
-**We are looking for Android developers who can take this short survey and help us with our research:** [https://umfragen.uni-paderborn.de/index.php/785133?lang=en](https://umfragen.uni-paderborn.de/index.php/785133?lang=en_) ![](images/new.jpeg){:width="25"}
-
-
 **Publications**
 =====
 

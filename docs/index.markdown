@@ -18,9 +18,9 @@ My research interests include an intersection of program analysis and data priva
 
 📢 March 2025: I gave a talk about Android privacy assessments at Amazon, Santa Clara (California). ![](images/new.jpeg){:width="25"}
 
-📢 November 2024: I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento, where I presented our papers at the A-Mobile workshop. ![](images/new.jpeg){:width="25"}
+📢 November 2024: I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento, where I presented our papers at the A-Mobile workshop. 
 
-📢 October 2024: I gave a [talk](https://engineering.ucdavis.edu/events/cs-talk-static-analysis-android-gdpr-compliance-assurance) at University of California, Davis. ![](images/new.jpeg){:width="25"}
+📢 October 2024: I gave a [talk](https://engineering.ucdavis.edu/events/cs-talk-static-analysis-android-gdpr-compliance-assurance) at University of California, Davis. 
 
 📢 October 2024: I gave a talk about Android privacy at the [CyberResilience.NRW kickoff event](https://www.linkedin.com/feed/update/urn:li:activity:7249410975156563969/) in Paderborn. 
 
