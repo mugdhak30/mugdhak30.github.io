@@ -31,8 +31,6 @@ If you are an app developer, a Data Protection Officer, or an auditor and are in
 **Preprints (under submission)**
 =====
 
-* **Mugdha Khedkar**, Michael Schlichtig, Nihad Atakishiyev et al. Assessor View: Introducing Tool Support for Android Privacy Assessments, 22 April 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-6323701/v1](https://www.researchsquare.com/article/rs-6323701/v1)
-
 * **Mugdha Khedkar**, Ambuj Kumar Mondal, Eric Bodden et al. A Study of Privacy-Related Data Collected by Android Apps, 02 December 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5454195/v1](https://www.researchsquare.com/article/rs-5454195/v1)
 
 
