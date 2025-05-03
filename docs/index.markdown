@@ -16,32 +16,34 @@ My research interests include an intersection of program analysis and data priva
 **Latest News**
 =====
 
-📢 March 2025: I gave a talk about Android privacy assessments at Amazon, Santa Clara (California). ![](images/new.jpeg){:width="25"}
+📢 **May 2025**: We are inviting privacy experts, legal professionals, and Data Protection Officers for an [interview-based user study](https://www.hni.uni-paderborn.de/sse/lehre/user-study-automating-android-privacy-assessments) about privacy assessments and GDPR compliance. ![](images/new.jpeg){:width="25"}
 
-📢 November 2024: I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento, where I presented our papers at the A-Mobile workshop. 
+📢 **March 2025**: I gave a talk about Android privacy assessments at Amazon, Santa Clara (California). ![](images/new.jpeg){:width="25"}
 
-📢 October 2024: I gave a [talk](https://engineering.ucdavis.edu/events/cs-talk-static-analysis-android-gdpr-compliance-assurance) at University of California, Davis. 
+📢 **November 2024**: I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento, where I presented our papers at the A-Mobile workshop. 
 
-📢 October 2024: I gave a talk about Android privacy at the [CyberResilience.NRW kickoff event](https://www.linkedin.com/feed/update/urn:li:activity:7249410975156563969/) in Paderborn. 
+📢 **October 2024**: I gave a [talk](https://engineering.ucdavis.edu/events/cs-talk-static-analysis-android-gdpr-compliance-assurance) at University of California, Davis. 
 
-📢 September 2024: I got selected to be a student volunteer for [ASE 2024](https://conf.researchr.org/home/ase-2024).
+📢 **October 2024**: I gave a talk about Android privacy at the [CyberResilience.NRW kickoff event](https://www.linkedin.com/feed/update/urn:li:activity:7249410975156563969/) in Paderborn. 
 
-📢 September 2024: Two papers were accepted at the [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/) held in conjunction with [ASE 2024](https://conf.researchr.org/home/ase-2024). 
+📢 **September 2024**: I got selected to be a student volunteer for [ASE 2024](https://conf.researchr.org/home/ase-2024).
 
-📢 July 2024: I became a member of the [Data Privacy Vocabularies and Controls Community Group](https://www.w3.org/community/dpvcg/). 
+📢 **September 2024**: Two papers were accepted at the [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/) held in conjunction with [ASE 2024](https://conf.researchr.org/home/ase-2024). 
 
-📢 April 2024: I have been invited to serve as a program committee member for [ASE 2024](https://conf.researchr.org/home/ase-2024) (Tool Demonstrations). 
+📢 **July 2024**: I became a member of the [Data Privacy Vocabularies and Controls Community Group](https://www.w3.org/community/dpvcg/). 
 
-📢 April 2024: I presented our short paper at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal. 
+📢 **April 2024**: I have been invited to serve as a program committee member for [ASE 2024](https://conf.researchr.org/home/ase-2024) (Tool Demonstrations). 
 
-📢 March 2024: Our short paper was accepted at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) Research Forum. ([Preprint](https://arxiv.org/abs/2402.07889))
+📢 **April 2024**: I presented our short paper at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal. 
 
-📢 October 2023: I participated in the [Dagstuhl Research Methods Seminar 2023](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23433). I have shared my experience [here](https://mugdhak30.github.io/Schloss-Dagstuhl/).
+📢 **March 2024**: Our short paper was accepted at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) Research Forum. ([Preprint](https://arxiv.org/abs/2402.07889))
 
-📢 May 2023: I gave a talk titled "Security and Privacy by Design" at Get to Know HNI 2023 (Universität Paderborn).
+📢 **October 2023**: I participated in the [Dagstuhl Research Methods Seminar 2023](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23433). I have shared my experience [here](https://mugdhak30.github.io/Schloss-Dagstuhl/).
 
-📢 May 2023: I presented a poster at the [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) in Melbourne, Australia. 
+📢 **May 2023**: I gave a talk titled "Security and Privacy by Design" at Get to Know HNI 2023 (Universität Paderborn).
 
-📢 March 2023: My short paper was accepted at [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS). ([Preprint](https://arxiv.org/abs/2303.09606))
+📢 **May 2023**: I presented a poster at the [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) in Melbourne, Australia. 
 
-📢 December 2022: I was selected as a Junior PC member for the research track of [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?).
+📢 **March 2023**: My short paper was accepted at [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS). ([Preprint](https://arxiv.org/abs/2303.09606))
+
+📢 **December 2022**: I was selected as a Junior PC member for the research track of [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?).
