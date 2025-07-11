@@ -16,9 +16,11 @@ My research interests include an intersection of program analysis and data priva
 **Latest News**
 =====
 
+📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a poster. ![](images/new.jpeg){:width="25"}
+
 📢 **May 2025**: I have been invited to serve as a program committee member for [ASE 2025](https://conf.researchr.org/home/ase-2025) (Tool Demonstrations). ![](images/new.jpeg){:width="25"}
 
-📢 **May 2025**: We are inviting privacy experts, legal professionals, and Data Protection Officers for an [interview-based user study](https://www.hni.uni-paderborn.de/sse/lehre/user-study-automating-android-privacy-assessments) about privacy assessments and GDPR compliance. ![](images/new.jpeg){:width="25"}
+📢 **May 2025**: We are inviting privacy experts, legal professionals, and Data Protection Officers for an [interview-based user study](https://www.hni.uni-paderborn.de/sse/lehre/user-study-automating-android-privacy-assessments) about privacy assessments and GDPR compliance. 
 
 📢 **March 2025**: I gave a talk about Android privacy assessments at Amazon, Santa Clara (California). 
 
