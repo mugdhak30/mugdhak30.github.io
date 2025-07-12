@@ -13,6 +13,14 @@ Hi! I am Mugdha Khedkar. I am a PhD student advised by [Prof. Dr. Eric Bodden](h
 
 My research interests include an intersection of program analysis and data privacy. Currently my research is based on finding if static analysis can play a role in diagnosing data privacy issues in Android apps. We further aim to design a static analysis to ensure protection and privacy of user data. 
 
+
+<div style="border: 2px solid #007acc; border-radius: 8px; padding: 1em; background-color: #f0f8ff; text-align: center; margin: 1em 0; font-size: 1em;">
+
+📢 <strong>Now Open to Postdoc Opportunities</strong>: I’m actively seeking postdoctoral positions starting summer 2026.<br>
+If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!
+
+</div>
+
 **Latest News**
 =====
 
