@@ -15,6 +15,7 @@ Static analysis checks the source code thoroughly before execution, and covers a
 
 If you are an app developer, a Data Protection Officer, or an auditor and are interested in collaborating or learning more about our work, please [contact me](mailto:mugdha.khedkar@upb.de). 
 
+
 **Publications**
 =====
 
@@ -37,7 +38,7 @@ If you are an app developer, a Data Protection Officer, or an auditor and are in
 
 **Research Interests**
 =====
-* Static Program Analysis
-* Data Privacy and Protection
-* Compiler Optimization 
-* Formal Verification
+
+I have worked on static program analysis, data privacy and protection, and conducted empirical and usability-driven studies surrounding such analyses. I am open to working on broader topics in the future. 
+
+I’m actively seeking postdoctoral positions starting summer 2026. If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!
