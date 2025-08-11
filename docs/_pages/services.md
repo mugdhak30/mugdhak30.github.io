@@ -9,6 +9,7 @@ author_profile: true
 ======
 
 * PC Member: [ASE 2025 (Tool Demonstrations)](https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track), [ASE 2024 (Tool Demonstrations)](https://conf.researchr.org/track/ase-2024/ase-2024-tool-demonstrations)
+* Journal Reviewer: IEEE Software, IEEE Transactions on Software Engineering, Journal of Software: Evolution and Process 
 * Student Volunteer: [ASE 2024](https://conf.researchr.org/home/ase-2024), [ASE 2021](https://conf.researchr.org/home/ase-2021)
 * Junior PC Member: [MSR 2023 Technical Track](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?)
 * Mentor: [perspeEktIve M](https://www.eim.uni-paderborn.de/en/faculty/studies/mentoring-programme) Universität Paderborn (Nov 2021 - April 2022)
