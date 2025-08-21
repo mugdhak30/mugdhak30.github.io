@@ -24,6 +24,8 @@ If you’re interested in collaborating or have opportunities, please feel free 
 **Latest News**
 =====
 
+📢 **August 2025**: I have been invited to present our research at IAPP's European Privacy Network 2025 to be held in Munich in October.
+
 📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a poster. ![](images/new.jpeg){:width="25"}
 
 📢 **May 2025**: I have been invited to serve as a program committee member for [ASE 2025](https://conf.researchr.org/home/ase-2025) (Tool Demonstrations). ![](images/new.jpeg){:width="25"}
