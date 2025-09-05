@@ -16,7 +16,7 @@ My research interests include an intersection of program analysis and data priva
 
 <div style="border: 2px solid #007acc; border-radius: 8px; padding: 1em; background-color: #f0f8ff; text-align: center; margin: 1em 0; font-size: 1em;">
 
-📢 <strong>Now Open to Postdoc Opportunities</strong>: I’m actively seeking postdoctoral positions starting summer 2026.<br>
+📢 <strong>Now Open to Postdoc Opportunities</strong>: I’m actively seeking postdoctoral positions starting fall 2026.<br>
 If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!
 
 </div>
@@ -24,21 +24,23 @@ If you’re interested in collaborating or have opportunities, please feel free 
 **Latest News**
 =====
 
+📢 **August 2025**: I gave a talk at IT University, Copenhagen. ![](images/new.jpeg){:width="25"}
+
 📢 **August 2025**: I have been invited to present our research at IAPP's European Privacy Network 2025 to be held in Munich in October. ![](images/new.jpeg){:width="25"}
 
-📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a poster. ![](images/new.jpeg){:width="25"}
+📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a poster.
 
 📢 **May 2025**: I have been invited to serve as a program committee member for [ASE 2025](https://conf.researchr.org/home/ase-2025) (Tool Demonstrations). 
 
 📢 **May 2025**: We are inviting privacy experts, legal professionals, and Data Protection Officers for an [interview-based user study](https://www.hni.uni-paderborn.de/sse/lehre/user-study-automating-android-privacy-assessments) about privacy assessments and GDPR compliance. 
 
-📢 **March 2025**: I gave a talk about Android privacy assessments at Amazon, Santa Clara (California). 
+📢 **March 2025**: I gave a talk at Amazon, Santa Clara (California). 
 
 📢 **November 2024**: I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento, where I presented our papers at the A-Mobile workshop. 
 
 📢 **October 2024**: I gave a [talk](https://engineering.ucdavis.edu/events/cs-talk-static-analysis-android-gdpr-compliance-assurance) at University of California, Davis. 
 
-📢 **October 2024**: I gave a talk about Android privacy at the [CyberResilience.NRW kickoff event](https://www.linkedin.com/feed/update/urn:li:activity:7249410975156563969/) in Paderborn. 
+📢 **October 2024**: I gave a talk at the [CyberResilience.NRW kickoff event](https://www.linkedin.com/feed/update/urn:li:activity:7249410975156563969/) in Paderborn. 
 
 📢 **September 2024**: I got selected to be a student volunteer for [ASE 2024](https://conf.researchr.org/home/ase-2024).
 
