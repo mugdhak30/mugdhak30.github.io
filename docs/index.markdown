@@ -32,8 +32,6 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **May 2025**: I have been invited to serve as a program committee member for [ASE 2025](https://conf.researchr.org/home/ase-2025) (Tool Demonstrations). 
 
-📢 **May 2025**: We are inviting privacy experts, legal professionals, and Data Protection Officers for an [interview-based user study](https://www.hni.uni-paderborn.de/sse/lehre/user-study-automating-android-privacy-assessments) about privacy assessments and GDPR compliance. 
-
 📢 **March 2025**: I gave a talk at Amazon, Santa Clara (California). 
 
 📢 **November 2024**: I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento, where I presented our papers at the A-Mobile workshop. 
