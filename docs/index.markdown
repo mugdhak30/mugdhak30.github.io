@@ -4,6 +4,11 @@
 
 layout: archive
 author_profile: false
+
+announcements:
+  scrollable: true   # enable vertical scrolling
+  limit: 5           # number of items to display before scrolling
+
 ---
 {:refdef: style="text-align: center;"}
 ![](images/Yearbook.jpg){:width="250"}
@@ -24,13 +29,27 @@ If you’re interested in collaborating or have opportunities, please feel free 
 **Latest News**
 =====
 
-📢 **August 2025**: I gave a talk at IT University, Copenhagen. ![](images/new.jpeg){:width="25"}
 
-📢 **August 2025**: I have been invited to present our research at IAPP's European Privacy Network 2025 to be held in Munich in October. ![](images/new.jpeg){:width="25"}
+<style>
+.announcements-scroll {
+  max-height: 400px;        /* adjust height */
+  overflow-y: auto;         /* vertical scrolling */
+  padding-right: 8px;
+  line-height: 1.35;
+}
+.announcements-scroll p { margin: 0 0 rem 0; }
+.announcements-scroll img { vertical-align: middle; margin-left: 6px; width: 25px; height: auto; }
+</style>
+
+<!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
+<div class="announcements-scroll" markdown="1">
+📢 **August 2025**: I gave a talk at IT University, Copenhagen. <img src="/images/new.jpeg" alt="new" />
+
+📢 **August 2025**: I have been invited to present our research at IAPP's European Privacy Network 2025 in Munich in October. <img src="/images/new.jpeg" alt="new" />
 
 📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a poster.
 
-📢 **May 2025**: I have been invited to serve as a program committee member for [ASE 2025](https://conf.researchr.org/home/ase-2025) (Tool Demonstrations). 
+📢 **May 2025**: I have been invited to serve as a program committee member for [ASE 2025](https://conf.researchr.org/home/ase-2025) (Tool Demonstrations).
 
 📢 **March 2025**: I gave a talk at Amazon, Santa Clara (California). 
 
@@ -61,3 +80,6 @@ If you’re interested in collaborating or have opportunities, please feel free 
 📢 **March 2023**: My short paper was accepted at [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS). ([Preprint](https://arxiv.org/abs/2303.09606))
 
 📢 **December 2022**: I was selected as a Junior PC member for the research track of [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?).
+
+<!-- etc -->
+</div>
