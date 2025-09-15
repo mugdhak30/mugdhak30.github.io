@@ -65,6 +65,27 @@ redirect_from:
       })
     </script>
 
+
+<style>
+.announcements-scroll {
+  max-height: 920px;        /* adjust height */
+  overflow-y: auto;         /* vertical scrolling */
+  padding-right: 8px;
+  line-height: 1.35;
+}
+.announcements-scroll p { margin: 0 0 rem 0; }
+.announcements-scroll img { vertical-align: middle; margin-left: 6px; width: 25px; height: auto; }
+
+/* Make scrollbar bigger and more visible */
+.announcements-scroll::-webkit-scrollbar {
+  width: 20px;   /* wider scrollbar */
+}
+
+</style>
+
+<!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
+<div class="announcements-scroll" markdown="1">
+
 <!--End mc_embed_signup-->
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -75,3 +96,4 @@ redirect_from:
    {% include archive-single.html %}
 {% endfor %}
 
+</div>
