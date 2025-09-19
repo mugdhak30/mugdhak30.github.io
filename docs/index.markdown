@@ -43,9 +43,12 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
+
+📢 **September 2025**:I have been invited to serve as a program committee member for [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026). <img src="/images/new.jpeg" alt="new" />
+
 📢 **August 2025**: I gave a talk at IT University, Copenhagen. <img src="/images/new.jpeg" alt="new" />
 
-📢 **August 2025**: I have been invited to present our research at IAPP's European Privacy Network 2025 in Munich in October. <img src="/images/new.jpeg" alt="new" />
+📢 **August 2025**: I have been invited to lead a workshop session at IAPP's European Privacy Network 2025 in Munich in October. <img src="/images/new.jpeg" alt="new" />
 
 📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a poster.
 

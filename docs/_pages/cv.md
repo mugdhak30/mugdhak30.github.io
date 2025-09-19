@@ -56,3 +56,5 @@ IIT Bombay, India
 * Poetry  
   * [Basic Elements of Poetry](https://allpoetry.com/group/20193-Course%3A_The_Basic_Elements_of_Poetry_--_Intermediate) 
   * [Abstract Poetry 101](https://allpoetry.com/group/20221-Abstract_101__closed)
+
+Full CV available [here]({{mugdhak30.github.io}}/assets/MK_Resume.pdf).
