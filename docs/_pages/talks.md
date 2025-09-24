@@ -26,7 +26,7 @@ Here is a selection of recent and upcoming talks.
 
 ## 2024
 
-- **Advancing Android Privacy Assessments with Automation.** <span style="color:blue;">*(Conference Presentation)*</span>
+- **Advancing Android Privacy Assessments with Automation** <span style="color:blue;">*(Conference Presentation)*</span>
   - 7th International Workshop on Advances in Mobile App Analysis (co-located with ASE 2024) — November 2024
 
 - **Do Android App Developers Accurately Report Collection of Privacy-Related Data?** <span style="color:blue;">*(Conference Presentation)*</span>
