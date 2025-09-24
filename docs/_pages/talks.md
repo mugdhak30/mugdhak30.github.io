@@ -13,7 +13,7 @@ Here is a selection of recent and upcoming talks.
 ## 2025
 
 - **Automated Support for Privacy Assessments** <span style="color:blue;">*(Upcoming Invited Workshop)*</span>
-  - European Privacy KnowledgeNet 2025 — November 2025  
+  - European Privacy KnowledgeNet 2025 — October 2025  
 
 - **Static Analysis for Android GDPR Compliance**  <span style="color:blue;">*(Talk)*</span>
   - Hasso Plattner Institute (University of Potsdam), Mobile and Wireless Security — September 2025  
