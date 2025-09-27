@@ -46,9 +46,9 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **September 2025**: I gave a talk at Hasso Plattner Institute, University of Potsdam. <img src="/images/new.jpeg" alt="new" />
 
-📢 **September 2025**:I have been invited to serve as a program committee member for [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026). <img src="/images/new.jpeg" alt="new" />
+📢 **September 2025**: I have been invited to serve as a program committee member for [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026). <img src="/images/new.jpeg" alt="new" />
 
-📢 **August 2025**: I have been invited to lead a workshop session at IAPP's European Privacy Network 2025 in Munich in October. 
+📢 **August 2025**: I have been invited to lead a workshop session at IAPP's [European Privacy KnowledgeNet 2025](https://iapp.org/connect/communities/knowledgenets/a0lTS000001M9yXYAS/) to be held at Munich in October. 
 
 📢 **August 2025**: I gave a talk at IT University, Copenhagen. 
 
@@ -66,7 +66,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **September 2024**: I got selected to be a student volunteer for [ASE 2024](https://conf.researchr.org/home/ase-2024).
 
-📢 **September 2024**: Two papers were accepted at the [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/) held in conjunction with [ASE 2024](https://conf.researchr.org/home/ase-2024). 
+📢 **September 2024**: Two papers were accepted at the [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/amobile2024.html) held in conjunction with [ASE 2024](https://conf.researchr.org/home/ase-2024). 
 
 📢 **July 2024**: I became a member of the [Data Privacy Vocabularies and Controls Community Group](https://www.w3.org/community/dpvcg/). 
 
