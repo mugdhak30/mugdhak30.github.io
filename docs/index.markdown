@@ -44,6 +44,8 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
+📢 **October 2025**: I have been invited to serve as a reviewer for the Information and Software Technology (IST) special issue on [Regulatory Compliance in Software Engineering](https://www.sciencedirect.com/special-issue/319254/regulatory-compliance-in-software-engineering). <img src="/images/new.jpeg" alt="new" /> 
+
 📢 **September 2025**: I gave a talk at Hasso Plattner Institute, University of Potsdam. <img src="/images/new.jpeg" alt="new" />
 
 📢 **September 2025**: I have been invited to serve as a program committee member for [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026). <img src="/images/new.jpeg" alt="new" />
