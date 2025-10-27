@@ -33,13 +33,14 @@ You can also find my publications on my [Google Scholar page](https://scholar.go
 =====
 
 [5]  **Mugdha Khedkar**, Michael Schlichtig, Nihad Atakishiyev et al. Assessor View: Introducing Tool Support for Android Privacy Assessments, 22 April 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-6323701/v1](https://www.researchsquare.com/article/rs-6323701/v1)
+*(invited Journal extension of a peer-reviewed workshop paper)*
 
 [6]  **Mugdha Khedkar**, Ambuj Kumar Mondal, Eric Bodden et al. A Study of Privacy-Related Data Collected by Android Apps, 02 December 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5454195/v1](https://www.researchsquare.com/article/rs-5454195/v1)
-
+*(invited Journal extension of a peer-reviewed workshop paper)*
 
 **Research Interests**
 =====
 
 I have worked on static program analysis, data privacy and protection, and conducted empirical and usability-driven studies surrounding such analyses. I am open to working on broader topics in the future. 
 
-I’m actively seeking postdoctoral positions starting fall 2026. If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!
+I’m actively seeking postdoctoral positions starting summer or fall 2026. If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!

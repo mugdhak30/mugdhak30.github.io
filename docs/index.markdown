@@ -21,7 +21,7 @@ My research interests include an intersection of program analysis and data priva
 
 <div style="border: 2px solid #007acc; border-radius: 8px; padding: 1em; background-color: #f0f8ff; text-align: center; margin: 1em 0; font-size: 1em;">
 
-📢 <strong>Now Open to Postdoc Opportunities</strong>: I’m actively seeking postdoctoral positions starting fall 2026.<br>
+📢 <strong>Now Open to Postdoc Opportunities</strong>: I’m actively seeking postdoctoral positions starting summer or fall 2026.<br>
 If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!
 
 </div>
@@ -44,7 +44,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
-📢 **October 2025**: I have been invited to serve as a reviewer for the Information and Software Technology (IST) special issue on [Regulatory Compliance in Software Engineering](https://www.sciencedirect.com/special-issue/319254/regulatory-compliance-in-software-engineering). <img src="/images/new.jpeg" alt="new" /> 
+📢 **October 2025**: I have been invited to serve as a reviewer for the Information and Software Technology (IST) special issue on Regulatory Compliance in Software Engineering. <img src="/images/new.jpeg" alt="new" /> 
 
 📢 **September 2025**: I gave a talk at Hasso Plattner Institute, University of Potsdam. <img src="/images/new.jpeg" alt="new" />
 
