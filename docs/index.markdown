@@ -15,7 +15,7 @@ announcements:
 {:refdef}
 
 Hi! I am Mugdha Khedkar. I am a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/) at Paderborn University, Germany.
-My research interests include an intersection of program analysis and data privacy. Currently I exploring the role of static program analysis in ensuring protection and privacy of user data in Android apps. 
+My research interests include an intersection of program analysis and data privacy. Currently I am exploring the role of static program analysis in ensuring protection and privacy of user data in Android apps. 
 
 
 <div style="border: 2px solid #007acc; border-radius: 8px; padding: 1em; background-color: #f0f8ff; text-align: center; margin: 1em 0; font-size: 1em;">
