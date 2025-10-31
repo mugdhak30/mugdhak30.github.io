@@ -12,13 +12,18 @@ Here is a selection of recent and upcoming talks.
 
 ## 2025
 
-- **Automated Support for Privacy Assessments** <span style="color:blue;">*(Upcoming Invited Workshop)*</span>
-  - [European Privacy KnowledgeNet 2025](https://iapp.org/connect/communities/knowledgenets/a0lTS000001M9yXYAS/) — October 2025  
+- **Automated Support for Privacy Assessments** <span style="color:blue;">*(Invited Workshop)*</span>
+  - European Privacy KnowledgeNet 2025, Munich — October 2025  
 
 - **Static Analysis for Android GDPR Compliance**  <span style="color:blue;">*(Talk)*</span>
+  - Cybersecurity Center TU Wien — October 2025
+
   - Mobile and Wireless Security, Hasso Plattner Institute (University of Potsdam) — September 2025  
   
   - Center for Information Security and Trust, IT University of Copenhagen — August 2025
+
+- **Static Analysis for Privacy-Aware Reporting**  <span style="color:blue;">*(Talk)*</span>
+  - Programming Languages and Artificial Intelligence, LMU Munich — October 2025
 
 - **Static Analysis for Android Privacy Assessments** <span style="color:blue;">*(Talk)*</span>
   - AWS, Santa Clara — March 2025  

@@ -14,9 +14,8 @@ announcements:
 ![](images/Yearbook.jpg){:width="250"}
 {:refdef}
 
-Hi! I am Mugdha Khedkar. I am a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/). I work as a Research Assistant in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/) at Paderborn University, Germany.
-
-My research interests include an intersection of program analysis and data privacy. Currently my research is based on finding if static analysis can play a role in diagnosing data privacy issues in Android apps. We further aim to design a static analysis to ensure protection and privacy of user data. 
+Hi! I am Mugdha Khedkar. I am a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/) at Paderborn University, Germany.
+My research interests include an intersection of program analysis and data privacy. Currently I exploring the role of static program analysis in ensuring protection and privacy of user data in Android apps. 
 
 
 <div style="border: 2px solid #007acc; border-radius: 8px; padding: 1em; background-color: #f0f8ff; text-align: center; margin: 1em 0; font-size: 1em;">
@@ -50,7 +49,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **September 2025**: I have been invited to serve as a program committee member for [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026). <img src="/images/new.jpeg" alt="new" />
 
-📢 **August 2025**: I have been invited to lead a workshop session at IAPP's [European Privacy KnowledgeNet 2025](https://iapp.org/connect/communities/knowledgenets/a0lTS000001M9yXYAS/) to be held at Munich in October. 
+📢 **August 2025**: I have been invited to lead a workshop session at IAPP's European Privacy KnowledgeNet 2025 to be held at Munich in October. 
 
 📢 **August 2025**: I gave a talk at IT University, Copenhagen. 
 
