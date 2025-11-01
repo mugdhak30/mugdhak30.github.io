@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Teaching Assistance**
-======
+## Teaching Assistance
 
 * [**Secure Software Engineering**](https://www.hni.uni-paderborn.de/sse/lehre/sse) \\
 Bachelor Course, Universität Paderborn (Summer 2025, Summer 2024) \\
@@ -24,8 +23,8 @@ This course covers several concepts in static code analysis: intra-procedural da
 Master Course, Universität Paderborn (Summer 2022, Summer 2021)\\
 This course covers several novel, advanced concepts in static code analysis: sparse IFDS, pushdown systems, demand-driven program analysis, hybrid analysis and improved user experience.
 
-**Thesis Supervision**
-=====
+## Thesis Supervision
+
 I have supervised the following Master theses:
 
 1) Automated Privacy Assessment for Android Applications: A DPV Visualisation Approach \\
@@ -44,8 +43,8 @@ For students seeking a thesis topic, organizational information [on my webpage](
   {% include archive-single.html %}
 {% endfor %}
 
-**Seminar Supervision**
-=====
+## Seminar Supervision
+
 Additionally, I have supervised the following seminars:
 
 * Seminar Secure Systems Engineering (Winter 2024) - Mapping Data Privacy Vocabulary to Source Code 
@@ -56,4 +55,3 @@ Additionally, I have supervised the following seminars:
 * Seminar Secure Systems Engineering (Winter 2022) - Studying Pseudonymization Techniques for Data Protection
 * Seminar Secure Systems Engineering (Summer 2022) - A Survey of Compliance Standards 
 * Seminar Secure Systems Engineering (Winter 2021) - A Survey of Parametric Static Analysis
-

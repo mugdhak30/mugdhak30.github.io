@@ -30,7 +30,7 @@ You can also find my publications on my [Google Scholar page](https://scholar.go
 
 ---
 
-## Preprints (under submission)
+## Preprints
 
 <span class="pub-abbr pub-preprint">ASEJ Preprint</span> **Mugdha Khedkar**, Michael Schlichtig, Nihad Atakishiyev et al. Assessor View: Introducing Tool Support for Android Privacy Assessments, 22 April 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-6323701/v1](https://www.researchsquare.com/article/rs-6323701/v1) 
 *(Invited journal extension of a peer-reviewed workshop paper)*

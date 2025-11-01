@@ -5,8 +5,7 @@ permalink: /interests/
 author_profile: true
 ---
 
-**Personal Interests**
-=====
+## Personal Interests
 
 I am an avid reader. I am also an author of more than 275 English poems, some of which can be found on my [poetry profile](https://allpoetry.com/Mugdhak).
 
