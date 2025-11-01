@@ -1,0 +1,28 @@
+.publication-entry {
+  background-color: #f8f9fa;
+  border-left: 4px solid #007bff;
+  transition: all 0.3s ease;
+}
+
+.publication-entry:hover {
+  background-color: #eef2ff;
+  border-left-color: #4f46e5;
+}
+
+/* Default abbreviation style */
+.publication-entry span {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Optional color themes for specific conferences */
+span:contains("ICSE") {
+  background-color: #007bff !important; /* Blue */
+}
+
+span:contains("A-Mobile@ASE") {
+  background-color: #10b981 !important; /* Green */
+}
+
+span:contains("MOBILESoft") {
+  background-color: #f59e0b !important; /* Amber */
+}

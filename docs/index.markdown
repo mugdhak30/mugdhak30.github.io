@@ -43,13 +43,15 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
-📢 **October 2025**: I have been invited to serve as a reviewer for the Information and Software Technology (IST) special issue on Regulatory Compliance in Software Engineering. <img src="/images/new.jpeg" alt="new" /> 
+📢 **October 2025**: I organized a [workshop session](https://www.linkedin.com/posts/mugdha-khedkar-1410a3102_knowledgenet-epn-activity-7390034778466627584-uWFY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABn_XwEBdAM1kUZsRPrHxDcgJq1cRHI2o7k) at the IAPP European Privacy KnowledgeNet 2025 at Munich. 🆕
 
-📢 **September 2025**: I gave a talk at Hasso Plattner Institute, University of Potsdam. <img src="/images/new.jpeg" alt="new" />
+📢 **October 2025**: I gave a talk at LMU Munich and TU Wien. 🆕
 
-📢 **September 2025**: I have been invited to serve as a program committee member for [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026). <img src="/images/new.jpeg" alt="new" />
+📢 **October 2025**: I have been invited to serve as a reviewer for the Information and Software Technology (IST) special issue on Regulatory Compliance in Software Engineering. 🆕
 
-📢 **August 2025**: I have been invited to lead a workshop session at IAPP's European Privacy KnowledgeNet 2025 to be held at Munich in October. 
+📢 **September 2025**: I gave a talk at Hasso Plattner Institute, University of Potsdam. 
+
+📢 **September 2025**: I have been invited to serve as a program committee member for [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026).
 
 📢 **August 2025**: I gave a talk at IT University, Copenhagen. 
 

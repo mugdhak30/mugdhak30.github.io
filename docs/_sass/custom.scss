@@ -1,0 +1,15 @@
+.pub-abbr {
+  display: inline-block;
+  color: white;
+  font-weight: 600;
+  font-size: 0.75rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 0.35rem;
+  margin-left: 0.3rem;
+  vertical-align: middle;
+}
+
+.pub-asew { background-color: #2563eb; }      /* blue */
+.pub-mobilesoft { background-color: #16a34a; } /* green */
+.pub-icse { background-color: #ef4444; }      /* red */
+.pub-preprint { background-color: #f59e0b; }  /* amber for preprints */

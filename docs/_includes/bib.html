@@ -1,0 +1,19 @@
+<li class="pub-entry">
+  <strong>{{ entry.title }}</strong><br>
+  {{ entry.author }}.<br>
+
+  {% if entry.booktitle %}
+    In <em>{{ entry.booktitle }}</em>,
+  {% elsif entry.journal %}
+    <em>{{ entry.journal }}</em>,
+  {% endif %}
+
+  {{ entry.year }}.<br>
+
+  {% if entry.doi %}
+    <a href="https://doi.org/{{ entry.doi }}">DOI: {{ entry.doi }}</a><br>
+  {% endif %}
+  {% if entry.url %}
+    <a href="{{ entry.url }}">Link</a><br>
+  {% endif %}
+</li>
