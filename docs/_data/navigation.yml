@@ -13,18 +13,18 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Research"
+  - title: "Publications"
     url: /research/
 
   - title: "Talks"
     url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Services"
     url: /services/
     
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
     

@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &KhedkarMugdha
+  username               : 
 facebook:
   username               : 
   app_id                 :
@@ -99,7 +99,7 @@ author:
   github           : "mugdhak30"
   google_plus      :
   keybase          :
- # instagram        : "mugdha_khedkar"
+ # instagram        : 
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mugdha-khedkar-1410a3102"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KhedkarMugdha"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

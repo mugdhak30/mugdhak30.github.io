@@ -31,7 +31,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 <style>
 .announcements-scroll {
-  max-height: 400px;        /* adjust height */
+  max-height: 450px;        /* adjust height */
   overflow-y: auto;         /* vertical scrolling */
   padding-right: 8px;
   line-height: 1.35;
@@ -43,11 +43,13 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
+📢 **November 2025**: I'm serving on the Artifact Evaluation Committee of [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26). 🆕
+
 📢 **October 2025**: I organized a [workshop session](https://www.linkedin.com/posts/mugdha-khedkar-1410a3102_knowledgenet-epn-activity-7390034778466627584-uWFY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABn_XwEBdAM1kUZsRPrHxDcgJq1cRHI2o7k) at the IAPP European Privacy KnowledgeNet 2025 at Munich. 🆕
 
 📢 **October 2025**: I gave a talk at LMU Munich and TU Wien. 🆕
 
-📢 **October 2025**: I have been invited to serve as a reviewer for the Information and Software Technology (IST) special issue on Regulatory Compliance in Software Engineering. 🆕
+📢 **October 2025**: I have been invited to serve as a reviewer for the Information and Software Technology (IST) special issue on Regulatory Compliance in Software Engineering. 
 
 📢 **September 2025**: I gave a talk at Hasso Plattner Institute, University of Potsdam. 
 
@@ -55,7 +57,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **August 2025**: I gave a talk at IT University, Copenhagen. 
 
-📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a poster.
+📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a [poster]({{mugdhak30.github.io}}/assets/MugdhaSVT2025Poster.pdf).
 
 📢 **May 2025**: I have been invited to serve as a program committee member for [ASE 2025](https://conf.researchr.org/home/ase-2025) (Tool Demonstrations).
 
