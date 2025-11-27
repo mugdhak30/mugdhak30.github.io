@@ -26,7 +26,7 @@ You can also find my publications on my [Google Scholar page](https://scholar.go
 *(Revised paper (Version 2) under review)*
 
 <span class="pub-abbr pub-preprint">ASE Journal</span> **Mugdha Khedkar**, Ambuj Kumar Mondal, Eric Bodden et al. A Study of Privacy-Related Data Collected by Android Apps, 02 December 2024, PREPRINT (Version 1) available at Research Square [https://www.researchsquare.com/article/rs-5454195/v1](https://www.researchsquare.com/article/rs-5454195/v1) 
-*(Invited journal extension of a peer-reviewed workshop paper)*
+*(Revised paper (Version 2) under review)*
 
 ---
 
