@@ -11,7 +11,7 @@ announcements:
 
 ---
 {:refdef: style="text-align: center;"}
-![](images/Yearbook.jpg){:width="250"}
+![](images/dagstuhl.jpg){:width="250"}
 {:refdef}
 
 Hi! I am Mugdha Khedkar. I am a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/) at Paderborn University, Germany.
