@@ -16,7 +16,9 @@ Here is a selection of recent and upcoming talks.
   - European Privacy KnowledgeNet 2025, Munich — October 2025  
 
 - **Static Analysis for Android GDPR Compliance** 
-  - Cybersecurity Center TU Wien — October 2025
+  - Cybersecurity Group, King's College London — December 2025
+
+  - Cybersecurity Center, TU Wien — October 2025
 
   - Mobile and Wireless Security, Hasso Plattner Institute (University of Potsdam) — September 2025  
   
