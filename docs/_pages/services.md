@@ -8,7 +8,7 @@ author_profile: true
 ## Academic Services
 
 * PC Member: [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026), [ASE 2025 Tool Demonstrations](https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track), [ASE 2024 Tool Demonstrations](https://conf.researchr.org/track/ase-2024/ase-2024-tool-demonstrations)
-* Artifact Evaluation Committee Member: [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26)
+* Artifact Evaluation Committee Member: [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26), [PoPETS 2026](https://petsymposium.org/)
 * Journal Reviewer: [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481), [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology) 
 * Magazine Reviewer: [IEEE Software](https://www.computer.org/csdl/magazine/so)
 * Student Volunteer: [ASE 2024](https://conf.researchr.org/home/ase-2024), [ASE 2021](https://conf.researchr.org/home/ase-2021)
