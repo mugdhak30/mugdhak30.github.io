@@ -43,25 +43,23 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
-📢 **December 2025**: I'm serving on the Artifact Evaluation Committee of [PoPETS 2026](https://petsymposium.org/). 🆕
+📢 **December 2025**: I'm serving on the Artifact Evaluation Committee of [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26) and [PoPETS 2026](https://petsymposium.org/). 🆕
 
 📢 **December 2025**: I gave a virtual talk at King's College London. 🆕
 
-📢 **November 2025**: I'm serving on the Artifact Evaluation Committee of [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26). 🆕
-
-📢 **October 2025**: I organized a [workshop session](https://www.linkedin.com/posts/mugdha-khedkar-1410a3102_knowledgenet-epn-activity-7390034778466627584-uWFY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABn_XwEBdAM1kUZsRPrHxDcgJq1cRHI2o7k) at the IAPP European Privacy KnowledgeNet 2025 at Munich.
+📢 **October 2025**: I organized a [workshop session](https://www.linkedin.com/posts/mugdha-khedkar-1410a3102_knowledgenet-epn-activity-7390034778466627584-uWFY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABn_XwEBdAM1kUZsRPrHxDcgJq1cRHI2o7k) at the IAPP European Privacy KnowledgeNet 2025 at Munich. 🆕
 
 📢 **October 2025**: I gave a talk at LMU Munich and TU Wien. 
 
 📢 **September 2025**: I gave a talk at Hasso Plattner Institute, University of Potsdam. 
 
-📢 **September 2025**: I have been invited to serve as a program committee member for [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026).
+📢 **September 2025**: I have been invited to serve as a Program Committee member for [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026).
 
 📢 **August 2025**: I gave a talk at IT University, Copenhagen. 
 
 📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a [poster]({{mugdhak30.github.io}}/assets/MugdhaSVT2025Poster.pdf).
 
-📢 **May 2025**: I have been invited to serve as a program committee member for [ASE 2025](https://conf.researchr.org/home/ase-2025) (Tool Demonstrations).
+📢 **May 2025**: I have been invited to serve as a Program Committee member for [ASE 2025](https://conf.researchr.org/home/ase-2025) (Tool Demonstrations).
 
 📢 **March 2025**: I gave a talk at Amazon, Santa Clara (California). 
 
@@ -77,7 +75,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **July 2024**: I became a member of the [Data Privacy Vocabularies and Controls Community Group](https://www.w3.org/community/dpvcg/). 
 
-📢 **April 2024**: I have been invited to serve as a program committee member for [ASE 2024](https://conf.researchr.org/home/ase-2024) (Tool Demonstrations). 
+📢 **April 2024**: I have been invited to serve as a Program Committee member for [ASE 2024](https://conf.researchr.org/home/ase-2024) (Tool Demonstrations). 
 
 📢 **April 2024**: I presented our short paper at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal. 
 
