@@ -8,6 +8,8 @@ author_profile: true
 **Publications**
 =====
 
+<span class="pub-abbr pub-preprint">ASE Journal</span> **Mugdha Khedkar**, Ambuj Kumar Mondal, and Eric Bodden. A Study of Privacy-Related Data Collected by Android Apps. Automated Software Engineering Journal. *(Just accepted)*
+
 <span class="pub-abbr pub-asew">A-Mobile@ASE'24</span>  **Mugdha Khedkar**, Ambuj Kumar Mondal, and Eric Bodden. 2024. Do Android App Developers Accurately Report Collection of Privacy-Related Data? In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops. Association for Computing Machinery, New York, NY, USA, 176–186. [https://doi.org/10.1145/3691621.3694949](https://doi.org/10.1145/3691621.3694949) ([Preprint](https://arxiv.org/abs/2409.04167))
 
 <span class="pub-abbr pub-asew">A-Mobile@ASE'24</span> **Mugdha Khedkar**, Michael Schlichtig, and Eric Bodden. 2024. Advancing Android Privacy Assessments with Automation. In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops. Association for Computing Machinery, New York, NY, USA, 218–222. [https://doi.org/10.1145/3691621.3694953](https://doi.org/10.1145/3691621.3694953) ([Preprint](https://arxiv.org/abs/2409.06564))
@@ -20,13 +22,10 @@ You can also find my publications on my [Google Scholar page](https://scholar.go
 
 ---
 
-## Preprints
+## Preprint
 
-<span class="pub-abbr pub-preprint">ASE Journal</span> **Mugdha Khedkar**, Michael Schlichtig, Nihad Atakishiyev et al. Assessor View: Introducing Tool Support for Android Privacy Assessments, 22 April 2025, PREPRINT (Version 1) available at Research Square [https://www.researchsquare.com/article/rs-6323701/v1](https://www.researchsquare.com/article/rs-6323701/v1) 
-*(Revised paper (Version 2) under review)*
-
-<span class="pub-abbr pub-preprint">ASE Journal</span> **Mugdha Khedkar**, Ambuj Kumar Mondal, Eric Bodden et al. A Study of Privacy-Related Data Collected by Android Apps, 02 December 2024, PREPRINT (Version 1) available at Research Square [https://www.researchsquare.com/article/rs-5454195/v1](https://www.researchsquare.com/article/rs-5454195/v1) 
-*(Revised paper (Version 2) under review)*
+**Mugdha Khedkar**, Michael Schlichtig, Nihad Atakishiyev et al. Assessor View: Introducing Tool Support for Android Privacy Assessments, 22 April 2025, PREPRINT (Version 1) available at Research Square [https://www.researchsquare.com/article/rs-6323701/v1](https://www.researchsquare.com/article/rs-6323701/v1) 
+*(Revised paper under review at the ASE Journal)*
 
 ---
 
