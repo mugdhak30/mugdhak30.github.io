@@ -43,7 +43,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
-📢 **December 2025**: Our paper has been accepted in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉. 🆕
+📢 **December 2025**: Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉. 🆕
 
 📢 **December 2025**: I'm serving on the Artifact Evaluation Committee of [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26) and [PoPETS 2026](https://petsymposium.org/). 🆕
 
