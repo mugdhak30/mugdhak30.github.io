@@ -8,7 +8,9 @@ author_profile: true
 **Publications**
 =====
 
-<span class="pub-abbr pub-preprint">ASE Journal</span> **Mugdha Khedkar**, Ambuj Kumar Mondal, and Eric Bodden. A Study of Privacy-Related Data Collected by Android Apps. In Automated Software Engineering, Springer International Publishing, 2025. ([Preprint]({{mugdhak30.github.io}}/assets/Preprints/ASEJ_PRICE.pdf), [Artifacts](https://zenodo.org/records/14046829))
+<span class="pub-abbr pub-icse">SANER 2026</span> **Mugdha Khedkar**, Michael Schlichtig, and Eric Bodden. 2026. Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View. IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), _(To appear)_ ([Preprint]({{mugdhak30.github.io}}/assets/Preprints/RoPA_SANER2026.pdf), [Artifacts](https://doi.org/10.5281/zenodo.16151588))
+
+<span class="pub-abbr pub-asej">ASE Journal</span> **Mugdha Khedkar**, Ambuj Kumar Mondal, and Eric Bodden. A Study of Privacy-Related Data Collected by Android Apps. In Automated Software Engineering, Springer International Publishing, 2025. ([Preprint]({{mugdhak30.github.io}}/assets/Preprints/ASEJ_PRICE.pdf), [Artifacts](https://zenodo.org/records/14046829))
 
 <span class="pub-abbr pub-asew">A-Mobile@ASE'24</span>  **Mugdha Khedkar**, Ambuj Kumar Mondal, and Eric Bodden. 2024. Do Android App Developers Accurately Report Collection of Privacy-Related Data? In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops. Association for Computing Machinery, New York, NY, USA, 176–186. [https://doi.org/10.1145/3691621.3694949](https://doi.org/10.1145/3691621.3694949) ([Preprint](https://arxiv.org/abs/2409.04167), [Artifacts](https://zenodo.org/records/13318828))
 
