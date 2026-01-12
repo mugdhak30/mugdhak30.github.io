@@ -45,9 +45,9 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **December 2025**: A couple of things happened:
 
-  - Our tool paper has been accepted at [SANER 2026](https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track) 🎉! 🆕
-
   - Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉. 🆕
+
+  - Our tool paper has been accepted at [SANER 2026](https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track) 🎉! 🆕
 
   - I'm serving on the Artifact Evaluation Committee of [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26) and [PoPETS 2026](https://petsymposium.org/). 🆕
 
