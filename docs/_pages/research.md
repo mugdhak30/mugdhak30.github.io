@@ -8,9 +8,11 @@ author_profile: true
 **Publications**
 =====
 
+<span class="pub-abbr pub-mobilesoft">MOBILESoft'26</span>  **Mugdha Khedkar**, Michael Schlichtig, Mohamed Soliman, and Eric Bodden. 2026. _Challenges in Android Data Disclosure: An Empirical Study_. In Proceedings of the IEEE/ACM 13th International Conference on Mobile Software Engineering and Systems. _(To appear)_
+
 <span class="pub-abbr pub-asejournal">ASE Journal</span> **Khedkar, M.**, Kumar Mondal, A. & Bodden, E. _A study of privacy-related data collected by Android apps._ Autom Softw Eng 33, 45 (2026). [https://doi.org/10.1007/s10515-025-00589-3](https://doi.org/10.1007/s10515-025-00589-3) ([Preprint]({{mugdhak30.github.io}}/assets/Preprints/ASEJ_PRICE.pdf), [Artifacts](https://zenodo.org/records/14046829))
 
-<span class="pub-abbr pub-icse">SANER'26</span> **Mugdha Khedkar**, Michael Schlichtig, and Eric Bodden. _Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View._ IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026), _(To appear)_ ([Preprint]({{mugdhak30.github.io}}/assets/Preprints/RoPA_SANER2026.pdf), [Artifacts](https://doi.org/10.5281/zenodo.16151588))
+<span class="pub-abbr pub-icse">SANER'26</span> **Mugdha Khedkar**, Michael Schlichtig, and Eric Bodden. _Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View._ In Proceedings of the IEEE International Conference on Software Analysis, Evolution and Reengineering. _(To appear)_ ([Preprint]({{mugdhak30.github.io}}/assets/Preprints/RoPA_SANER2026.pdf), [Artifacts](https://doi.org/10.5281/zenodo.16151588))
 
 <span class="pub-abbr pub-asew">A-Mobile@ASE'24</span>  **Mugdha Khedkar**, Ambuj Kumar Mondal, and Eric Bodden. 2024. _Do Android App Developers Accurately Report Collection of Privacy-Related Data?_ In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops. Association for Computing Machinery, New York, NY, USA, 176–186. [https://doi.org/10.1145/3691621.3694949](https://doi.org/10.1145/3691621.3694949) ([Preprint](https://arxiv.org/abs/2409.04167), [Artifacts](https://zenodo.org/records/13318828))
 
