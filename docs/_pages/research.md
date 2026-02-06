@@ -8,9 +8,12 @@ author_profile: true
 **Publications**
 =====
 
+<span class="pub-abbr pub-asejournal">ASE Journal</span> **Mugdha Khedkar**, Michael Schlichtig, Nihad Atakishiyev, and Eric Bodden. _Between Law and Code: Challenges and Opportunities for Automating Privacy Assessments._ Automated Software Engineering, Springer Publishing, 2026. _(To appear)_ ([Preprint]({{mugdhak30.github.io}}/assets/Preprints/ASEJ_AssessorView.pdf), [Artifacts](https://doi.org/10.5281/zenodo.15085611))
+
+
 <span class="pub-abbr pub-mobilesoft">MOBILESoft'26</span>  **Mugdha Khedkar**, Michael Schlichtig, Mohamed Soliman, and Eric Bodden. 2026. _Challenges in Android Data Disclosure: An Empirical Study_. In Proceedings of the IEEE/ACM 13th International Conference on Mobile Software Engineering and Systems. _(To appear)_ ([Preprint](https://arxiv.org/abs/2601.20459), [Artifacts](https://zenodo.org/records/17418365))
 
-<span class="pub-abbr pub-asejournal">ASE Journal</span> **Khedkar, M.**, Kumar Mondal, A. & Bodden, E. _A study of privacy-related data collected by Android apps._ Autom Softw Eng 33, 45 (2026). [https://doi.org/10.1007/s10515-025-00589-3](https://doi.org/10.1007/s10515-025-00589-3) ([Preprint]({{mugdhak30.github.io}}/assets/Preprints/ASEJ_PRICE.pdf), [Artifacts](https://zenodo.org/records/14046829))
+<span class="pub-abbr pub-asejournal">ASE Journal</span> **Mugdha Khedkar**, Ambuj Kumar Mondal, and Eric Bodden. _A study of privacy-related data collected by Android apps._ Autom Softw Eng 33, 45 (2026). [https://doi.org/10.1007/s10515-025-00589-3](https://doi.org/10.1007/s10515-025-00589-3) ([Preprint]({{mugdhak30.github.io}}/assets/Preprints/ASEJ_PRICE.pdf), [Artifacts](https://zenodo.org/records/14046829))
 
 <span class="pub-abbr pub-icse">SANER'26</span> **Mugdha Khedkar**, Michael Schlichtig, and Eric Bodden. _Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View._ In Proceedings of the IEEE International Conference on Software Analysis, Evolution and Reengineering. _(To appear)_ ([Preprint]({{mugdhak30.github.io}}/assets/Preprints/RoPA_SANER2026.pdf), [Artifacts](https://doi.org/10.5281/zenodo.16151588))
 
@@ -23,13 +26,6 @@ author_profile: true
 <span class="pub-abbr pub-icse">ICSE-Companion'23</span> Mugdha Khedkar. 2023. _Static Analysis for Android GDPR Compliance Assurance._ 2023 IEEE/ACM 45th International Conference on Software Engineering: Companion Proceedings, Melbourne, Australia, 197–199. [https://doi.org/10.1109/ICSE-Companion58688.2023.00054](https://doi.org/10.1109/ICSE-Companion58688.2023.00054) ([Preprint](https://arxiv.org/abs/2303.09606))
 
 You can also find my publications on my [Google Scholar page](https://scholar.google.com/citations?user=E737Q-wAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/342/8311.html).
-
----
-
-## Preprint
-
-**Mugdha Khedkar**, Michael Schlichtig, Nihad Atakishiyev et al. _Assessor View: Introducing Tool Support for Android Privacy Assessments_, 22 April 2025, PREPRINT (Version 1) available at Research Square [https://www.researchsquare.com/article/rs-6323701/v1](https://www.researchsquare.com/article/rs-6323701/v1) 
-*(Revised paper under review at the ASE Journal)*
 
 ---
 

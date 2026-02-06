@@ -43,13 +43,15 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
+📢 **February 2026**: Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉. 🆕
+
 📢 **January 2026**: Our paper has been accepted at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) 🎉. 🆕
 
 📢 **December 2025**: A couple of things happened:
 
   - Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉. 🆕
 
-  - Our tool paper has been accepted at [SANER 2026](https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track) 🎉! 🆕
+  - Our tool paper has been accepted at [SANER 2026](https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track) 🎉!
 
   - I'm serving on the Artifact Evaluation Committee of [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26) and [PoPETS 2026](https://petsymposium.org/). 
 
