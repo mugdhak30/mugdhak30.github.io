@@ -14,13 +14,13 @@ announcements:
 ![](images/dagstuhl.jpg){:width="250"}
 {:refdef}
 
-Hi! I am Mugdha Khedkar. I am a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/) at Paderborn University, Germany.
+Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.getElementById('nameAudio').play(); return false;" title="Play pronunciation">🔊</a>).</small><audio id="nameAudio"><source src="{{ '/assets/audio/mugdha-khedkar.mp3' | relative_url }}" type="audio/mpeg"></audio> I am a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/) at Paderborn University, Germany.
 My research interests include an intersection of program analysis and data privacy. Currently I am exploring the role of static program analysis in ensuring protection and privacy of user data in Android apps. 
 
 
 <div style="border: 2px solid #007acc; border-radius: 8px; padding: 1em; background-color: #f0f8ff; text-align: center; margin: 1em 0; font-size: 1em;">
 
-📢 <strong>Now Open to Postdoc Opportunities</strong>: I’m actively seeking postdoctoral positions starting summer or fall 2026.<br>
+📢 <strong>Now Open to Postdoc Opportunities</strong>: I’m actively seeking postdoctoral positions starting fall 2026.<br>
 If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!
 
 </div>

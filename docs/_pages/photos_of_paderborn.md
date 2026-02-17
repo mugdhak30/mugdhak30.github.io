@@ -10,6 +10,16 @@ redirect_from:
 
 Here I share some photos of Paderborn that I have clicked on the numerous walks I have taken. Come see Paderborn through my lens!
 
+
+{:refdef: style="text-align: center;"}
+![](/images/Paderbornextra42.jpg){:width="750" style="padding:20px"}
+![](/images/Paderbornextra43.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra44.jpg){:width="400" style="padding:40px"}
+{:refdef}
+{:refdef: style="text-align: center;"}
+*Northern lights over Paderborn in Jan 2026 😍*
+{: refdef}
+
 {:refdef: style="text-align: center;"}
 
 ![](/images/Paderbornextra40.jpg){:width="400" style="padding:40px"}
