@@ -17,8 +17,10 @@ Here is a selection of recent and upcoming talks.
 - **Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View.** <span class="pub-abbr pub-icse">SANER'26</span>
   - [33rd IEEE International Conference on Software Analysis, Evolution and Reengineering](https://conf.researchr.org/home/saner-2026) — March 2026
 
+## 2026
+
 - **Static Analysis for Android GDPR Compliance** 
-  - Human-Centered Security and Privacy group, Max Planck Institute for Security and Privacy — February 2026
+  - Human-Centered Security and Privacy, Max Planck Institute for Security and Privacy — February 2026
 
 ## 2025
 
