@@ -18,7 +18,7 @@ We drove about halfway to Los Angeles, into San Luis Obispo County, trading dese
 
 For our home base, we chose [Cayucos](https://en.wikipedia.org/wiki/Cayucos,_California) (Spanish for "canoes"), a tiny gem along California’s Central Coast that proudly calls itself the “Last of the California beach towns”. While it may not literally be the last, Cayucos has managed to preserve a wonderfully laid-back charm, thanks to its small population of around 3000, long stretches of white sand, and its iconic public fishing pier stretching into the Pacific.
 
-We arrived with plenty to celebrate—job offers and paper acceptances—and decided to mark the occasion by splurging on a luxurious AirBnb. It turned out to be the most stylish place we’ve ever stayed in: a gorgeous oceanfront apartment complete with a hot tub, a large balcony, and multiple cozy fireplaces. We made it just in time to catch the sunset from the balcony, feeling incredibly grateful to be in such a beautiful and special spot. 
+We arrived with plenty to celebrate—job offers and paper acceptances—and decided to mark the occasion by splurging on a luxurious [AirBnb](https://www.airbnb.com/rooms/955727983125587624?unique_share_id=63b51a15-9535-440b-9eab-237ab34abbd8&viralityEntryPoint=1&s=76&source_impression_id=p3_1772388457_P3qoBNrnFTkw0eCI). It turned out to be the most stylish place we’ve ever stayed in: a gorgeous oceanfront apartment complete with a hot tub, a large balcony, and multiple cozy fireplaces. We made it just in time to catch the sunset from the balcony, feeling incredibly grateful to be in such a beautiful and special spot. 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Cayucos3.jpg){:width="400" style="padding:20px"}
