@@ -29,12 +29,12 @@ I have supervised the following Master theses:
 
 1) Exploring Hybrid Analysis for Android Privacy (ongoing)  
 2) Automated Privacy Assessment for Android Applications: A DPV Visualisation Approach \\
-2) Explaining Privacy-Relevant Program Slices to App Developers \\
-3) Automatically Generating Data Safety Section Labels for Android Apps \\
-4) Improving User Experience of Program Slicing wrt Data Privacy \\
-5) Labeling User-Input Privacy Data in Android Applications \\
-6) Empirical Evaluation of Forward and Backward Taint Analysis \\
-7) Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO
+3) Explaining Privacy-Relevant Program Slices to App Developers \\
+4) Automatically Generating Data Safety Section Labels for Android Apps \\
+5) Improving User Experience of Program Slicing wrt Data Privacy \\
+6) Labeling User-Input Privacy Data in Android Applications \\
+7) Empirical Evaluation of Forward and Backward Taint Analysis \\
+8) Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO
 
 For students seeking a thesis topic, organizational information [on my webpage](https://mugdhak30.github.io/info_for_students/) and on the [SSE webpage](https://www.hni.uni-paderborn.de/sse/lehre/bachelor-masterarbeiten) might interest you. 
 
