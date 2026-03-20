@@ -42,11 +42,13 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
+📢 **March 2026**: I attended [SANER 2026](https://conf.researchr.org/home/saner-2026) in Limassol (Cyprus), where I presented our tool demonstration paper. 🆕
+
 📢 **February 2026**: I gave a talk at Max Planck Institute for Security and Privacy. 🆕
 
 📢 **February 2026**: Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉. 🆕
 
-📢 **January 2026**: Our paper has been accepted at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) 🎉. 🆕
+📢 **January 2026**: Our paper has been accepted at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) 🎉. 
 
 📢 **December 2025**: A couple of things happened:
 
@@ -74,7 +76,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **March 2025**: I gave a talk at Amazon, Santa Clara (California). 
 
-📢 **November 2024**: I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento, where I presented our papers at the A-Mobile workshop. 
+📢 **November 2024**: I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento (USA), where I presented our papers at the A-Mobile workshop. 
 
 📢 **October 2024**: I gave a [talk](https://engineering.ucdavis.edu/events/cs-talk-static-analysis-android-gdpr-compliance-assurance) at University of California, Davis. 
 
