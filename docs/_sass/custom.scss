@@ -15,3 +15,40 @@
 .pub-asejournal { background-color: #f59e0b; }  /* amber */
 .workshop { background-color: #a1168c; } /* magenta */ 
 
+.badge-new {
+  display: inline-block;
+  background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+  background-size: 200% 200%;
+  color: #fff;
+  font-size: 0.75em;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 0.2em 0.6em;
+  border-radius: 0.3em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  position: relative;
+  overflow: hidden;
+  /* Animate gradient and pulse */
+  animation: gradientBG 4s ease infinite,
+             pulse 2.5s ease-in-out infinite;
+  transition: transform 0.2s;
+}
+
+/* Gradient shift */
+@keyframes gradientBG {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+/* Subtle pulsing */
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50%      { transform: scale(1.07); }
+}
+
+/* Hover interaction */
+.badge-new:hover {
+  animation-play-state: paused;
+  transform: scale(1);
+}
+

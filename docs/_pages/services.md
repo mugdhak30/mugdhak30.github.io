@@ -7,7 +7,7 @@ author_profile: true
 
 ## Academic Services
 
-* PC Member: [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026), [QUATIC 2026 - Security and Privacy](https://sites.google.com/view/quatic2026/thematic-tracks/safety-security-and-privacy), [ASE 2025 Tool Demonstrations](https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track), [ASE 2024 Tool Demonstrations](https://conf.researchr.org/track/ase-2024/ase-2024-tool-demonstrations)
+* PC Member: [QUATIC 2026](https://2026.quatic.org/) (Thematic Track Security and Privacy), [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026) (co-located with ICSE), [ASE 2025 Tool Demonstrations](https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track), [ASE 2024 Tool Demonstrations](https://conf.researchr.org/track/ase-2024/ase-2024-tool-demonstrations)
 * Artifact Evaluation Committee Member: [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26), [PoPETS 2026](https://petsymposium.org/)
 * Journal Reviewer: [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32), [Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481), [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology), [Transportation Research Interdisciplinary Perspectives](https://www.sciencedirect.com/journal/transportation-research-interdisciplinary-perspectives)
 * Magazine Reviewer: [IEEE Software](https://www.computer.org/csdl/magazine/so)

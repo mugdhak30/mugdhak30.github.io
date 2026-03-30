@@ -42,21 +42,21 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
-📢 **March 2026**: I have been invited to serve as a Program Committee member for [QUATIC 2026 - Security and Privacy](https://sites.google.com/view/quatic2026/thematic-tracks/safety-security-and-privacy). 🆕
+📢 **March 2026**: I have been invited to serve as a Program Committee member for [QUATIC 2026](https://2026.quatic.org/) (Thematic Track Security and Privacy). <span class="badge-new">NEW</span>
 
-📢 **March 2026**: I attended [SANER 2026](https://conf.researchr.org/home/saner-2026) in Limassol (Cyprus), where I presented our tool demonstration paper. 🆕
+📢 **March 2026**: I attended [SANER 2026](https://conf.researchr.org/home/saner-2026) in Limassol (Cyprus), where I presented our tool demonstration paper. <span class="badge-new">NEW</span>
 
-📢 **February 2026**: I gave a talk at Max Planck Institute for Security and Privacy. 🆕
+📢 **February 2026**: I gave a talk at Max Planck Institute for Security and Privacy. <span class="badge-new">NEW</span>
 
-📢 **February 2026**: Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉. 
+📢 **February 2026**: Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉🎊. 
 
-📢 **January 2026**: Our paper has been accepted at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) 🎉. 
+📢 **January 2026**: Our paper has been accepted at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) 🎉🎊. 
 
 📢 **December 2025**: A couple of things happened:
 
-  - Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉. 
+  - Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉🎊. 
 
-  - Our tool paper has been accepted at [SANER 2026](https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track) 🎉!
+  - Our tool paper has been accepted at [SANER 2026](https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track) 🎉🎊!
 
   - I'm serving on the Artifact Evaluation Committee of [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26) and [PoPETS 2026](https://petsymposium.org/). 
 
@@ -86,7 +86,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **September 2024**: I got selected to be a student volunteer for [ASE 2024](https://conf.researchr.org/home/ase-2024).
 
-📢 **September 2024**: Two papers were accepted at the [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/amobile2024.html) held in conjunction with [ASE 2024](https://conf.researchr.org/home/ase-2024). 
+📢 **September 2024**: Two papers were accepted at the [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/amobile2024.html) held in conjunction with [ASE 2024](https://conf.researchr.org/home/ase-2024) 🎉🎊. 
 
 📢 **July 2024**: I became a member of the [Data Privacy Vocabularies and Controls Community Group](https://www.w3.org/community/dpvcg/). 
 
@@ -94,7 +94,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **April 2024**: I presented our short paper at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal. 
 
-📢 **March 2024**: Our short paper was accepted at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) Research Forum. ([Preprint](https://arxiv.org/abs/2402.07889))
+📢 **March 2024**: Our short paper was accepted at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) Research Forum 🎉🎊. 
 
 📢 **October 2023**: I participated in the [Dagstuhl Research Methods Seminar 2023](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23433). I have shared my experience [here](https://mugdhak30.github.io/Schloss-Dagstuhl/).
 
@@ -102,7 +102,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **May 2023**: I presented a poster at the [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) in Melbourne, Australia. 
 
-📢 **March 2023**: My short paper was accepted at [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS). ([Preprint](https://arxiv.org/abs/2303.09606))
+📢 **March 2023**: My short paper was accepted at [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) 🎉🎊. 
 
 📢 **December 2022**: I was selected as a Junior PC member for the research track of [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?).
 
