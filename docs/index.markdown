@@ -42,11 +42,13 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
+📢 **March 2026**: I have been invited to serve as a Program Committee member for [QUATIC 2026 - Security and Privacy](https://sites.google.com/view/quatic2026/thematic-tracks/safety-security-and-privacy). 🆕
+
 📢 **March 2026**: I attended [SANER 2026](https://conf.researchr.org/home/saner-2026) in Limassol (Cyprus), where I presented our tool demonstration paper. 🆕
 
 📢 **February 2026**: I gave a talk at Max Planck Institute for Security and Privacy. 🆕
 
-📢 **February 2026**: Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉. 🆕
+📢 **February 2026**: Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉. 
 
 📢 **January 2026**: Our paper has been accepted at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) 🎉. 
 
