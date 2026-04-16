@@ -7,14 +7,12 @@ author_profile: true
 **Talks and Conference Presentations**
 =====
 
-Here is a selection of recent and upcoming talks.  
+Here is a selection of recent talks.  
 
-## Upcoming talks
+## 2026
 
 - **Challenges in Android Data Disclosure: An Empirical Study** <span class="pub-abbr pub-mobilesoft">MOBILESoft'26</span> 
   - [13th International Conference on Mobile Software Engineering and Systems](https://conf.researchr.org/home/mobilesoft-2026) (co-located with [ICSE 2026](https://conf.researchr.org/home/icse-2026)) — April 2026
-
-## 2026
 
 - **Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View** <span class="pub-abbr pub-icse">SANER'26</span>
   - [33rd IEEE International Conference on Software Analysis, Evolution and Reengineering](https://conf.researchr.org/home/saner-2026) — March 2026
