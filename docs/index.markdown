@@ -42,7 +42,7 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
-📢 **April 2026**: I attended [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) in Rio De Janeiro (Brazil), where I presented our research paper. I'm attending [ICSE 2026](https://conf.researchr.org/home/icse-2026) too! If you're here too come say hi 😊 <span class="badge-new">NEW</span>
+📢 **April 2026**: I presented our research paper at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) in Rio De Janeiro (Brazil), and also attended [ICSE 2026](https://conf.researchr.org/home/icse-2026). <span class="badge-new">NEW</span>
 
 📢 **April 2026**:  I have been invited to serve as a Program Committee member for [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets) (Tools and Datasets). <span class="badge-new">NEW</span>
 
