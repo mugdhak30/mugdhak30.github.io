@@ -42,11 +42,14 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
+
+📢 **May 2026**:  I have been invited to serve as a Program Committee member for [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-src) (ACM Student Research Competition). <span class="badge-new">NEW</span>
+
 📢 **April 2026**: I presented our research paper at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) in Rio De Janeiro (Brazil), and also attended [ICSE 2026](https://conf.researchr.org/home/icse-2026). <span class="badge-new">NEW</span>
 
 📢 **April 2026**:  I have been invited to serve as a Program Committee member for [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets) (Tools and Datasets). <span class="badge-new">NEW</span>
 
-📢 **March 2026**: I have been invited to serve as a Program Committee member for [QUATIC 2026](https://2026.quatic.org/) (Thematic Track Security and Privacy). <span class="badge-new">NEW</span>
+📢 **March 2026**: I have been invited to serve as a Program Committee member for [QUATIC 2026](https://2026.quatic.org/) (Thematic Track Security and Privacy).
 
 📢 **March 2026**: I attended [SANER 2026](https://conf.researchr.org/home/saner-2026) in Limassol (Cyprus), where I presented our tool demonstration paper. 
 

@@ -8,6 +8,7 @@ author_profile: true
 ## Academic Services
 
 * Program Committee Member: 
+	- [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-src) (ACM Student Research Competition)
 	- [QUATIC 2026](https://2026.quatic.org/) (Thematic Track Security and Privacy)
 	- [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026) (co-located with ICSE)
 	- [ASE 2026 Tools and Datasets](https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets)
