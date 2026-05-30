@@ -12,56 +12,56 @@ Here is a selection of recent talks.
 ## 2026
 
 - **Challenges in Android Data Disclosure: An Empirical Study** <span class="pub-abbr pub-mobilesoft">MOBILESoft'26</span> 
-  - [13th International Conference on Mobile Software Engineering and Systems](https://conf.researchr.org/home/mobilesoft-2026) (co-located with [ICSE 2026](https://conf.researchr.org/home/icse-2026)) — April 2026
+  - [13th International Conference on Mobile Software Engineering and Systems](https://conf.researchr.org/home/mobilesoft-2026) (co-located with [ICSE 2026](https://conf.researchr.org/home/icse-2026) 🇧🇷) — April 2026
   - <span class="pub-award">Best Presentation Honourable Mention</span> 🏆
 
 - **Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View** <span class="pub-abbr pub-icse">SANER'26</span>
-  - [33rd IEEE International Conference on Software Analysis, Evolution and Reengineering](https://conf.researchr.org/home/saner-2026) — March 2026
+  - [33rd IEEE International Conference on Software Analysis, Evolution and Reengineering](https://conf.researchr.org/home/saner-2026) 🇨🇾 — March 2026
 
 - **Static Analysis for Android GDPR Compliance** 
-  - Human-Centered Security and Privacy, Max Planck Institute for Security and Privacy — February 2026
+  - Human-Centered Security and Privacy, Max Planck Institute for Security and Privacy (🇩🇪) — February 2026
 
 ## 2025
 
 - **From Pain Points to Automation: Support for Privacy Assessments** <span class="pub-abbr workshop">Invited Workshop</span>
-  - European Privacy KnowledgeNet 2025, Munich — October 2025  
+  - European Privacy KnowledgeNet 2025, Munich (🇩🇪) — October 2025  
 
 - **Static Analysis for Android GDPR Compliance** 
-  - Cybersecurity Group, King's College London — December 2025
+  - Cybersecurity Group, King's College London (🇬🇧) — December 2025
 
-  - Cybersecurity Center, TU Wien — October 2025
+  - Cybersecurity Center, TU Wien (🇦🇹) — October 2025
 
-  - Mobile and Wireless Security, Hasso Plattner Institute (University of Potsdam) — September 2025  
+  - Mobile and Wireless Security, Hasso Plattner Institute, University of Potsdam (🇩🇪) — September 2025  
   
-  - Center for Information Security and Trust, IT University of Copenhagen — August 2025
+  - Center for Information Security and Trust, IT University of Copenhagen (🇩🇰) — August 2025
 
 - **Static Analysis for Privacy-Aware Reporting** 
-  - Programming Languages and Artificial Intelligence, LMU Munich — October 2025
+  - Davis Security Lab, University of California Davis (🇺🇸) — December 2025
+
+  - Programming Languages and Artificial Intelligence, LMU Munich (🇩🇪) — October 2025
 
 - **Static Analysis for Android Privacy Assessments** 
-  - AWS, Santa Clara — March 2025  
+  - AWS, Santa Clara (🇺🇸) — March 2025  
 
 
 ## 2024
 
 - **Advancing Android Privacy Assessments with Automation** <span class="pub-abbr pub-asew">A-Mobile@ASE'24</span> 
-  - [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/amobile2024.html) (co-located with [ASE 2024](https://conf.researchr.org/home/ase-2024)) — November 2024
+  - [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/amobile2024.html) (co-located with [ASE 2024](https://conf.researchr.org/home/ase-2024) 🇺🇸) — November 2024
 
 - **Do Android App Developers Accurately Report Collection of Privacy-Related Data?** <span class="pub-abbr pub-asew">A-Mobile@ASE'24</span> 
-  - [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/amobile2024.html) (co-located with [ASE 2024](https://conf.researchr.org/home/ase-2024)) — November 2024
+  - [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/amobile2024.html) (co-located with [ASE 2024](https://conf.researchr.org/home/ase-2024) 🇺🇸) — November 2024
 
 - **Towards Static Analysis for Android GDPR Compliance** 
-  - College of Engineering, University of California Davis — November 2024
+  - College of Engineering, University of California Davis (🇺🇸) — November 2024
 
 - **Enhancing Android App Privacy** 
-  - CyberResilience.NRW kickoff event, Paderborn — October 2024
+  - CyberResilience.NRW kickoff event, Paderborn (🇩🇪) — October 2024
 
 - **Toward an Android Static Analysis Approach for Data Protection** <span class="pub-abbr pub-mobilesoft">MOBILESoft'24</span>
-  - [11th International Conference on Mobile Software Engineering and Systems](https://conf.researchr.org/home/mobilesoft-2024) (co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024)) — April 2024
+  - [11th International Conference on Mobile Software Engineering and Systems](https://conf.researchr.org/home/mobilesoft-2024) (co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024) 🇵🇹) — April 2024
 
 ## 2023
 
 - **Security and Privacy by Design** 
-  - Get to Know HNI 2023 (Universität Paderborn) — May 2023 
-
-✨ More talks and lectures coming soon.
+  - Get to Know HNI 2023, Universität Paderborn (🇩🇪) — May 2023 

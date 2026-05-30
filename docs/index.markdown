@@ -17,9 +17,9 @@ announcements:
 Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.getElementById('nameAudio').play(); return false;" title="Play pronunciation">🔊</a>).</small><audio id="nameAudio"><source src="{{ '/assets/audio/mugdha-khedkar.mp3' | relative_url }}" type="audio/mpeg"></audio> I am a Research Associate at [Heinz Nixdorf Institut](https://www.hni.uni-paderborn.de/) at Paderborn University, Germany. I am also a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/). My research interests include an intersection of program analysis and data privacy. Currently I am exploring the role of static program analysis in ensuring protection and privacy of user data in Android apps. 
 
 
-<div style="border: 2px solid #007acc; border-radius: 8px; padding: 1em; background-color: #f0f8ff; text-align: center; margin: 1em 0; font-size: 1em;">
+<div style="border: 2px solid #007acc; border-radius: 8px; padding: 1em; background-color: #f0f8ff; text-align: center; margin: 2em 0; font-size: 1em;">
 
-📢 <strong>Now Open to Postdoc Opportunities</strong>: I’m actively seeking postdoctoral positions starting fall 2026.<br>
+📢 I’m actively seeking postdoctoral positions in the <strong>Ruhr area</strong> starting fall 2026.<br>
 If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!
 
 </div>
@@ -42,18 +42,19 @@ If you’re interested in collaborating or have opportunities, please feel free 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
+📢 **May 2026**: I submitted my Doctoral Dissertation titled <em>Assisting GDPR Compliance through Static Analysis of Android Apps</em> at Paderborn University 📝💻🎉. <span class="badge-new">NEW</span>  
 
 📢 **May 2026**:  I have been invited to serve as a Program Committee member for [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-src) (ACM Student Research Competition). <span class="badge-new">NEW</span>
 
-📢 **April 2026**: I presented our research paper at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) in Rio De Janeiro (Brazil), and also attended [ICSE 2026](https://conf.researchr.org/home/icse-2026). <span class="badge-new">NEW</span>
+📢 **April 2026**: I presented our research paper at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) in Rio De Janeiro (Brazil), and attended [ICSE 2026](https://conf.researchr.org/home/icse-2026) 🇧🇷. <span class="badge-new">NEW</span>
 
-📢 **April 2026**:  I have been invited to serve as a Program Committee member for [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets) (Tools and Datasets). <span class="badge-new">NEW</span>
+📢 **April 2026**:  I have been invited to serve as a Program Committee member for [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets) (Tools and Datasets). 
 
 📢 **March 2026**: I have been invited to serve as a Program Committee member for [QUATIC 2026](https://2026.quatic.org/) (Thematic Track Security and Privacy).
 
-📢 **March 2026**: I attended [SANER 2026](https://conf.researchr.org/home/saner-2026) in Limassol (Cyprus), where I presented our tool demonstration paper. 
+📢 **March 2026**: I attended [SANER 2026](https://conf.researchr.org/home/saner-2026) in Limassol (Cyprus), where I presented our tool demonstration paper 🇨🇾. 
 
-📢 **February 2026**: I gave a talk at Max Planck Institute for Security and Privacy. 
+📢 **February 2026**: I gave a talk at Max Planck Institute for Security and Privacy (🇩🇪). 
 
 📢 **February 2026**: Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉🎊. 
 
@@ -67,27 +68,29 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
   - I'm serving on the Artifact Evaluation Committee of [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26) and [PoPETS 2026](https://petsymposium.org/). 
 
-  - I gave a virtual talk at King's College London. 
+  - I visited Davis Security Lab, University of California Davis and gave an invited talk (🇺🇸). 
 
-📢 **October 2025**: I organized a [workshop session](https://www.linkedin.com/posts/mugdha-khedkar-1410a3102_knowledgenet-epn-activity-7390034778466627584-uWFY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABn_XwEBdAM1kUZsRPrHxDcgJq1cRHI2o7k) at the IAPP European Privacy KnowledgeNet 2025 at Munich. 
+  - I gave a virtual talk at King's College London (🇬🇧). 
 
-📢 **October 2025**: I gave a talk at LMU Munich and TU Wien. 
+📢 **October 2025**: I organized a [workshop session](https://www.linkedin.com/posts/mugdha-khedkar-1410a3102_knowledgenet-epn-activity-7390034778466627584-uWFY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABn_XwEBdAM1kUZsRPrHxDcgJq1cRHI2o7k) at the IAPP European Privacy KnowledgeNet 2025 at Munich (🇩🇪). 
 
-📢 **September 2025**: I gave a talk at Hasso Plattner Institute, University of Potsdam. 
+📢 **October 2025**: I gave a talk at LMU Munich (🇩🇪) and TU Wien (🇦🇹). 
+
+📢 **September 2025**: I gave a talk at Hasso Plattner Institute, University of Potsdam (🇩🇪). 
 
 📢 **September 2025**: I have been invited to serve as a Program Committee member for [STATIC 2026](https://conf.researchr.org/home/icse-2026/static-2026).
 
-📢 **August 2025**: I gave a talk at IT University, Copenhagen. 
+📢 **August 2025**: I gave a talk at IT University, Copenhagen (🇩🇰). 
 
-📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a [poster]({{mugdhak30.github.io}}/assets/MugdhaSVT2025Poster.pdf).
+📢 **July 2025**: I attended the 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)) in Brussels, and presented a [poster]({{mugdhak30.github.io}}/assets/MugdhaSVT2025Poster.pdf) 🇧🇪.
 
 📢 **May 2025**: I have been invited to serve as a Program Committee member for [ASE 2025](https://conf.researchr.org/home/ase-2025) (Tool Demonstrations).
 
-📢 **March 2025**: I gave a talk at Amazon, Santa Clara (California). 
+📢 **March 2025**: I gave a talk at Amazon, Santa Clara (🇺🇸). 
 
-📢 **November 2024**: I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento (USA), where I presented our papers at the A-Mobile workshop. 
+📢 **November 2024**: I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento (California), where I presented our papers at the A-Mobile workshop 🇺🇸. 
 
-📢 **October 2024**: I gave a [talk](https://engineering.ucdavis.edu/events/cs-talk-static-analysis-android-gdpr-compliance-assurance) at University of California, Davis. 
+📢 **October 2024**: I gave a [talk](https://engineering.ucdavis.edu/events/cs-talk-static-analysis-android-gdpr-compliance-assurance) at University of California, Davis (🇺🇸). 
 
 📢 **October 2024**: I gave a talk at the [CyberResilience.NRW kickoff event](https://www.linkedin.com/feed/update/urn:li:activity:7249410975156563969/) in Paderborn. 
 
@@ -99,15 +102,15 @@ If you’re interested in collaborating or have opportunities, please feel free 
 
 📢 **April 2024**: I have been invited to serve as a Program Committee member for [ASE 2024](https://conf.researchr.org/home/ase-2024) (Tool Demonstrations). 
 
-📢 **April 2024**: I presented our short paper at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal. 
+📢 **April 2024**: I presented our short paper at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal 🇵🇹. 
 
 📢 **March 2024**: Our short paper was accepted at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) Research Forum 🎉🎊. 
 
-📢 **October 2023**: I participated in the [Dagstuhl Research Methods Seminar 2023](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23433). I have shared my experience [here](https://mugdhak30.github.io/Schloss-Dagstuhl/).
+📢 **October 2023**: I participated in the [Dagstuhl Research Methods Seminar 2023](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23433) 🇩🇪. I have shared my experience [here](https://mugdhak30.github.io/Schloss-Dagstuhl/).
 
-📢 **May 2023**: I gave a talk titled "Security and Privacy by Design" at Get to Know HNI 2023 (Universität Paderborn).
+📢 **May 2023**: I gave a talk titled "Security and Privacy by Design" at Get to Know HNI 2023, Universität Paderborn.
 
-📢 **May 2023**: I presented a poster at the [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) in Melbourne, Australia. 
+📢 **May 2023**: I presented a poster at the [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) in Melbourne, Australia 🇦🇺. 
 
 📢 **March 2023**: My short paper was accepted at [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) 🎉🎊. 
 
