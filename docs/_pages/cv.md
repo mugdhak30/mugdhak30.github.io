@@ -38,7 +38,7 @@ IIT Bombay, India
 
 * Master's thesis (2019)
   * Heinz Nixdorf Institut, Universität Paderborn, Germany
-  * Supervisor: [Prof. Eric Bodden](https://www.bodden.de/)
+  * Supervisor: [Prof. Dr. Eric Bodden](https://www.bodden.de/)
   * Objective : To study soundness and precision of call graph construction algorithms for Web Frameworks like Spring.
   * You can find my thesis [here]({{mugdhak30.github.io}}/assets/MugdhaMasterThesis.pdf) and the slides [here]({{mugdhak30.github.io}}/assets/MugdhaMastersPresentation.pdf).
 
