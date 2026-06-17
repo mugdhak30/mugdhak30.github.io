@@ -1,9 +1,12 @@
 ---
 layout: archive
 permalink: /privacy/
-title: "Privacy Policy"
+title: ""
 author_profile: true
 ---
+
+**Privacy Policy**
+=====
 
 ## Responsible Party:
 

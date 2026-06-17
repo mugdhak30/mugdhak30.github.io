@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Assistance
+**Teaching**
+=====
 
 * [**Secure Software Engineering**](https://www.hni.uni-paderborn.de/sse/lehre/sse) \\
 Bachelor Course, Universität Paderborn (Summer 2025, Summer 2024) \\
@@ -28,13 +29,13 @@ This course covers several novel, advanced concepts in static code analysis: spa
 I have supervised the following Master theses:
 
 1) Exploring Hybrid Analysis for Android Privacy (ongoing)  
-2) Automated Privacy Assessment for Android Applications: A DPV Visualisation Approach \\
-3) Explaining Privacy-Relevant Program Slices to App Developers \\
-4) Automatically Generating Data Safety Section Labels for Android Apps \\
-5) Improving User Experience of Program Slicing wrt Data Privacy \\
-6) Labeling User-Input Privacy Data in Android Applications \\
-7) Empirical Evaluation of Forward and Backward Taint Analysis \\
-8) Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO
+2) Automated Privacy Assessment for Android Applications: A DPV Visualisation Approach (2025) \\
+3) Explaining Privacy-Relevant Program Slices to App Developers (2025) \\
+4) Automatically Generating Data Safety Section Labels for Android Apps (2025) \\
+5) Improving User Experience of Program Slicing wrt Data Privacy (2023) \\
+6) Labeling User-Input Privacy Data in Android Applications (2023) \\
+7) Empirical Evaluation of Forward and Backward Taint Analysis (2023) \\
+8) Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO (2023)
 
 For students seeking a thesis topic, organizational information [on my webpage](https://mugdhak30.github.io/info_for_students/) and on the [SSE webpage](https://www.hni.uni-paderborn.de/sse/lehre/bachelor-masterarbeiten) might interest you. 
 

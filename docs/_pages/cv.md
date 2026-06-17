@@ -7,20 +7,28 @@ redirect_from:
   - /resume
 ---
 
+**CV**
+=====
+
 {% include base_path %}
 
 ## Education
 
+* Ph.D. in Computer Science (Expected September 2026) \\
+Universität Paderborn, Germany \\
+Advisor: [Prof. Dr. Eric Bodden](https://www.bodden.de/)
+
+Expected September 2026
 *  MSc Computer Science (2018-2020) \\
-[Chennai Mathematical Institute (India)](https://www.cmi.ac.in/)
+Chennai Mathematical Institute (India)
 
 * BE Computer Engineering (2013-2017) \\
-[Cummins College of Engg for Women, Pune (India)](https://www.cumminscollege.org/)
+Cummins College of Engg for Women, Pune (India)
 
 ## Work experience
 
 * Project Research Assistant (2017-2018) \\
-[Centre for Formal Design and Verification of Software (CFDVS)](http://www.cfdvs.iitb.ac.in/) \\
+Centre for Formal Design and Verification of Software (CFDVS)\\
 Dept of Computer Science and Engg \\
 IIT Bombay, India 
   * PI: [Prof. Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik/)

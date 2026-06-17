@@ -19,7 +19,7 @@ Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.get
 
 <div style="border: 2px solid #007acc; border-radius: 8px; padding: 1em; background-color: #f0f8ff; text-align: center; margin: 2em 0; font-size: 1em;">
 
-📢 I’m actively seeking postdoctoral positions in the <strong>Ruhr area</strong> starting fall 2026.<br>
+📢 I’m actively seeking postdoctoral positions in the Ruhr area starting fall 2026.<br>
 If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!
 
 </div>

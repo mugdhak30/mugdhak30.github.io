@@ -5,7 +5,8 @@ permalink: /services/
 author_profile: true
 ---
 
-## Academic Services
+**Academic Services**
+=====
 
 * Program Committee Member: 
 	- [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-src) (ACM Student Research Competition)
