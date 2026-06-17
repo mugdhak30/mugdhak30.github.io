@@ -18,7 +18,6 @@ redirect_from:
 Universität Paderborn, Germany \\
 Advisor: [Prof. Dr. Eric Bodden](https://www.bodden.de/)
 
-Expected September 2026
 *  MSc Computer Science (2018-2020) \\
 Chennai Mathematical Institute (India)
 
