@@ -10,9 +10,13 @@ author_profile: true
 
 ## Responsible Party:
 
-Mugdha Khedkar\\
-Fürstenallee 11, 33102 Paderborn, Germany\\
-Email: [mugdha.khedkar@upb.de](mailto:mugdha.khedkar@upb.de)
+Mugdha Khedkar
+
+Email ID: [mugdha.khedkar@upb.de](mailto:mugdha.khedkar@upb.de) 
+
+Address: Fürstenallee 11, 
+33102 Paderborn, 
+Germany
 
 ## Hosting: 
 
