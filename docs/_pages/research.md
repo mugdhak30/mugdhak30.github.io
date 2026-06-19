@@ -38,6 +38,4 @@ You can also find my publications on my [Google Scholar page](https://scholar.go
 
 ## Research Interests
 
-I have worked on static program analysis, data privacy and protection, and conducted empirical and usability-driven studies surrounding such analyses. I am open to working on broader topics in the future. 
-
-I’m actively seeking postdoctoral positions starting fall 2026. If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!
+I have worked on static program analysis, data privacy and protection, and conducted empirical and usability-driven studies surrounding such analyses. I am open to working on broader topics in the future. If you’re interested in collaborating or have opportunities, please feel free to <a href="mugdha.khedkar@upb.de"><strong>get in touch</strong></a>!
