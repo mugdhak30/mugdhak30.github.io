@@ -14,19 +14,19 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Computer Science (Expected September 2026) \\
+* Ph.D. in Computer Science *(submitted May 2026, defense scheduled September 2026)* \\
 Universität Paderborn, Germany \\
 Advisor: [Prof. Dr. Eric Bodden](https://www.bodden.de/)
 
-*  MSc Computer Science (2018-2020) \\
+*  MSc Computer Science *(2018 -- 2020)* \\
 Chennai Mathematical Institute (India)
 
-* BE Computer Engineering (2013-2017) \\
+* BE Computer Engineering *(2013 -- 2017)* \\
 Cummins College of Engg for Women, Pune (India)
 
 ## Work experience
 
-* Project Research Assistant (2017-2018) \\
+* Project Research Assistant *(2017 -- 2018)* \\
 Centre for Formal Design and Verification of Software (CFDVS)\\
 Dept of Computer Science and Engg \\
 IIT Bombay, India 
@@ -35,19 +35,19 @@ IIT Bombay, India
 
 ## Internships
 
-* Master's thesis (2019)
+* Master's thesis *(2019)*
   * Heinz Nixdorf Institut, Universität Paderborn, Germany
   * Supervisor: [Prof. Dr. Eric Bodden](https://www.bodden.de/)
   * Objective : To study soundness and precision of call graph construction algorithms for Web Frameworks like Spring.
   * You can find my thesis [here]({{mugdhak30.github.io}}/assets/MugdhaMasterThesis.pdf) and the slides [here]({{mugdhak30.github.io}}/assets/MugdhaMastersPresentation.pdf).
 
 
-* Summer 2019: Research Assistant
+* Research Assistant *(Summer 2019)*
   * Dept of Computer Science and Automation, IISc Bangalore, India 
   * Supervisor: [Prof. Deepak D'Souza](https://www.csa.iisc.ac.in/~deepakd/)
   * Objective : To study techniques for data race detection in Android.
 
-* Bachelor's thesis (2017)
+* Bachelor's thesis *(2017)*
   * GCC Resource Center, IIT Bombay, India
   * Supervisor: [Prof. Supratim Biswas](https://www.cse.iitb.ac.in/~sb/)
   * Objective: Empirical evaluation of precision of pointer analysis variants.
