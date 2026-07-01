@@ -34,11 +34,13 @@ Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.get
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
+📢 **July 2026**: I'm serving on the Artifact Evaluation Committee of [ASE 2026](https://conf.researchr.org/home/ase-2026). <span class="badge-new">NEW</span>
+
 📢 **May 2026**: I submitted my Doctoral Dissertation titled <em>Assisting GDPR Compliance through Static Analysis of Android Apps</em> at Paderborn University 📝💻🎉. <span class="badge-new">NEW</span>  
 
 📢 **May 2026**:  I have been invited to serve as a Program Committee member for [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-src) (ACM Student Research Competition). <span class="badge-new">NEW</span>
 
-📢 **April 2026**: I presented our research paper at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) in Rio De Janeiro (Brazil), and attended [ICSE 2026](https://conf.researchr.org/home/icse-2026) 🇧🇷. <span class="badge-new">NEW</span>
+📢 **April 2026**: I presented our research paper at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) in Rio De Janeiro (Brazil), and attended [ICSE 2026](https://conf.researchr.org/home/icse-2026) 🇧🇷. 
 
 📢 **April 2026**:  I have been invited to serve as a Program Committee member for [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets) (Tools and Datasets). 
 

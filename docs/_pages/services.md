@@ -17,6 +17,7 @@ author_profile: true
 	- [ASE 2024 Tool Demonstrations](https://conf.researchr.org/track/ase-2024/ase-2024-tool-demonstrations)
 
 * Artifact Evaluation Committee Member: 
+	- [ASE 2026](https://conf.researchr.org/home/ase-2026c)
 	- [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26)
 	- [PoPETS 2026](https://petsymposium.org/)
 
