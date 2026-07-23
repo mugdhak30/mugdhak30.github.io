@@ -28,6 +28,11 @@ You can also find my publications on my [Google Scholar page](https://scholar.go
 
 ---
 
+## Preprints
+
+<span class="pub-abbr arxiv">arXiv</span> **Mugdha Khedkar**, Michael Schlichtig, Santhosh Mohan, and Eric Bodden. 2025. _Visualizing Privacy-Relevant Data Flows in Android Applications_ [arXiv:2503.16640](https://arxiv.org/abs/2503.16640) [cs.CR]
+
+
 ## Posters
 
 <span class="pub-abbr workshop">SV&T'25</span> [Code Meets Compliance: Statically Visualizing Android Privacy Flows]({{mugdhak30.github.io}}/assets/MugdhaSVT2025Poster.pdf), 4th Summer School on Security Testing & Verification ([ST&V 2025](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025)).
