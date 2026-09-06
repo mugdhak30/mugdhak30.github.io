@@ -14,7 +14,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Computer Science *(submitted May 2026, defense scheduled September 2026)* \\
+* Ph.D. in Computer Science *(September 2026)* \\
 Universität Paderborn, Germany \\
 Advisor: [Prof. Dr. Eric Bodden](https://www.bodden.de/)
 
