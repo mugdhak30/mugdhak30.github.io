@@ -30,6 +30,13 @@ Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.get
 .announcements-scroll p { margin: 0 0 rem 0; }
 .announcements-scroll img { vertical-align: middle; margin-left: 6px; width: 25px; height: auto; }
 .announcements-scroll img.announcement-photo { width: 200px; margin-left: 0; }
+.photo-row {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.photo-row img.announcement-photo { width: 200px; margin: 0; }
 </style>
 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
@@ -37,9 +44,10 @@ Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.get
 
 📢 **September 2026**: I successfully defended my Doctoral Dissertation at Paderborn University 🎓🎉. <span class="badge-new">NEW</span>
 
-{: refdef: style="text-align: center;"}
-![PhD defense photo](/assets/PhD.jpg){: .announcement-photo}
-{: refdef}
+<div class="photo-row" markdown="1">
+![PhD defense photo 1](/assets/PhD.jpg){: .announcement-photo}
+![PhD defense photo 2](/assets/PhDHat.jpg){: .announcement-photo}
+</div>
 
 📢 **July 2026**: I'm serving on the Artifact Evaluation Committee of [ASE 2026](https://conf.researchr.org/home/ase-2026). <span class="badge-new">NEW</span>
 
