@@ -14,14 +14,14 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Computer Science *(September 2026)* \\
+* Doctorate in Computer Science (Dr. rer. nat.) *(September 2026)* \\
 Universität Paderborn, Germany \\
 Advisor: [Prof. Dr. Eric Bodden](https://www.bodden.de/)
 
-*  MSc Computer Science *(2018 -- 2020)* \\
+*  M.Sc. in Computer Science *(2018 -- 2020)* \\
 Chennai Mathematical Institute (India)
 
-* BE Computer Engineering *(2013 -- 2017)* \\
+* B.E. in Computer Engineering *(2013 -- 2017)* \\
 Cummins College of Engg for Women, Pune (India)
 
 ## Work experience
@@ -40,7 +40,6 @@ IIT Bombay, India
   * Supervisor: [Prof. Dr. Eric Bodden](https://www.bodden.de/)
   * Objective : To study soundness and precision of call graph construction algorithms for Web Frameworks like Spring.
   * You can find my thesis [here]({{mugdhak30.github.io}}/assets/MugdhaMasterThesis.pdf) and the slides [here]({{mugdhak30.github.io}}/assets/MugdhaMastersPresentation.pdf).
-
 
 * Research Assistant *(Summer 2019)*
   * Dept of Computer Science and Automation, IISc Bangalore, India 

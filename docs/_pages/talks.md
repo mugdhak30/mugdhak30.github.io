@@ -11,6 +11,9 @@ Here is a selection of recent talks.
 
 ## 2026
 
+- **Assisting GDPR Compliance through Static Analysis of Android Apps** <span class="pub-abbr phd-defense">PhD Defense</span> 
+  - Heinz Nixdorf Institute, Paderborn University (🇩🇪)-- *September 2026*
+
 - **Challenges in Android Data Disclosure: An Empirical Study** <span class="pub-abbr pub-mobilesoft">MOBILESoft'26</span> 
   - [13th International Conference on Mobile Software Engineering and Systems](https://conf.researchr.org/home/mobilesoft-2026) (co-located with [ICSE 2026](https://conf.researchr.org/home/icse-2026) 🇧🇷) -- *April 2026*
   - <span class="pub-award">Best Presentation Honourable Mention</span> 🏆

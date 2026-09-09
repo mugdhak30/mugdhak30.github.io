@@ -14,7 +14,7 @@ announcements:
 ![](images/dagstuhl.jpg){:width="250"}
 {:refdef}
 
-Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.getElementById('nameAudio').play(); return false;" title="Play pronunciation">🔊</a>).</small><audio id="nameAudio"><source src="{{ '/assets/audio/mugdha-khedkar.mp3' | relative_url }}" type="audio/mpeg"></audio> I am a Research Associate at [Heinz Nixdorf Institut](https://www.hni.uni-paderborn.de/) at Paderborn University, Germany. I am also a PhD student advised by [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/). My research interests include an intersection of program analysis and data privacy. Currently I am exploring the role of static program analysis in ensuring protection and privacy of user data in Android apps. 
+Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.getElementById('nameAudio').play(); return false;" title="Play pronunciation">🔊</a>).</small><audio id="nameAudio"><source src="{{ '/assets/audio/mugdha-khedkar.mp3' | relative_url }}" type="audio/mpeg"></audio> I am a Research Associate at [Heinz Nixdorf Institut](https://www.hni.uni-paderborn.de/) at Paderborn University, Germany. I recently completed my PhD under the supervision of [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/). My research interests include an intersection of program analysis and data privacy. My work explores the role of static program analysis in ensuring protection and privacy of user data in Android apps. 
 
 **Latest News**
 =====
@@ -22,19 +22,24 @@ Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.get
 
 <style>
 .announcements-scroll {
-  max-height: 450px;        /* adjust height */
+  max-height: 670px;        /* adjust height */
   overflow-y: auto;         /* vertical scrolling */
   padding-right: 8px;
   line-height: 1.35;
 }
 .announcements-scroll p { margin: 0 0 rem 0; }
 .announcements-scroll img { vertical-align: middle; margin-left: 6px; width: 25px; height: auto; }
+.announcements-scroll img.announcement-photo { width: 200px; margin-left: 0; }
 </style>
 
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
 📢 **September 2026**: I successfully defended my Doctoral Dissertation at Paderborn University 🎓🎉. <span class="badge-new">NEW</span>
+
+{: refdef: style="text-align: center;"}
+![PhD defense photo](/assets/PhD.jpg){: .announcement-photo}
+{: refdef}
 
 📢 **July 2026**: I'm serving on the Artifact Evaluation Committee of [ASE 2026](https://conf.researchr.org/home/ase-2026). <span class="badge-new">NEW</span>
 
