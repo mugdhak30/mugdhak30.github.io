@@ -58,3 +58,244 @@
   transform: scale(1);
 }
 
+.page__footer-updated {
+  margin-top: 0.25em;
+  font-family: $global-font-family;
+  font-size: $type-size-7;
+  opacity: 0.75;
+}
+
+/* ==========================================================================
+   Theme toggle button
+   ========================================================================== */
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  nav {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+}
+
+.theme-toggle {
+  flex: 0 0 auto;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  line-height: 1;
+  margin-left: 0.5em;
+  padding: 0.5em 0.75em;
+  color: $masthead-link-color;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+  }
+}
+
+/* ==========================================================================
+   Dark theme (manual toggle, persisted via localStorage)
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  body {
+    background-color: #121212;
+    color: #d8d8d8;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #f0f0f0;
+  }
+
+  /* Only prose links get the accent color. Nav, footer, buttons and the
+     sidebar rely on `color: inherit` by design, so a bare `a` rule here
+     would (and did) outrank them on specificity and turn everything blue. */
+  .page__content a,
+  .archive__item-title a,
+  .notice a {
+    color: lighten($info-color, 12%);
+
+    &:hover {
+      color: lighten($info-color, 28%);
+    }
+
+    &:visited {
+      color: mix(#fff, $info-color, 15%);
+    }
+  }
+
+  /* Sidebar author profile (GitHub, location, email, etc.) — force a
+     single readable white instead of the per-brand icon colors and the
+     link accent color above. */
+  .author__urls,
+  .author__urls a,
+  .author__urls li,
+  .author__urls i {
+    color: #fff;
+  }
+
+  hr {
+    border-color: #333;
+  }
+
+  /* Masthead / navigation */
+  .masthead {
+    background-color: #121212;
+    border-bottom-color: #333;
+  }
+
+  .greedy-nav {
+    background: #121212;
+
+    a {
+      color: #c9c9c9;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+
+    button {
+      background-color: #2a2a2a;
+    }
+
+    .hidden-links {
+      background: #1e1e1e;
+      border-color: #333;
+
+      a:hover {
+        background: #2a2a2a;
+        color: #fff;
+      }
+
+      &:after {
+        border-color: #1e1e1e transparent;
+      }
+
+      &:before {
+        border-color: #333 transparent;
+      }
+    }
+  }
+
+  .theme-toggle {
+    color: #c9c9c9;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  /* Footer */
+  .page__footer {
+    background-color: #1a1a1a;
+    border-top-color: #333;
+    color: #9a9a9a;
+
+    .fas, .fab, .far, .fal {
+      color: #9a9a9a;
+    }
+  }
+
+  /* Code */
+  code, pre, tt {
+    background-color: #1e1e1e;
+    color: #e6e6e6;
+  }
+
+  /* Tables */
+  table {
+    color: #d8d8d8;
+
+    thead, th {
+      background-color: #1e1e1e;
+    }
+
+    tr:nth-child(even) {
+      background-color: #191919;
+    }
+
+    th, td {
+      border-color: #333;
+    }
+  }
+
+  /* Forms */
+  input, textarea, select {
+    background-color: #1e1e1e;
+    color: #e6e6e6;
+    border-color: #333;
+  }
+
+  /* Notice blocks */
+  .notice, .notice--primary, .notice--info, .notice--warning, .notice--success, .notice--danger {
+    color: #e6e6e6;
+  }
+
+  .notice {
+    background-color: mix(#000, $light-gray, 80%);
+  }
+
+  .notice--primary {
+    background-color: mix(#000, $primary-color, 80%);
+  }
+
+  .notice--info {
+    background-color: mix(#000, $info-color, 80%);
+  }
+
+  .notice--warning {
+    background-color: mix(#000, $warning-color, 80%);
+  }
+
+  .notice--success {
+    background-color: mix(#000, $success-color, 80%);
+  }
+
+  .notice--danger {
+    background-color: mix(#000, $danger-color, 80%);
+  }
+
+  /* Archive listings / borders */
+  .archive__item-teaser,
+  .page__content,
+  .page__meta,
+  .author__avatar img {
+    border-color: #333;
+  }
+
+  /* Mailchimp signup form (year-archive page) — its own inline <style>
+     hardcodes a white card, which the classic-10_7.css stylesheet then
+     styles assuming dark text on that white background. !important is
+     used because that CSS is loaded from Mailchimp's CDN and out of our
+     control, so we can't rely on selector specificity alone. */
+  #mc_embed_signup {
+    background: #1e1e1e !important;
+    border: 1px solid #333;
+    border-radius: 6px;
+    padding: 1em;
+  }
+
+  #mc_embed_signup,
+  #mc_embed_signup h2,
+  #mc_embed_signup label,
+  #mc_embed_signup .indicates-required,
+  #mc_embed_signup .asterisk {
+    color: #e6e6e6 !important;
+  }
+
+  #mc_embed_signup input.email {
+    background-color: #121212 !important;
+    color: #e6e6e6 !important;
+    border: 1px solid #333 !important;
+  }
+
+  #mc_embed_signup .button {
+    background-color: $info-color !important;
+    color: #121212 !important;
+  }
+}
+
