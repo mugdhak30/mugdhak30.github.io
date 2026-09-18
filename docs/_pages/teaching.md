@@ -37,7 +37,7 @@ I have supervised the following Master theses:
 7) Empirical Evaluation of Forward and Backward Taint Analysis *(June 2023)* \\
 8) Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO *(Jan 2023)*
 
-For students seeking a thesis topic, organizational information [on my webpage](https://mugdhak30.github.io/info_for_students/) and on the [SSE webpage](https://www.hni.uni-paderborn.de/sse/lehre/bachelor-masterarbeiten) might interest you. 
+For students seeking a thesis topic, organizational information [on my webpage](https://mugdhak30.github.io/info_for_students/) and on the [SSE webpage](https://www.hni.uni-paderborn.de/en/sse/teaching/bachelors-masters-theses) might interest you. 
 
 {% include base_path %}
 
