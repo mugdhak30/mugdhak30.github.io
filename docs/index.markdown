@@ -42,7 +42,7 @@ Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.get
 <!-- IMPORTANT: markdown="1" lets kramdown process Markdown INSIDE this div -->
 <div class="announcements-scroll" markdown="1">
 
-📢 **September 2026**: I successfully defended my Doctoral Dissertation at Paderborn University 🎓🎉. <span class="badge-new">NEW</span>
+📢 **September 2026**: I [successfully defended](https://www.hni.uni-paderborn.de/en/message/wir-gratulieren-mugdha-khedkar-zu-ihrer-bestandenen-promotionspruefung) my Doctoral Dissertation at Paderborn University 🎓🎉. <span class="badge-new">NEW</span>
 
 <div class="photo-row" markdown="1">
 ![PhD defense photo 1](/assets/PhD.jpg){: .announcement-photo}
