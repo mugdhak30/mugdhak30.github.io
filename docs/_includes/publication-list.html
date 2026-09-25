@@ -1,0 +1,17 @@
+{%- comment -%}
+  Publications grouped by year, newest first.
+  Usage: {% include publication-list.html items=site.data.publications.papers %}
+{%- endcomment -%}
+<div class="pub-list">
+{%- assign groups = include.items | group_by: "year" | sort: "name" | reverse -%}
+{%- for g in groups %}
+<div class="pub-year-group">
+<div class="pub-year">{{ g.name }}</div>
+<div class="pub-entries">
+{%- for p in g.items %}
+{% include publication.html pub=p %}
+{%- endfor %}
+</div>
+</div>
+{%- endfor %}
+</div>

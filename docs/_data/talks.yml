@@ -1,0 +1,156 @@
+# Talks shown on /talks/.
+#
+# To add a talk, copy an entry and edit it. To add another place where you
+# gave an existing talk, add one more item under its `stops`.
+# Talks are grouped by year and listed newest first automatically.
+#
+#   abbr:   text on the coloured badge
+#   badge:  badge colour class from _sass/custom.scss
+#           (invited-talk, industry-talk, pub-mobilesoft, pub-icse, pub-asew, workshop, phd-defense, ...)
+#   kind:   optional small label next to the badge
+#   award:  optional
+#   stops:  one item per time the talk was given
+#     venue, flag, date ("YYYY-MM") are required; url and co_label/co_url are optional
+
+- title: "Assisting GDPR Compliance through Static Analysis of Android Apps"
+  abbr: "PhD Defense"
+  badge: phd-defense
+  stops:
+    - venue: "Heinz Nixdorf Institute, Paderborn University"
+      flag: 🇩🇪
+      date: "2026-09"
+
+- title: "Challenges in Android Data Disclosure: An Empirical Study"
+  abbr: "MOBILESoft'26"
+  badge: pub-mobilesoft
+  kind: Conference talk
+  award: "Best Presentation Honourable Mention"
+  stops:
+    - venue: "13th International Conference on Mobile Software Engineering and Systems"
+      url: https://conf.researchr.org/home/mobilesoft-2026
+      co_label: ICSE 2026
+      co_url: https://conf.researchr.org/home/icse-2026
+      flag: 🇧🇷
+      date: "2026-04"
+
+- title: "Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View"
+  abbr: "SANER'26"
+  badge: pub-icse
+  kind: Conference talk
+  stops:
+    - venue: "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering"
+      url: https://conf.researchr.org/home/saner-2026
+      flag: 🇨🇾
+      date: "2026-03"
+
+- title: "Static Analysis for Android GDPR Compliance"
+  abbr: "Invited Talk"
+  badge: invited-talk
+  stops:
+    - venue: "Human-Centered Security and Privacy, Max Planck Institute for Security and Privacy"
+      flag: 🇩🇪
+      date: "2026-02"
+
+- title: "From Pain Points to Automation: Support for Privacy Assessments"
+  abbr: "Invited Workshop"
+  badge: workshop
+  stops:
+    - venue: "European Privacy KnowledgeNet 2025, Munich"
+      flag: 🇩🇪
+      date: "2025-10"
+
+- title: "Static Analysis for Android GDPR Compliance"
+  abbr: "Invited Talk"
+  badge: invited-talk
+  stops:
+    - venue: "Cybersecurity Group, King's College London"
+      flag: 🇬🇧
+      date: "2025-12"
+    - venue: "Cybersecurity Center, TU Wien"
+      flag: 🇦🇹
+      date: "2025-10"
+    - venue: "Mobile and Wireless Security, Hasso Plattner Institute, University of Potsdam"
+      flag: 🇩🇪
+      date: "2025-09"
+    - venue: "Center for Information Security and Trust, IT University of Copenhagen"
+      flag: 🇩🇰
+      date: "2025-08"
+
+- title: "Static Analysis for Privacy-Aware Reporting"
+  abbr: "Invited Talk"
+  badge: invited-talk
+  stops:
+    - venue: "Davis Security Lab, University of California Davis"
+      flag: 🇺🇸
+      date: "2025-12"
+    - venue: "Programming Languages and Artificial Intelligence, LMU Munich"
+      flag: 🇩🇪
+      date: "2025-10"
+
+- title: "Static Analysis for Android Privacy Assessments"
+  abbr: "Industry Talk"
+  badge: industry-talk
+  stops:
+    - venue: "AWS, Santa Clara"
+      flag: 🇺🇸
+      date: "2025-03"
+
+- title: "Advancing Android Privacy Assessments with Automation"
+  abbr: "A-Mobile@ASE'24"
+  badge: pub-asew
+  kind: Workshop talk
+  stops:
+    - venue: "7th International Workshop on Advances in Mobile App Analysis"
+      url: https://a-mobile.github.io/amobile2024.html
+      co_label: ASE 2024
+      co_url: https://conf.researchr.org/home/ase-2024
+      flag: 🇺🇸
+      date: "2024-11"
+
+- title: "Do Android App Developers Accurately Report Collection of Privacy-Related Data?"
+  abbr: "A-Mobile@ASE'24"
+  badge: pub-asew
+  kind: Workshop talk
+  stops:
+    - venue: "7th International Workshop on Advances in Mobile App Analysis"
+      url: https://a-mobile.github.io/amobile2024.html
+      co_label: ASE 2024
+      co_url: https://conf.researchr.org/home/ase-2024
+      flag: 🇺🇸
+      date: "2024-11"
+
+- title: "Towards Static Analysis for Android GDPR Compliance"
+  abbr: "Invited Talk"
+  badge: invited-talk
+  stops:
+    - venue: "College of Engineering, University of California Davis"
+      flag: 🇺🇸
+      date: "2024-11"
+
+- title: "Enhancing Android App Privacy"
+  abbr: "Invited Talk"
+  badge: invited-talk
+  stops:
+    - venue: "CyberResilience.NRW kickoff event, Paderborn"
+      flag: 🇩🇪
+      date: "2024-10"
+
+- title: "Toward an Android Static Analysis Approach for Data Protection"
+  abbr: "MOBILESoft'24"
+  badge: pub-mobilesoft
+  kind: Conference talk
+  stops:
+    - venue: "11th International Conference on Mobile Software Engineering and Systems"
+      url: https://conf.researchr.org/home/mobilesoft-2024
+      co_label: ICSE 2024
+      co_url: https://conf.researchr.org/home/icse-2024
+      flag: 🇵🇹
+      date: "2024-04"
+
+- title: "Security and Privacy by Design"
+  abbr: "Invited Talk"
+  badge: invited-talk
+  stops:
+    - venue: "Get to Know HNI 2023, Universität Paderborn"
+      flag: 🇩🇪
+      date: "2023-05"

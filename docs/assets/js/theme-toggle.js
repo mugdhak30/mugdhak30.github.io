@@ -29,9 +29,9 @@
     button.setAttribute('aria-label', dark ? 'Switch to light theme' : 'Switch to dark theme');
   }
 
+  // Light is the default; dark mode only applies after a visitor picks it.
   if (!getStored()) {
-    var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-    root.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
+    root.setAttribute('data-theme', 'light');
   }
 
   syncButton();

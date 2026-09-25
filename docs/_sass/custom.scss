@@ -12,10 +12,527 @@
 .pub-asew { background-color: #2563eb; }      /* blue */
 .pub-mobilesoft { background-color: #16a34a; } /* green */
 .pub-icse { background-color: #ef4444; }      /* red */
-.pub-asejournal { background-color: #f59e0b; }  /* amber */
+.pub-asejournal { background-color: #b8860b; }  /* yellow ochre */
 .workshop { background-color: #a1168c; } /* magenta */ 
 .arxiv {background-color: #7d7f7c;} /* grey */
 .phd-defense { background-color: #8488e8; }  /* purple */
+.invited-talk { background-color: #0d9488; }  /* teal */
+.industry-talk { background-color: #ea580c; } /* orange */
+/* ==========================================================================
+   Publication list (/research/), rendered from _data/publications.yml
+   ========================================================================== */
+
+.pub-list {
+  margin-bottom: 1.5em;
+
+  .pub-abbr { margin-left: 0; }
+}
+
+.pub-year-group {
+  display: grid;
+  grid-template-columns: 4.5em 1fr;
+  column-gap: 1.25em;
+
+  @media (max-width: 560px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.pub-year {
+  position: sticky;
+  top: 0;
+  align-self: start;
+  padding-top: 0.8em;
+  font-size: 1.25em;
+  font-weight: 700;
+  color: $gray;
+  font-variant-numeric: tabular-nums;
+
+  @media (max-width: 560px) {
+    position: static;
+  }
+}
+
+.pub-entries {
+  border-left: 1px solid $border-color;
+  padding-left: 1.25em;
+
+  @media (max-width: 560px) {
+    border-left: 0;
+    padding-left: 0;
+  }
+}
+
+.pub {
+  padding: 0.9em 0 1.1em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child { border-bottom: 0; }
+}
+
+.pub-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em;
+  margin-bottom: 0.25em;
+}
+
+.pub-kind {
+  font-size: 0.75em;
+  color: $gray;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.pub-list .pub-title {
+  margin: 0 0 0.25em;
+  font-size: 1.05em;
+  line-height: 1.4;
+}
+
+.pub-list .pub-authors {
+  margin: 0;
+  font-size: 0.95em;
+}
+
+.pub-me {
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: $info-color;
+  text-underline-offset: 3px;
+}
+
+.pub-list .pub-venue {
+  margin: 0 0 0.6em;
+  font-size: 0.875em;
+  font-style: italic;
+  color: $gray;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+
+  a, button {
+    font-family: inherit;
+    font-size: 0.8em;
+    font-weight: 600;
+    line-height: 1.5;
+    padding: 0.15em 0.65em;
+    border-radius: 5px;
+    border: 1px solid $border-color;
+    background: #f7f9fa;
+    color: mix(#000, $info-color, 15%);
+    text-decoration: none;
+    cursor: pointer;
+
+    &:hover { border-color: $info-color; }
+  }
+}
+
+/* Talks (/talks/), rendered from _data/talks.yml; reuses the publication list layout */
+
+.talk-stops {
+  list-style: none;
+  margin: 0.3em 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.25em;
+
+  li {
+    display: grid;
+    grid-template-columns: 5.5em 1fr;
+    column-gap: 0.75em;
+    margin: 0;
+    font-size: 0.9em;
+
+    @media (max-width: 560px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  time {
+    color: $gray;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+}
+
+.talk-co { color: $gray; }
+
+.talk-award {
+  display: inline-block;
+  margin-top: 0.5em;
+  padding: 0.1em 0.6em;
+  border-radius: 5px;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #c62828;
+  background: #fdecec;
+}
+
+/* CV (/cv/): dates in a left column, matching the publication and talk lists */
+
+.cv-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5em 1em;
+
+  h1 { margin-bottom: 0.25em; }
+}
+
+.cv-button,
+.cv-links a {
+  display: inline-block;
+  font-size: 0.8em;
+  font-weight: 600;
+  line-height: 1.5;
+  padding: 0.2em 0.75em;
+  border-radius: 5px;
+  border: 1px solid $border-color;
+  background: #f7f9fa;
+  color: mix(#000, $info-color, 15%);
+  text-decoration: none;
+
+  &:hover { border-color: $info-color; }
+}
+
+.cv-item {
+  display: grid;
+  grid-template-columns: 8.5em 1fr;
+  column-gap: 1.25em;
+
+  @media (max-width: 560px) {
+    grid-template-columns: 1fr;
+
+    & + & { border-top: 1px solid $border-color; }
+  }
+}
+
+.cv-date {
+  padding-top: 0.9em;
+  font-size: 0.9em;
+  font-weight: 700;
+  color: $gray;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.cv-body {
+  border-left: 1px solid $border-color;
+  padding: 0.75em 0 0.9em 1.25em;
+
+  .cv-item + .cv-item & { border-top: 1px solid $border-color; }
+
+  @media (max-width: 560px) {
+    border-left: 0;
+    padding-left: 0;
+    padding-top: 0.1em;
+
+    .cv-item + .cv-item & { border-top: 0; }
+  }
+
+  p { margin: 0; }
+}
+
+.cv-title {
+  font-size: 1.05em;
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+.cv-detail {
+  font-size: 0.9em;
+  color: $gray;
+
+  strong { color: $text-color; font-weight: 600; }
+}
+
+.cv-sub {
+  margin-top: 0.6em;
+  padding-top: 0.5em;
+  border-top: 1px dashed $border-color;
+
+  .cv-title { font-size: 0.97em; }
+}
+
+.cv-label {
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: $gray;
+}
+
+.cv-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-top: 0.5em;
+}
+
+.cv-courses {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16em, 1fr));
+  gap: 0.75em 1.75em;
+
+  ul {
+    margin: 0.25em 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    margin-bottom: 0.4em;
+    font-size: 0.95em;
+    line-height: 1.45;
+  }
+}
+
+.cv-provider {
+  font-size: 0.8em;
+  color: $gray;
+  white-space: nowrap;
+}
+
+/* Teaching (/teaching/): course cards reuse .pub-list; theses and seminars use dated rows */
+
+.pub-list .course-desc {
+  margin: 0 0 0.5em;
+  font-size: 0.95em;
+}
+
+.term-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+
+  span {
+    font-size: 0.8em;
+    font-weight: 600;
+    padding: 0.1em 0.65em;
+    border-radius: 5px;
+    border: 1px solid $border-color;
+    background: #f7f9fa;
+    color: $gray;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.dated-rows {
+  list-style: none;
+  margin: 0.25em 0 1em;
+  padding: 0;
+
+  li {
+    display: grid;
+    grid-template-columns: 6.5em 1fr;
+    column-gap: 0.75em;
+    margin: 0;
+    padding: 0.45em 0;
+    border-bottom: 1px solid $border-color;
+    font-size: 0.95em;
+
+    &:last-child { border-bottom: 0; }
+
+    @media (max-width: 560px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  time, .dated-when {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: $gray;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .dated-ongoing { color: mix(#000, $info-color, 15%); }
+}
+
+.dated-label {
+  margin: 0.75em 0 0;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: $gray;
+}
+
+.dated-rows.dated-single li { grid-template-columns: 1fr; }
+
+.dated-extra { color: $gray; }
+
+/* Home page: Latest News, as dated rows in a scrolling box */
+
+.news-scroll {
+  max-height: 670px;
+  overflow-y: auto;
+  padding-right: 8px;
+  border-top: 1px solid $border-color;
+}
+
+.news-rows {
+  margin-top: 0;
+
+  li { line-height: 1.5; }
+
+  p { margin: 0 0 0.4em; }
+  p:last-child { margin-bottom: 0; }
+
+  ul {
+    margin: 0.2em 0 0;
+    padding-left: 1.1em;
+
+    li {
+      display: list-item;
+      padding: 0.1em 0;
+      border: 0;
+    }
+  }
+
+  .badge-new { margin-left: 0.25em; }
+}
+
+.photo-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 0.5em;
+
+  p { display: contents; }
+
+  img.announcement-photo {
+    width: 200px;
+    max-width: 100%;
+    margin: 0;
+    border-radius: 4px;
+  }
+}
+
+/* Contact (/contact/): label/value rows */
+
+.contact-rows {
+  display: grid;
+  grid-template-columns: 8em 1fr;
+  column-gap: 1em;
+  margin: 0 0 1.25em;
+
+  dt, dd {
+    margin: 0;
+    padding: 0.6em 0;
+    border-bottom: 1px solid $border-color;
+  }
+
+  dt {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: $gray;
+  }
+
+  dt:last-of-type, dd:last-of-type { border-bottom: 0; }
+
+  address {
+    font-style: normal;
+    line-height: 1.55;
+  }
+
+  @media (max-width: 560px) {
+    grid-template-columns: 1fr;
+
+    dt { border-bottom: 0; padding-bottom: 0; }
+    dd { padding-top: 0.1em; }
+  }
+}
+
+/* Interests (/interests/): favourite quotes */
+
+.quote-list {
+  display: grid;
+  gap: 0.9em;
+  margin-bottom: 1.5em;
+}
+
+.quote-block {
+  margin: 0;
+  padding: 0.6em 0 0.6em 1.1em;
+  border-left: 3px solid $border-color;
+  font-size: 1em;
+
+  p {
+    margin: 0;
+    font-style: italic;
+    line-height: 1.55;
+  }
+
+  footer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5em;
+    margin-top: 0.4em;
+    font-size: 0.875em;
+    font-style: normal;
+    color: $gray;
+  }
+
+  a {
+    font-size: 0.85em;
+    font-weight: 600;
+    padding: 0.05em 0.6em;
+    border-radius: 5px;
+    border: 1px solid $border-color;
+    background: #f7f9fa;
+    color: mix(#000, $info-color, 15%);
+    text-decoration: none;
+
+    &:hover { border-color: $info-color; }
+  }
+}
+
+html[data-theme="dark"] {
+  .pub-year, .pub-kind, .pub-list .pub-venue { color: #9aa1a6; }
+  .pub-entries, .pub { border-color: #2e3133; }
+  .pub-me { color: #fff; }
+  .talk-stops time, .talk-co { color: #9aa1a6; }
+  .cv-date, .cv-detail, .cv-label, .cv-provider { color: #9aa1a6; }
+  .cv-detail strong { color: #d8d8d8; }
+  .cv-body, .cv-sub, .cv-item { border-color: #2e3133; }
+
+  .term-tags span { background: #1a1c1d; border-color: #2e3133; color: #9aa1a6; }
+  .dated-rows li, .quote-block { border-color: #2e3133; }
+  .dated-rows time, .dated-rows .dated-when, .dated-label, .quote-block footer { color: #9aa1a6; }
+  .dated-rows .dated-ongoing { color: lighten($info-color, 12%); }
+  .dated-extra, .contact-rows dt { color: #9aa1a6; }
+  .news-scroll, .contact-rows dt, .contact-rows dd { border-color: #2e3133; }
+
+  .quote-block a {
+    background: #1a1c1d;
+    border-color: #2e3133;
+    color: lighten($info-color, 12%);
+  }
+
+  .cv-button, .cv-links a {
+    background: #1a1c1d;
+    border-color: #2e3133;
+    color: lighten($info-color, 12%);
+
+    &:hover { border-color: lighten($info-color, 12%); }
+  }
+  .talk-award { color: #ff8a80; background: #3a1c1c; }
+
+  .pub-links a, .pub-links button {
+    background: #1a1c1d;
+    border-color: #2e3133;
+    color: lighten($info-color, 12%);
+
+    &:hover { border-color: lighten($info-color, 12%); }
+  }
+}
+
 .pub-award {
   color: #c62828;
   font-weight: 600;

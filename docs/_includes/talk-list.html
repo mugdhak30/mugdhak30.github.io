@@ -1,0 +1,37 @@
+{%- comment -%}
+  Talks grouped by year, newest first. Each talk is placed by the most recent
+  date it was given; talks from the same month keep their order in the file.
+  Usage: {% include talk-list.html items=site.data.talks %}
+{%- endcomment -%}
+{%- assign keys = "" | split: "" -%}
+{%- for t in include.items -%}
+{%- assign newest = t.stops | map: "date" | sort | last -%}
+{%- assign tiebreak = 1999 | minus: forloop.index0 -%}
+{%- capture key -%}{{ newest }}|{{ tiebreak }}|{{ forloop.index0 }}{%- endcapture -%}
+{%- assign keys = keys | push: key -%}
+{%- endfor -%}
+{%- assign keys = keys | sort | reverse -%}
+<div class="pub-list talk-list">
+{%- assign current_year = "" -%}
+{%- for key in keys -%}
+{%- assign parts = key | split: "|" -%}
+{%- assign year = parts[0] | slice: 0, 4 -%}
+{%- assign idx = parts[2] | plus: 0 -%}
+{%- if year != current_year -%}
+{%- unless forloop.first %}
+</div>
+</div>
+{%- endunless %}
+<div class="pub-year-group">
+<div class="pub-year">{{ year }}</div>
+<div class="pub-entries">
+{%- assign current_year = year -%}
+{%- endif %}
+{%- assign t = include.items[idx] %}
+{% include talk.html talk=t %}
+{%- if forloop.last %}
+</div>
+</div>
+{%- endif -%}
+{%- endfor %}
+</div>

@@ -1,0 +1,17 @@
+{%- comment -%}
+  One talk card. Usage: {% include talk.html talk=item %}
+{%- endcomment -%}
+{%- assign t = include.talk -%}
+<article class="pub">
+<div class="pub-meta">{% if t.abbr %}<span class="pub-abbr {{ t.badge }}">{{ t.abbr }}</span>{% endif %}{% if t.kind %}<span class="pub-kind">{{ t.kind }}</span>{% endif %}</div>
+<h3 class="pub-title">{{ t.title }}</h3>
+<ul class="talk-stops">
+{%- assign stops = t.stops | sort: "date" | reverse -%}
+{%- for s in stops %}
+<li><time datetime="{{ s.date }}">{{ s.date | append: "-01" | date: "%b %Y" }}</time><span>{% if s.url %}<a href="{{ s.url }}">{{ s.venue }}</a>{% else %}{{ s.venue }}{% endif %} {{ s.flag }}{% if s.co_label %} <span class="talk-co">· co-located with {% if s.co_url %}<a href="{{ s.co_url }}">{{ s.co_label }}</a>{% else %}{{ s.co_label }}{% endif %}</span>{% endif %}</span></li>
+{%- endfor %}
+</ul>
+{%- if t.award %}
+<div class="talk-award">🏆 {{ t.award }}</div>
+{%- endif %}
+</article>

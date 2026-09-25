@@ -1,0 +1,31 @@
+{%- comment -%}
+  One publication card. Usage: {% include publication.html pub=item %}
+{%- endcomment -%}
+{%- assign p = include.pub -%}
+{%- capture authors_plain -%}
+{%- for a in p.authors -%}
+{%- unless forloop.first -%}{%- if forloop.last -%}{%- if forloop.length > 2 -%},{%- endif %} and {% else %}, {% endif -%}{%- endunless -%}
+{{ a }}
+{%- endfor -%}
+{%- endcapture -%}
+{%- capture citation -%}{{ authors_plain }}. {{ p.year }}. {{ p.title }}. {{ p.venue }}. https://doi.org/{{ p.doi }}{%- endcapture -%}
+<article class="pub">
+<div class="pub-meta"><span class="pub-abbr {{ p.badge }}">{{ p.abbr }}</span><span class="pub-kind">{{ p.kind }}</span></div>
+<h3 class="pub-title">{{ p.title }}</h3>
+{%- if p.authors %}
+<p class="pub-authors">
+{%- for a in p.authors -%}
+{%- unless forloop.first -%}{%- if forloop.last -%}{%- if forloop.length > 2 -%},{%- endif %} and {% else %}, {% endif -%}{%- endunless -%}
+{%- if a == site.author.name -%}<span class="pub-me">{{ a }}</span>{%- else -%}{{ a }}{%- endif -%}
+{%- endfor -%}
+</p>
+{%- endif %}
+<p class="pub-venue">{{ p.venue }}</p>
+<div class="pub-links">
+{%- if p.doi %}<a href="https://doi.org/{{ p.doi }}">DOI</a>{% endif -%}
+{%- if p.preprint %}<a href="{% if p.preprint contains '://' %}{{ p.preprint }}{% else %}{{ p.preprint | relative_url }}{% endif %}">Preprint</a>{% endif -%}
+{%- if p.artifacts %}<a href="{{ p.artifacts }}">Artifacts</a>{% endif -%}
+{%- for l in p.links %}<a href="{% if l.url contains '://' %}{{ l.url }}{% else %}{{ l.url | relative_url }}{% endif %}">{{ l.label }}</a>{% endfor -%}
+{%- if p.doi %}<button type="button" class="pub-cite" data-citation="{{ citation | escape }}" hidden>Copy citation</button>{% endif -%}
+</div>
+</article>
