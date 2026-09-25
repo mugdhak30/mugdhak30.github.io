@@ -1,6 +1,9 @@
 {% include base_path %}
 
 <meta charset="utf-8">
+<!-- Opt out of browser auto-darkening (Chrome/Samsung "dark theme for sites"),
+     so the site stays light unless the visitor picks dark with the toggle. -->
+<meta name="color-scheme" content="only light">
 
 <script>
   (function () {
@@ -8,6 +11,9 @@
       var stored = localStorage.getItem('theme');
       if (stored === 'dark' || stored === 'light') {
         document.documentElement.setAttribute('data-theme', stored);
+      }
+      if (stored === 'dark') {
+        document.querySelector('meta[name="color-scheme"]').setAttribute('content', 'dark');
       }
     } catch (e) {}
   })();

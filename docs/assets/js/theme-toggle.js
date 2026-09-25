@@ -23,6 +23,11 @@
     return root.getAttribute('data-theme') === 'dark';
   }
 
+  function syncColorScheme() {
+    var meta = document.querySelector('meta[name="color-scheme"]');
+    if (meta) meta.setAttribute('content', isDark() ? 'dark' : 'only light');
+  }
+
   function syncButton() {
     var dark = isDark();
     button.textContent = dark ? '☀️' : '🌙';
@@ -40,6 +45,7 @@
     var next = isDark() ? 'light' : 'dark';
     root.setAttribute('data-theme', next);
     setStored(next);
+    syncColorScheme();
     syncButton();
   });
 })();
