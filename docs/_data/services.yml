@@ -1,0 +1,132 @@
+# Services shown on /services/.
+#
+# To add a service, copy an entry and edit it. Entries are grouped by year and
+# listed newest first automatically; within a year they keep the order here.
+# Something that spans several years goes under its most recent year, with
+# the full span in `detail`.
+#
+#   role:    small label above the name (Program Committee, Artifact Evaluation, ...)
+#   name:    venue or programme name
+#   url:     optional link for the name
+#   detail:  optional text after the name (track, dates, ...)
+#   year:    year the entry is grouped under
+
+academic:
+  - role: Program Committee
+    name: ICSE 2027
+    url: https://conf.researchr.org/track/icse-2027/icse-2027-src
+    detail: ACM Student Research Competition
+    year: 2027
+
+  - role: Program Committee
+    name: QUATIC 2026
+    url: https://2026.quatic.org/
+    detail: Thematic Track Security and Privacy
+    year: 2026
+
+  - role: Program Committee
+    name: STATIC 2026
+    url: https://conf.researchr.org/home/icse-2026/static-2026
+    detail: co-located with ICSE
+    year: 2026
+
+  - role: Program Committee
+    name: ASE 2026
+    url: https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets
+    detail: Tools and Datasets
+    year: 2026
+
+  - role: Artifact Evaluation Committee
+    name: ASE 2026
+    url: https://conf.researchr.org/home/ase-2026
+    year: 2026
+
+  - role: Artifact Evaluation Committee
+    name: USENIX 2026
+    url: https://www.usenix.org/conference/usenixsecurity26
+    year: 2026
+
+  - role: Artifact Evaluation Committee
+    name: PoPETS 2026
+    url: https://petsymposium.org/
+    year: 2026
+
+  - role: Program Committee
+    name: ASE 2025
+    url: https://conf.researchr.org/track/ase-2025/ase-2025-tool-demonstration-track
+    detail: Tool Demonstrations
+    year: 2025
+
+  - role: Program Committee
+    name: ASE 2024
+    url: https://conf.researchr.org/track/ase-2024/ase-2024-tool-demonstrations
+    detail: Tool Demonstrations
+    year: 2024
+
+  - role: Student Volunteer
+    name: ASE 2024
+    url: https://conf.researchr.org/home/ase-2024
+    year: 2024
+
+  - role: Program Committee
+    name: MSR 2023
+    url: https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?
+    detail: Technical Track (Junior PC Member)
+    year: 2023
+
+  - role: Mentor
+    name: perspeEktIve M Universität Paderborn
+    url: https://www.eim.uni-paderborn.de/en/faculty/studies/mentoring-programme
+    detail: Nov 2021 – Apr 2022
+    year: 2022
+
+  - role: Student Volunteer
+    name: ASE 2021
+    url: https://conf.researchr.org/home/ase-2021
+    year: 2021
+
+# Reviewing without fixed years: shown as a plain list.
+reviewer:
+  - name: IEEE Transactions on Software Engineering
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32
+  - name: International Journal of Human-Computer Interaction
+    url: https://www.tandfonline.com/toc/hihc20/current
+  - name: Information and Software Technology
+    url: https://www.sciencedirect.com/journal/information-and-software-technology
+  - name: "Journal of Software: Evolution and Process"
+    url: https://onlinelibrary.wiley.com/journal/20477481
+  - name: Transportation Research Interdisciplinary Perspectives
+    url: https://www.sciencedirect.com/journal/transportation-research-interdisciplinary-perspectives
+  - name: IEEE Transactions on Privacy
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10167710
+  - name: IEEE Software
+    url: https://www.computer.org/csdl/magazine/so
+    detail: magazine
+
+other:
+  - role: Participant
+    name: 4th Summer School on Security Testing & Verification (ST&V 2025)
+    url: https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025
+    year: 2025
+
+  - role: Participant
+    name: Dagstuhl Research Methods Seminar 2023
+    url: https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23433
+    detail: 'read about my Dagstuhl experience <a href="https://mugdhak30.github.io/Schloss-Dagstuhl/">here</a>'
+    year: 2023
+
+  - role: Mentee
+    name: ICSE 2022 Student Mentoring Workshop
+    url: https://conf.researchr.org/track/icse-2022/icse-2022-smew---student-mentoring-workshop
+    year: 2022
+
+  - role: Mentee
+    name: SIGPLAN-M
+    url: https://www.sigplan.org/LongTermMentoring/
+    detail: 2021 – 2022
+    year: 2022
+
+  - role: Mentee
+    name: PLDI 2021 Programming Languages Mentoring Workshop
+    url: https://pldi21.sigplan.org/home/PLMW-PLDI-2021
+    year: 2021

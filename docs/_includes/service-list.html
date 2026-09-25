@@ -1,0 +1,20 @@
+{%- comment -%}
+  Services grouped by year, newest first; reuses the publication list layout.
+  Usage: {% include service-list.html items=site.data.services.academic %}
+{%- endcomment -%}
+<div class="pub-list svc-list">
+{%- assign groups = include.items | group_by: "year" | sort: "name" | reverse -%}
+{%- for g in groups %}
+<div class="pub-year-group">
+<div class="pub-year">{{ g.name }}</div>
+<ul class="pub-entries svc-items">
+{%- for s in g.items %}
+<li>
+<span class="svc-role">{{ s.role }}</span>
+<span class="svc-name">{% if s.url %}<a href="{{ s.url }}">{{ s.name | escape }}</a>{% else %}{{ s.name | escape }}{% endif %}{% if s.detail %} <span class="dated-extra">· {{ s.detail }}</span>{% endif %}</span>
+</li>
+{%- endfor %}
+</ul>
+</div>
+{%- endfor %}
+</div>
