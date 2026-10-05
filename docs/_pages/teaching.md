@@ -10,7 +10,7 @@ author_profile: true
 
 <div class="pub-list">
 <article class="pub">
-<h3 class="pub-title"><a href="https://www.hni.uni-paderborn.de/sse/lehre/sse">Secure Software Engineering</a></h3>
+<h3 class="pub-title">Secure Software Engineering</h3>
 <p class="pub-venue">Bachelor course, Universität Paderborn</p>
 <p class="course-desc">This course offers an introduction to the key areas of secure software engineering: threat modeling, secure design, secure coding, security validation, secure deployment and maintenance.</p>
 <div class="term-tags"><span>Summer 2025</span><span>Summer 2024</span></div>
