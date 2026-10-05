@@ -11,6 +11,20 @@
 #              Self-hosted files can start with /assets/...
 
 papers:
+  - title: "Assisting GDPR Compliance through Static Analysis of Android Apps"
+    authors: [Mugdha Khedkar]
+    venue: "PhD Thesis, Paderborn University"
+    year: 2026
+    kind: Thesis
+    abbr: "PhD Thesis"
+    badge: phd-defense
+    doi: 10.17619/UNIPB/1-2735
+    preprint: /assets/MK_PhD_Dissertation.pdf
+    artifacts: https://doi.org/10.5281/zenodo.19921018
+    links:
+      - label: Defense Slides
+        url: /assets/MK_Defense_Sept3.pdf
+
   - title: "Challenges in Android Data Disclosure: An Empirical Study"
     authors: [Mugdha Khedkar, Michael Schlichtig, Mohamed Soliman, Eric Bodden]
     venue: "Proceedings of the IEEE/ACM 13th International Conference on Mobile Software Engineering and Systems"

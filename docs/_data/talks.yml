@@ -11,6 +11,7 @@
 #   award:  optional
 #   stops:  one item per time the talk was given
 #     venue, flag, date ("YYYY-MM") are required; url and co_label/co_url are optional
+#     slides: optional link to the slides; self-hosted files can start with /assets/...
 
 - title: "Assisting GDPR Compliance through Static Analysis of Android Apps"
   abbr: "PhD Defense"
@@ -19,6 +20,7 @@
     - venue: "Heinz Nixdorf Institute, Paderborn University"
       flag: 🇩🇪
       date: "2026-09"
+      slides: /assets/MK_Defense_Sept3.pdf
 
 - title: "Challenges in Android Data Disclosure: An Empirical Study"
   abbr: "MOBILESoft'26"

@@ -8,7 +8,7 @@
 <ul class="talk-stops">
 {%- assign stops = t.stops | sort: "date" | reverse -%}
 {%- for s in stops %}
-<li><time datetime="{{ s.date }}">{{ s.date | append: "-01" | date: "%b %Y" }}</time><span>{% if s.url %}<a href="{{ s.url }}">{{ s.venue }}</a>{% else %}{{ s.venue }}{% endif %} {{ s.flag }}{% if s.co_label %} <span class="talk-co">· co-located with {% if s.co_url %}<a href="{{ s.co_url }}">{{ s.co_label }}</a>{% else %}{{ s.co_label }}{% endif %}</span>{% endif %}</span></li>
+<li><time datetime="{{ s.date }}">{{ s.date | append: "-01" | date: "%b %Y" }}</time><span>{% if s.url %}<a href="{{ s.url }}">{{ s.venue }}</a>{% else %}{{ s.venue }}{% endif %} {{ s.flag }}{% if s.co_label %} <span class="talk-co">· co-located with {% if s.co_url %}<a href="{{ s.co_url }}">{{ s.co_label }}</a>{% else %}{{ s.co_label }}{% endif %}</span>{% endif %}{% if s.slides %} <span class="talk-co">· <a href="{% if s.slides contains '://' %}{{ s.slides }}{% else %}{{ s.slides | relative_url }}{% endif %}">Slides</a></span>{% endif %}</span></li>
 {%- endfor %}
 </ul>
 {%- if t.award %}
