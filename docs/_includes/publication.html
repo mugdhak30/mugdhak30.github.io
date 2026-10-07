@@ -8,7 +8,13 @@
 {{ a }}
 {%- endfor -%}
 {%- endcapture -%}
-{%- capture citation -%}{{ authors_plain }}. {{ p.year }}. {{ p.title }}. {{ p.venue }}. https://doi.org/{{ p.doi }}{%- endcapture -%}
+{%- capture cite_url -%}
+{%- if p.doi -%}https://doi.org/{{ p.doi }}
+{%- elsif p.preprint contains '://' -%}{{ p.preprint }}
+{%- elsif p.preprint -%}{{ p.preprint | absolute_url }}
+{%- endif -%}
+{%- endcapture -%}
+{%- capture citation -%}{{ authors_plain }}. {{ p.year }}. {{ p.title }}. {{ p.venue }}.{% if cite_url != "" %} {{ cite_url }}{% endif %}{%- endcapture -%}
 <article class="pub">
 <div class="pub-meta"><span class="pub-abbr {{ p.badge }}">{{ p.abbr }}</span><span class="pub-kind">{{ p.kind }}</span></div>
 <h3 class="pub-title">{{ p.title }}</h3>
@@ -26,6 +32,6 @@
 {%- if p.preprint %}<a href="{% if p.preprint contains '://' %}{{ p.preprint }}{% else %}{{ p.preprint | relative_url }}{% endif %}">Preprint</a>{% endif -%}
 {%- if p.artifacts %}<a href="{{ p.artifacts }}">Artifacts</a>{% endif -%}
 {%- for l in p.links %}<a href="{% if l.url contains '://' %}{{ l.url }}{% else %}{{ l.url | relative_url }}{% endif %}">{{ l.label }}</a>{% endfor -%}
-{%- if p.doi %}<button type="button" class="pub-cite" data-citation="{{ citation | escape }}" hidden>Copy citation</button>{% endif -%}
+{%- if p.doi or p.kind == "Thesis" %}<button type="button" class="pub-cite" data-citation="{{ citation | escape }}" hidden>Copy citation</button>{% endif -%}
 </div>
 </article>

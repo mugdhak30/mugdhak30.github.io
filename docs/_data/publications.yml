@@ -23,7 +23,7 @@ papers:
     artifacts: https://doi.org/10.5281/zenodo.19921018
     links:
       - label: Defense Slides
-        url: /assets/MK_Defense_Sept3.pdf
+        url: /assets/Slides/MK_Defense_Sept3.pdf
 
   - title: "Challenges in Android Data Disclosure: An Empirical Study"
     authors: [Mugdha Khedkar, Michael Schlichtig, Mohamed Soliman, Eric Bodden]
@@ -110,6 +110,18 @@ papers:
     badge: pub-icse
     doi: 10.1109/ICSE-Companion58688.2023.00054
     preprint: https://arxiv.org/abs/2303.09606
+
+  - title: "Call Graph Construction for Spring Framework"
+    authors: [Mugdha Khedkar]
+    venue: "MSc Thesis, Chennai Mathematical Institute"
+    year: 2020
+    kind: Thesis
+    abbr: "MSc Thesis"
+    badge: msc-defense
+    preprint: /assets/MugdhaMasterThesis.pdf
+    links:
+      - label: Defense Slides
+        url: /assets/Slides/MugdhaMastersPresentation.pdf
 
 preprints:
   - title: "Visualizing Privacy-Relevant Data Flows in Android Applications"

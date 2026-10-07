@@ -46,12 +46,16 @@ redirect_from:
 ## Education
 
 <div class="cv-item">
-<div class="cv-date">Sep 2026</div>
+<div class="cv-date">2021 – 2026</div>
 <div class="cv-body">
 <p class="cv-title">Doctorate in Computer Science (Dr. rer. nat.)</p>
 <p class="cv-place">Universität Paderborn, Germany</p>
 <p class="cv-detail"><strong>Dissertation:</strong> Assisting GDPR Compliance through Static Analysis of Android Apps</p>
-<p class="cv-detail">Advisor: <a href="https://www.bodden.de/">Prof. Dr. Eric Bodden</a></p>
+<p class="cv-detail cv-detail-sub">Advisor: <a href="https://www.bodden.de/">Prof. Dr. Eric Bodden</a></p>
+<div class="cv-links">
+<a href="{{ '/assets/MK_PhD_Dissertation.pdf' | relative_url }}">Thesis</a>
+<a href="{{ '/assets/Slides/MK_Defense_Sept3.pdf' | relative_url }}">Defense Slides</a>
+</div>
 </div>
 </div>
 
@@ -60,14 +64,11 @@ redirect_from:
 <div class="cv-body">
 <p class="cv-title">M.Sc. in Computer Science</p>
 <p class="cv-place">Chennai Mathematical Institute, India</p>
-<div class="cv-sub">
-<div class="cv-label">Master's thesis · 2019</div>
-<p class="cv-title">Soundness and precision of call graph construction algorithms for web frameworks like Spring</p>
-<p class="cv-detail">Heinz Nixdorf Institut, Universität Paderborn · Supervisor: <a href="https://www.bodden.de/">Prof. Dr. Eric Bodden</a></p>
+<p class="cv-detail"><strong>Dissertation:</strong> Call Graph Construction for Spring Framework</p>
+<p class="cv-detail cv-detail-sub">Advisor: <a href="https://www.bodden.de/">Prof. Dr. Eric Bodden</a></p>
 <div class="cv-links">
 <a href="{{ '/assets/MugdhaMasterThesis.pdf' | relative_url }}">Thesis</a>
-<a href="{{ '/assets/MugdhaMastersPresentation.pdf' | relative_url }}">Slides</a>
-</div>
+<a href="{{ '/assets/Slides/MugdhaMastersPresentation.pdf' | relative_url }}">Defense Slides</a>
 </div>
 </div>
 </div>
@@ -77,13 +78,10 @@ redirect_from:
 <div class="cv-body">
 <p class="cv-title">B.E. in Computer Engineering</p>
 <p class="cv-place">Cummins College of Engineering for Women, Pune, India</p>
-<div class="cv-sub">
-<div class="cv-label">Bachelor's thesis · 2017</div>
-<p class="cv-title">Empirical evaluation of the precision of pointer analysis variants</p>
-<p class="cv-detail">GCC Resource Center, IIT Bombay · Supervisor: <a href="https://www.cse.iitb.ac.in/~sb/">Prof. Supratim Biswas</a></p>
+<p class="cv-detail"><strong>Dissertation:</strong> Empirical Evaluation of the Precision of Pointer Analysis Variants</p>
+<p class="cv-detail cv-detail-sub">Advisor: <a href="https://www.cse.iitb.ac.in/~sb/">Prof. Supratim Biswas</a></p>
 <div class="cv-links">
 <a href="{{ '/assets/MugdhaBachelorReport.pdf' | relative_url }}">Thesis</a>
-</div>
 </div>
 </div>
 </div>

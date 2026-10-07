@@ -16,6 +16,7 @@
 .workshop { background-color: #a1168c; } /* magenta */ 
 .arxiv {background-color: #7d7f7c;} /* grey */
 .phd-defense { background-color: #8488e8; }  /* purple */
+.msc-defense { background-color: #eba8ed; }  /* light pink */
 .invited-talk { background-color: #0d9488; }  /* teal */
 .industry-talk { background-color: #ea580c; } /* orange */
 /* ==========================================================================
@@ -282,6 +283,12 @@
   strong { color: $text-color; font-weight: 600; }
 }
 
+.cv-detail-sub {
+  margin-left: 1em;
+  padding-left: 0.6em;
+  border-left: 2px solid $border-color;
+}
+
 .cv-sub {
   margin-top: 0.6em;
   padding-top: 0.5em;
@@ -542,7 +549,7 @@ html[data-theme="dark"] {
   .talk-stops time, .talk-co { color: #9aa1a6; }
   .cv-date, .cv-detail, .cv-label, .cv-provider { color: #9aa1a6; }
   .cv-detail strong { color: #d8d8d8; }
-  .cv-body, .cv-sub, .cv-item { border-color: #2e3133; }
+  .cv-body, .cv-sub, .cv-item, .cv-detail-sub { border-color: #2e3133; }
 
   .term-tags span { background: #1a1c1d; border-color: #2e3133; color: #9aa1a6; }
   .dated-rows li, .quote-block { border-color: #2e3133; }

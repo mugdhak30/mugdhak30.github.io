@@ -20,7 +20,7 @@
     - venue: "Heinz Nixdorf Institute, Paderborn University"
       flag: 🇩🇪
       date: "2026-09"
-      slides: /assets/MK_Defense_Sept3.pdf
+      slides: /assets/Slides/MK_Defense_Sept3.pdf
 
 - title: "Challenges in Android Data Disclosure: An Empirical Study"
   abbr: "MOBILESoft'26"
@@ -60,6 +60,7 @@
     - venue: "European Privacy KnowledgeNet 2025, Munich"
       flag: 🇩🇪
       date: "2025-10"
+      slides: /assets/Slides/MK_EPNWorkshop.pdf
 
 - title: "Static Analysis for Android GDPR Compliance"
   abbr: "Invited Talk"
@@ -100,7 +101,7 @@
 - title: "Advancing Android Privacy Assessments with Automation"
   abbr: "A-Mobile@ASE'24"
   badge: pub-asew
-  kind: Workshop talk
+  kind: Conference talk
   stops:
     - venue: "7th International Workshop on Advances in Mobile App Analysis"
       url: https://a-mobile.github.io/amobile2024.html
@@ -112,7 +113,7 @@
 - title: "Do Android App Developers Accurately Report Collection of Privacy-Related Data?"
   abbr: "A-Mobile@ASE'24"
   badge: pub-asew
-  kind: Workshop talk
+  kind: Conference talk
   stops:
     - venue: "7th International Workshop on Advances in Mobile App Analysis"
       url: https://a-mobile.github.io/amobile2024.html
@@ -130,8 +131,8 @@
       date: "2024-11"
 
 - title: "Enhancing Android App Privacy"
-  abbr: "Invited Talk"
-  badge: invited-talk
+  abbr: "Industry Talk"
+  badge: industry-talk
   stops:
     - venue: "CyberResilience.NRW kickoff event, Paderborn"
       flag: 🇩🇪
@@ -156,3 +157,20 @@
     - venue: "Get to Know HNI 2023, Universität Paderborn"
       flag: 🇩🇪
       date: "2023-05"
+
+- title: "Static Analysis for Android GDPR Compliance Assurance"
+  abbr: "PhD Starter Talk"
+  badge: phd-defense
+  stops:
+    - venue: "Heinz Nixdorf Institute, Paderborn University"
+      flag: 🇩🇪
+      date: "2022-10"
+
+- title: "Call Graph Construction for Spring Framework"
+  abbr: "MSc Defense"
+  badge: msc-defense
+  stops:
+    - venue: "Chennai Mathematical Institute"
+      flag: 🇮🇳
+      date: "2020-05"
+      slides: /assets/Slides/MugdhaMastersPresentation.pdf
