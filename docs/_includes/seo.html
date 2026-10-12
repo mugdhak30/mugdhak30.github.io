@@ -48,7 +48,7 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if page.excerpt or page.description %}
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 
@@ -87,6 +87,11 @@
   <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% elsif page.header.overlay_image %}
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% elsif page.og_image %}
+  {% comment %} Link-preview image only (no banner on the page), e.g. og_image: /assets/photo.jpg {% endcomment %}
+  <meta property="og:image" content="{% if page.og_image contains "://" %}{{ page.og_image }}{% else %}{{ page.og_image | prepend: base_path }}{% endif %}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="628">
 {% endif %}
 
 {% if page.date %}

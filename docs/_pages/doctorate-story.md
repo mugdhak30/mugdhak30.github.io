@@ -5,6 +5,8 @@ permalink: /doctorate-story/
 author_profile: true
 musing: true
 date: 2026-10-12
+og_image: /assets/PhDHat3-preview.jpg  # thumbnail when the link is shared
+description: "Today I received my PhD certificate, and I have spent the whole day reflecting on a chapter where literally nothing went my way."
 ---
 
 Today I received my PhD certificate, and I have spent the whole day reflecting on a chapter where literally nothing went my way: from choosing a topic to defending my dissertation.
