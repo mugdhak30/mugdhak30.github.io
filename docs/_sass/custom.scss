@@ -391,6 +391,51 @@
   .dated-ongoing { color: mix(#000, $info-color, 15%); }
 }
 
+/* Photos inside an essay: one row at equal height, uncropped.
+   Give each img `style="flex: <width/height>"` so the row lines up.
+   The row is 640px at most; `style="max-width: none"` on the div lets it use the full width.
+   Optionally wrap images in `<div class="photo-group" style="flex: <sum of its images>">`:
+   groups sit side by side on wide screens and stack on phones. */
+.essay-photos {
+  margin: 1.5em 0;
+
+  > div { display: flex; gap: 20px; max-width: 640px; margin: 0 auto; }
+  .photo-group { display: flex; gap: 20px; min-width: 0; }
+  img { min-width: 0; height: auto; border-radius: 4px; }
+
+  /* Phones: smaller gaps, and each photo-group gets a row of its own */
+  @media (max-width: 560px) {
+    > div { flex-wrap: wrap; gap: 12px; }
+    .photo-group { flex: 1 1 100% !important; gap: 12px; }
+  }
+
+  figcaption {
+    margin-top: 0.5em;
+    font-family: inherit;
+    color: $gray;
+    font-size: 0.85em;
+    font-style: italic;
+    text-align: center;
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* End of each musing: a quiet link back to the list */
+.more-musings {
+  margin-top: 2.5em;
+  padding-top: 1em;
+  border-top: 1px solid $border-color;
+  font-weight: 600;
+}
+
+/* Musings page: essay title with a short excerpt under it */
+.musings {
+  .musing-title { font-weight: 600; }
+  .musing-excerpt { margin: 0.2em 0 0.3em; color: $gray; font-size: 0.95em; line-height: 1.5; }
+}
+
 .dated-label {
   margin: 0.75em 0 0;
   font-size: 0.75em;
@@ -410,6 +455,7 @@
   overflow-y: auto;
   padding-right: 8px;
   border-top: 1px solid $border-color;
+  margin-bottom: 3em;  /* room before "Highlights from LinkedIn" */
 
   /* A scroll box inside the page traps touch scrolling on phones */
   @media (max-width: 560px) {
@@ -541,6 +587,74 @@
   }
 }
 
+/* Home page: featured LinkedIn posts, as static cards side by side */
+
+.li-posts {
+  display: grid;
+  grid-template-columns: 1fr;
+  @media (min-width: 800px) { grid-template-columns: repeat(3, 1fr); }
+  gap: 1.25em;
+  margin-top: 0.5em;
+}
+
+.li-post {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  padding: 1em 1.1em;
+
+  header {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5em;
+    margin-bottom: 0.6em;
+  }
+
+  .li-post-logo { flex: none; width: 1.1em; height: 1.1em; margin-top: 0.2em; color: #0a66c2; }
+  .li-post-who { min-width: 0; line-height: 1.3; }
+  .li-post-author { display: block; font-weight: 700; }
+
+  /* Long headline: two lines at most, like LinkedIn's own cards */
+  .li-post-headline {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color: $gray;
+    font-size: 0.75em;
+  }
+
+  .li-post-date { flex: none; margin-left: auto; color: $gray; font-size: 0.85em; }
+
+  /* Whole photo, letterboxed, so portrait and landscape cards line up */
+  img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    background: $lighter-gray;
+    border-radius: 4px;
+    margin-bottom: 0.6em;
+  }
+
+  /* About 6 lines, fading out; line-clamp can't span several paragraphs */
+  .li-post-text {
+    font-size: 0.9em;
+    line-height: 1.5;
+    max-height: 9em;
+    overflow: hidden;
+    -webkit-mask-image: linear-gradient(to bottom, #000 70%, transparent);
+            mask-image: linear-gradient(to bottom, #000 70%, transparent);
+
+    p { margin: 0 0 0.5em; }
+  }
+
+  /* Without a photo, the text gets the photo's space */
+  &.li-post--text-only .li-post-text { max-height: 21em; }
+
+  .li-post-link { margin-top: auto; padding-top: 0.6em; font-size: 0.9em; }
+}
+
 html[data-theme="dark"] {
   .pub-year, .pub-kind, .pub-list .pub-venue { color: #9aa1a6; }
   .pub-entries, .pub, .svc-items li { border-color: #2e3133; }
@@ -557,6 +671,12 @@ html[data-theme="dark"] {
   .dated-rows .dated-ongoing { color: lighten($info-color, 12%); }
   .dated-extra, .contact-rows dt { color: #9aa1a6; }
   .news-scroll, .contact-rows dt, .contact-rows dd { border-color: #2e3133; }
+  .li-post { border-color: #2e3133; }
+  .musings .musing-excerpt { color: #9aa1a6; }
+  .more-musings { border-color: #2e3133; }
+  .essay-photos figcaption { color: #9aa1a6; }
+  .li-post img { background: #1a1c1d; }
+  .li-post .li-post-date, .li-post .li-post-headline { color: #9aa1a6; }
 
   .quote-block a {
     background: #1a1c1d;

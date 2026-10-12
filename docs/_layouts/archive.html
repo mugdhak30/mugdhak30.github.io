@@ -20,5 +20,6 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
+    {% if page.musing %}{% include more-musings.html %}{% endif %}
   </div>
 </div>

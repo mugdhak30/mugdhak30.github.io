@@ -12,7 +12,10 @@ I am an author of more than 275 English poems, some of which can be found on my 
 
 I like to travel. I share some of my travel adventures on my [blog](https://mugdhak30.github.io/year-archive/). 
 
+I also write personal essays about life's bigger moments, which I collect under [Musings](https://mugdhak30.github.io/musings/).
+
 I am fond of photography. I share some of the photos I have clicked of Paderborn [here](https://mugdhak30.github.io/photos_of_paderborn/).
+
 
 ## Favourite Quotes
 

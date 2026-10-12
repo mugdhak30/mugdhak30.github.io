@@ -3,9 +3,9 @@ layout: archive
 title: "Court Wedding: Of Vows and Dreams"
 permalink: /court-wedding-Maharashtra-India/
 author_profile: true
+musing: true
+date: 2025-01-26
 ---
-
-So.. I got married!
 
 When I first told my German friends that I was getting married, they exclaimed "Oh! We'll finally get to attend a big fat Indian wedding". "Tough luck!", I replied. "1.4 billion Indians in the world and you guys befriend the one who wants an intimate court wedding". 
 

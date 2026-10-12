@@ -137,3 +137,9 @@ I was selected as a Junior PC member for the research track of [MSR 2023](https:
 </div></li>
 </ul>
 </div>
+
+
+**Highlights from LinkedIn**
+=====
+
+{% include linkedin-posts.html %}

@@ -1,0 +1,45 @@
+# Featured LinkedIn posts; the home page shows the first three, in this order.
+# Feature a post with: python3 scripts/add_linkedin_post.py <link to the post>
+# Unfeature one by deleting its entry. Fields: date (YYYY-MM-DD), url, text, image (optional).
+
+- date: 2026-09-06
+  url: https://www.linkedin.com/posts/mugdha-khedkar-1410a3102_phd-phddefended-gdpr-activity-7502340869019271168-SSo8
+  image: /assets/linkedin/7502340869019271168.jpg
+  text: |
+    🎓 I'm thrilled to share that I've successfully defended my PhD thesis!
+
+    My research sat at the intersection of GDPR compliance and software engineering, building tools to help stakeholders navigate data protection requirements - from developer-facing views to automated Records of Processing Activities (RoPA) generation.
+
+    Working on an inter-disciplinary topic was genuinely difficult, and there were moments I wished I'd picked something simpler. Bridging legal and technical perspectives means constantly translating between worlds that don't always speak the same language. But the satisfaction of building something that could actually help privacy practitioners and developers make sense of GDPR compliance kept me going through the hardest parts.
+
+    I'm deeply grateful to my advisor Eric Bodden for his constant support, and my committee members Mohamed Soliman, Awais Rashid, Ben Hermann, and Arnab Sharma for their reviews and time.
+
+    This chapter is closing soon, but I'm very excited for what's next! 🚀
+    \#PhD #PhDDefended #GDPR #SoftwareEngineering #Privacy #Research
+
+    Photos: https://Farshadafshari.com
+
+- date: 2026-04-15
+  url: https://www.linkedin.com/posts/mugdha-khedkar-1410a3102_icse2026-mobilesoft-softwareengineering-activity-7450143540929798144-mNaZ
+  image: /assets/linkedin/7450143540929798144.jpg
+  text: |
+    Excited to be in Rio for ICSE - International Conference on Software Engineering 2026! 🇧🇷 I already had the chance to present our paper "Challenges in Android Data Disclosure: An Empirical Study" at MOBILESoft, and I’m happy to share that it received an Honourable Mention for Best Presentation 🎉
+
+    Here's the preprint of our paper: https://lnkd.in/gpwUHkRm
+
+    I’ll be here for the full ICSE week, so if you’re interested in static analysis, data protection, or empirical software engineering, I’d love to connect and chat. I’m also currently looking for a postdoc starting in Fall 2026, so if you know of opportunities or would like to discuss possible fits, please feel free to reach out.
+
+    And if you’re at the conference reception tonight, come say hi! 😊
+
+    \#ICSE2026 #MOBILESoft #SoftwareEngineering #StaticAnalysis #DataProtection #EmpiricalSE #Postdoc
+
+- date: 2025-10-31
+  url: https://www.linkedin.com/posts/mugdha-khedkar-1410a3102_knowledgenet-epn-activity-7390034778466627584-uWFY
+  image: /assets/linkedin/7390034778466627584.jpg
+  text: |
+    I had a great time organizing a workshop session at the IAPP European Privacy #KnowledgeNet (#EPN) in Munich. 🎉
+    Huge thanks to Markus Sullivan for the opportunity, and to Jira-jane Pravitra and Kai Döpel for all your help in making it happen. 🙌
+
+    We kicked things off with an interactive discussion on the pain points of privacy assessments, followed by a deep dive into how automation can support the process — a topic closely tied to my PhD research. The discussion was incredibly insightful — not only did I get validation that my PhD research is tackling a real problem, but I also walked away with fresh ideas to continue this line of work.
+
+    Thanks to everyone who joined and contributed such thoughtful insights. Your input means a lot! 💡
