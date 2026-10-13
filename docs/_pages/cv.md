@@ -105,3 +105,7 @@ redirect_from:
 </ul>
 </div>
 </div>
+
+## Contact
+
+{% include contact-rows.html %}
