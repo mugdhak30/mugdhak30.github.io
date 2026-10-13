@@ -450,6 +450,10 @@
 
 /* Home page: Latest News, as dated rows in a scrolling box */
 
+/* Phones only, upright or sideways: a touch screen whose short side is
+   small. Tablets (short side >= ~740px) and laptops (fine pointer) don't match. */
+$phone: "(pointer: coarse) and (max-width: 560px), (pointer: coarse) and (max-height: 500px)";
+
 .news-scroll {
   max-height: 670px;
   overflow-y: auto;
@@ -457,12 +461,24 @@
   border-top: 1px solid $border-color;
   margin-bottom: 3em;  /* room before "Highlights from LinkedIn" */
 
-  /* A scroll box inside the page traps touch scrolling on phones */
-  @media (max-width: 560px) {
+  /* A scroll box inside the page traps touch scrolling on phones, so phones
+     get the first five items and a "Show all" button instead */
+  @media #{$phone} {
     max-height: none;
     overflow-y: visible;
     padding-right: 0;
+
+    &:not(.is-expanded) .news-rows > li:nth-child(n+6) { display: none; }
   }
+}
+
+.news-toggle {
+  display: none;
+  margin-top: 0.75em;
+  font-family: inherit;
+  cursor: pointer;
+
+  @media #{$phone} { display: inline-block; }
 }
 
 .news-rows {

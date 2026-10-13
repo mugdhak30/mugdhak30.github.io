@@ -136,6 +136,7 @@ My short paper was accepted at [ICSE 2023 Doctoral Symposium](https://conf.resea
 I was selected as a Junior PC member for the research track of [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?).
 </div></li>
 </ul>
+<button type="button" class="cv-button news-toggle" aria-expanded="false" onclick="var box = this.parentNode, open = box.classList.toggle('is-expanded'); this.setAttribute('aria-expanded', open); this.textContent = open ? 'Show fewer' : 'Show all'; if (!open) box.scrollIntoView();">Show all</button>
 </div>
 
 
