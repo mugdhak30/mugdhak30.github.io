@@ -9,7 +9,7 @@
 <div class="research-split-mid" aria-hidden="true">Between law and code</div>
 {%- endunless %}
 <section class="research-side research-side--{{ area.key }}">
-<h3 class="research-side-label">{{ area.label }}</h3>
+<h3 class="research-side-label">{% if area.icon %}<i class="{{ area.icon }}" aria-hidden="true"></i> {% endif %}{{ area.label }}</h3>
 <p class="research-side-title">{{ area.title }}</p>
 <p class="research-side-blurb">{{ area.blurb }}</p>
 <a class="research-side-more" href="{{ area.url | relative_url }}">Read more →</a>

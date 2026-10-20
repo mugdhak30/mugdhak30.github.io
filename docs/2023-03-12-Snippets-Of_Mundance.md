@@ -1,6 +1,7 @@
 ---
 layout: archive
 title:  "Snippets of the Mundane"
+description: "I can't wake up in a new country every day, but that shouldn't stop me from writing. Snippets of an ordinary grey, snowy winter: celebrating the everyday."
 author_profile: true
 ---
 

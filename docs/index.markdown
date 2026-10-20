@@ -31,10 +31,10 @@ I [successfully defended](https://www.hni.uni-paderborn.de/en/message/wir-gratul
 </div>
 </div></li>
 <li><span class="dated-when">Jul 2026</span><div markdown="1">
-I'm serving on the Artifact Evaluation Committee of [ASE 2026](https://conf.researchr.org/home/ase-2026). <span class="badge-new">NEW</span>
+I'm serving on the Artifact Evaluation Committee of [ASE 2026](https://conf.researchr.org/home/ase-2026). 
 </div></li>
 <li><span class="dated-when">May 2026</span><div markdown="1">
-I submitted my Doctoral Dissertation titled <em>Assisting GDPR Compliance through Static Analysis of Android Apps</em> at Paderborn University 📝💻🎉. <span class="badge-new">NEW</span>
+I submitted my Doctoral Dissertation titled <em>Assisting GDPR Compliance through Static Analysis of Android Apps</em> at Paderborn University 📝💻🎉.
 </div></li>
 <li><span class="dated-when">May 2026</span><div markdown="1">
 I have been invited to serve as a Program Committee member for [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-src) (ACM Student Research Competition).

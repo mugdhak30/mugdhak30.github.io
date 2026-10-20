@@ -3,6 +3,7 @@
 #
 #   key:       which area a page shows ({% include research-area.html key="..." %})
 #   label:     the card's large heading on the home page (Code / Law)
+#   icon:      Font Awesome 5 classes for the icon before the label
 #   title:     card subtitle and page heading
 #   blurb:     one or two sentences on the card
 #   url:       the area's page (its file in _pages/ uses the same permalink)
@@ -16,6 +17,7 @@
 areas:
   - key: developers
     label: "Code"
+    icon: "fas fa-code"
     title: "Research for developers"
     blurb: "Does your app's Data safety label match what your code actually collects? My research finds personal data in Android code, traces where it flows, and shows why disclosures so often go wrong, along with tools that help you get yours right."
     url: /research/developers/
@@ -34,6 +36,7 @@ areas:
 
   - key: privacy-legal
     label: "Law"
+    icon: "fas fa-balance-scale"
     title: "Research for privacy and legal experts"
     blurb: "Assessing an app's GDPR compliance shouldn't require reading its code. Assessor View turns an Android app into evidence you can work with: data flows, GDPR warnings and a draft Record of Processing Activities. My interviews with experts show where today's assessments break down."
     url: /research/privacy-legal/
