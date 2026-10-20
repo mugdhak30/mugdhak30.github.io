@@ -138,6 +138,7 @@ exclude:
   - LICENSE
   - README
   - documentation_research_talks.md
+  - documentation_blog_posts.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
