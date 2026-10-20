@@ -1,0 +1,27 @@
+{%- comment -%}
+  One research area's page body. Usage: {% include research-area.html key="developers" %}
+  Text comes from _data/research_areas.yml; badges and links from _data/publications.yml.
+{%- endcomment -%}
+{%- assign area = site.data.research_areas.areas | where: "key", include.key | first -%}
+{%- assign all_pubs = site.data.publications.papers | concat: site.data.publications.preprints -%}
+<p class="research-area-intro">{{ area.intro }}</p>
+<div class="pub-list">
+{%- for item in area.papers %}
+{%- assign p = all_pubs | where: "title", item.title | first %}
+{%- if p %}
+<article class="pub">
+<div class="pub-meta"><span class="pub-abbr {{ p.badge }}">{{ p.abbr }}</span><span class="pub-kind">{{ p.kind }}</span></div>
+<h3 class="pub-title">{{ p.title }}</h3>
+<p class="research-area-summary">{{ item.summary }}</p>
+<div class="pub-links">
+{%- if p.doi %}<a href="https://doi.org/{{ p.doi }}">DOI</a>{% endif -%}
+{%- if p.preprint %}<a href="{% if p.preprint contains '://' %}{{ p.preprint }}{% else %}{{ p.preprint | relative_url }}{% endif %}">Preprint</a>{% endif -%}
+{%- if p.artifacts %}<a href="{{ p.artifacts }}">Artifacts</a>{% endif -%}
+{%- for l in p.links %}<a href="{% if l.url contains '://' %}{{ l.url }}{% else %}{{ l.url | relative_url }}{% endif %}">{{ l.label }}</a>{% endfor -%}
+{%- for l in item.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor -%}
+</div>
+</article>
+{%- endif %}
+{%- endfor %}
+</div>
+<p class="research-cards-more"><a href="{{ '/research/' | relative_url }}">All publications →</a></p>

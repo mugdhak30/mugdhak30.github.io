@@ -448,37 +448,126 @@
 
 .dated-extra { color: $gray; }
 
-/* Home page: Latest News, as dated rows in a scrolling box */
+/* Home page: one research panel under the bio, split into Code and Law
+   halves with "Between law and code" down the middle; from
+   _data/research_areas.yml */
 
-/* Phones only, upright or sideways: a touch screen whose short side is
-   small. Tablets (short side >= ~740px) and laptops (fine pointer) don't match. */
-$phone: "(pointer: coarse) and (max-width: 560px), (pointer: coarse) and (max-height: 500px)";
+.research-split {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  margin: 1.5em 0 2.5em;
+  border: 1px solid $border-color;
+  border-radius: 0.6em;
+  overflow: hidden;
 
-.news-scroll {
-  max-height: 670px;
-  overflow-y: auto;
-  padding-right: 8px;
-  border-top: 1px solid $border-color;
-  margin-bottom: 3em;  /* room before "Highlights from LinkedIn" */
-
-  /* A scroll box inside the page traps touch scrolling on phones, so phones
-     get the first five items and a "Show all" button instead */
-  @media #{$phone} {
-    max-height: none;
-    overflow-y: visible;
-    padding-right: 0;
-
-    &:not(.is-expanded) .news-rows > li:nth-child(n+6) { display: none; }
+  @media (max-width: 640px) {
+    grid-template-columns: 1fr;
   }
 }
 
+.research-side {
+  --accent: #{$gray};
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.2em 1.4em 1.3em;
+  border-top: 4px solid var(--accent);
+}
+
+.research-side--developers { --accent: #1e3a8a; }
+.research-side--privacy-legal { --accent: #0f766e; }
+
+.research-side-label {
+  margin: 0;
+  font-size: 1.25em;
+  line-height: 1.2;
+  color: var(--accent);
+}
+
+.research-side-title {
+  margin: 0.15em 0 0.6em;
+  font-size: 0.8em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: $gray;
+}
+
+.research-side-blurb {
+  margin: 0 0 1.1em;
+  font-size: 0.85em;
+  line-height: 1.55;
+}
+
+.archive a.research-side-more,
+a.research-side-more {
+  margin-top: auto;
+  padding: 0.3em 0.85em;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 5px;
+  text-decoration: none;
+
+  &:hover {
+    color: #fff;
+    background: var(--accent);
+    text-decoration: none;
+  }
+}
+
+.research-split-mid {
+  display: grid;
+  place-items: center;
+  padding: 0 0.7em;
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $gray;
+  writing-mode: vertical-rl;
+  border-left: 1px solid $border-color;
+  border-right: 1px solid $border-color;
+
+  @media (max-width: 640px) {
+    padding: 0.5em;
+    writing-mode: horizontal-tb;
+    border: 0;
+    border-top: 1px solid $border-color;
+  }
+}
+
+/* Research area pages (/research/developers/, /research/privacy-legal/) */
+
+.research-area-intro { margin-bottom: 1.5em; }
+
+.research-area-summary {
+  margin: 0.4em 0 0.6em;
+  font-size: 0.9em;
+  line-height: 1.55;
+}
+
+.research-cards-more {
+  margin: 0 0 2em;
+  font-size: 0.85em;
+  text-align: right;
+}
+
+/* Home page: Latest News, as dated rows; the first eight items show
+   until "Show more" is pressed */
+
+.news-box {
+  border-top: 1px solid $border-color;
+  margin-bottom: 3em;  /* room before "Highlights from LinkedIn" */
+
+  &:not(.is-expanded) .news-rows > li:nth-child(n+9) { display: none; }
+}
+
 .news-toggle {
-  display: none;
   margin-top: 0.75em;
   font-family: inherit;
   cursor: pointer;
-
-  @media #{$phone} { display: inline-block; }
 }
 
 .news-rows {
@@ -501,6 +590,9 @@ $phone: "(pointer: coarse) and (max-width: 560px), (pointer: coarse) and (max-he
   }
 
   .badge-new { margin-left: 0.25em; }
+
+  /* paper and thesis titles */
+  em { color: #1e3a8a; font-weight: bold; }
 }
 
 .photo-row {
@@ -686,7 +778,13 @@ html[data-theme="dark"] {
   .dated-rows time, .dated-rows .dated-when, .dated-label, .quote-block footer { color: #9aa1a6; }
   .dated-rows .dated-ongoing { color: lighten($info-color, 12%); }
   .dated-extra, .contact-rows dt { color: #9aa1a6; }
-  .news-scroll, .contact-rows dt, .contact-rows dd { border-color: #2e3133; }
+  .news-box, .research-split, .research-split-mid, .contact-rows dt, .contact-rows dd { border-color: #2e3133; }
+  .research-side-title, .research-split-mid { color: #9aa1a6; }
+  .research-side--developers { --accent: #93b4f5; }
+  .research-side--privacy-legal { --accent: #5ec4b6; }
+  a.research-side-more:hover { color: #121212; }
+  .research-side-label { color: var(--accent); }
+  .news-rows em { color: #93b4f5; }
   .li-post { border-color: #2e3133; }
   .musings .musing-excerpt { color: #9aa1a6; }
   .more-musings { border-color: #2e3133; }

@@ -1,0 +1,18 @@
+{%- comment -%}
+  Home page research panel, rendered from _data/research_areas.yml: one box
+  split into Code and Law halves with "Between law and code" down the middle.
+  Each half's "Read more" opens the area's page (_includes/research-area.html).
+{%- endcomment -%}
+<div class="research-split">
+{%- for area in site.data.research_areas.areas %}
+{%- unless forloop.first %}
+<div class="research-split-mid" aria-hidden="true">Between law and code</div>
+{%- endunless %}
+<section class="research-side research-side--{{ area.key }}">
+<h3 class="research-side-label">{{ area.label }}</h3>
+<p class="research-side-title">{{ area.title }}</p>
+<p class="research-side-blurb">{{ area.blurb }}</p>
+<a class="research-side-more" href="{{ area.url | relative_url }}">Read more →</a>
+</section>
+{%- endfor %}
+</div>

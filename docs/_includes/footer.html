@@ -11,6 +11,18 @@
     {% if site.facebook.username %}
       <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     {% endif %}
+    {% if site.author.googlescholar %}
+      <li><a href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar-square" aria-hidden="true"></i> Google Scholar</a></li>
+    {% endif %}
+    {% if site.author.linkedin %}
+      <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+    {% endif %}
+    {% if site.author.orcid %}
+      <li><a href="{{ site.author.orcid }}"><i class="ai ai-orcid-square" aria-hidden="true"></i> ORCID</a></li>
+    {% endif %}
+    {% if site.author.dblp %}
+      <li><a href="{{ site.author.dblp }}"><i class="ai ai-dblp-square" aria-hidden="true"></i> DBLP</a></li>
+    {% endif %}
     {% if site.author.github %}
       <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}

@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: ""
+seo_title: "Teaching"
+description: "Courses and seminars Mugdha Khedkar has taught at Paderborn University."
 permalink: /teaching/
 author_profile: true
 ---

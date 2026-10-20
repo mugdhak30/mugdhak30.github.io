@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: ""
+seo_title: "Publications"
+description: "Publications by Mugdha Khedkar on static analysis of Android apps, data privacy and GDPR compliance."
 permalink: /research/
 author_profile: true
 ---

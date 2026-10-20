@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: ""
+seo_title: "Contact"
+description: "How to get in touch with Mugdha Khedkar."
 permalink: /contact/
 author_profile: true
 ---

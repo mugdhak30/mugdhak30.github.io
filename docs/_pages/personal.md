@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: ""
+seo_title: "Personal"
+description: "Poetry, travel, photography and personal essays by Mugdha Khedkar."
 permalink: /personal/
 redirect_from:
   - /interests/

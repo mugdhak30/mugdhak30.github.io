@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: ""
+seo_title: "CV"
+description: "CV of Mugdha Khedkar, Research Associate in Secure Software Engineering at Paderborn University."
 permalink: /cv/
 author_profile: true
 redirect_from:

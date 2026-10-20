@@ -2,6 +2,8 @@
 layout: archive
 permalink: /privacy/
 title: ""
+seo_title: "Privacy Policy"
+description: "Privacy policy for mugdhak30.github.io."
 author_profile: true
 ---
 

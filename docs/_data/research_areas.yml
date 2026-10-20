@@ -1,0 +1,50 @@
+# Research areas: the two cards under the bio on the home page, and the
+# page each card's "Read more" button opens.
+#
+#   key:       which area a page shows ({% include research-area.html key="..." %})
+#   label:     the card's large heading on the home page (Code / Law)
+#   title:     card subtitle and page heading
+#   blurb:     one or two sentences on the card
+#   url:       the area's page (its file in _pages/ uses the same permalink)
+#   intro:     opening paragraph of that page
+#   papers:    in the order shown on the page
+#     title:   exactly as in _data/publications.yml (papers or preprints); the
+#              badge, DOI, preprint and artifact links come from there
+#     summary: what the paper means for this audience
+#     links:   optional extra links (label + url)
+
+areas:
+  - key: developers
+    label: "Code"
+    title: "Research for developers"
+    blurb: "Does your app's Data safety label match what your code actually collects? My research finds personal data in Android code, traces where it flows, and shows why disclosures so often go wrong, along with tools that help you get yours right."
+    url: /research/developers/
+    intro: "If you build Android apps, the GDPR and Google Play expect you to know, and declare, which personal data your app collects. That is harder than it sounds once third-party libraries and system APIs are involved. These papers look at where developers struggle and build static analysis tools that answer the question from the code itself."
+    papers:
+      - title: "Challenges in Android Data Disclosure: An Empirical Study"
+        summary: "Why is filling in Google Play's Data safety form so hard? We surveyed 41 developers and analysed 172 online developer discussions, covering 683 developers in total. Developers are confident they know what data their app collects, but much less sure how to map it onto Google's categories. Many do the mapping by hand, rely on online forums, and worry that a mismatch will get their app rejected. The paper sets out the clearer guidance and tools that would help."
+      - title: "A study of privacy-related data collected by Android apps"
+        summary: "What counts as privacy-related data, and where does an app collect it? We define it in layers, build a dataset of privacy-sensitive data classes from both the user interface and system APIs, and implement a prototype that detects and labels them in an app. Comparing its results with apps' Data safety sections reveals both over- and under-reporting, for example in Signal and Instagram. A study of 7,500 apps shows that location is collected often, especially by shopping apps, but is frequently under-reported."
+      - title: "Visualizing Privacy-Relevant Data Flows in Android Applications"
+        summary: "SliceViz is a web tool that slices an app's code around each source of privacy-relevant data and visualises the slices, so you can see where personal data goes without being a legal expert. In a user study with 12 participants, it helped developers identify the privacy-relevant properties of their code."
+      - title: "Do Android App Developers Accurately Report Collection of Privacy-Related Data?"
+        summary: "We manually reviewed the Data safety sections of 70 apps and compared a static analysis prototype against 20 more, finding both over- and under-reporting. The main causes are Google's abstract definitions of collected data and the lack of tools that help developers check their disclosures."
+      - title: "Toward an Android Static Analysis Approach for Data Protection"
+        summary: "Where this line of work started: a static taint analysis that finds sources of personal data in an app's code and traces how the data flows. It aims to help developers answer data protection questions during development, such as which data is derived from personal data and which protection measures apply."
+
+  - key: privacy-legal
+    label: "Law"
+    title: "Research for privacy and legal experts"
+    blurb: "Assessing an app's GDPR compliance shouldn't require reading its code. Assessor View turns an Android app into evidence you can work with: data flows, GDPR warnings and a draft Record of Processing Activities. My interviews with experts show where today's assessments break down."
+    url: /research/privacy-legal/
+    intro: "Assessing an app's GDPR compliance needs legal, privacy and technical experts to work together, yet the evidence sits in source code that most assessors cannot read. These papers study how privacy assessments work in practice and present Assessor View, a tool that extracts privacy-relevant information from Android apps and presents it in terms DPOs and legal experts can work with."
+    papers:
+      - title: "Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View"
+        summary: "Assessor View generates a first draft of the Record of Processing Activities (RoPA, GDPR Art. 30) directly from an app, and adds a shared dashboard where privacy experts and developers can discuss findings. In interviews, six privacy experts said the RoPA gave them a good overview of the data being processed and made it easier to communicate with technical teams."
+        links:
+          - label: Demo video
+            url: https://youtu.be/rVwJDHLj7Pw
+      - title: "Between Law and Code: Challenges and Opportunities for Automating Privacy Assessments"
+        summary: "We interviewed 16 experts about how privacy assessments work in practice. They described knowledge and communication gaps between legal and technical experts, the trade-off between privacy and innovation, privacy professionals being brought in too late, and a lack of tools that analyse source code. In a user study with Assessor View, DPOs and privacy experts found its GDPR warnings and guidance valuable."
+      - title: "Advancing Android Privacy Assessments with Automation"
+        summary: "Privacy assessments depend on legal experts, privacy experts and developers understanding each other. This paper argues that automation can close that gap and introduces Assessor View, which extracts privacy-relevant information from an app and presents it to assessors who do not read code."

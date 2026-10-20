@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: ""
+seo_title: "Services"
+description: "Academic services by Mugdha Khedkar: program committees, artifact evaluation and reviewing."
 permalink: /services/
 author_profile: true
 ---

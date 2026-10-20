@@ -62,7 +62,7 @@ facebook:
   username               : 
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/dagstuhl.jpg" # link-preview image for pages that set none
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -105,6 +105,7 @@ author:
   linkedin         : "mugdha-khedkar-1410a3102"
   linkedin_headline: "PhD in Computer Science | Research Associate at HNI, Universität Paderborn | Software Engineering | Data Protection"  # shown on the LinkedIn cards
   orcid            : "https://orcid.org/0009-0003-0434-381X"
+  dblp             : "https://dblp.org/pid/342/8311.html"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

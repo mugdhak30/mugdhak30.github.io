@@ -5,22 +5,22 @@
 layout: archive
 author_profile: false
 
-announcements:
-  scrollable: true   # enable vertical scrolling
-  limit: 5           # number of items to display before scrolling
-
 ---
 {:refdef: style="text-align: center;"}
 ![](images/dagstuhl.jpg){:width="250"}
 {:refdef}
 
-Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.getElementById('nameAudio').play(); return false;" title="Play pronunciation">🔊</a>).</small><audio id="nameAudio"><source src="{{ '/assets/audio/mugdha-khedkar.mp3' | relative_url }}" type="audio/mpeg"></audio> I am a Research Associate at [Heinz Nixdorf Institut](https://www.hni.uni-paderborn.de/) at Paderborn University, Germany. I recently completed my PhD under the supervision of [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/). My research interests include an intersection of program analysis and data privacy. My work explores the role of static program analysis in ensuring protection and privacy of user data in Android apps. 
+Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.getElementById('nameAudio').play(); return false;" title="Play pronunciation">🔊</a>).</small><audio id="nameAudio"><source src="{{ '/assets/audio/mugdha-khedkar.mp3' | relative_url }}" type="audio/mpeg"></audio> I am a Research Associate at [Heinz Nixdorf Institut](https://www.hni.uni-paderborn.de/) at Paderborn University, Germany. I recently completed my PhD under the supervision of [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/). 
+
+My research lies at the intersection of program analysis and data privacy. I build static analysis tools that help Android apps comply with the GDPR, and I study how developers, privacy experts and legal professionals can collaborate more effectively on privacy assessments. My goal is privacy tooling that is accurate and also genuinely useful to the people responsible for protecting user data.
+
+{% include research-cards.html %}
 
 **Latest News**
 =====
 
 
-<div class="news-scroll">
+<div class="news-box">
 <ul class="dated-rows news-rows">
 <li><span class="dated-when">Sep 2026</span><div markdown="1">
 I [successfully defended](https://www.hni.uni-paderborn.de/en/message/wir-gratulieren-mugdha-khedkar-zu-ihrer-bestandenen-promotionspruefung) my Doctoral Dissertation at Paderborn University 🎓🎉. <span class="badge-new">NEW</span>
@@ -40,7 +40,7 @@ I submitted my Doctoral Dissertation titled <em>Assisting GDPR Compliance throug
 I have been invited to serve as a Program Committee member for [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-src) (ACM Student Research Competition).
 </div></li>
 <li><span class="dated-when">Apr 2026</span><div markdown="1">
-I presented our research paper at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) in Rio De Janeiro (Brazil), and attended [ICSE 2026](https://conf.researchr.org/home/icse-2026) 🇧🇷.
+I presented our research paper <em>Challenges in Android Data Disclosure: An Empirical Study</em> at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) in Rio De Janeiro (Brazil), and attended [ICSE 2026](https://conf.researchr.org/home/icse-2026) 🇧🇷.
 </div></li>
 <li><span class="dated-when">Apr 2026</span><div markdown="1">
 I have been invited to serve as a Program Committee member for [ASE 2026](https://conf.researchr.org/track/ase-2026/ase-2026-tools-and-data-sets) (Tools and Datasets).
@@ -49,22 +49,22 @@ I have been invited to serve as a Program Committee member for [ASE 2026](https:
 I have been invited to serve as a Program Committee member for [QUATIC 2026](https://2026.quatic.org/) (Thematic Track Security and Privacy).
 </div></li>
 <li><span class="dated-when">Mar 2026</span><div markdown="1">
-I attended [SANER 2026](https://conf.researchr.org/home/saner-2026) in Limassol (Cyprus), where I presented our tool demonstration paper 🇨🇾.
+I attended [SANER 2026](https://conf.researchr.org/home/saner-2026) in Limassol (Cyprus), where I presented our tool demonstration paper <em>Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View</em> 🇨🇾.
 </div></li>
 <li><span class="dated-when">Feb 2026</span><div markdown="1">
 I gave a talk at Max Planck Institute for Security and Privacy (🇩🇪).
 </div></li>
 <li><span class="dated-when">Feb 2026</span><div markdown="1">
-Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉🎊.
+Our paper <em>Between Law and Code: Challenges and Opportunities for Automating Privacy Assessments</em> has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉🎊.
 </div></li>
 <li><span class="dated-when">Jan 2026</span><div markdown="1">
-Our paper has been accepted at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) 🎉🎊.
+Our paper <em>Challenges in Android Data Disclosure: An Empirical Study</em> has been accepted at [MOBILESoft 2026](https://conf.researchr.org/home/mobilesoft-2026) 🎉🎊.
 </div></li>
 <li><span class="dated-when">Dec 2025</span><div markdown="1">
 A couple of things happened:
 
-- Our paper has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉🎊.
-- Our tool paper has been accepted at [SANER 2026](https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track) 🎉🎊!
+- Our paper <em>A study of privacy-related data collected by Android apps</em> has been accepted for publication in the [Automated Software Engineering Journal](https://link.springer.com/journal/10515) 🎉🎊.
+- Our tool paper <em>Source Code-Driven GDPR Documentation: Supporting RoPA with Assessor View</em> has been accepted at [SANER 2026](https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track) 🎉🎊!
 - I'm serving on the Artifact Evaluation Committee of [USENIX 2026](https://www.usenix.org/conference/usenixsecurity26) and [PoPETS 2026](https://petsymposium.org/).
 - I visited Davis Security Lab, University of California Davis and gave an invited talk (🇺🇸).
 - I gave a virtual talk at King's College London (🇬🇧).
@@ -94,7 +94,7 @@ I have been invited to serve as a Program Committee member for [ASE 2025](https:
 I gave a talk at Amazon, Santa Clara (🇺🇸).
 </div></li>
 <li><span class="dated-when">Nov 2024</span><div markdown="1">
-I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento (California), where I presented our papers at the A-Mobile workshop 🇺🇸.
+I attended [ASE 2024](https://conf.researchr.org/home/ase-2024) in Sacramento (California), where I presented our papers <em>Do Android App Developers Accurately Report Collection of Privacy-Related Data?</em> and <em>Advancing Android Privacy Assessments with Automation</em> at the A-Mobile workshop 🇺🇸.
 </div></li>
 <li><span class="dated-when">Oct 2024</span><div markdown="1">
 I gave a [talk](https://engineering.ucdavis.edu/events/cs-talk-static-analysis-android-gdpr-compliance-assurance) at University of California, Davis (🇺🇸).
@@ -106,7 +106,7 @@ I gave a talk at the [CyberResilience.NRW kickoff event](https://www.linkedin.co
 I got selected to be a student volunteer for [ASE 2024](https://conf.researchr.org/home/ase-2024).
 </div></li>
 <li><span class="dated-when">Sep 2024</span><div markdown="1">
-Two papers were accepted at the [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/amobile2024.html) held in conjunction with [ASE 2024](https://conf.researchr.org/home/ase-2024) 🎉🎊.
+Two papers, <em>Do Android App Developers Accurately Report Collection of Privacy-Related Data?</em> and <em>Advancing Android Privacy Assessments with Automation</em>, were accepted at the [7th International Workshop on Advances in Mobile App Analysis](https://a-mobile.github.io/amobile2024.html) held in conjunction with [ASE 2024](https://conf.researchr.org/home/ase-2024) 🎉🎊.
 </div></li>
 <li><span class="dated-when">Jul 2024</span><div markdown="1">
 I became a member of the [Data Privacy Vocabularies and Controls Community Group](https://www.w3.org/community/dpvcg/).
@@ -115,10 +115,10 @@ I became a member of the [Data Privacy Vocabularies and Controls Community Group
 I have been invited to serve as a Program Committee member for [ASE 2024](https://conf.researchr.org/home/ase-2024) (Tool Demonstrations).
 </div></li>
 <li><span class="dated-when">Apr 2024</span><div markdown="1">
-I presented our short paper at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal 🇵🇹.
+I presented our short paper <em>Toward an Android Static Analysis Approach for Data Protection</em> at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) and attended [ICSE 2024](https://conf.researchr.org/home/icse-2024) in Lisbon, Portugal 🇵🇹.
 </div></li>
 <li><span class="dated-when">Mar 2024</span><div markdown="1">
-Our short paper was accepted at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) Research Forum 🎉🎊.
+Our short paper <em>Toward an Android Static Analysis Approach for Data Protection</em> was accepted at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) Research Forum 🎉🎊.
 </div></li>
 <li><span class="dated-when">Oct 2023</span><div markdown="1">
 I participated in the [Dagstuhl Research Methods Seminar 2023](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23433) 🇩🇪. I have shared my experience [here](https://mugdhak30.github.io/Schloss-Dagstuhl/).
@@ -130,13 +130,13 @@ I gave a talk titled "Security and Privacy by Design" at Get to Know HNI 2023, U
 I presented a poster at the [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) in Melbourne, Australia 🇦🇺.
 </div></li>
 <li><span class="dated-when">Mar 2023</span><div markdown="1">
-My short paper was accepted at [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) 🎉🎊.
+My short paper <em>Static Analysis for Android GDPR Compliance Assurance</em> was accepted at [ICSE 2023 Doctoral Symposium](https://conf.researchr.org/track/icse-2023/icse-2023-DS) 🎉🎊.
 </div></li>
 <li><span class="dated-when">Dec 2022</span><div markdown="1">
 I was selected as a Junior PC member for the research track of [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?).
 </div></li>
 </ul>
-<button type="button" class="cv-button news-toggle" aria-expanded="false" onclick="var box = this.parentNode, open = box.classList.toggle('is-expanded'); this.setAttribute('aria-expanded', open); this.textContent = open ? 'Show fewer' : 'Show all'; if (!open) box.scrollIntoView();">Show all</button>
+<button type="button" class="cv-button news-toggle" aria-expanded="false" onclick="var box = this.parentNode, open = box.classList.toggle('is-expanded'); this.setAttribute('aria-expanded', open); this.textContent = open ? 'Show less' : 'Show more'; if (!open) box.scrollIntoView();">Show more</button>
 </div>
 
 
