@@ -19,7 +19,7 @@ areas:
     label: "Code"
     icon: "fas fa-code"
     title: "Research for developers"
-    blurb: "Does your app's Data safety label match what your code actually collects? My research finds personal data in Android code, traces where it flows, and shows why disclosures so often go wrong, along with tools that help you get yours right."
+    blurb: "Does your app's Data safety section match what your code actually collects? My research finds personal data in Android code, traces where it flows, and shows why disclosures so often go wrong, along with tools that help you get yours right."
     url: /research/developers/
     intro: "If you build Android apps, the GDPR and Google Play expect you to know, and declare, which personal data your app collects. That is harder than it sounds once third-party libraries and system APIs are involved. These papers look at where developers struggle and build static analysis tools that answer the question from the code itself."
     papers:

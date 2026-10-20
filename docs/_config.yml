@@ -81,8 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Mugdha Khedkar"
+  honorific        : "Dr."  # shown before the name in the sidebar profile only
   avatar           : "dagstuhl.jpg"
-  bio              : "PhD in Computer Science, Secure Software Engineering, Universität Paderborn"
+  bio              : "Research Associate, Secure Software Engineering, Universität Paderborn"
   location         : "Germany"
   #employer         :  "Universität Paderborn"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
