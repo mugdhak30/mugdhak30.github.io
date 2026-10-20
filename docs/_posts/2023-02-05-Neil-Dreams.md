@@ -3,9 +3,12 @@ layout: archive
 title:  "Neil Island: A Blanket of Dreams"
 author_profile: true
 tags: India
+description: "Hypnotically blue water, a glass-bottom boat, a hunt for glowing waves and a sunrise worth the wait."
+header:
+  teaser: /images/teasers/Neil14.jpg
 ---
 
-We spent the first week of December island hopping in the Bay of Bengal. Our next destination was Neil Island ([Shaheed Dweep](https://en.wikipedia.org/wiki/Neil_Island)). The hypnotisingly blue water of this island was undoubtedly the hightlight of our trip. 
+We spent the first week of December island hopping in the Bay of Bengal. Our next destination was Neil Island ([Shaheed Dweep](https://en.wikipedia.org/wiki/Neil_Island)). The hypnotisingly blue water of this island was undoubtedly the highlight of our trip. 
 
 In our first 10 minutes at the island, we knew this place was special. Our resort was located at the sunrise point at the [Sitapur beach](https://www.eternalandamans.com/neil-island/sitapur-beach). I had specifically asked our travel agent for this resort, since I wanted us to be at the most isolated part of the island (I will soon tell you why). That decision was rewarding, and the resort was a little slice of heaven! Oh btw, many photos in this post (and in our trip) have been clicked by my sister, Sneha. Thanks Sneha for letting me borrow them :)
 

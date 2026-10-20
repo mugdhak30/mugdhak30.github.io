@@ -3,6 +3,9 @@ layout: archive
 title:  "Shasta: Trails, Laughs, and Peace by the Water"
 author_profile: true
 tags: USA
+description: "Waterfalls, winding lakes and limestone caves: the offbeat second leg of our Northern California road trip."
+header:
+  teaser: /images/teasers/Shasta6.jpg
 ---
 The second leg of our Northern California road trip took us away from the coast but kept us close to nature—in the world of lakes, waterfalls and caves! We soon realized that this was definitely one of the most offbeat places we had ever decided to explore.
 

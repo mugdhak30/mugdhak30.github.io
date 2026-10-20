@@ -3,6 +3,9 @@ layout: archive
 title:  "Jodhpur: Rao Jodha's Fortress"
 author_profile: true
 tags: India
+description: "The blue city of Rajasthan, the mighty Mehrangarh Fort, and an evening of street shopping and mawa kachori."
+header:
+  teaser: /images/teasers/Jodhpur1.jpg
 ---
 
 I am continually spellbound by the diversity India offers to travelers. If you've ever thought that European cities are the epitome of culture and heritage, let me introduce you to the wonders of Rajasthan!

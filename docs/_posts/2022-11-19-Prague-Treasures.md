@@ -3,6 +3,9 @@ layout: archive
 title:  "Prague and its Unearthed Treasures"
 author_profile: true
 tags: Czech Republic
+description: "Kafka's Jewish Quarter, a 'dementor' outside the Opera, and the Hanging Man: Prague's quirky side."
+header:
+  teaser: /images/teasers/Prague5.jpg
 ---
 
 Our final goodbye to summer 2022 was as special as the summer itself. We planned a trip to the interesting city of Prague, not knowing that this destination would impress us in more ways than one. Prague was an emotional rollercoaster, and one of the best places in Europe to witness the onset of fall.

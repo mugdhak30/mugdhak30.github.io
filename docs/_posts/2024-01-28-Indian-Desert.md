@@ -3,6 +3,9 @@ layout: archive
 title:  "The Great Indian Desert"
 author_profile: true
 tags: India
+description: "Back home for the holidays: a jeep safari across the Thar desert, a breathtaking sunset and a camel named Bhura."
+header:
+  teaser: /images/teasers/Manvar11.jpg
 ---
 
 2023 started slow for me but soon I was stargazing in the deserts of California, flying alongside the Northern lights, exploring the land of Kangaroos and spending a dreamy summer on the Adriatic coast. But for the final hurrah of the year, I craved the warmth of my family and friends. So, I wrapped up the year in India, the first home I have ever known and loved. 

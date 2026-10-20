@@ -3,6 +3,9 @@ layout: archive
 title:  "Hidden Treasures of NRW: Paderborn (1/2)"
 author_profile: true
 tags: Germany
+description: "An ode to ordinary Paderborn: the Town Hall, the warm Pader springs and the hometown of Heinz Nixdorf."
+header:
+  teaser: /images/teasers/Paderborn2_4.jpg
 ---
 
 I realised last week how I had taken an immense responsibility on my shoulders, that of talking about something ordinary in an extraordinary way! I was pretty nervous until I realised that no perfect place seems extraordinary unless you make the ordinary come alive. With this ode to Paderborn, I try to celebrate the calm town that is tucked away in the lap of Eggberge Hills. I realised that I have many beautiful photos that ought to be seen. You can find them [here](http://mugdhak30.github.io/photos_of_paderborn/), and I sure hope they do justice to the beauty of Paderborn!

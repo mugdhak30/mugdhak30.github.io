@@ -3,6 +3,9 @@ layout: archive
 title:  "Paris: A Dollop of Fantasy, a Pinch of Reality"
 author_profile: true
 tags: France
+description: "An honest day in Paris: an underwhelming first look at the Eiffel Tower, and bakeries that made up for it."
+header:
+  teaser: /images/teasers/Paris3.jpg
 ---
 
 After spending a few weekends revisiting German cities, I got a chance to explore a new country. A friend from India visited Europe recently and we both spent a wonderful day along the banks of the Seine river, in a city that is a dream for many: Paris. 

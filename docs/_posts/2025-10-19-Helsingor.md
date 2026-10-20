@@ -3,9 +3,12 @@ layout: archive
 title:  "Helsingør: The Home of Hamlet"
 author_profile: true
 tags: Denmark
+description: "Hamlet performed in Kronborg's courtyard, an afternoon of coloring in a castle, and a 15-minute ferry to Sweden."
+header:
+  teaser: /images/teasers/Helsingor1.jpg
 ---
 
-On our very short trip to Scandinavia, we decided to deviate from our usual usual big-European-city itinerary and wander into a small town nestled at the Danish–Swedish border. A short train ride from Copenhagen, through stretches of Danish countryside, brought us to the enchanting town of Helsingør. 
+On our very short trip to Scandinavia, we decided to deviate from our usual big-European-city itinerary and wander into a small town nestled at the Danish–Swedish border. A short train ride from Copenhagen, through stretches of Danish countryside, brought us to the enchanting town of Helsingør. 
 
 The main reason for our visit was [Kronborg castle](https://kronborg.dk/en), immortalised in literature as Elsinore in William Shakespeare's play, [Hamlet](https://en.wikipedia.org/wiki/Hamlet). Now, I will be honest here. I’ve never actually read Hamlet (or any Shakespeare play cover to cover, for that matter). But that didn’t dull my excitement to visit the iconic fortress.  
 

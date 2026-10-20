@@ -3,6 +3,9 @@ layout: archive
 title:  "Melbourne: An Innings to Remember"
 author_profile: true
 tags: Australia
+description: "A cricket fan's dream come true: a behind-the-scenes tour of the Melbourne Cricket Ground."
+header:
+  teaser: /images/teasers/Melbourne2_3.jpg
 ---
  
 A month ago, I spent a week in the Victorian city of Melbourne. I was there to attend a Software Engineering Conference, but took some afternoons off to experience the "Aussie life" and ended up making memories of a lifetime.

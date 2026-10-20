@@ -3,6 +3,9 @@ layout: archive
 title:  "Giethoorn: The Dutch Venice"
 author_profile: true
 tags: Netherlands
+description: "Showing my mom and twin sister my life in Europe, by boat through a car-free Dutch village of canals."
+header:
+  teaser: /images/teasers/Giethoorn4.jpg
 ---
 
 This May, my mom and twin sister visited me in Europe, and I got a chance to show them a slice of my life here. Their visit was the perfect excuse to explore some new places together. As if I'd ever miss out on an adventure like that!

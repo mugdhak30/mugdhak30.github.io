@@ -3,6 +3,9 @@ layout: archive
 title:  "Sachsenhausen: A Graveyard of Humanity"
 author_profile: true
 tags: Germany
+description: "After four years in Germany, I finally visited a Nazi concentration camp: the most chilling place I have ever set foot in."
+header:
+  teaser: /images/teasers/Sachsenhausen4.jpg
 ---
 
 I’ve been living in Germany for the past four years, and only recently did I gather the courage to confront one of the most tangible reminders of the country’s darkest chapter. During a visit to Berlin, I visited a Nazi concentration camp—undoubtedly the most chilling place I have ever set foot in.

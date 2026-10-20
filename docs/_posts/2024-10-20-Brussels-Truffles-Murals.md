@@ -3,6 +3,9 @@ layout: archive
 title:  "Truffles, Murals and All Things Belgian"
 author_profile: true
 tags: Belgium
+description: "A shaky first impression, a dazzling Market Square, Tintin murals and a truffle-making class."
+header:
+  teaser: /images/teasers/Brussels1.jpg
 ---
 
 We stayed in Brussels during our trip to Belgium. I've always had a certain impression of the Western European countries, and our wallets agree that they are more expensive than the rest of Europe. But we were a bit taken aback when we first arrived in Brussels. I couldn’t help but wonder if we had made a mistake in choosing to visit.

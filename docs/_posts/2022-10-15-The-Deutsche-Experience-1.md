@@ -3,6 +3,9 @@ layout: archive
 title:  "The Deutsche Experience (1/2)"
 author_profile: true
 tags: Germany
+description: "Showing my partner Germany on a 9-euro ticket: Berlin, my favorite city, and the festivals of Paderborn."
+header:
+  teaser: /images/teasers/Deutsche1_3.jpg
 ---
 Most people who visit Europe don't have Germany in their travel itinerary, but my partner was very enthusiastic about exploring Germany when he visited me this summer. I was happy to show him around, and we made the best use of our [9 euros ticket](https://www.bahn.com/en/offers/regional/9-euro-ticket-en). I will share some snippets of the experiences this summer had to offer.
 

@@ -3,6 +3,9 @@ layout: archive
 title:  "Harz Towns: Walking through History"
 author_profile: true
 tags: Germany
+description: "Rain canceled our North Sea plans, so we wandered the fairytale half-timbered towns of the Harz instead."
+header:
+  teaser: /images/teasers/Harz1.jpg
 ---
  
 I've spent the last few months perfecting my daily routine and waiting patiently for summer. So when I got a chance to spend a weekend at a friend's place in north Germany, I took it despite knowing that the north German summer feels more like the Mumbai monsoon. Even as rainy weather cancelled our trip to the North sea, we found ourselves in the fairytale towns of the mysteriously beautiful [Harz mountains](https://theculturetrip.com/europe/germany/articles/14-reasons-you-should-drop-everything-and-visit-the-harz-mountains-2)!

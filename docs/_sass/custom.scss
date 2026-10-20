@@ -540,6 +540,84 @@ a.research-side-more {
   }
 }
 
+/* Blog index (/year-archive/): posts as cards, from _includes/post-card.html */
+
+.post-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(240px, 100%), 1fr));
+  gap: 1.25em;
+  margin: 1em 0 2.5em;
+}
+
+.archive a.post-card,
+a.post-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid $border-color;
+  border-radius: 0.6em;
+  color: inherit;
+  text-decoration: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+
+  &:hover {
+    text-decoration: none;
+    border-color: $info-color;
+    box-shadow: 0 4px 14px rgba(#000, 0.08);
+
+    .post-card-cover img { transform: scale(1.04); }
+    .post-card-title { color: mix(#000, $info-color, 15%); }
+  }
+}
+
+.post-card-cover {
+  display: block;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  background: $lighter-gray;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.35s ease;
+  }
+}
+
+.post-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35em;
+  padding: 0.85em 1em 1em;
+}
+
+.post-card-meta {
+  font-size: 0.7em;
+  color: $gray;
+}
+
+.post-card-tag {
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.post-card-title {
+  font-size: 0.95em;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.post-card-teaser {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 0.8em;
+  line-height: 1.5;
+}
+
 /* Research area pages (/research/developers/, /research/privacy-legal/) */
 
 .research-area-intro { margin-bottom: 1.5em; }
@@ -781,6 +859,11 @@ html[data-theme="dark"] {
   .dated-rows .dated-ongoing { color: lighten($info-color, 12%); }
   .dated-extra, .contact-rows dt { color: #9aa1a6; }
   .news-box, .research-split, .research-split-mid, .contact-rows dt, .contact-rows dd { border-color: #2e3133; }
+  a.post-card { border-color: #2e3133; }
+  a.post-card:hover { border-color: lighten($info-color, 12%); }
+  a.post-card:hover .post-card-title { color: lighten($info-color, 12%); }
+  .post-card-cover { background: #1a1c1d; }
+  .post-card-meta { color: #9aa1a6; }
   .research-side-title, .research-split-mid { color: #9aa1a6; }
   .research-side--developers { --accent: #93b4f5; }
   .research-side--privacy-legal { --accent: #5ec4b6; }

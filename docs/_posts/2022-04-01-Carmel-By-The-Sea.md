@@ -3,6 +3,9 @@ layout: archive
 title:  "Carmel-By-The-Sea: Europe of California"
 author_profile: true
 tags: USA
+description: "My first taste of the California countryside: a quirky beach town with a law against high heels."
+header:
+  teaser: /images/teasers/Carmel_7.jpg
 ---
 
 The last few weeks have been amazing. I got to live my favorite life: of jet lag, rental cars, bus tickets, Airbnb reservations and of exploring new places with the person I love! This spring I took a trip across the Atlantic, so this blog post is coming to you from California :)

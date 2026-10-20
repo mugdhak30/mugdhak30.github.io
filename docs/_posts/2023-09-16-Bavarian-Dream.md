@@ -3,6 +3,9 @@ layout: archive
 title:  "The Bavarian Dream"
 author_profile: true
 tags: Germany
+description: "Hiking through the roaring Partnach gorge, and finally seeing Eibsee, a lake I'd dreamt of for years."
+header:
+  teaser: /images/teasers/Bavaria5.jpg
 ---
 
 

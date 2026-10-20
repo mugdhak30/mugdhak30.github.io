@@ -3,6 +3,9 @@ layout: archive
 title:  "Cayucos: Sunsets and Small-Town Charm"
 author_profile: true
 tags: USA
+description: "When the flu canceled our New Mexico trip, we chased elephant seals and sunsets along California's Central Coast instead."
+header:
+  teaser: /images/teasers/Cayucos12.jpg
 ---
 
 We had planned to begin 2026 with an adventure to the vast landscapes of New Mexico. My husband, a hardcore “Breaking Bad” fan, had plans to track down every filming location he could find. But as it turns out, fate had other plans for us.

@@ -3,8 +3,11 @@ layout: archive
 title:  "The Deutsche Experience (2/2)"
 author_profile: true
 tags: Germany
+description: "Our first Oktoberfest in Munich: beer, the grand opening parade and the largest public festival in the world."
+header:
+  teaser: /images/teasers/Deutsche2_1.jpg
 ---
-The state of Bavaria (in South East Germany) has been on my bucket list since a year. Its main attractions are the Bavarian Alps and the city of Munich. On our first visit to Munich, we got a chance to attend the largest celebration of Bavarian culture: the Oktoberfest. The largest public festival in the world kicked off after a two-year hiatus, and the opening day drew a crowd like never before!
+The state of Bavaria (in South East Germany) has been on my bucket list for a year. Its main attractions are the Bavarian Alps and the city of Munich. On our first visit to Munich, we got a chance to attend the largest celebration of Bavarian culture: the Oktoberfest. The largest public festival in the world kicked off after a two-year hiatus, and the opening day drew a crowd like never before!
 
 {:refdef: style="text-align: center;"}
 ![](/images/Deutsche2_1.jpg){:width="400" style="padding:20px"} 

@@ -3,6 +3,9 @@ layout: archive
 title:  "Burano: Alappuzha of Europe"
 author_profile: true
 tags: Italy
+description: "A foggy winter boat ride to colorful houses, quiet canals and a leaning tower: Italy's own Alappuzha."
+header:
+  teaser: /images/teasers/Burano2.jpg
 ---
 My friend and I celebrated Christmas by touring northern Italy together. I loved the trip, and there is one specific place I grew particularly attached to. Exactly two years after my trip to Alappuzha (I have written about it [here](https://mugdhak30.github.io/Alappuzha-Venice-of-the-East/)), I found it in an island in Italy: a little island "Burano" that is tucked away in a corner even as Venice tries to stay afloat on all its grandeur.
 

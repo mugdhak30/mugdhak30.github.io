@@ -3,6 +3,9 @@ layout: archive
 title:  "Southern California: Spring in the Deserts"
 author_profile: true
 tags: USA
+description: "My first U.S. National Park: Joshua trees, rocky landscapes from another planet, and two deserts in one park."
+header:
+  teaser: /images/teasers/JNTP2.jpg
 ---
 My first time visiting a National Park in the U.S. was very memorable, in more ways than one. Our [stargazing experience](https://mugdhak30.github.io/Joshua-Tree-Stargazing/) lit up our nights, but the days were equally bright and had many surprises in store for us!
 

@@ -3,6 +3,9 @@ layout: archive
 title:  "Schloss Dagstuhl: Best of Both Worlds"
 author_profile: true
 tags: Germany
+description: "Three days living and working in a castle in the forest, with a library of thousands of Computer Science books."
+header:
+  teaser: /images/teasers/Dagstuhl12.jpg
 ---
 As the nights stretched longer and the weather turned rainier, I braced myself for a few months of no travel. Surprisingly, a business trip to South Germany breathed new life into the impending grey winter.
 

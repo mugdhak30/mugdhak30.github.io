@@ -3,6 +3,9 @@ layout: archive
 title:  "Carmel Valley: The Reward of Patience"
 author_profile: true
 tags: USA
+description: "A hilltop trailer, a hot tub and a sky full of stars: one more American experience before leaving the U.S."
+header:
+  teaser: /images/teasers/Camping7.jpg
 ---
 
 After a forgettable year at work, I finally made it back home to my husband around Thanksgiving. We decided to squeeze in a short holiday before he resumed work.

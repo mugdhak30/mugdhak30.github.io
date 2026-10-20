@@ -3,6 +3,9 @@ layout: archive
 title:  "Glacier Express: The Ultimate Alpine Escape"
 author_profile: true
 tags: Switzerland
+description: "Our first trip as husband and wife: six hours on the 'slowest express train in the world' through the Swiss Alps."
+header:
+  teaser: /images/teasers/Glacier2.jpg
 ---
 
 Since moving to Europe nearly four years ago, beautiful train journeys have become a part of my life. But this one train journey always had a special spot on my bucket list, and we finally found the perfect moment to strike it off the list. As someone who believes that "the journey is my home," the Glacier Express was a truly unforgettable experience!

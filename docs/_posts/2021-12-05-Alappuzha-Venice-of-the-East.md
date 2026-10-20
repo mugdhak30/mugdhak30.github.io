@@ -3,6 +3,9 @@ layout: archive
 title:  "Alappuzha: Venice of the East"
 author_profile: true
 tags: India
+description: "A family trip to God's Own Country: houseboats, floating villages and canals under a canopy of coconut trees."
+header:
+  teaser: /images/teasers/Kerala10.jpg
 ---
 As I browsed through the photos of our family trip in 2019, I realised that some places, some memories and some people instantly bring a smile on my face. As Europe battles the pandemic and I stay at home for a few weeks till the world recovers, I thought of writing about one of the most beautiful places I have ever visited. For this, I take you back home to my country, India.
 

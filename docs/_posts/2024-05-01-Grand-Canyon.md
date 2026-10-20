@@ -3,6 +3,9 @@ layout: archive
 title:  "Grand Canyon: Nature's Majestic Canvas"
 author_profile: true
 tags: USA
+description: "A plane tour over one of the world's natural wonders, and a terrifying first look down from the rim."
+header:
+  teaser: /images/teasers/GrandCanyon15.jpg
 ---
 After the most heartwarming start to the new year, I spent a few months buried in submission deadlines and research. My urge to travel grew stronger, but I would have never guessed that my first big adventure of the year would be majestic in every imaginable way!
 

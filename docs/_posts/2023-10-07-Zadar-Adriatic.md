@@ -3,6 +3,9 @@ layout: archive
 title:  "Zadar: Melodies of the Adriatic"
 author_profile: true
 tags: Croatia
+description: "Three unhurried days in Croatia's oldest city, with sunsets over the Adriatic and the music of the sea organ."
+header:
+  teaser: /images/teasers/Zadar15.jpg
 ---
 
 Towards the very end of summer, my partner and I decided to explore the Adriatic coast. We wanted to spend some peaceful time away from the extreme heat, and our quest guided us to Zadar, the oldest inhabited city of Croatia.

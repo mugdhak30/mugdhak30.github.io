@@ -3,6 +3,9 @@ layout: archive
 title:  "Heidelberg: Redefining Romance"
 author_profile: true
 tags: Germany
+description: "Germany's oldest university town: the Old Bridge over the Neckar, castle ruins and the world's biggest wine barrel."
+header:
+  teaser: /images/teasers/Heidelberg4.jpg
 ---
 
 With the pandemic reminding Europe of its existence and winter setting in and ending our days prematurely, I thought it best to stay at home for some weeks. As I was organizing the drawers and arranging my travel souvenirs, I realised how I have preserved one town carefully in my memory, the way a lover preserves dried roses in the pages of a book. A quaint town that set the bar high for every place I am yet to visit, the first town in Europe I fell in love with: Heidelberg!	

@@ -3,6 +3,9 @@ layout: archive
 title:  "Prague: A Bohemian Dreamland"
 author_profile: true
 tags: Czech Republic
+description: "The Old Town Square, the Astronomical Clock at night, and Charles Bridge from morning to sunset."
+header:
+  teaser: /images/teasers/Prague2_3.jpg
 ---
 People use fancy words to describe Prague's beauty, but words failed me when I visited it. It has many personalities and I was not at all prepared for what it had to offer. While I also loved its quirky side, it lived up to its reputation of being a cultural wonderland. Since it is one of the cheaper destinations in Europe, we had a luxurious trip to this paradise! 
 

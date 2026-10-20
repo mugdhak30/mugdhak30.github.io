@@ -3,6 +3,9 @@ layout: archive
 title:  "Redwood Coast: Where Giants Meet the Ocean"
 author_profile: true
 tags: USA
+description: "A week stolen from our PhDs to wander among the tallest trees on Earth, right where they meet the Pacific."
+header:
+  teaser: /images/teasers/Redwood8.jpg
 ---
 
 Bitten by the travel bug, my husband and I stole away a precious week from the most chaotic months of our PhDs for a road trip along the breathtaking Northern California coast. 

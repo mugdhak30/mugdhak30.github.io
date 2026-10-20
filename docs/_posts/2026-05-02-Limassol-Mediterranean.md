@@ -3,6 +3,9 @@ layout: archive
 title:  "Limassol: The Calm of the Mediterranean"
 author_profile: true
 tags: Cyprus
+description: "A conference in Cyprus, the only sunny day of the week, and an old town that reminded me of India."
+header:
+  teaser: /images/teasers/Limassol1.jpg
 ---
 2026 has been exciting, to say the least. I’ve spent more time traveling than staying at home in Paderborn. You know what happens when many of your research papers finally get accepted? Suddenly, you have to travel to different places and present them. And honestly, it almost makes up for the pain of getting one rejection after another.
 

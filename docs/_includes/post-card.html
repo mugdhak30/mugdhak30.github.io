@@ -1,0 +1,21 @@
+{%- comment -%}
+  One blog post as a card for the blog index. Usage: {% include post-card.html post=post %}
+  Cover: header.teaser in the post's front matter. Teaser: the post's description,
+  else the first sentence of its opening paragraph.
+{%- endcomment -%}
+{%- assign p = include.post -%}
+{%- assign teaser_text = p.description | default: p.excerpt | strip_html | strip_newlines | strip -%}
+{%- unless p.description -%}
+  {%- assign first_sentence = teaser_text | split: ". " | first -%}
+  {%- if first_sentence != teaser_text -%}{%- assign teaser_text = first_sentence | append: "." -%}{%- endif -%}
+{%- endunless -%}
+<a class="post-card" href="{{ p.url | relative_url }}">
+  {%- if p.header.teaser %}
+  <span class="post-card-cover"><img src="{{ p.header.teaser | relative_url }}" alt="" loading="lazy" width="900" height="600"></span>
+  {%- endif %}
+  <span class="post-card-body">
+    <span class="post-card-meta">{% if p.tags.size > 0 %}<span class="post-card-tag">{{ p.tags | join: " " }}</span> · {% endif %}<time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%B %Y" }}</time></span>
+    <span class="post-card-title">{{ p.title }}</span>
+    <span class="post-card-teaser">{{ teaser_text }}</span>
+  </span>
+</a>

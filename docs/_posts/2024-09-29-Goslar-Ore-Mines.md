@@ -3,6 +3,9 @@ layout: archive
 title:  "Goslar: Ore Mines and Their Secrets"
 author_profile: true
 tags: Germany
+description: "A half-timbered Airbnb, a noisy bell tower, and a train ride 300 meters down into a 1,000-year-old ore mine."
+header:
+  teaser: /images/teasers/Goslar4.jpg
 ---
 
 This year has been a mental rollercoaster on the work front, with way too many paper rejections. I finally got two weeks free, where all I could do was wait for two more rejections (which, to my surprise, turned into two acceptances—yay!). With the perfect summer weather and my fiancé flying in from the U.S., we decided it was the perfect time for an impromptu trip. 

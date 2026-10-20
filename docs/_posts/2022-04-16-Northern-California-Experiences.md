@@ -3,6 +3,9 @@ layout: archive
 title:  "Northern California: Experiences of a Lifetime"
 author_profile: true
 tags: USA
+description: "Whale watching in Monterey Bay, cliffs along Highway 1, and a takeoff over San Francisco I'll never forget."
+header:
+  teaser: /images/teasers/Cali_7.jpg
 ---
 
 My trip to Northern California started off as one I took just to meet my partner. However, it ended as one with several once-in-a-lifetime experiences, and I couldn't have asked for better company through it.
