@@ -36,7 +36,7 @@ My stay at Dagstuhl had many gems: the super formal meals, endless free hot beve
 With the sun setting early, we squeezed in a short walk before our sessions to explore the surroundings. The castle was tiny with small well-maintained gardens. The weather was moody, but surprisingly the sun shone on us for the twenty minutes we spent exploring the gardens! The backdrop of the fall palette just added to the landscape, and I remember feeling overjoyed to be there.  It hit me then—being happy was the answer to my earlier question, "What am I doing here?" I was traveling, meeting new people, learning about diverse cultures and getting an experience of a lifetime! 
 
 {:refdef: style="text-align: center;"}
-![](/images/Dagstuhl12.jpg){:width="750" height="338" style="padding:20px"}
+![Schloss Dagstuhl and its garden in autumn](/images/Dagstuhl12.jpg){:width="750" height="338" style="padding:20px"}
 ![](/images/Dagstuhl5.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Dagstuhl6.jpg){:width="400" height="887" style="padding:20px"}
 {:refdef}

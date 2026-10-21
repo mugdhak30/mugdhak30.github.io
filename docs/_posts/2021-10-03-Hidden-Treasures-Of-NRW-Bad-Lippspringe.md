@@ -15,7 +15,7 @@ The Lippequelle is at the heart of Bad Lippspringe, surrounded by a beautiful pa
 
 {:refdef: style="text-align: center;"}
 ![](/images/Lippee5.jpg){:width="420" height="786" style="padding:40px"}
-![](/images/Lippee6.jpg){:width="400" height="889" style="padding:40px"} 
+![The young Lippe river flowing past the castle ruins in Bad Lippspringe](/images/Lippee6.jpg){:width="400" height="889" style="padding:40px"} 
 {:refdef}
 
 After being born from the spring, Lippe runs westward for about 220 km and finally enters the Rhine at Wesel. Apparently Lippe (named Lupia) was an integral part of the Roman history. For the Romans it was a gateway to Germania, running from the river Rhine to the region around Paderborn. The watercourse was used for transport of supplies, so along the banks of the Lippe many former Roman camps can be found. In the last 200 years many of these camps have been identified. 

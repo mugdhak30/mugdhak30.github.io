@@ -13,7 +13,7 @@ Now that the weather is finally getting better, I am back to exploring towns in 
 Situated along the banks of [Rhine](https://en.wikipedia.org/wiki/Rhine) is a very interesting town called [Bonn](https://en.wikipedia.org/wiki/Bonn). It was the capital of West Germany up to 1990. The University of Bonn is one of the largest universities in Germany. Bonn is also well known to have some of the best cherry blossoms[^1] in Germany. These blossoms put on a magnificient display for tourists in the second week of April. While we knew we were a little late to the party, it turns out that the afterparty wasn't half bad! We were just in time to say a final goodbye to the blossoms, promising each other that we will meet here again next year (hopefully during the peak season). 
 
 {:refdef: style="text-align: center;"}
-![](/images/Bonn7.jpg){:width="400" height="889" style="padding:40px"}
+![Trees in pink bloom along a residential street in Bonn](/images/Bonn7.jpg){:width="400" height="889" style="padding:40px"}
 ![](/images/Bonn9.jpg){:width="400" height="888" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}

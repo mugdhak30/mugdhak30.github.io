@@ -41,7 +41,7 @@ There was something beautifully protective about those towering giants. The wood
 
 {:refdef: style="text-align: center;"}
 ![](/images/Redwood4.jpg){:width="400" height="889" style="padding:20px"}
-![](/images/Redwood8.jpg){:width="400" height="889" style="padding:20px"}
+![Looking up at tall redwood trunks in a forest on the Northern California coast](/images/Redwood8.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 
 What truly amazed me was the contrast — that the tallest trees in the world stand right beside the largest ocean on Earth. One moment, we were driving through the densest forests, and the next, we were driving along the Pacific coast. It felt surreal, like stepping through scenes in a dream.

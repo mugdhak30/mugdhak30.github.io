@@ -57,7 +57,7 @@ The most exciting part of the trip was cruising through the Danube river at nigh
 {:refdef: style="text-align: center;"}
 ![](/images/Budapest7.jpg){:width="320" height="711" style="padding:20px"} 
 ![](/images/Budapest11.jpg){:width="320" height="711" style="padding:20px"} 
-![](/images/Budapest8.jpg){:width="320" height="711" style="padding:20px"} 
+![The Hungarian Parliament lit up at night and reflected in the Danube](/images/Budapest8.jpg){:width="320" height="711" style="padding:20px"} 
 {:refdef}
 
 {:refdef: style="text-align: center;"}

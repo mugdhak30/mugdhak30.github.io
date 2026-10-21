@@ -14,7 +14,7 @@ I took one look at the towns and knew that this would have, in fact, been my pla
 
 {:refdef: style="text-align: center;"}
 ![](/images/Harz1.jpg){:width="400" height="889" style="padding:20px"}
-![](/images/Harz2.jpg){:width="400" height="889" style="padding:20px"}
+![A sandstone building with slate-roofed turrets on a cobbled street in Goslar](/images/Harz2.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 
 Goslar was one of the most important places in Germany for centuries, and miraculously survived the war without any damage. It is home to 1800 old half-timbered houses sprinkled through the city, and its cultural importance anchored Goslar's position among the [51 UNESCO World Heritage Sites in Germany](https://whc.unesco.org/en/statesparties/de). The perfect half-timbered houses and the narrow streets stretch as far as the eye can see, and the Harz mountains embrace the town from all sides. The simplicity of these houses gives the town a fresh rural look, and visiting such a place is a breath of fresh air in an otherwise routine urban life.

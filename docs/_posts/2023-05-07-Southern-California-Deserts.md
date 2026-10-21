@@ -22,7 +22,7 @@ As soon as we hit the road, the expanse of [Joshua trees](https://www.nps.gov/jo
 
 {:refdef: style="text-align: center;"}
 ![](/images/JNTP1.jpg){:width="400" height="889" style="padding:20px"}
-![](/images/JNTP2.jpg){:width="400" height="889" style="padding:20px"}
+![A Joshua tree in the Mojave Desert in Joshua Tree National Park](/images/JNTP2.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Joshua Trees, Mojave Desert*

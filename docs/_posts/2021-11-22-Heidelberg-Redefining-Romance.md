@@ -55,7 +55,7 @@ After an interesting walk through the old town, we hiked to Schloss Heidelberg (
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Heidelberg4.jpg){:width="750" height="562"}
+![Heidelberg Castle above the old town and autumn trees](/images/Heidelberg4.jpg){:width="750" height="562"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Schloss Heidelberg*

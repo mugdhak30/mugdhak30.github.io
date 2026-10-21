@@ -14,7 +14,7 @@ Berlin is undoubtedly my favorite city in Germany, probably even my favorite amo
 The [Reichstag building](https://en.wikipedia.org/wiki/Reichstag_building) hosts the Bundestag and it is a relatively newer building (as compared to most other buildings in Europe). The words "Dem Deutschen Volke" (To The German People) are inscribed on it, and it faces a huge lawn where people sit and relax on evenings. The striking feature of the building is a huge glass dome which offers a spectacular view of Berlin! We visited the building and learnt a lot about the history of German Bundestag. Despite the sweltering heat, we climbed atop the dome and the view was amazing! We witnessed a spectacular sunset and it felt like my partner was already falling in love with the city, the first German city he had ever visited!
 
 {:refdef: style="text-align: center;"}
-![](/images/Deutsche1_3.jpg){:width="750" height="338" style="padding:20px"} 
+![The Reichstag building in Berlin with visitors on the lawn](/images/Deutsche1_3.jpg){:width="750" height="338" style="padding:20px"} 
 {:refdef}
 {:refdef: style="text-align: center;"}
 ![](/images/Deutsche1_2.jpg){:width="400" height="887" style="padding:20px"}

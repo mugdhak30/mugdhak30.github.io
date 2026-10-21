@@ -35,7 +35,7 @@ The Princely Residence Palace with its palace park forms the center of the histo
 
 ![](/images/Detmold2.jpg){:width="310" height="689" style="padding:20px"} 
 ![](/images/Detmoldx.jpg){:width="350" height="626" style="padding:20px"} 
-![](/images/Detmold4.jpg){:width="310" height="689" style="padding:20px"} 
+![The Princely Residence Palace in Detmold behind a sunlit lawn](/images/Detmold4.jpg){:width="310" height="689" style="padding:20px"} 
 {:refdef} 
 
 {:refdef: style="text-align: center;"}

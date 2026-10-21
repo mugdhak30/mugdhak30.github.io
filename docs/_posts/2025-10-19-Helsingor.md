@@ -13,7 +13,7 @@ On our very short trip to Scandinavia, we decided to deviate from our usual big-
 The main reason for our visit was [Kronborg castle](https://kronborg.dk/en), immortalised in literature as Elsinore in William Shakespeare's play, [Hamlet](https://en.wikipedia.org/wiki/Hamlet). Now, I will be honest here. I’ve never actually read Hamlet (or any Shakespeare play cover to cover, for that matter). But that didn’t dull my excitement to visit the iconic fortress.  
 
 {:refdef: style="text-align: center;"}
-![](/images/Helsingor1.jpg){:width="400" height="889" style="padding:20px"}
+![Kronborg Castle in Helsingør seen through a red archway](/images/Helsingor1.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Helsingor2.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 

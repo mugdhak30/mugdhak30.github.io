@@ -13,7 +13,7 @@ This December had been cold, dreary and pretty sad, until fate (and cancelled pl
 Aachen is the westernmost city in Germany and is a stone's throw away from Belgium and the Netherlands. I had heard of it because it is home to one of the best universities in Germany (RWTH Aachen University) but it turns out that the city is very versatile with a historic city centre. The City Hall of Aachen is a gorgeous example of Gothic architecture built in the 14th century. I was lucky enough to visit the city centre on a sunny day and the place gave me Hogwarts vibes! It had a very different kind of beauty, and it looked like someone had carefully preserved it from the ancient pages of history.
 
 {:refdef: style="text-align: center;"}
-![](/images/Aachen1.jpg){:width="750" height="338" style="padding:20px"}
+![Aachen City Hall at dusk behind the Christmas market sign](/images/Aachen1.jpg){:width="750" height="338" style="padding:20px"}
 ![](/images/Aachen2.jpg){:width="750" height="391" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}

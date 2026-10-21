@@ -35,7 +35,7 @@ Since I live in the town (or as Paderborners call it, a city), I walk around the
 While some places in Paderborn awaken the overthinker in me, some others awaken the child in me! The beautiful [Paderborn Cathedral](https://www.dom-paderborn.de/Home/) is straight out of Harry Potter, and I usually stare at it with the longing eyes of a witch who never got her letter to join Hogwarts (I am convinced it got lost in the mail, no more arguments!). The majestic Cathedral was reconstructed after the second World War left Paderborn in debris, and it certainly has an air of mystery around it! The farmers' market takes place in front of the Cathdral on Wednesdays and Saturdays, and my new favorite thing to do on Saturday mornings is buying fresh fruits and vegetables and grabbing fresh käsebrotchen (cheese bread) from the bakery on way back home. Wait, is this what the world calls adulting?
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderborn2_4.jpg){:width="750" height="657" style="padding:20px"}
+![Paderborn Cathedral under a blue sky](/images/Paderborn2_4.jpg){:width="750" height="657" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Paderborn Cathedral*

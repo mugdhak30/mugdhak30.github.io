@@ -17,7 +17,7 @@ Our first stop, of course, was the [Eiffel tower](https://en.wikipedia.org/wiki/
 {:refdef: style="text-align: center;"}
 ![](/images/Paris1.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Paris2.jpg){:width="400" height="889" style="padding:20px"}
-![](/images/Paris3.jpg){:width="750" height="337" style="padding:20px"}
+![The Eiffel Tower above the Seine on a sunny day](/images/Paris3.jpg){:width="750" height="337" style="padding:20px"}
 {:refdef}
 
 I was most interested in exploring the Parisian bakeries and patisseries, and they did not disappoint one bit! Paris is a sweet tooth's heaven. The fluffy croissants, perfect macarons and mouth-watering madeleines really made my day! Now that the most important part of my day was taken care of, we decided to explore the city on foot[^1].

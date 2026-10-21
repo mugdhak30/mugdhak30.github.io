@@ -19,7 +19,7 @@ My friend and I celebrated Christmas by touring northern Italy together. I loved
 One colorful little house followed the other as they lined up by the most beautiful canals, canals which found a way to shine bright even on such a dull day. Narrow old bridges connected one side of the canal to the other and all houses seemed to have their own boat (just like in Alappuzha). To be honest, I needed a moment to gather my thoughts as I stared at Burano. I also managed to click some decent photos despite my frozen hands (no, I don't exaggerate: FROZEN hands).
 
 {:refdef: style="text-align: center;"}
-![](/images/Burano2.jpg){:width="400" height="889" style="padding:40px"}
+![Brightly painted houses and a blue boat along a canal in Burano](/images/Burano2.jpg){:width="400" height="889" style="padding:40px"}
 ![](/images/Burano4.jpg){:width="400" height="889" style="padding:40px"}
 ![](/images/Burano5.jpg){:width="400" height="889" style="padding:40px"}
 ![](/images/Burano10.jpg){:width="400" height="889" style="padding:40px"}

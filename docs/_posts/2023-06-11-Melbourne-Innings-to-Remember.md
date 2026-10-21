@@ -20,7 +20,7 @@ I am a huge cricket fan. On the first few evenings my fellow conference delegate
 I had booked a guided [MCG tour](https://www.getyourguide.com/melbourne-l202/melbourne-melbourne-cricket-grounds-mcg-guided-tour-t115996/) as soon as the conference had released its program. Most of our group was Indian (no surprises there) and some were from Australia. The Aussies were really emotional on seeing Shane Warne's statue and the stand in his honour. It made me realise how important the game of cricket is for this country. The tour started with a walk along the stands. My mind went back to the commentators saying "And welcome back to the MCG......" after a commercial break between an ongoing cricket match (those days <3). I was tempted to scream on top of my lungs, "East or West, Men in Blue are the best" (don't worry, I didn't).
 
 {:refdef: style="text-align: center;"}
-![](/images/Melbourne2_3.jpg){:width="750" height="338" style="padding:20px"}
+![The empty stands and field of the Melbourne Cricket Ground](/images/Melbourne2_3.jpg){:width="750" height="338" style="padding:20px"}
 ![](/images/Melbourne2_4.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Melbourne2_5.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}

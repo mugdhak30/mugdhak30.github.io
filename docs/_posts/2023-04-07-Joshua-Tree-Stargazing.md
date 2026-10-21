@@ -35,7 +35,7 @@ It was a super windy night in the desert, and we had to focus a lot to see the m
 As a stargazer trapped among the city lights, a sky full of stars has always been my dream. When I stared up at the thick blanket of stars, I realised what I'd been missing since childhood. I couldn't believe how many of us lose out on this view due to the sparkling lights of our cities. I'll always be a city girl, but at times like these I am reminded of just how much nature has to offer. To be wrapped in a thick blanket under hundreds of stars drinking tea with the love of my life was better than anything I had ever dreamt of. We read about the Greek mythology behind the constellations and relived the stories. Our attention was drawn to Sagittarius who had an arrow pointed at Scorpius's heart! We marveled at the sky like two toddlers ogling at the ice cream truck.
 
 {:refdef: style="text-align: center;"}
-![](/images/Star2.jpg){:width="850" height="382" style="padding:10px"} 
+![The Milky Way over a rooftop on a desert night near Joshua Tree](/images/Star2.jpg){:width="850" height="382" style="padding:10px"} 
 {:refdef}
 
 I will always remember this night, for I was lucky enough to experience it with the one person who means the world to me. My stargazing equipment (phone camera, tripod and Bluetooth remote) exceeded my expectations, making this blog post a real joy to write! This night was a reminder of how a little bit of luck and a lot of planning can get the nature to behave :) This experience took me back to a poem I had written sometime back:

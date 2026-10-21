@@ -23,7 +23,7 @@ In the initial days when I lived close to my office, I spent many Sunday evening
 A short bus ride from Padersee takes us to the former prince-bishop's residence, Schloß Neuhaus (pronounced as "Schloss" Neuhaus). It is a Weser Renaissance style castle which now accommodates a local school and organizes many cultural events. It is accompanied by an impeccable garden and a recreation area formed by the Alme, Lippe and Pader rivers (this is also where Pader flows into Lippe). The first time I visited Schloß Neuhaus, I was stunned! This was the dollhouse I had so fondly decorated with my twin sister twenty years ago! I remember giggling like a toddler who thinks she is a Disney princess (umm maybe Elsa, not Cinderella!).
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderborn2_1.jpg){:width="750" height="348" style="padding:20px"}
+![Schloss Neuhaus and its formal garden in Paderborn](/images/Paderborn2_1.jpg){:width="750" height="348" style="padding:20px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}

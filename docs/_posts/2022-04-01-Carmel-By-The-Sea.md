@@ -41,7 +41,7 @@ Our next adventure at Carmel was the [17-mile drive](https://www.pebblebeach.com
 We stayed at the Pebble beach till the ocean gulped down the sun. I was still getting used to the new timezone but I soon realised that the sun we saw setting was just rising at home (India)! It was an oddly comforting feeling, and I felt like I was sending some light into my people's lives. After so many uncertainties about my trip, I was just happy to be here: it was my favorite weather, my favorite time of the day and I got to experience it with my favorite person. It was nothing short of magical, and was the perfect end to our day. 
 
 {:refdef: style="text-align: center;"}
-![](/images/Carmel_7.jpg){:width="450" height="599" style="padding:20px"}
+![Sunset over the Pacific at Pebble Beach, framed by cypress branches](/images/Carmel_7.jpg){:width="450" height="599" style="padding:20px"}
 ![](/images/Carmel_8.jpg){:width="450" height="600" style="padding:20px"}
 ![](/images/Carmel_9.jpg){:width="450" height="600" style="padding:20px"}
 {:refdef}

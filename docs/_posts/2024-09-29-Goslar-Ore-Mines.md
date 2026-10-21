@@ -24,7 +24,7 @@ We spent a large part of our afternoons walking along the little stream, Abzucht
 
 {:refdef: style="text-align: center;"}
 ![](/images/Goslar3.jpg){:width="400" height="889" style="padding:20px"}
-![](/images/Goslar4.jpg){:width="400" height="890" style="padding:20px"}
+![Half-timbered houses and flowers along the Abzucht stream in Goslar](/images/Goslar4.jpg){:width="400" height="890" style="padding:20px"}
 {:refdef}
 
 Before we knew it, it was time for another classic European tradition—climbing up a bell tower for some stunning panoramic views of the town! The tower had a loud bell that rang every quarter hour, which was an innovative way to make sure tourists didn't overstay their welcome. While the views were absolutely worth the noise, we left in a hurry, excited to explore the most unique aspect of Goslar: its ore mines.

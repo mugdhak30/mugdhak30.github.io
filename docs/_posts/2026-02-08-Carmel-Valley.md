@@ -38,7 +38,7 @@ It easily became one of the most memorable nights of the year. And looking back 
 After a surprisingly comfortable night in the trailer, we woke up to a gorgeous sunrise. The morning felt calm and unhurried, the perfect way to start the day we had planned. We had breakfast while taking in the views of the valley, then packed up and headed out.
 
 {:refdef: style="text-align: center;"}
-![](/images/Camping7.jpg){:width="400" height="879" style="padding:20px"}
+![Sunrise over the hills of Carmel Valley seen from a hilltop campsite](/images/Camping7.jpg){:width="400" height="879" style="padding:20px"}
 ![](/images/Camping8.jpg){:width="400" height="879" style="padding:20px"}
 {:refdef}
 

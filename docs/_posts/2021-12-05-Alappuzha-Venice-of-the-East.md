@@ -16,7 +16,7 @@ Among other beautiful landscapes, Kerala is most famous for its backwaters. [Ker
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Kerala10.jpg){:width="750" height="500" style="padding:20px"}
+![A houseboat moored among coconut palms on the Alappuzha backwaters](/images/Kerala10.jpg){:width="750" height="500" style="padding:20px"}
 ![](/images/Kerala11.jpg){:width="450" height="600" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}

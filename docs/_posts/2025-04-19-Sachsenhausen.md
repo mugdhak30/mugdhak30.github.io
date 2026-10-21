@@ -32,7 +32,7 @@ We entered Sachsenhausen through the main entrance, named Station A. The landsca
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Sachsenhausen4.jpg){:width="400" height="889" style="padding:20px"}
+![The 'Arbeit macht frei' gate at the Sachsenhausen concentration camp memorial](/images/Sachsenhausen4.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Sachsenhausen5.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 

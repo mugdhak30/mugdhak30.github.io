@@ -15,7 +15,7 @@ Some years ago, I had spent [a few days in Budapest](https://mugdhak30.github.io
 On our very first day, we woke up early in the morning to visit the [Szechenyi bath](https://bathsbudapest.com/szechenyi-bath), which is the largest medicinal bath in Europe. It is more than 100 years old and its water is supplied by two main thermal springs. The architecture of the place was impressive, and we first explored the outdoor pools. All the pools had different temperatures and people were relaxing in them. We also saw a couple playing chess in the pool. What fun! As we entered the building, a whole new world of pools, saunas and steam rooms opened up. The place was huge! The various options available were mindblowing, and one can very easily spend a whole day here. Budapest boasts of many such exquisite thermal baths. We spent all morning relaxing like the locals, and I thought, "If the start of this trip is so amazing, I can't wait for the rest of it!".
 
 {:refdef: style="text-align: center;"}
-![](/images/Budapest2_1.jpg){:width="750" height="338" style="padding:20px"}
+![The outdoor pool and yellow buildings of the Széchenyi thermal bath in Budapest](/images/Budapest2_1.jpg){:width="750" height="338" style="padding:20px"}
 ![](/images/Budapest2_2.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Budapest2_3.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Budapest2_4.jpg){:width="750" height="337" style="padding:20px"}

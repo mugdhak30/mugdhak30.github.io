@@ -29,7 +29,7 @@ We learnt a lot about Czech Republic in this trip, and I've written more about i
 We kept coming back to the Old Town Square in the next days of our trip (can you blame us?). It is certainly the cultural highlight of Prague, and we have some fond memories there: from meeting Punekar uncles at a Starbucks to watching the Astronomical clock show at night. And how can I forget the most memorable one: our first rooftop bar experience! The universe kept us grounded by serving us thunderstorms as we ordered drinks at the [most instagrammable rooftop bar](https://www.terasauprince.com/en/) in all of Prague! Sigh, that is life; rather, that is Europe :P
 
 {:refdef: style="text-align: center;"}
-![](/images/Prague2_3.jpg){:width="400" height="889" style="padding:20px"}
+![Prague's Old Town Square from above, with the Old Town Hall tower and the Church of Our Lady before Týn](/images/Prague2_3.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Prague2_4.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 

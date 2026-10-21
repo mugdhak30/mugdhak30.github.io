@@ -39,7 +39,7 @@ There were many well marked hiking trails around the falls, and we picked one th
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Shasta6.jpg){:width="750" height="338" style="padding:20px"}
+![Burney Falls pouring over a mossy cliff, with a rainbow in the spray](/images/Shasta6.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 
 We had reserved the final days of our trip to explore the [Shasta lake](https://en.wikipedia.org/wiki/Shasta_Lake), which was very close to Redding. The lake had a truly fascinating shape—four winding arms fed by different rivers, almost like it was reaching out in every direction. We tried to explore a few trails along the lake, hoping to find a hidden gem or two, but nothing particularly stood out. What did stand out was how we ended up getting completely lost—Google Maps insisted there was a road where there clearly wasn’t. So we parked somewhere random, walked a long stretch in hope, and eventually discovered that the “spot” we were looking for didn’t exist. It was frustrating in the moment, but gave us a good laugh later! Thankfully, we still had one last thing to look forward to—the cave tour we had booked for our final day. We were pretty excited to end the trip on a high note...

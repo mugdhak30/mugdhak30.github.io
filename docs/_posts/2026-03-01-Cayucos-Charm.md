@@ -45,7 +45,7 @@ We spent the rest of the day exploring more of the Central Coast’s beaches, ho
 
 {:refdef: style="text-align: center;"}
 ![](/images/Cayucos15.jpg){:width="400" height="879" style="padding:20px"}
-![](/images/Cayucos12.jpg){:width="400" height="879" style="padding:20px"}
+![A lone sea stack on a wide sandy beach on California's Central Coast](/images/Cayucos12.jpg){:width="400" height="879" style="padding:20px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}

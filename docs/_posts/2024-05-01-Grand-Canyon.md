@@ -32,7 +32,7 @@ We soon flew over the snowy north rim of the Canyon, feeling as though we were f
 I was excited because visiting the Grand Canyon has been my mom's dream for as long as I can remember. But a lot of that excitement wore off when I looked down from the rim and was absolutely terrified of the height. My partner was immensely patient with me and I'm sure he got a glimpse of the kind of tantrums he might have to endure in the future. While he went for a short hike in the canyon, I had an awesome time walking along the rim. We spent a good part of the afternoon exploring the rim trails and discovering many breathtaking viewpoints.
 
 {:refdef: style="text-align: center;"}
-![](/images/GrandCanyon15.jpg){:width="750" height="338" style="padding:20px"}
+![The Grand Canyon seen from the South Rim](/images/GrandCanyon15.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}

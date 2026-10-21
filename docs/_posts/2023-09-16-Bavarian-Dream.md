@@ -37,7 +37,7 @@ Our next destination was straight out of my dream. While looking for travel idea
 The hiking trails along the lake were beautiful, and the cool water was refreshing on a hot summer day. We had the most cliché afternoon a tourist could have: eating ice cream by the lake, having photo sessions, renting a pedal boat and exploring the hiking trails around the lake! We explored what seemed like a lot of the lake, but only after we got its aerial view from the cable car did we realise how huge the lake actually was. It turns out that we had not even covered a fraction of it on foot or by boat!  
 
 {:refdef: style="text-align: center;"}
-![](/images/Bavaria5.jpg){:width="750" height="338" style="padding:20px"}
+![Eibsee lake from the Zugspitze cable car, surrounded by forest and mountains](/images/Bavaria5.jpg){:width="750" height="338" style="padding:20px"}
 ![](/images/Bavaria7.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Bavaria8.jpg){:width="400" height="890" style="padding:20px"}
 {:refdef}

@@ -33,7 +33,7 @@ We planned the safari so we could watch the sun set from our jeep. It was breath
 
 {:refdef: style="text-align: center;"}
 ![](/images/Manvar10.jpg){:width="400" height="889" style="padding:20px"}
-![](/images/Manvar11.jpg){:width="400" height="889" style="padding:20px"}
+![The sun setting over the Thar desert near Manvar](/images/Manvar11.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 
 We spent a lot of the next day chilling by the pool, but had something special planned for the evening. My sister and I decided to go for a camel ride! It was amazing, and enduring 30 minutes on that camel was a true test of our core strength. Our camel's name was "Bhura" (translation: Brown) and he had traveled from a distant village to come meet us. Thanks to the "camel fail" [video](https://www.youtube.com/watch?v=-aNaNyWF4dY) my partner sent me one day before I sat on a camel, I was petrified. Luckily, Bhura was a perfect gentleman. Thanks to him, I finally know what it feels like to be tall! :D 

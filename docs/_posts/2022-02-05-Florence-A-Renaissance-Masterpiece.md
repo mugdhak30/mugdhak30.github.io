@@ -14,7 +14,7 @@ Florence was in stark contrast with Burano, and traveling to both these just one
 We started first at a [square](https://www.visitflorence.com/florence-monuments/piazzale-michelangelo.html) that gave a lovely panoramic view of the city of Florence. Despite being cold and dull, the view was amazing with the river Arno flowing along the city. I did feel a little upset because had we not come here on a dull winter day, we could have witnessed a gorgeous sunset. However, it soon dawned on me that we were looking at a city that had given birth to so many important artists and scientists. Great artists like Michelangelo and Leonardo Da Vinci were born in this city, and Florence proudly displays their art all over the city. By this time, all I had seen of Florence was this view and yet I had already promised myself that I will visit again, for a longer time probably in summer!
 
 {:refdef: style="text-align: center;"}
-![](/images/Florence1.jpg){:width="750" height="338" style="padding:20px"}
+![The skyline of Florence with the Duomo under winter clouds](/images/Florence1.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 

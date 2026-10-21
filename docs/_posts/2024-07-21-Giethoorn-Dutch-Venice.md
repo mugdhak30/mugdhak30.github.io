@@ -29,7 +29,7 @@ To achieve my ulterior motive, I took them to one of my favorite cities in Europ
 After spending a few days in the busy city of Amsterdam, the fresh, cannabis-free air of Giethoorn was a refreshing change. The village is made up entirely of little canals, with beautiful houses lining the sides. We got to explore the village by boat before the crowds arrived, and the peace was just perfect. We quietly sailed past charming thatched houses, lovingly maintained (and sometimes tended by robotic lawn mowers). The canals were way cleaner than Amsterdam’s, and the houses along one side were only accessible via cute little bridges, many of which had gates to keep tourists away. While we absolutely loved being tourists in Giethoorn, I can imagine it might get a bit annoying to live there with all those tourists peering into your home!
 
 {:refdef: style="text-align: center;"}
-![](/images/Giethoorn4.jpg){:width="400" height="889" style="padding:20px"}
+![A thatched-roof house and footbridge reflected in a canal in Giethoorn](/images/Giethoorn4.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Giethoorn6.jpg){:width="400" height="890" style="padding:20px"}
 {:refdef}
 

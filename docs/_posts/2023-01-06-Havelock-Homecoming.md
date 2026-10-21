@@ -55,7 +55,7 @@ By now you might have guessed that our trip to rainy Havelock was nothing like w
 Our resort had a private beach that was nothing short of a dream! Decorated with fairy lights, comfortable benches and swings, it was a perfect place to catch up with my people. Be it sitting and chatting at odd hours, watching the thunder strike on the island across the beach, trying to capture the moon on my phone camera, teaching our father how to use a tripod or playing cards on a rainy day, this place saw a family reunite in the true sense. This might seem ordinary to others, but for a geographically distributed family such as ours, it was a much needed break from reality! 
 
 {:refdef: style="text-align: center;"}
-![](/images/Havelock9.jpg){:width="750" height="337" style="padding:20px"}
+![Small wooden boats off a quiet sandy beach on Havelock Island](/images/Havelock9.jpg){:width="750" height="337" style="padding:20px"}
 ![](/images/Havelock3.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Havelock7.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Havelock12.jpg){:width="450" height="600" style="padding:20px"}

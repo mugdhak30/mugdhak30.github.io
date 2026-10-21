@@ -64,7 +64,7 @@ Our next stop was [Livraria Bertrand](https://en.wikipedia.org/wiki/Livraria_Ber
 On one evening, we explored the [Belém tower](https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower) and spent time by the seashore watching ships pass by. But the best part of the trip had to be the delicious [Pastel de Nata](https://en.wikipedia.org/wiki/Pastel_de_nata) (custard tart) from a bakery just 100 meters from our conference venue. As someone with a sweet tooth, I was in heaven—the Pastel de Nata melted in my mouth. Our tour guide shared an interesting fact: only a few people know its original recipe, and they aren't allowed to travel on the same flight to prevent the world from losing this delicious treat! I truly learned some random things on this trip!
 
 {:refdef: style="text-align: center;"}
-![](/images/Lisbon8.jpg){:width="750" height="338" style="padding:20px"}
+![Belém Tower on the Tagus river in Lisbon](/images/Lisbon8.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Belém tower*

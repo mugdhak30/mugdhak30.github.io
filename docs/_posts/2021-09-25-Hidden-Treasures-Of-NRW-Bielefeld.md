@@ -21,7 +21,7 @@ I started my journey exploring Bielefeld with a long hike to the top of the Spar
 The view from the top of the castle was beautiful: a calm European town that has an old antique charm even with a touch of industrialization. Imagining how the buildings that are under construction will change the view broke my heart, but also encouraged me to savour this view in my sight and my camera.
 
 {:refdef: style="text-align: center;"}
-![](/images/Bielefeld9.jpg){:width="1700" height="830"}
+![Red rooftops and church spires of Bielefeld seen from Sparrenburg Castle](/images/Bielefeld9.jpg){:width="1700" height="830"}
 {:refdef}
 
 From there we walked through the town. A walk through most German towns can be very enlightening: even ordinary cafes have the most beautiful architectures that seems to be well preserved with time. Most major parts of the towns in Germany were renovated after the World War II because most towns were heavily damaged during the war. But there are some signs here and there, just little traces of how the world was before tragedy struck.

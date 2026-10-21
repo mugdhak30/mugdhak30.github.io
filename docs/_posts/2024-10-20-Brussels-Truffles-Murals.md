@@ -15,7 +15,7 @@ Our first impression of Brussels was our experience in metro, and it wasn't grea
 While I'm still not a huge fan of Brussels, it certainly wasn't as shady as we first thought. In fact, it reminded me a lot of [Paris](https://mugdhak30.github.io/Paris-Fantasy-Reality/). The Market Square, though—wow! I could honestly spend forever there. The buildings, with their intricate gold carvings and stunning architecture, were an absolute feast for the eyes. We even had a bit of déjà vu, feeling like we were back in the historic city centers of Munich and [Prague](https://mugdhak30.github.io/Prague-Bohemian-Dreamland/). 
 
 {:refdef: style="text-align: center;"}
-![](/images/Brussels1.jpg){:width="750" height="338" style="padding:20px"}
+![Gilded facade of a guildhall on the Grand-Place in Brussels](/images/Brussels1.jpg){:width="750" height="338" style="padding:20px"}
 ![](/images/Brussels2.jpg){:width="750" height="337" style="padding:20px"}
 {:refdef}
 

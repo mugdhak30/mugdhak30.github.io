@@ -16,7 +16,7 @@ Let me start with the most fascinating thing about Amsterdam: the dancing houses
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Amsterdam12.jpg){:width="750" height="337" style="padding:20px"} 
+![Narrow gabled canal houses and a houseboat in Amsterdam](/images/Amsterdam12.jpg){:width="750" height="337" style="padding:20px"} 
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Narrow Houses of Amsterdam*

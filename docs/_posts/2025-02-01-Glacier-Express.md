@@ -16,7 +16,7 @@ For this trip, we had a special experience in mind: spending half a day on whatâ
 
 {:refdef: style="text-align: center;"}
 ![](/images/Glacier1.jpg){:width="400" height="889" style="padding:20px"}
-![](/images/Glacier2.jpg){:width="400" height="889" style="padding:20px"}
+![A Glacier Express brochure held against the train window with the snowy Alps outside](/images/Glacier2.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 
 The views started getting impressive the moment we boarded the train, but the first highlight was the [Swiss Grand Canyon](https://www.myswitzerland.com/en/experiences/ruinaulta-switzerlands-grand-canyon/). We could see gigantic rock formations peeping through the clouds as sunlight bathed the riverbanks. This took me back to my trip to [Ladakh (India)](https://mugdhak30.github.io/Ladakh-Little-Tibet/). As we continued our journey, the landscape tranformed into a winter wonderland-where every inch of land we could see was covered with a thick layer of snow. The Alps were beautiful, feeling almost like a pocket-sized version of the Himalayas :D 

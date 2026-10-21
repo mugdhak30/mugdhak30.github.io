@@ -57,7 +57,7 @@ Next, we burned off all those extra waffle and beer calories by walking the rout
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Bruges11.jpg){:width="750" height="338" style="padding:20px"}
+![A canal in Bruges with a stone bridge and ivy-covered houses in autumn](/images/Bruges11.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 
 Recently, my fiancé introduced me to ["The Good Place"](https://en.wikipedia.org/wiki/The_Good_Place), a series about a heaven-like afterlife. Well, if I ever land in “the good place,” I hope it looks like Bruges. And that’s saying a lot, considering how many canal cities I’ve visited in Europe. But none of them gave me the same feeling as Bruges did.  With its cobblestone streets, horse-drawn carriages, charming chocolate shops and picturesque bridges, Bruges feels like a poem waiting to be written, and I can’t wait for the poet in me to pen down the magic of this fairy-tale destination!

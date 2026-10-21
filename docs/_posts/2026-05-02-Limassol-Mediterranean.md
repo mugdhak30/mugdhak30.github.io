@@ -12,7 +12,7 @@ header:
 In March, I traveled to [Limassol](https://www.limassoltourism.com/) in Cyprus to present at a conference. Because of the unfortunate situation in the Middle East, I was not sure until the very end if I would be able to travel. Thankfully, things were calm on the island of Cyprus, so I decided to continue with my plan. I arrived in Limassol at night and checked into my sea-view room. The next morning was unforgettable. The view from my room was very peaceful. As I looked out at the blue shades of the Mediterranean Sea with my morning tea in hand, I thought, “This is going to be a very exciting week!”
 
 {:refdef: style="text-align: center;"}
-![](/images/Limassol1.jpg){:width="400" height="879" style="padding:20px"}
+![Gardens, a pool and the Mediterranean Sea seen from a hotel room in Limassol](/images/Limassol1.jpg){:width="400" height="879" style="padding:20px"}
 ![](/images/Limassol2.jpg){:width="400" height="879" style="padding:20px"}
 {:refdef}
 

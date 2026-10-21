@@ -13,7 +13,7 @@ We spent the first week of December island hopping in the Bay of Bengal. Our nex
 In our first 10 minutes at the island, we knew this place was special. Our resort was located at the sunrise point at the [Sitapur beach](https://www.eternalandamans.com/neil-island/sitapur-beach). I had specifically asked our travel agent for this resort, since I wanted us to be at the most isolated part of the island (I will soon tell you why). That decision was rewarding, and the resort was a little slice of heaven! Oh btw, many photos in this post (and in our trip) have been clicked by my sister, Sneha. Thanks Sneha for letting me borrow them :)
 
 {:refdef: style="text-align: center;"}
-![](/images/Neil14.jpg){:width="750" height="346" style="padding:20px"}
+![Turquoise sea and a forested headland at Sitapur Beach on Neil Island](/images/Neil14.jpg){:width="750" height="346" style="padding:20px"}
 ![](/images/Neil3.jpg){:width="400" height="890" style="padding:20px"}
 ![](/images/Neil4.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Neil1.jpg){:width="400" height="600" style="padding:20px"}

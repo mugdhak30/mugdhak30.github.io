@@ -12,7 +12,7 @@ Around three months ago, I took inspiration from my favorite poet Robert Frost a
 It took me a long time to write about Herford because this fleeting moment of a trip was followed by other longer trips in the months that followed. When I finally got time to sit and reminisce about Herford, I realised that not writing about it will do grave injustice to it.
 
 {:refdef: style="text-align: center;"}
-![](/images/Herford7.jpg){:width="750" height="338" style="padding:20px"}
+![The curving brick walls of the MARTa museum in Herford, designed by Frank Gehry](/images/Herford7.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *MARTa Herford*

@@ -47,7 +47,7 @@ The frequently changing weather meant that our plans were often made on the fly.
 {:refdef: style="text-align: center;"}
 ![](/images/Zadar11.jpg){:width="400" height="890" style="padding:20px"}
 ![](/images/Zadar12.jpg){:width="400" height="889" style="padding:20px"}
-![](/images/Zadar15.jpg){:width="750" height="337" style="padding:20px"}
+![A stone wellhead and a medieval tower in Zadar's old town](/images/Zadar15.jpg){:width="750" height="337" style="padding:20px"}
 {:refdef}
 
 On the mornings when the sun didn't rise, the universe rewarded us with cool breeze, thick clouds and rainbows. Not a bad consolation prize! The sea organ was hard at work on all the windy days, and some of our favorite moments were from our beautiful balcony. We made the most of the beautiful blend of history, culture and nature that Zadar had to offer, and three days passed in a jiffy.

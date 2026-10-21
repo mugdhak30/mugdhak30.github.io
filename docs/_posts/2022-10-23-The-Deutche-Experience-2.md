@@ -10,7 +10,7 @@ header:
 The state of Bavaria (in South East Germany) has been on my bucket list for a year. Its main attractions are the Bavarian Alps and the city of Munich. On our first visit to Munich, we got a chance to attend the largest celebration of Bavarian culture: the Oktoberfest. The largest public festival in the world kicked off after a two-year hiatus, and the opening day drew a crowd like never before!
 
 {:refdef: style="text-align: center;"}
-![](/images/Deutsche2_1.jpg){:width="400" height="889" style="padding:20px"} 
+![Crowds entering Oktoberfest in Munich under the welcome arch](/images/Deutsche2_1.jpg){:width="400" height="889" style="padding:20px"} 
 ![](/images/Deutsche2_12.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 

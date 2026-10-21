@@ -42,7 +42,7 @@ The [sangam](https://devilonwheels.com/sangam-indus-zanskar-rivers-confluence/) 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Ladakh1.jpg){:width="750" height="562" style="padding:20px"}
-![](/images/Ladakh2.jpg){:width="750" height="562" style="padding:20px"}
+![The confluence of the Indus and Zanskar rivers among barren mountains in Ladakh](/images/Ladakh2.jpg){:width="750" height="562" style="padding:20px"}
 ![](/images/Ladakh3.jpg){:width="750" height="562" style="padding:20px"}
 {: refdef}
 {:refdef: style="text-align: center;"}

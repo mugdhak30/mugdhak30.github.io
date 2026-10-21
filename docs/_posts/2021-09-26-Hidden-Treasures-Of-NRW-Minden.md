@@ -44,7 +44,7 @@ The oddly beautiful architecture of the cathedrals and old houses managed to dis
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Minden8.jpg){:width="400" height="844" style="padding:40px"} 
+![A narrow half-timbered house with a steep gable on a cobbled street in Minden](/images/Minden8.jpg){:width="400" height="844" style="padding:40px"} 
 ![](/images/Minden4.jpg){:width="400" height="858" style="padding:40px"} 
 {:refdef}
 

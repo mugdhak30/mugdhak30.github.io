@@ -38,7 +38,7 @@ There are numerous things about the stones that are still a mystery: the origin 
 The formation stretches for several hundred metres. It starts inside the forest with some rocks and terminates in a series of mostly free-standing pillars. The pillars have been modified and decorated by humans over the centuries. The pond that currently lies at the foot of the formation is artificial and was created in the 19th century.
 
 {:refdef: style="text-align: center;"}
-![](/images/Externsteine_4.jpg){:width="700" height="349"}
+![The Externsteine sandstone pillars, linked by a small footbridge, in the Teutoburg Forest](/images/Externsteine_4.jpg){:width="700" height="349"}
 {:refdef} 
 
 {:refdef: style="text-align: center;"}

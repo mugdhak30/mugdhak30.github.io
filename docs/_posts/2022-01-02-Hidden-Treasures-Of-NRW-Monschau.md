@@ -13,7 +13,7 @@ The many half-timbered houses sprinkled across the country make German landscape
 Monschau is a charming little town near the Belgian border. It is known for its romantic lanes and rows of half-timbered houses that seem to be unchanged since centuries. This is the first German town I have visited that seems to be untouched by industrialization. It is a town so comfortable in its own antique beauty, that I don't think it has felt the need to adapt to the 21st century at all! 
 
 {:refdef: style="text-align: center;"}
-![](/images/Monschau10.jpg){:width="400" height="888" style="padding:40px"}
+![Half-timbered houses lining the Rur river in Monschau on a misty day](/images/Monschau10.jpg){:width="400" height="888" style="padding:40px"}
 ![](/images/Monschau7.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 

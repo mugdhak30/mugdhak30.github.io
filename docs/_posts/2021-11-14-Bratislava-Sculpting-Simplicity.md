@@ -31,7 +31,7 @@ What really caught my attention were the various sculptures in human size locate
 
 {:refdef: style="text-align: center;"}
 ![](/images/Bratislava1.jpg){:width="320" height="711" style="padding:20px"} 
-![](/images/Bratislava2.jpg){:width="320" height="711" style="padding:20px"} 
+![Bronze statue of a Napoleonic soldier leaning on a bench in Bratislava's Main Square](/images/Bratislava2.jpg){:width="320" height="711" style="padding:20px"} 
 ![](/images/Bratislava3.jpg){:width="320" height="711" style="padding:20px"} 
 {:refdef} 
 

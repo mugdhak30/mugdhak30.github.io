@@ -52,7 +52,7 @@ If you're already tired of this peculiarity, I have some bad news! Prague has mo
 
 {:refdef: style="text-align: center;"}
 ![](/images/Prague4.jpg){:width="430" height="956" style="padding:20px"}
-![](/images/Prague5.jpg){:width="400" height="958" style="padding:20px"}
+![The Dancing House in Prague with a red tram passing by](/images/Prague5.jpg){:width="400" height="958" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Left to Right: Franz Kafka Rotating Head and the Dancing House*

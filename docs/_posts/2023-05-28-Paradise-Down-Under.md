@@ -19,7 +19,7 @@ I left Germany on a Friday night and after a disorientingly long journey, I woke
 {:refdef: style="text-align: center;"}
 ![](/images/Melbourne1_2.jpg){:width="400" height="889" style="padding:20px"}
 ![](/images/Melbourne1_3.jpg){:width="400" height="889" style="padding:20px"}
-![](/images/Melbourne1_4.jpg){:width="750" height="338" style="padding:20px"}
+![Melbourne's skyscrapers along the Yarra River](/images/Melbourne1_4.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 
 I have said this time and again: I'll always be a city girl. Give me a lively city with good public transport and I can live there forever. There's just so much to experience in a city and if you add in old school (but extremely fast) trams to the picture, you get the beautiful city of Melbourne. Thanks to the helpful locals and a good public transport network, I could explore a lot of the city on my own. It was super convenient to have [free trams](https://www.ptv.vic.gov.au/assets/PDFs/Maps/Network-maps/5b4a3efe80/PTV-Free-Tram-Zone-Map.pdf) in the Central Business District, which was a short walk away from the conference venue! This instantly placed Melbourne in the list of the most well connected cities I've had the pleasure of visiting, and it is perhaps one of the only non-European cities in that list! 
