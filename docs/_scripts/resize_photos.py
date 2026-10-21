@@ -26,7 +26,8 @@ MIN_WIDTH = 1200      # never smaller than this, so a photo can later be shown l
 DEFAULT_SHOWN = 850   # a photo without a width is shown at most this wide
 QUALITY = 88
 
-IMAGE = re.compile(r'/images/([^)\s"\']+\.jpe?g)\)?(?:\{:\s*width="(\d+)")?', re.I)
+# Only the site's own photos: "(/images/..." or "\"/images/...", not links like https://other.site/images/...
+IMAGE = re.compile(r'(?<=[("\'])/images/([^)\s"\']+\.jpe?g)\)?(?:\{:\s*width="(\d+)")?', re.I)
 PAGES = ["_posts/*.md", "_drafts/*.md", "_pages/*.md", "_pages/*.html", "*.md", "year-archive/*.html"]
 
 
