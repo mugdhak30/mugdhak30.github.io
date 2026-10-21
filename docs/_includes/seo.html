@@ -41,10 +41,14 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
-{% comment %} Link-preview image: the page's own, else the site-wide og_image {% endcomment %}
+{% comment %} Link-preview image: the page's own, else a post's card cover (header.teaser), else the site-wide og_image {% endcomment %}
 {% assign seo_image = page.header.image | default: page.header.overlay_image %}
 {% if seo_image %}
   {% unless seo_image contains "://" %}{% assign seo_image = seo_image | prepend: "/images/" | prepend: base_path %}{% endunless %}
+{% elsif page.header.teaser %}
+  {% assign seo_image = page.header.teaser %}
+  {% assign seo_image_is_teaser = true %}
+  {% unless seo_image contains "://" %}{% assign seo_image = seo_image | prepend: base_path %}{% endunless %}
 {% elsif page.og_image %}
   {% assign seo_image = page.og_image %}
   {% unless seo_image contains "://" %}{% assign seo_image = seo_image | prepend: base_path %}{% endunless %}
@@ -102,7 +106,12 @@
 
 {% if seo_image %}
   <meta property="og:image" content="{{ seo_image }}">
-  {% if page.og_image and page.header.image == nil and page.header.overlay_image == nil %}
+  {% if seo_image_is_teaser %}
+    {% comment %} Card covers from _scripts/make_cover.py are always 900x600 {% endcomment %}
+    <meta property="og:image:width" content="900">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="{{ page.title | strip_html | escape_once }}">
+  {% elsif page.og_image and page.header.image == nil and page.header.overlay_image == nil %}
     {% comment %} A page's own og_image is a 1200x628 preview, e.g. og_image: /assets/photo.jpg {% endcomment %}
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="628">
