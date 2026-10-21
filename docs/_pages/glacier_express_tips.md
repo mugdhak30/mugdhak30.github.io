@@ -2,6 +2,7 @@
 layout: archive
 permalink: /glacier_express_tips/
 title: "Tips for taking the Glacier Express"
+blog_favicon: true
 ---
 
 Disclaimer: I am not an expert. These are just the things we kept in mind to have a good experience.

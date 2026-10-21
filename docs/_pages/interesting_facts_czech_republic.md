@@ -2,6 +2,7 @@
 layout: archive
 permalink: /interesting_facts_Czech_Republic/
 title: "Interesting facts about Czech Republic"
+blog_favicon: true
 ---
 
 Here are some interesting and fun facts I learnt on our trip to Prague:
