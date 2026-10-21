@@ -65,6 +65,7 @@ It prints each photo's size before and after, e.g. `5.8 MB -> 0.54 MB`.
 - Nothing is cropped (the watermark stays) and file names don't change, so the post needs no edits.
 - Photos that are already small enough, and the covers in `images/teasers/`, are left alone. Running it twice is harmless.
 - It removes camera metadata, including the GPS location phones store in each photo.
+- It adds each photo's height next to its width in the post, e.g. `{:width="400" height="889" ...}` (the width times the photo's height ÷ width). The browser then keeps that space free while the photo loads, so the text doesn't jump down as photos appear. Posts also load photos only as the reader scrolls to them.
 - Add `--dry-run` to see what it would do without changing anything.
 
 **Run it after the widths are final.** It reads them from the post. If you later show a shrunk photo larger (`width="400"` → `width="750"`), it will look slightly soft on Retina screens: copy the original back into `images/` and run the script again.

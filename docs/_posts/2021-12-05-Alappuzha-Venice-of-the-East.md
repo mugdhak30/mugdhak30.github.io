@@ -16,8 +16,8 @@ Among other beautiful landscapes, Kerala is most famous for its backwaters. [Ker
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Kerala10.jpg){:width="750" style="padding:20px"}
-![](/images/Kerala11.jpg){:width="450" style="padding:20px"}
+![](/images/Kerala10.jpg){:width="750" height="500" style="padding:20px"}
+![](/images/Kerala11.jpg){:width="450" height="600" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Our Houseboat*
@@ -27,8 +27,8 @@ Among other beautiful landscapes, Kerala is most famous for its backwaters. [Ker
 We then took a boat taxi and went on an hour long cruise through the waterways to the little floating villages around. The rower of our boat was a very excited man from one of the nearby villages. He showed us paddy fields and told us a lot about the daily life in those villages. The twinkle in someone's eye when they talk about their home is beautiful to watch! We also got to see people going about their daily lives and some children saying (almost screaming) an excited "Hi" to us as we rowed past their houses :)
 
 {:refdef: style="text-align: center;"}
-![](/images/Kerala9.jpg){:width="450" style="padding:20px"}
-![](/images/Kerala8.jpg){:width="450" style="padding:20px"}  
+![](/images/Kerala9.jpg){:width="450" height="675" style="padding:20px"}
+![](/images/Kerala8.jpg){:width="450" height="675" style="padding:20px"}  
 {:refdef}
 {:refdef: style="text-align: center;"}
 
@@ -37,8 +37,8 @@ We then took a boat taxi and went on an hour long cruise through the waterways t
 It was almost like we had landed in heaven.  The coconut trees bowed down to us, as if welcoming us to Kerala, and formed a canopy as we rowed across the beautiful canals. It felt as though nature was embracing us, and we were just soaking it all in.
 
 {:refdef: style="text-align: center;"}
-![](/images/Kerala1.jpg){:width="450" style="padding:20px"}
-![](/images/Kerala7.jpg){:width="450" style="padding:20px"}  
+![](/images/Kerala1.jpg){:width="450" height="675" style="padding:20px"}
+![](/images/Kerala7.jpg){:width="450" height="675" style="padding:20px"}  
 {:refdef}
 {:refdef: style="text-align: center;"}
 
@@ -47,9 +47,9 @@ It was almost like we had landed in heaven.  The coconut trees bowed down to us,
 After we came back to our houseboat, the houseboat started its journey to the middle of Vembanad lake. Sipping our chai and eating our favorite pakodas, we journeyed away from the world as we knew it. The memory of that evening is crystal clear in my mind, even though it has been two years since we visited Alappuzha.
 
 {:refdef: style="text-align: center;"}
-![](/images/Kerala2.jpg){:width="750" style="padding:20px"}
-![](/images/Kerala4.jpg){:width="750" style="padding:20px"}
-![](/images/Kerala6.jpg){:width="750" style="padding:20px"} 
+![](/images/Kerala2.jpg){:width="750" height="500" style="padding:20px"}
+![](/images/Kerala4.jpg){:width="750" height="500" style="padding:20px"}
+![](/images/Kerala6.jpg){:width="750" height="495" style="padding:20px"} 
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Backwaters of Alappuzha*
@@ -58,9 +58,9 @@ After we came back to our houseboat, the houseboat started its journey to the mi
 As the evening melted into night, the crew parked our houseboat somewhere in the middle of the lake. I remember seeing flocks of birds flying back home, and I felt more at home than I had felt in a long time. Sitting on the deck of our houseboat, Alappuzha rewarded us with a spectacular sunset, probably the most beautiful sunset I have ever seen! I have never experienced such silence before and those who know me well know why. The "chatterbox" of the family, for once, had nothing to say! I just enjoyed the exquisite portrait nature was painting for us as I slowly learnt the language of comfortable silence. In all the years that I have spent writing poetry, I have noticed that I rarely write poetry about the things that give me extreme joy or sorrow. It's no surprise then that I haven't written a poem about Alappuzha. I don't wish to change any part of that surreal evening with my verses!
 
 {:refdef: style="text-align: center;"}
-![](/images/Kerala13.jpg){:width="450" style="padding:20px"}
-![](/images/Kerala12.jpg){:width="450" style="padding:20px"} 
-![](/images/Kerala3.jpg){:width="450" style="padding:20px"} 
+![](/images/Kerala13.jpg){:width="450" height="675" style="padding:20px"}
+![](/images/Kerala12.jpg){:width="450" height="675" style="padding:20px"} 
+![](/images/Kerala3.jpg){:width="450" height="675" style="padding:20px"} 
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Sunset from Vembanad Lake*

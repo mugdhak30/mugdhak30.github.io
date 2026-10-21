@@ -14,7 +14,7 @@ Florence was in stark contrast with Burano, and traveling to both these just one
 We started first at a [square](https://www.visitflorence.com/florence-monuments/piazzale-michelangelo.html) that gave a lovely panoramic view of the city of Florence. Despite being cold and dull, the view was amazing with the river Arno flowing along the city. I did feel a little upset because had we not come here on a dull winter day, we could have witnessed a gorgeous sunset. However, it soon dawned on me that we were looking at a city that had given birth to so many important artists and scientists. Great artists like Michelangelo and Leonardo Da Vinci were born in this city, and Florence proudly displays their art all over the city. By this time, all I had seen of Florence was this view and yet I had already promised myself that I will visit again, for a longer time probably in summer!
 
 {:refdef: style="text-align: center;"}
-![](/images/Florence1.jpg){:width="750" style="padding:20px"}
+![](/images/Florence1.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 
@@ -22,8 +22,8 @@ Just as dusk was setting in, we enjoyed a walk along the river Arno and saw the 
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Florence2.jpg){:width="400" style="padding:40px"}
-![](/images/Florence4.jpg){:width="400" style="padding:40px"}
+![](/images/Florence2.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Florence4.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}
@@ -31,7 +31,7 @@ Just as dusk was setting in, we enjoyed a walk along the river Arno and saw the 
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Florence3.jpg){:width="750" style="padding:20px"}
+![](/images/Florence3.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 
 
@@ -39,10 +39,10 @@ The jewel of the city was certainly the majestic [Florence Cathedral](https://ww
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Florence5.jpg){:width="750" style="padding:20px"}
-![](/images/Florence6.jpg){:width="400" style="padding:40px"}
-![](/images/Florence7.jpg){:width="375" style="padding:40px"}
-![](/images/Florence8.jpg){:width="750" style="padding:20px"}
+![](/images/Florence5.jpg){:width="750" height="338" style="padding:20px"}
+![](/images/Florence6.jpg){:width="400" height="817" style="padding:40px"}
+![](/images/Florence7.jpg){:width="375" height="833" style="padding:40px"}
+![](/images/Florence8.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}
@@ -52,7 +52,7 @@ The jewel of the city was certainly the majestic [Florence Cathedral](https://ww
 Florence had many such gorgeous Churches! The last one we visited was the Santa Croce church. This Church is the burial place for the great and good in Florence, including Michelangelo and Galileo Galilei. In the words of our tour guide, "If you die a rich and accomplished Italian, there will be a place for you in Santa Croce, also called as the Temple of the Italian Glories!"
 
 {:refdef: style="text-align: center;"}
-![](/images/Florence9.jpg){:width="400" style="padding:40px"}
+![](/images/Florence9.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}

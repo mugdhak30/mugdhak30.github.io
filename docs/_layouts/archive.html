@@ -19,7 +19,12 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
+    {% if page.collection == "posts" %}
+      {% comment %} Posts: load each photo only as the reader scrolls near it {% endcomment %}
+      {{ content | replace: '<img src="/images/', '<img loading="lazy" decoding="async" src="/images/' }}
+    {% else %}
+      {{ content }}
+    {% endif %}
     {% if page.musing %}{% include more-musings.html %}{% endif %}
   </div>
 </div>

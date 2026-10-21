@@ -13,9 +13,9 @@ My trip to Northern California started off as one I took just to meet my partner
 We had planned a trip to [Santa Cruz](https://www.cityofsantacruz.com/) and one of my family friends suggested that we go on a whale watching tour. Whales migrate from Alaska to Mexico for summer and we were hoping to spot them somewhere near the Monterey bay. So we booked a [whale watching tour](https://www.santacruzwhalewatching.com/)[^1] and spent around 3 hours in the sea. At one point we had hundreds of [Risso's dolphins](https://en.wikipedia.org/wiki/Risso%27s_dolphin) around our boat, all putting on an amazing show for us. Our team leader Sydney explained to us how we were approaching them slowly to ensure their safety. As we went deeper into the ocean, we saw some glorious Grey Whales (and now it was time for us to stay a little far to ensure our safety). Sydney has shared some professional photos [here](https://www.instagram.com/p/Cb5OY1yrKNH/?igshid=YmMyMTA2M2Y=). The weather Gods were very helpful but the Pacific ocean was punishing us for disturbing its "peace". The ride was amazing but very turbulent. We were terribly seasick by the time the tour ended, so it was truly a once-in-a-lifetime experience for us :)
 
 {:refdef: style="text-align: center;"}
-![](/images/Cali_7.jpg){:width="750" style="padding:20px"}
-![](/images/Cali_8.jpg){:width="400" style="padding:40px"}
-![](/images/Cali_9.jpg){:width="400" style="padding:40px"}
+![](/images/Cali_7.jpg){:width="750" height="338" style="padding:20px"}
+![](/images/Cali_8.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Cali_9.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Dolphins and whales in Monterey Bay*
@@ -25,10 +25,10 @@ While coming back from Santa Cruz, we took the scenic Pacific Coast Highway ([Hi
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Cali_11.jpg){:width="450" style="padding:20px"}
-![](/images/Cali_13.jpg){:width="450" style="padding:20px"}
-![](/images/Cali_10.jpg){:width="490" style="padding:20px"}
-![](/images/Cali_12.jpg){:width="450" style="padding:20px"}
+![](/images/Cali_11.jpg){:width="450" height="600" style="padding:20px"}
+![](/images/Cali_13.jpg){:width="450" height="599" style="padding:20px"}
+![](/images/Cali_10.jpg){:width="490" height="596" style="padding:20px"}
+![](/images/Cali_12.jpg){:width="450" height="600" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Shark Fin Cove*
@@ -37,18 +37,18 @@ While coming back from Santa Cruz, we took the scenic Pacific Coast Highway ([Hi
 On my way back to Germany, I took a window seat because I had heard that the takeoff over San Francisco is gorgeous. And gosh, that decision was rewarding! Goodbyes are hearbreaking for a long-distance couple and they're the worst when they also mark the end of a perfect vacation. Just as I was returning to reality, nature went out of the way to light up my dark night. We flew over Greenland at night and I had the company of [Northern Lights](https://en.wikipedia.org/wiki/Aurora) dancing outside my window for a good half an hour. Thanks to the Lufthansa on board Wi-Fi (best 7 euros I've ever spent), I could share this experience with my sister. While the others on my flight were fast asleep, my sister and I were freaking out: watching the Northern lights was on both our traveling bucket lists! We were already making plans to fly to Finland to see them again, this time from the ground. It's been over a week now but I still remember them clearly floating near the wing of our aircraft. This was another reason why I took a window seat, but I still can't believe I got to watch them from the comfort of my seat!
 
 {:refdef: style="text-align: center;"}
-![](/images/Cali_5.jpg){:width="400" style="padding:40px"}
-![](/images/Cali_6.jpg){:width="400" style="padding:40px"}
+![](/images/Cali_5.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Cali_6.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *San Francisco from the plane*
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Cali_2.jpg){:width="400" style="padding:40px"}
-![](/images/Cali_1.jpg){:width="400" style="padding:40px"}
-![](/images/Cali_3.jpg){:width="400" style="padding:40px"}
-![](/images/Cali_4.jpg){:width="400" style="padding:40px"}
+![](/images/Cali_2.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Cali_1.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Cali_3.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Cali_4.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Northern Lights*

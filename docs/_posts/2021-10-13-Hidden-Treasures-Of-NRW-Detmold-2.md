@@ -15,8 +15,8 @@ The museum is divided into North, East, West and South NRW and gives a peek into
 
 In the north of Westphalia, we find the Teutoburg Forest and the Wiehen hills which then roll into the North Germain Plain. These regions are home to the characteristic Low German hall houses, and such examples can be found in this part of the museum. 
 {:refdef: style="text-align: center;"}
-![](/images/Detmold_North1.jpg){:width="320" style="padding:20px"} 
-![](/images/Detmold_North2.jpg){:width="320" style="padding:20px"} 
+![](/images/Detmold_North1.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Detmold_North2.jpg){:width="320" height="711" style="padding:20px"} 
 {:refdef}
 
 {:refdef: style="text-align: center;"}
@@ -26,9 +26,9 @@ In the north of Westphalia, we find the Teutoburg Forest and the Wiehen hills wh
 The west of Westphalia covers the flat to slightly hilly plains between the Teutoburg Forest and the Dutch border. It is characterised by an attractive landscape where farmland, meadows and pastures are widespread. This part of the museum consists of large Low German hall houses and several outbuildings.
 
 {:refdef: style="text-align: center;"}
-![](/images/Detmold_West1.jpg){:width="320" style="padding:20px"} 
-![](/images/Detmold_West2.jpg){:width="320" style="padding:20px"} 
-![](/images/Detmold_West3.jpg){:width="320" style="padding:20px"} 
+![](/images/Detmold_West1.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Detmold_West2.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Detmold_West3.jpg){:width="320" height="711" style="padding:20px"} 
 
 {:refdef} 
 
@@ -38,9 +38,9 @@ The west of Westphalia covers the flat to slightly hilly plains between the Teut
 
 The east of Westphalia is bordered by the river Weser and covers the western part of the the Egge Mountains. The most prominent type of settlement in the east of Westphalia is the large, clustered village which is represented by the Paderborn Village in the museum. 
 {:refdef: style="text-align: center;"}
-![](/images/Detmold_East1.jpg){:width="320" style="padding:20px"} 
-![](/images/Detmold_East2.jpg){:width="320" style="padding:20px"} 
-![](/images/Detmold_East5.jpg){:width="320" style="padding:20px"} 
+![](/images/Detmold_East1.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Detmold_East2.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Detmold_East5.jpg){:width="320" height="711" style="padding:20px"} 
 {:refdef} 
 
 {:refdef: style="text-align: center;"}
@@ -50,9 +50,9 @@ The east of Westphalia is bordered by the river Weser and covers the western par
 In the south of Westphalia, the landscape is characterised by wooden highlands. The settlements in this area are typically single farms and small villages in the valleys and they are appropriately located in the southern part of the museum.
 
 {:refdef: style="text-align: center;"}
-![](/images/Detmold_South1.jpg){:width="320" style="padding:20px"} 
-![](/images/Detmold_South2.jpg){:width="320" style="padding:20px"} 
-![](/images/Detmold_South3.jpg){:width="320" style="padding:20px"} 
+![](/images/Detmold_South1.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Detmold_South2.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Detmold_South3.jpg){:width="320" height="711" style="padding:20px"} 
 {:refdef}
 
 {:refdef: style="text-align: center;"}
@@ -62,8 +62,8 @@ In the south of Westphalia, the landscape is characterised by wooden highlands. 
 Besides the beautiful half-timbered houses and historic buildings, I could also discover forests, meadows, gardens, farms and rare breeds of domestic animals. 
 
 {:refdef: style="text-align: center;"}
-![](/images/Detmold_Other.jpg){:width="400" style="padding:40px"} 
-![](/images/Detmold_Other1.jpg){:width="400" style="padding:40px"} 
+![](/images/Detmold_Other.jpg){:width="400" height="889" style="padding:40px"} 
+![](/images/Detmold_Other1.jpg){:width="400" height="889" style="padding:40px"} 
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Countryside farm life*
@@ -72,9 +72,9 @@ Besides the beautiful half-timbered houses and historic buildings, I could also 
 After a trek through the southern part of the museum, I reached an observation deck which gave a very beautiful and green view of the museum along with the Detmold city (I could also see the Herrmansdenkmal at the far left). 
 
 {:refdef: style="text-align: center;"}
-![](/images/Detmold_Other3.jpg){:width="320" style="padding:20px"} 
-![](/images/Detmold_Other2.jpg){:width="320" style="padding:20px"} 
-![](/images/Detmold_Other4.jpg){:width="320" style="padding:20px"} 
+![](/images/Detmold_Other3.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Detmold_Other2.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Detmold_Other4.jpg){:width="320" height="711" style="padding:20px"} 
 {:refdef} 
 
 {:refdef: style="text-align: center;"}

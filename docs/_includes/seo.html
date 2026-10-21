@@ -132,13 +132,24 @@
   <link rel="next" href="{{ paginator.next_page_path | prepend: seo_url }}">
 {% endif %}
 
-{% if site.og_image %}
+{% if page.collection == "posts" %}
+  {% comment %} Tells search engines each post is a blog article: title, cover, dates, author, country {% endcomment %}
+  {% assign post_url = page.url | prepend: seo_url %}
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "url": {{ seo_url | jsonify }},
-      "logo": {{ site.og_image | prepend: base_path | jsonify }}
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": {{ page.title | strip_html | jsonify }},
+      {% if page.description %}"description": {{ page.description | strip_html | jsonify }},{% endif %}
+      {% if seo_image %}"image": {{ seo_image | jsonify }},{% endif %}
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
+      "inLanguage": {{ site.locale | default: "en-US" | jsonify }},
+      "url": {{ post_url | jsonify }},
+      "mainEntityOfPage": {{ post_url | jsonify }},
+      {% if page.tags.size > 0 %}"contentLocation": { "@type": "Place", "name": {{ page.tags | join: " " | jsonify }} },{% endif %}
+      "isPartOf": { "@type": "Blog", "name": "Imprints of Time", "url": {{ "/year-archive/" | prepend: seo_url | jsonify }} },
+      "author": { "@type": "Person", "name": {{ site.author.name | jsonify }}, "url": {{ seo_url | append: "/" | jsonify }} }
     }
   </script>
 {% endif %}

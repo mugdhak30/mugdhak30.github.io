@@ -14,14 +14,14 @@ Heidelberg is a town about 78 km south of Frankfurt situated on the river Neckar
 
 {:refdef: style="text-align: center;"}
 
-![](/images/Heidelberg11.jpg){:width="450" style="padding:20px"} 
+![](/images/Heidelberg11.jpg){:width="450" height="600" style="padding:20px"} 
 {:refdef} 
 {:refdef: style="text-align: center;"}
 *Old Town*
 {: refdef}
 
-![](/images/Heidelberg8.jpg){:width="450" style="padding:20px"} 
-![](/images/Heidelberg9.jpg){:width="450" style="padding:20px"} 
+![](/images/Heidelberg8.jpg){:width="450" height="600" style="padding:20px"} 
+![](/images/Heidelberg9.jpg){:width="450" height="600" style="padding:20px"} 
 {:refdef} 
 {:refdef: style="text-align: center;"}
 *Autumn in Heidelberg*
@@ -30,7 +30,7 @@ Heidelberg is a town about 78 km south of Frankfurt situated on the river Neckar
 Heidelberg is a pair of mountains playfully dodging each other as the Neckar river flows between them. I could just sit by the river looking at the antique Old Bridge and watch time pass by. The landscape took me to a much older time, when as a kid I used to draw a cliched scenery: two mountains and a river flowing between them. And then it took me to a more recent (but still older) time, when I visited Laxman Jhula (Rishikesh, India) with my family. The memories made my heart fill with joy. It was simple, and simply beautiful.
 
 {:refdef: style="text-align: center;"}
-![](/images/Heidelberg3.jpg){:width="750"} 
+![](/images/Heidelberg3.jpg){:width="750" height="562"} 
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Old Bridge connecting the two mountains*
@@ -39,7 +39,7 @@ Heidelberg is a pair of mountains playfully dodging each other as the Neckar riv
 After an interesting walk through the old town, we hiked to Schloss Heidelberg (Schloss means "castle" in German). First things first: the castle is home to the Heidelberg Tun, the world's biggest wine barrel that holds 220,000 litres! The majestic Schloss Heidelberg was spared neither from the wrath of humans nor nature. In 1600s, it was destroyed twice by the French and from 1500s to 1700s lightning caused multiple fires which led to a lot of destruction. The citizens of Heidelberg even used the ruins as a source of building materials for their own houses :o
 
 {:refdef: style="text-align: center;"}
-![](/images/Heidelberg2.jpg){:width="750"}
+![](/images/Heidelberg2.jpg){:width="750" height="562"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Neckar river and Schloss Heidelberg*
@@ -47,7 +47,7 @@ After an interesting walk through the old town, we hiked to Schloss Heidelberg (
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Heidelberg1.jpg){:width="750"} 
+![](/images/Heidelberg1.jpg){:width="750" height="562"} 
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Centre of the Town with a view of Schloss*
@@ -55,7 +55,7 @@ After an interesting walk through the old town, we hiked to Schloss Heidelberg (
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Heidelberg4.jpg){:width="750"}
+![](/images/Heidelberg4.jpg){:width="750" height="562"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Schloss Heidelberg*
@@ -64,8 +64,8 @@ After an interesting walk through the old town, we hiked to Schloss Heidelberg (
 The castle still stands tall proudly boasting its ruins. In the ruins I tried to look for pain, but only found art. Strangely enough, they were very picturesque. Like many other German towns[^2], every crack in these ruins seemed to scream, "broken, but beautiful!" I am not sure why but this took me back to the blurred memories of caves and monuments I had seen in India (Elephanta caves, ruins in Mahabalipuram). Sometimes home is imprinted so heavily in our heart that our mind looks for it in new places.
 
 {:refdef: style="text-align: center;"}
-![](/images/Heidelberg6.jpg){:width="650"}
-![](/images/Heidelberg10.jpg){:width="400" style="padding:20px"} 
+![](/images/Heidelberg6.jpg){:width="650" height="488"}
+![](/images/Heidelberg10.jpg){:width="400" height="533" style="padding:20px"} 
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Castle ruins*
@@ -74,7 +74,7 @@ The castle still stands tall proudly boasting its ruins. In the ruins I tried to
 The view from the castle was beautiful. The color coordinated adorable little houses were very pleasing to the eyes, and the view gave me a strange satisfaction. To be honest, it made me miss my sister a little bit. She would have loved this view (she loves everything symmetrically aesthetic)!
 
 {:refdef: style="text-align: center;"}
-![](/images/Heidelberg5.jpg){:width="750"}
+![](/images/Heidelberg5.jpg){:width="750" height="562"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 {: refdef}

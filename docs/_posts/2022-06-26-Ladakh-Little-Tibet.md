@@ -15,7 +15,7 @@ Kudos to my sister, Sneha for the amazing photos she's clicked of our trip, desp
 We first visited Ladakh in 2010 as part of a longer Kashmir trip. We loved it so much that we planned another trip in 2012, but this time we landed directly in [Leh](https://en.wikipedia.org/wiki/Leh). Leh is the highest airport in India and landing among the Himalayas was quite an adventure. Every turn made us feel like this would be the last flight of our lives, but we survived it, and how! 
 
 {:refdef: style="text-align: center;"}
-![](/images/Ladakh7.jpg){:width="750" style="padding:20px"}
+![](/images/Ladakh7.jpg){:width="750" height="562" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Aerial view of Leh*
@@ -24,15 +24,15 @@ We first visited Ladakh in 2010 as part of a longer Kashmir trip. We loved it so
 Leh is at an altitude of 3,524 m and it took our breath away (quite literally). The tiny Buddhist village lies in the lap of Karakoram and Himalayan mountain ranges curled up along the Indus river. A visit to the hilly [Shey Monastery](https://devilonwheels.com/shey-monastery-palace-leh-ladakh-travel-guide/) was a very quiet and peaceful start to our trip. We then witnessed magic at the [Magnetic Hill](https://leh.nic.in/tourist-place/magnetic-hill/). It defies gravity :o Now I know the science behind it but the teenage Harry Potter fans who visited it that day refused to believe it was anything but magic! 
 
 {:refdef: style="text-align: center;"}
-![](/images/Ladakh4.jpg){:width="750" style="padding:20px"}
-![](/images/Ladakh6.jpg){:width="750" style="padding:20px"}
+![](/images/Ladakh4.jpg){:width="750" height="562" style="padding:20px"}
+![](/images/Ladakh6.jpg){:width="750" height="562" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Shey Monastery*
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Ladakh13.jpg){:width="750" style="padding:20px"}
+![](/images/Ladakh13.jpg){:width="750" height="562" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Magnetic Hill*
@@ -41,9 +41,9 @@ Leh is at an altitude of 3,524 m and it took our breath away (quite literally). 
 The [sangam](https://devilonwheels.com/sangam-indus-zanskar-rivers-confluence/) (confluence) of Indus and Zanskar rivers in Leh is nature's display of affection. Locals say that the confluence keeps changing its colours during different times of the day according to the position of the sun. The shiny blue Zanskar merges with the muddy Indus as both the rivers kiss and continue their journey together. The teenage me was awestruck looking at the landscape! Now when I look back at these photos, it feels like the meeting of two lovers: lovers who have traveled miles to be with each other, and have vowed to never again leave each other's side. 
 
 {:refdef: style="text-align: center;"}
-![](/images/Ladakh1.jpg){:width="750" style="padding:20px"}
-![](/images/Ladakh2.jpg){:width="750" style="padding:20px"}
-![](/images/Ladakh3.jpg){:width="750" style="padding:20px"}
+![](/images/Ladakh1.jpg){:width="750" height="562" style="padding:20px"}
+![](/images/Ladakh2.jpg){:width="750" height="562" style="padding:20px"}
+![](/images/Ladakh3.jpg){:width="750" height="562" style="padding:20px"}
 {: refdef}
 {:refdef: style="text-align: center;"}
 *Sangam of Indus and Zanskar Rivers*
@@ -52,14 +52,14 @@ The [sangam](https://devilonwheels.com/sangam-indus-zanskar-rivers-confluence/) 
 Our next destination was [Nubra Valley](https://en.wikipedia.org/wiki/Nubra). To reach Nubra valley, we crossed the [Khardungla pass](https://www.incredibleindia.org/content/incredibleindia/en/destinations/leh-ladakh/khardung-la-pass.html). At 5602 m, it is the highest motorable road in the world! While we got lucky with the weather here, I can't say the same about Nubra Valley. We got the unique experience of walking through a cold desert and surviving a major sandstorm! We don't have many photos, since our focus was on staying alive :o
 
 {:refdef: style="text-align: center;"}
-![](/images/Ladakh12.jpg){:width="750" style="padding:20px"}
+![](/images/Ladakh12.jpg){:width="750" height="562" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *View from the Khardungla Pass*
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Ladakh11.jpg){:width="750" style="padding:20px"}
+![](/images/Ladakh11.jpg){:width="750" height="562" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Nubra Valley*
@@ -68,10 +68,10 @@ Our next destination was [Nubra Valley](https://en.wikipedia.org/wiki/Nubra). To
 The highlight of the trip was our day trip to [Pangong lake](https://en.wikipedia.org/wiki/Pangong_Tso). This lake rose to fame after the movie [3 Idiots](https://en.wikipedia.org/wiki/3_Idiots), and it is one of the largest salt water lakes in Asia. A sunny day in Pangong lake must be what heaven is made of, and I still remember how speechless I was when I caught its first glimpse. Watching the shadow of clouds dance over the rocky mountains and the crystal clear water change colours was an experience I will never forget in my life. Even though the lake is in a disputed territory, this part of the lake was peaceful and guarded well by the Indian Army. I still have the souvenirs we bought from there. Sneha and I still wear the T shirt we bought from there, and we have extremely fond memories of our time there. I have to be honest here: Ladakh has raised the bar for every hill station I visit in my life. Nothing in this world compares to visiting a gorgeous place with your family and then reminiscing about it after a decade! 
 
 {:refdef: style="text-align: center;"}
-![](/images/Ladakh14.jpg){:width="750" style="padding:20px"}
-![](/images/Ladakh10.jpg){:width="750" style="padding:20px"}
-![](/images/Ladakh8.jpg){:width="750" style="padding:20px"}
-![](/images/Ladakh9.jpg){:width="750" style="padding:20px"}
+![](/images/Ladakh14.jpg){:width="750" height="582" style="padding:20px"}
+![](/images/Ladakh10.jpg){:width="750" height="562" style="padding:20px"}
+![](/images/Ladakh8.jpg){:width="750" height="602" style="padding:20px"}
+![](/images/Ladakh9.jpg){:width="750" height="647" style="padding:20px"}
 {: refdef}
 {:refdef: style="text-align: center;"}
 *Pangong Lake*

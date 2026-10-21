@@ -15,7 +15,7 @@ In 1936, the Nazis constructed a modern concentration camp just outside Berlin�
 We walked to the camp along the T-building—today a tax office, but once the administrative brain of the Holocaust. This building was the headquarters of the “Inspection of Concentration Camps”. The fact that this mundane place was responsible for one of the greatest genocides in the history was horrifying and disturbing. 
 
 {:refdef: style="text-align: center;"}
-![](/images/Sachsenhausen1.jpg){:width="750" style="padding:20px"}
+![](/images/Sachsenhausen1.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *T-Building*
@@ -24,16 +24,16 @@ We walked to the camp along the T-building—today a tax office, but once the ad
 We entered Sachsenhausen through the main entrance, named Station A. The landscape suddenly shifted from lush green gardens to chilling emptiness. The clock above the gate still shows the exact time the camp was liberated, as if history paused to mark that day. Above the gate, the sarcastic words [*Arbeit macht frei*](https://en.wikipedia.org/wiki/Arbeit_macht_frei) (*Work makes you free*) are still etched. For many prisoners, the only *freedom* the Nazis offered was death through forced labor. 
 
 {:refdef: style="text-align: center;"}
-![](/images/Sachsenhausen2.jpg){:width="400" style="padding:20px"}
-![](/images/Sachsenhausen3.jpg){:width="400" style="padding:20px"}
+![](/images/Sachsenhausen2.jpg){:width="400" height="889" style="padding:20px"}
+![](/images/Sachsenhausen3.jpg){:width="400" height="890" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Entering Station A*
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Sachsenhausen4.jpg){:width="400" style="padding:20px"}
-![](/images/Sachsenhausen5.jpg){:width="400" style="padding:20px"}
+![](/images/Sachsenhausen4.jpg){:width="400" height="889" style="padding:20px"}
+![](/images/Sachsenhausen5.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 
 In the huge triangular space of the actual camp, we could see only two barracks/ buildings, which were reconstructed with original materials.  We walked across the grounds where prisoners had once been lined up for roll calls, and where many had faced execution. Our tour guide, an Israeli Jew, shared the stories of those who suffered and perished. As he spoke, I kept imagining what his life might have looked like had the Holocaust never happened. His calm narration made the experience all the more impactful.
@@ -41,21 +41,21 @@ Near the center stood the [Liberation Monument](https://cja.huji.ac.il/hmm/brows
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Sachsenhausen8.jpg){:width="400" style="padding:20px"}
-![](/images/Sachsenhausen9.jpg){:width="400" style="padding:20px"}
+![](/images/Sachsenhausen8.jpg){:width="400" height="889" style="padding:20px"}
+![](/images/Sachsenhausen9.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Sachsenhausen6.jpg){:width="400" style="padding:20px"}
-![](/images/Sachsenhausen7.jpg){:width="400" style="padding:20px"}
+![](/images/Sachsenhausen6.jpg){:width="400" height="890" style="padding:20px"}
+![](/images/Sachsenhausen7.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 
 At the far end of the camp was Station Z—the site of the crematorium and the gas chamber. Our guide paused here, then said something I’ll never forget: *“The Nazis made their message clear: You enter Sachsenhausen through Station A—and you leave only through Station Z.”* 
 That sentence, along with many others he shared, burned itself into my memory. The weight of his words and the silence of the camp left a mark I won’t ever be able to shake.
 
 {:refdef: style="text-align: center;"}
-![](/images/Sachsenhausen10.jpg){:width="400" style="padding:20px"}
-![](/images/Sachsenhausen11.jpg){:width="400" style="padding:20px"}
+![](/images/Sachsenhausen10.jpg){:width="400" height="890" style="padding:20px"}
+![](/images/Sachsenhausen11.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Left to Right: Crematorium, and the gas chamber*

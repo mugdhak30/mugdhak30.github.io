@@ -13,16 +13,16 @@ The many half-timbered houses sprinkled across the country make German landscape
 Monschau is a charming little town near the Belgian border. It is known for its romantic lanes and rows of half-timbered houses that seem to be unchanged since centuries. This is the first German town I have visited that seems to be untouched by industrialization. It is a town so comfortable in its own antique beauty, that I don't think it has felt the need to adapt to the 21st century at all! 
 
 {:refdef: style="text-align: center;"}
-![](/images/Monschau10.jpg){:width="400" style="padding:40px"}
-![](/images/Monschau7.jpg){:width="400" style="padding:40px"}
+![](/images/Monschau10.jpg){:width="400" height="888" style="padding:40px"}
+![](/images/Monschau7.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 
 This fairy tale town makes you forget time, and suddenly your worries are things of the past. One half-timbered house follows the other; and all shops, boutiques, cafes, hotels and even banks are half-timbered! Add to it a little river that flows through the heart of the town, and you have for yourself a town that is straight out of a dream.
 
 {:refdef: style="text-align: center;"}
-![](/images/Monschau1.jpg){:width="400" style="padding:40px"}
-![](/images/Monschau2.jpg){:width="400" style="padding:40px"}
-![](/images/Monschau8.jpg){:width="750" style="padding:20px"}
+![](/images/Monschau1.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Monschau2.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Monschau8.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *River Rur running through the heart of the town*
@@ -33,9 +33,9 @@ As is the case with most European towns, Monschau also has a castle overlooking 
 The view from the castle was of a village full of gorgeous houses spread across the Eifel hills! It was a peaceful and symmetrical view that again reminded me of my sister (I will often mention her in my posts because I miss her a lot). This little town was in no rush. Since I come from a city that never sleeps, the quiet and peace in places like Monschau (and even Paderborn) was an initial shock for me. I slowly got used to it, and started enjoying it very much. 
 
 {:refdef: style="text-align: center;"}
-![](/images/Monschau3.jpg){:width="400" style="padding:40px"}
-![](/images/Monschau4.jpg){:width="400" style="padding:40px"}
-![](/images/Monschau5.jpg){:width="750" style="padding:20px"}
+![](/images/Monschau3.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Monschau4.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Monschau5.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *View from the Castle*

@@ -14,9 +14,9 @@ Taking a short impromptu trip is exciting but has its own challenges. My guide w
 
 {:refdef: style="text-align: center;"}
 
-![](/images/Externsteine_1.jpg){:width="320" style="padding:20px"} 
-![](/images/Externsteine_2.jpg){:width="320" style="padding:20px"} 
-![](/images/Externsteine_3.jpg){:width="320" style="padding:20px"} 
+![](/images/Externsteine_1.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Externsteine_2.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Externsteine_3.jpg){:width="320" height="711" style="padding:20px"} 
 
 {:refdef} 
 
@@ -28,9 +28,9 @@ I realised that I was on the correct path because I saw a sea of tourists in fro
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Externsteine_6.jpg){:width="320" style="padding:20px"} 
-![](/images/Externsteine_8.jpg){:width="320" style="padding:20px"} 
-![](/images/Externsteine_7.jpg){:width="320" style="padding:20px"} 
+![](/images/Externsteine_6.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Externsteine_8.jpg){:width="320" height="711" style="padding:20px"} 
+![](/images/Externsteine_7.jpg){:width="320" height="711" style="padding:20px"} 
 {:refdef} 
 
 There are numerous things about the stones that are still a mystery: the origin of their name, for starters! In older texts it is written as ”Estern” or Eastern (-steine meaning "stones" or "rocks"). The medieval “Elsternsteine” (magpie rocks) is probably a corruption of this earlier name. 
@@ -38,15 +38,15 @@ There are numerous things about the stones that are still a mystery: the origin 
 The formation stretches for several hundred metres. It starts inside the forest with some rocks and terminates in a series of mostly free-standing pillars. The pillars have been modified and decorated by humans over the centuries. The pond that currently lies at the foot of the formation is artificial and was created in the 19th century.
 
 {:refdef: style="text-align: center;"}
-![](/images/Externsteine_4.jpg){:width="700"}
+![](/images/Externsteine_4.jpg){:width="700" height="349"}
 {:refdef} 
 
 {:refdef: style="text-align: center;"}
-![](/images/Externsteine_9.jpg){:width="700"}
+![](/images/Externsteine_9.jpg){:width="700" height="353"}
 {:refdef} 
 
 {:refdef: style="text-align: center;"}
-![](/images/Externsteine_5.jpg){:width="700"}
+![](/images/Externsteine_5.jpg){:width="700" height="384"}
 {:refdef} 
 
 In 1926, the Externsteine were declared "one of the oldest and most important nature reserves in Lippe" and were placed under protection. During the period of Nazi rule, the Externsteine became a focus of nationalistic propaganda. Teudt was put in charge of additional excavations at the site and initiated the demolishing of tourist infrastructure (tramway, hotels). He used the Serbian prisoners of war for the project. Since the 1950s, the Externsteine were developed into a popular tourist attraction.

@@ -12,7 +12,7 @@ Around three months ago, I took inspiration from my favorite poet Robert Frost a
 It took me a long time to write about Herford because this fleeting moment of a trip was followed by other longer trips in the months that followed. When I finally got time to sit and reminisce about Herford, I realised that not writing about it will do grave injustice to it.
 
 {:refdef: style="text-align: center;"}
-![](/images/Herford7.jpg){:width="750" style="padding:20px"}
+![](/images/Herford7.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *MARTa Herford*
@@ -21,16 +21,16 @@ It took me a long time to write about Herford because this fleeting moment of a 
 Most artists know Herford, for it is home to [MARTa Herford](https://marta-herford.de/en/), a huge museum of contemporary art. Knowing well enough that contemporary art would be wasted on me, I decided to spend time in the town instead. The Old Town was, well, old (no surprises there)! The town was founded by the Romans to guard a ford crossing the Werre river. Walking through the town felt like walking through centuries, for even buildings which had the most ordinary purpose (like grocery stores) were built in 13th or 14th century! When you live in a country where most towns were heavily destroyed in the war, finding a well preserved town is very special.
 
 {:refdef: style="text-align: center;"}
-![](/images/Herford5.jpg){:width="400" style="padding:40px"}
-![](/images/Herford9.jpg){:width="400" style="padding:40px"}
+![](/images/Herford5.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Herford9.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Left to Right: River Werre and Saint James' Church*
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Herford6.jpg){:width="750" style="padding:20px"}
-![](/images/Herford10.jpg){:width="750" style="padding:20px"}
+![](/images/Herford6.jpg){:width="750" height="338" style="padding:20px"}
+![](/images/Herford10.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Old Town*
@@ -39,16 +39,16 @@ Most artists know Herford, for it is home to [MARTa Herford](https://marta-herfo
 I couldn't help but notice a similarity between Herford and [Bratislava](https://mugdhak30.github.io/Bratislava-Sculpting-Simplicity/): both had prominent statues in the town. I took a nice trip down memory lane. By this time Herford was starting to feel like a piece of art waiting to be understood. [Herford Minster](https://en.wikipedia.org/wiki/Herford_Abbey) stood tall and it is one of the earliest hall churches in Germany. When I dug a little deeper, I found that this was in fact one of the oldest women's religious houses in the country. The town Herford grew around this site. The [statue at Herford Minster](https://statues.vanderkrogt.net/object.php?webpage=ST&record=denw296) commemorates the women that birthed the town. I was mighty impressed by the importance women were so rightly given in the history of the town. I started thinking of Herford as a town that had always been ahead of its time, and I would have continued believing so had I not stopped by the river Aa.
 
 {:refdef: style="text-align: center;"}
-![](/images/Herford8.jpg){:width="400" style="padding:40px"}
-![](/images/Herford11.jpg){:width="400" style="padding:40px"}
+![](/images/Herford8.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Herford11.jpg){:width="400" height="888" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Statues in the Old Town*
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![](/images/Herford3.jpg){:width="400" style="padding:40px"}
-![](/images/Herford4.jpg){:width="400" style="padding:40px"}
+![](/images/Herford3.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Herford4.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Herford Minster*
@@ -61,8 +61,8 @@ Witch hysteria plagued Europe after 1400s, and Germany had the highest witchcraf
 I have heard of such stories even in India, but what got to me was suddenness of this! I was simply exploring this place on a lazy Sunday afternoon with a plan to reach home in time for an afternoon nap. What I saw and read there, in fact, didn't let me sleep for a long time that night. Centuries pass, but crimes against women do not cease to exist! They evolve and take new forms. My visit to Herford showed me how much things have changed, but also made me wonder if they had changed at all!
 
 {:refdef: style="text-align: center;"}
-![](/images/Herford1.jpg){:width="400" style="padding:40px"}
-![](/images/Herford2.jpg){:width="400" style="padding:40px"}
+![](/images/Herford1.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Herford2.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Witch Hunt Memorial*

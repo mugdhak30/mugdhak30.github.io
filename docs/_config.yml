@@ -68,7 +68,10 @@ og_image                 : "/images/dagstuhl.jpg" # link-preview image for pages
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: "linkedin_username: mugdha-khedkar-1410a3102"# An array of links to social media profiles
+  links:                 # profiles of the same person, for search engines ("sameAs")
+    - "https://www.linkedin.com/in/mugdha-khedkar-1410a3102"
+    - "https://github.com/mugdhak30"
+    - "https://scholar.google.com/citations?user=E737Q-wAAAAJ"
 
 
 # Analytics

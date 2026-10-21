@@ -12,9 +12,9 @@ Paderborn is a beautiful town which gets even more charming as the river Pader f
 In the initial days when I lived close to my office, I spent many Sunday evenings at a small lake called Padersee ("see" means "lake" in German). Padersee has a wonderful cafe and a nice park which makes it a perfect place for a family picnic. A walk at Padersee gives me immense happiness, because it takes me to a world where weekends are spent with your family and a picnic basket[^1]. Some of the best memories I have here include sitting on the lawn reading a book watching families biking together or babies and puppies playing with each other. Germans treasure their weekends and I am slowly starting to see why :)
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderbornextra15.jpg){:width="750" style="padding:20px"}
-![](/images/Paderbornextra18.jpg){:width="400" style="padding:40px"}
-![](/images/Paderbornextra16.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra15.jpg){:width="750" height="338" style="padding:20px"}
+![](/images/Paderbornextra18.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Paderbornextra16.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Padersee*
@@ -23,7 +23,7 @@ In the initial days when I lived close to my office, I spent many Sunday evening
 A short bus ride from Padersee takes us to the former prince-bishop's residence, Schloß Neuhaus (pronounced as "Schloss" Neuhaus). It is a Weser Renaissance style castle which now accommodates a local school and organizes many cultural events. It is accompanied by an impeccable garden and a recreation area formed by the Alme, Lippe and Pader rivers (this is also where Pader flows into Lippe). The first time I visited Schloß Neuhaus, I was stunned! This was the dollhouse I had so fondly decorated with my twin sister twenty years ago! I remember giggling like a toddler who thinks she is a Disney princess (umm maybe Elsa, not Cinderella!).
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderborn2_1.jpg){:width="750" style="padding:20px"}
+![](/images/Paderborn2_1.jpg){:width="750" height="348" style="padding:20px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}
@@ -33,9 +33,9 @@ A short bus ride from Padersee takes us to the former prince-bishop's residence,
 I have very fond memories of visiting this castle: of eating ice cream on a hot summer day and drinking hot mulled wine on a frozen December night. What always impresses me is the perfection with which the garden is maintained! Since the past one year I have realised how much Germans love cleaning (probably even more than my mother loves cleaning) and it totally pays off! It is an absolute joy to visit these gardens during any season. Because the castle is straight out of a dream, it is a popular venue for a wedding or a wedding photoshoot! Can I let you in on a little secret? Sometimes when I go to this castle I hope  that there's a wedding going on! It warms my heart to see gorgeously dressed couples celebrating their love, and perhaps somewhere deep in my heart I dream of having such an intimate happy wedding for myself in the future (well, that escalated quickly :P)!
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderbornextra20.jpg){:width="750" style="padding:20px"}
-![](/images/Paderbornextra3.jpg){:width="400" style="padding:40px"}
-![](/images/Paderbornextra21.jpg){:width="400" style="padding:40px"}
+![](/images/Paderbornextra20.jpg){:width="750" height="338" style="padding:20px"}
+![](/images/Paderbornextra3.jpg){:width="400" height="889" style="padding:40px"}
+![](/images/Paderbornextra21.jpg){:width="400" height="889" style="padding:40px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}
@@ -44,7 +44,7 @@ I have very fond memories of visiting this castle: of eating ice cream on a hot 
 
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderbornextra28.jpg){:width="750" style="padding:20px"}
+![](/images/Paderbornextra28.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 
 {:refdef: style="text-align: center;"}
@@ -54,9 +54,9 @@ I have very fond memories of visiting this castle: of eating ice cream on a hot 
 Moving on, in the next ten minutes the same bus from Schloß Neuhaus takes us to another little paradise, Lippesee! It is a beautiful lake with a [weir](https://en.wikipedia.org/wiki/Weir) that really makes it stand apart from other lakes. It also has an artificial beach, which is the closest thing we have to a beach. Unfortunately the beach has been closed ever since I came and I can't wait to try it out once it opens. My friend and I visited Lippesee on a sunny winter day and I was excited to click good photos. I did a decent job but my friend, Sriteja had both a better camera and excellent photography skills. Thanks Sriteja for letting me borrow the amazing photos you clicked :)
 
 {:refdef: style="text-align: center;"}
-![](/images/Paderbornextra25.jpg){:width="775" style="padding:20px"}
-![](/images/Paderbornextra23.jpg){:width="425" style="padding:20px"}
-![](/images/Paderbornextra24.jpg){:width="425" style="padding:20px"}
+![](/images/Paderbornextra25.jpg){:width="775" height="436" style="padding:20px"}
+![](/images/Paderbornextra23.jpg){:width="425" height="756" style="padding:20px"}
+![](/images/Paderbornextra24.jpg){:width="425" height="756" style="padding:20px"}
 {:refdef}
 {:refdef: style="text-align: center;"}
 *Lippesee*
