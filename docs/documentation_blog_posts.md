@@ -48,6 +48,8 @@ In the post, photos go inside a centred block. Use `width="400"` for photos side
 
 The second block is an optional caption in italics.
 
+**Describe the cover photo** (the one you'll use in step 4) between the square brackets, e.g. `![The Matterhorn above the lights of Zermatt at dusk](/images/Zermatt1.jpg){:width="750" ...}`. Readers don't see this alt text; screen readers read it aloud and Google Images uses it. Say what's in the photo and name the place, in one short phrase, without "photo of". Other photos can keep `![]`.
+
 ## 3. Shrink the photos
 
 Once the post's text and photo widths are final, run this from the `docs/` folder:
@@ -156,6 +158,7 @@ Commit the post, its photos in `images/` and its cover in `images/teasers/` toge
 - [ ] `_posts/YYYY-MM-DD-Short-Title.md` created (or moved out of `_drafts/`)
 - [ ] Photos added to `images/` and shrunk with `_scripts/resize_photos.py`
 - [ ] Cover made with `_scripts/make_cover.py` and checked
+- [ ] Cover photo has alt text in the post: `![What it shows](/images/...)`
 - [ ] Front matter has `title`, `tags`, `description` and `header.teaser`
 - [ ] Description is one sentence and fits on the card without "…"
 - [ ] Previewed on `/year-archive/` and on the post page
