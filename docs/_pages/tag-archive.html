@@ -1,17 +1,23 @@
 ---
 layout: archive
-permalink: /blogs_by_tags/
-title: "Posts by Categories"
+permalink: /blogs_by_country/
+redirect_from:
+  - /blogs_by_tags/
+title: "Posts by Country"
 author_profile: true
+blog_favicon: true
 ---
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
+{% include post-search.html %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
+  <div class="post-cards">
+  {%- for post in posts %}
+  {% include post-card.html post=post %}
+  {%- endfor %}
+  </div>
 {% endfor %}

@@ -618,6 +618,40 @@ a.post-card {
   line-height: 1.5;
 }
 
+/* Search above the cards (_includes/post-search.html): hides cards and year/country groups */
+
+.post-search {
+  margin: 0.5em 0 1.5em;
+
+  input {
+    width: 100%;
+    max-width: 34em;
+    padding: 0.6em 0.9em;
+    font-size: 0.9em;
+    border: 1px solid $border-color;
+    border-radius: 0.6em;
+    background: transparent;
+    color: inherit;
+
+    &:focus {
+      outline: none;
+      border-color: $info-color;
+      box-shadow: 0 0 0 3px rgba($info-color, 0.2);
+    }
+  }
+}
+
+.post-search-status {
+  min-height: 1.5em;
+  margin: 0.5em 0 0;
+  font-size: 0.8em;
+  color: $gray;
+}
+
+a.post-card[hidden],
+.post-cards[hidden],
+.archive__subtitle[hidden] { display: none; }
+
 /* Research area pages (/research/developers/, /research/privacy-legal/) */
 
 .research-area-intro { margin-bottom: 1.5em; }
@@ -864,6 +898,9 @@ html[data-theme="dark"] {
   a.post-card:hover .post-card-title { color: lighten($info-color, 12%); }
   .post-card-cover { background: #1a1c1d; }
   .post-card-meta { color: #9aa1a6; }
+  .post-search input { border-color: #2e3133; }
+  .post-search input:focus { border-color: lighten($info-color, 12%); }
+  .post-search-status { color: #9aa1a6; }
   .research-side-title, .research-split-mid { color: #9aa1a6; }
   .research-side--developers { --accent: #93b4f5; }
   .research-side--privacy-legal { --accent: #5ec4b6; }

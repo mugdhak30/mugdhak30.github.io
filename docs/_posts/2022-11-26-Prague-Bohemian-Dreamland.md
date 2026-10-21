@@ -2,7 +2,7 @@
 layout: archive
 title:  "Prague: A Bohemian Dreamland"
 author_profile: true
-tags: Czech Republic
+tags: ["Czech Republic"]
 description: "The Old Town Square, the Astronomical Clock at night, and Charles Bridge from morning to sunset."
 header:
   teaser: /images/teasers/Prague2_3.jpg

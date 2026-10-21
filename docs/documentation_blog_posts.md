@@ -94,7 +94,7 @@ header:
 | `layout` | yes | Always `archive`. |
 | `title` | yes | Shown on the post and on the card. |
 | `author_profile` | yes | Always `true`: shows your profile next to the post. |
-| `tags` | yes | The country, in capitals on the card (`USA`, `Germany`, `Czech Republic`). Use one country per post. |
+| `tags` | yes | The country, in capitals on the card (`USA`, `Germany`). Use one country per post. It also groups the post on `/blogs_by_country/`. Write a name with a space as a list, `tags: ["Czech Republic"]`, or Jekyll splits it into two tags. |
 | `description` | yes | The one-line teaser on the card. See below. |
 | `header.teaser` | yes | The cover from step 3. Indent `teaser:` by two spaces under `header:`. A post without one still appears, just without a photo. |
 

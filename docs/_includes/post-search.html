@@ -1,0 +1,65 @@
+{%- comment -%}
+  Search box that filters the post cards on the page as you type. Usage: {% include post-search.html %}
+  It matches each card's title and country, and hides any heading + .post-cards grid left
+  without a match. The query is kept in the address (?q=germany), so a search can be shared.
+{%- endcomment -%}
+<div class="post-search" role="search">
+  <input type="search" id="post-search-input" aria-label="Search the blog" aria-describedby="post-search-status"
+         placeholder="Search by title or country" autocomplete="off" spellcheck="false">
+  <p id="post-search-status" class="post-search-status" aria-live="polite"></p>
+</div>
+<script>
+// The cards come after this box on the page, so start once the whole page is parsed
+document.addEventListener('DOMContentLoaded', function () {
+  var input = document.getElementById('post-search-input');
+  var status = document.getElementById('post-search-status');
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.post-cards .post-card'));
+
+  // Lowercase and drop accents, so "zurich" finds "Zürich" and "helsingor" finds "Helsingør"
+  function fold(s) {
+    return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ø/g, 'o');
+  }
+
+  cards.forEach(function (card) {
+    var title = card.querySelector('.post-card-title');
+    var tag = card.querySelector('.post-card-tag');
+    card._search = fold((title ? title.textContent : '') + ' ' + (tag ? tag.textContent : ''));
+  });
+
+  function filter() {
+    var query = input.value.trim();
+    var words = fold(query).split(/\s+/).filter(Boolean);
+    var shown = 0;
+
+    cards.forEach(function (card) {
+      var match = words.every(function (w) { return card._search.indexOf(w) !== -1; });
+      card.hidden = !match;
+      if (match) shown++;
+    });
+
+    // Hide each grid, and the heading above it, when none of its cards match
+    Array.prototype.forEach.call(document.querySelectorAll('.post-cards'), function (grid) {
+      var empty = !grid.querySelector('.post-card:not([hidden])');
+      grid.hidden = empty;
+      var heading = grid.previousElementSibling;
+      if (heading && heading.tagName === 'H2') heading.hidden = empty;
+    });
+
+    if (!words.length) status.textContent = '';
+    else if (!shown) status.textContent = 'No posts match “' + query + '”. Try a place or a country.';
+    else status.textContent = shown + (shown === 1 ? ' post matches' : ' posts match') + ' “' + query + '”';
+
+    var url = new URL(window.location.href);
+    if (query) url.searchParams.set('q', query); else url.searchParams.delete('q');
+    history.replaceState(null, '', url);
+  }
+
+  input.addEventListener('input', filter);
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') { input.value = ''; filter(); }
+  });
+
+  var initial = new URLSearchParams(window.location.search).get('q');
+  if (initial) { input.value = initial; filter(); }
+});
+</script>

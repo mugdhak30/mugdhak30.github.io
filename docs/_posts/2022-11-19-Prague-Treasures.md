@@ -2,7 +2,7 @@
 layout: archive
 title:  "Prague and its Unearthed Treasures"
 author_profile: true
-tags: Czech Republic
+tags: ["Czech Republic"]
 description: "Kafka's Jewish Quarter, a 'dementor' outside the Opera, and the Hanging Man: Prague's quirky side."
 header:
   teaser: /images/teasers/Prague5.jpg

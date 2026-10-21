@@ -4,14 +4,16 @@ permalink: /year-archive/
 title: "Imprints of Time"
 description: "Travelogues and stories from Europe, India and beyond, by Mugdha Khedkar."
 author_profile: true
+blog_favicon: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
-<p> On a beautiful summer morning, while traveling on the train I realised how lucky I am to be living in Europe... </p>
-<p>This is a small attempt to document and share some memories I make while travelling across Europe and also all the interesting things I learn along the way. If I am lucky enough, this blog will also have travelogues from other continents, and most definitely from my own country, India. Click <a href="https://mugdhak30.github.io/blogs_by_tags/">here</a> to read blog posts by category.</p> Other travel articles: <a href="https://mugdhak30.github.io/glacier_express_tips/">Tips for taking the Glacier Express</a>, <a href="https://mugdhak30.github.io/interesting_facts_Czech_Republic/">Interesting facts about Czech Republic</a>
-<p> Looking for something other than travel? My personal essays live in <a href="{{ base_path }}/personal/#musings">Musings</a>.</p>
+<p>On a beautiful summer morning, while traveling on the train, I realized how lucky I am to be living in Europe. This blog began as a small attempt to document and share some memories I make while traveling, and all the interesting things I learn along the way.</p>
+<p>Back then I wrote that if I am lucky enough, this blog will also have travelogues from other continents, and most definitely from my own country, India. I have been lucky: from the hidden treasures of NRW and the Swiss Alps to the Indian desert, Melbourne and the Rio sun.</p>
+<p>I cannot wake up in a new country every day, but that shouldn't stop me from writing. This blog is my safe space.</p>
+<p>Read the posts <a href="{{ base_path }}/blogs_by_country/">by country</a>, or search for a place below. Other travel articles: <a href="https://mugdhak30.github.io/glacier_express_tips/">Tips for taking the Glacier Express</a>, <a href="https://mugdhak30.github.io/interesting_facts_Czech_Republic/">Interesting facts about Czech Republic</a>. Looking for something other than travel? My personal essays live in <a href="{{ base_path }}/personal/#musings">Musings</a>.</p>
 
 <p> Please subscribe to my blog below. I won't share your email address with anyone and I won't send you spam emails 😄</p>
 
@@ -43,27 +45,8 @@ redirect_from:
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
-<!-- HTML elements for search -->
-
 <h2>What do you want to read?</h2>
-<input type="text" id="search-input" placeholder="Search blogs..">
-<ul id="results-container"></ul>
-
- <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
-
- <script>
-      window.simpleJekyllSearch = new SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
-        limit: 15,
-        fuzzy: false,
-        exclude: ['Welcome']
-      })
-    </script>
-
+{% include post-search.html %}
 
 <!-- Posts as cards, grouped by year (_includes/post-card.html) -->
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}

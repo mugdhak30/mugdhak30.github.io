@@ -2,12 +2,22 @@
 
 <!-- start custom head snippets -->
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/f1ba72251ee76356ec1abda62/c80aa7ab23fc86547d5952b81.js");</script>
+{% if page.collection == "posts" or page.blog_favicon %}
+<!-- Blog favicon (the Matterhorn, from Zermatt1.jpg): every post, plus pages with blog_favicon: true -->
+<link rel="icon" href="{{ base_path }}/images/blog-favicon.ico?v=2" sizes="any">
+<link rel="icon" type="image/png" href="{{ base_path }}/images/blog-favicon-32x32.png?v=2" sizes="32x32">
+<link rel="icon" type="image/png" href="{{ base_path }}/images/blog-favicon-16x16.png?v=2" sizes="16x16">
+<link rel="icon" type="image/png" href="{{ base_path }}/images/blog-favicon-96x96.png?v=2" sizes="96x96">
+<link rel="icon" type="image/png" href="{{ base_path }}/images/blog-favicon-192x192.png?v=2" sizes="192x192">
+<link rel="apple-touch-icon" href="{{ base_path }}/images/blog-apple-touch-icon.png?v=2" sizes="180x180">
+{% else %}
 <link rel="icon" href="{{ base_path }}/favicon.ico?v=2" sizes="any">
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png?v=2" sizes="32x32">
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-16x16.png?v=2" sizes="16x16">
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-96x96.png?v=2" sizes="96x96">
 <link rel="icon" type="image/png" href="{{ base_path }}/images/android-chrome-192x192.png?v=2" sizes="192x192">
 <link rel="apple-touch-icon" href="{{ base_path }}/images/apple-touch-icon.png?v=2" sizes="180x180">
+{% endif %}
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
