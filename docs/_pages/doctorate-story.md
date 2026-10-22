@@ -6,7 +6,9 @@ author_profile: true
 musing: true
 date: 2026-10-12
 og_image: /assets/PhDHat3-preview.jpg  # thumbnail when the link is shared
-description: "Today I received my PhD certificate, and I have spent the whole day reflecting on a chapter where literally nothing went my way."
+header:
+  teaser: /images/teasers/PhDHat3.jpg  # cover on the musings grid
+description: "Rejections, a near-quit and a grade one step short of distinction: what the 'failures' behind my PhD taught me."
 ---
 
 Today I received my PhD certificate, and I have spent the whole day reflecting on a chapter where literally nothing went my way: from choosing a topic to defending my dissertation.

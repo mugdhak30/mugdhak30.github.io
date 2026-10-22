@@ -540,6 +540,44 @@ a.research-side-more {
   }
 }
 
+/* Personal page: poetry, travel and photography as three clickable tiles */
+
+.hobby-tiles {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+  margin: 1em 0 2em;
+
+  @media (max-width: 600px) { grid-template-columns: 1fr; }
+}
+
+.archive a.hobby-tile,
+a.hobby-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6em;
+  padding: 1em 1.1em;
+  border: 1px solid $border-color;
+  border-radius: 0.6em;
+  color: inherit;
+  font-size: 0.85em;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+
+  .fas { font-size: 1.4em; color: $info-color; }
+
+  &:hover {
+    text-decoration: none;
+    border-color: $info-color;
+    box-shadow: 0 4px 14px rgba(#000, 0.08);
+
+    .hobby-tile-link { text-decoration: underline; }
+  }
+}
+
+.hobby-tile-link { color: $info-color; font-weight: 600; }
+
 /* Blog index (/year-archive/): posts as cards, from _includes/post-card.html */
 
 .post-cards {
@@ -764,48 +802,45 @@ a.post-card[hidden],
   }
 }
 
-/* Interests (/interests/): favourite quotes */
+/* Personal page: favourite quotes as a two-column wall of soft cards */
 
 .quote-list {
-  display: grid;
-  gap: 0.9em;
-  margin-bottom: 1.5em;
+  columns: 2 18em;
+  column-gap: 1em;
+  margin: 1em 0 1.5em;
 }
 
 .quote-block {
-  margin: 0;
-  padding: 0.6em 0 0.6em 1.1em;
-  border-left: 3px solid $border-color;
-  font-size: 1em;
+  break-inside: avoid;
+  margin: 0 0 1em;
+  padding: 1em 1.2em 0.9em;
+  border: 1px solid $border-color;
+  border-radius: 0.6em;
+  background: #f7f9fa;
 
   p {
     margin: 0;
+    font-family: $serif;
     font-style: italic;
-    line-height: 1.55;
+    font-size: 0.95em;
+    line-height: 1.6;
   }
 
   footer {
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0.5em;
-    margin-top: 0.4em;
-    font-size: 0.875em;
-    font-style: normal;
+    align-items: baseline;
+    gap: 0.35em;
+    margin-top: 0.7em;
+    font-size: 0.75em;
     color: $gray;
   }
 
   a {
-    font-size: 0.85em;
+    color: $info-color;
     font-weight: 600;
-    padding: 0.05em 0.6em;
-    border-radius: 5px;
-    border: 1px solid $border-color;
-    background: #f7f9fa;
-    color: mix(#000, $info-color, 15%);
     text-decoration: none;
 
-    &:hover { border-color: $info-color; }
+    &:hover { text-decoration: underline; }
   }
 }
 
@@ -894,6 +929,9 @@ html[data-theme="dark"] {
   .dated-extra, .contact-rows dt { color: #9aa1a6; }
   .news-box, .research-split, .research-split-mid, .contact-rows dt, .contact-rows dd { border-color: #2e3133; }
   a.post-card { border-color: #2e3133; }
+  a.hobby-tile { border-color: #2e3133; }
+  a.hobby-tile:hover { border-color: lighten($info-color, 12%); }
+  a.hobby-tile .fas, .hobby-tile-link { color: lighten($info-color, 12%); }
   a.post-card:hover { border-color: lighten($info-color, 12%); }
   a.post-card:hover .post-card-title { color: lighten($info-color, 12%); }
   .post-card-cover { background: #1a1c1d; }
@@ -914,11 +952,8 @@ html[data-theme="dark"] {
   .li-post img { background: #1a1c1d; }
   .li-post .li-post-date, .li-post .li-post-headline { color: #9aa1a6; }
 
-  .quote-block a {
-    background: #1a1c1d;
-    border-color: #2e3133;
-    color: lighten($info-color, 12%);
-  }
+  .quote-block { background: #1a1c1d; }
+  .quote-block a { color: lighten($info-color, 12%); }
 
   .cv-button, .cv-links a {
     background: #1a1c1d;

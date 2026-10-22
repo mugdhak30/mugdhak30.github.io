@@ -5,6 +5,9 @@ permalink: /court-wedding-Maharashtra-India/
 author_profile: true
 musing: true
 date: 2025-01-26
+header:
+  teaser: /images/teasers/Wedding.jpg  # cover on the musings grid
+description: "An intimate court wedding in Mumbai on our sixth anniversary, and a step-by-step guide to getting married the same way."
 ---
 
 When I first told my German friends that I was getting married, they exclaimed "Oh! We'll finally get to attend a big fat Indian wedding". "Tough luck!", I replied. "1.4 billion Indians in the world and you guys befriend the one who wants an intimate court wedding". 

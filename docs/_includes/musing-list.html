@@ -7,17 +7,21 @@
 {% comment %} Page and post dates have different types, so sort on "YYYYMMDD|kind|index" keys. {% endcomment %}
 {% capture keys %}{% for m in musing_pages %}{{ m.date | date: "%Y%m%d" }}|page|{{ forloop.index0 }};{% endfor %}{% for m in musing_posts %}{{ m.date | date: "%Y%m%d" }}|post|{{ forloop.index0 }};{% endfor %}{% endcapture %}
 {% assign keys = keys | split: ";" | sort | reverse %}
-<ul class="dated-rows musings">
+<div class="post-cards musing-cards">
 {% for key in keys %}
   {% assign k = key | split: "|" %}
   {% assign i = k[2] | plus: 0 %}
   {% if k[1] == "page" %}{% assign m = musing_pages[i] %}{% else %}{% assign m = musing_posts[i] %}{% endif %}
-  <li>
-    <time datetime="{{ m.date | date_to_xmlschema }}">{{ m.date | date: "%b %Y" }}</time>
-    <div>
-      <a class="musing-title" href="{{ m.url | relative_url }}">{{ m.title | strip }}</a>
-      <p class="musing-excerpt">{% if m.description %}{{ m.description }}{% else %}{{ m.content | markdownify | split: "</p>" | first | strip_html | truncatewords: 40 }}{% endif %}</p>
-    </div>
-  </li>
+  {% comment %} PROTOTYPE: header.teaser if set, else a placeholder photo seeded by the page's URL. {% endcomment %}
+  {% assign seed = m.url | slugify %}
+  {% capture placeholder %}https://picsum.photos/seed/{{ seed }}/900/600{% endcapture %}
+  <a class="post-card" href="{{ m.url | relative_url }}">
+    <span class="post-card-cover"><img src="{{ m.header.teaser | default: placeholder | relative_url }}" alt="" loading="lazy" width="900" height="600"></span>
+    <span class="post-card-body">
+      <span class="post-card-meta"><time datetime="{{ m.date | date_to_xmlschema }}">{{ m.date | date: "%B %Y" }}</time></span>
+      <span class="post-card-title">{{ m.title | strip }}</span>
+      <span class="post-card-teaser">{% if m.description %}{{ m.description }}{% else %}{{ m.content | markdownify | split: "</p>" | first | strip_html | truncatewords: 40 }}{% endif %}</span>
+    </span>
+  </a>
 {% endfor %}
-</ul>
+</div>
