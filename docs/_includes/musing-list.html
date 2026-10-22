@@ -1,6 +1,7 @@
 <!-- Lists every page with `musing: true` and a `date:` in its front matter, newest first,
      plus blog posts with `musing: true` (they stay in the blog too).
-     An optional `description:` replaces the automatic excerpt. -->
+     An optional `description:` replaces the automatic excerpt, and an optional
+     `header: teaser:` (a 900x600 photo in /images/teasers/) adds a cover. -->
 
 {% assign musing_pages = site.pages | where: "musing", true %}
 {% assign musing_posts = site.posts | where: "musing", true %}
@@ -12,11 +13,10 @@
   {% assign k = key | split: "|" %}
   {% assign i = k[2] | plus: 0 %}
   {% if k[1] == "page" %}{% assign m = musing_pages[i] %}{% else %}{% assign m = musing_posts[i] %}{% endif %}
-  {% comment %} PROTOTYPE: header.teaser if set, else a placeholder photo seeded by the page's URL. {% endcomment %}
-  {% assign seed = m.url | slugify %}
-  {% capture placeholder %}https://picsum.photos/seed/{{ seed }}/900/600{% endcapture %}
   <a class="post-card" href="{{ m.url | relative_url }}">
-    <span class="post-card-cover"><img src="{{ m.header.teaser | default: placeholder | relative_url }}" alt="" loading="lazy" width="900" height="600"></span>
+    {%- if m.header.teaser %}
+    <span class="post-card-cover"><img src="{{ m.header.teaser | relative_url }}" alt="" loading="lazy" width="900" height="600"></span>
+    {%- endif %}
     <span class="post-card-body">
       <span class="post-card-meta"><time datetime="{{ m.date | date_to_xmlschema }}">{{ m.date | date: "%B %Y" }}</time></span>
       <span class="post-card-title">{{ m.title | strip }}</span>
