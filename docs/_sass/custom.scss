@@ -805,14 +805,27 @@ a.post-card[hidden],
 /* Personal page: favourite quotes as a two-column wall of soft cards */
 
 .quote-list {
-  columns: 2 18em;
-  column-gap: 1em;
+  display: grid;
+  gap: 1em;
   margin: 1em 0 1.5em;
+
+  /* Two columns only where they fit: phone browsers (iOS Safari) can clip the last card in a multi-column box */
+  @media (min-width: 600px) {
+    display: block;
+    columns: 2;
+    column-gap: 1em;
+
+    .quote-block {
+      display: inline-block;
+      width: 100%;
+      margin-bottom: 1em;
+    }
+  }
 }
 
 .quote-block {
   break-inside: avoid;
-  margin: 0 0 1em;
+  margin: 0;
   padding: 1em 1.2em 0.9em;
   border: 1px solid $border-color;
   border-radius: 0.6em;
