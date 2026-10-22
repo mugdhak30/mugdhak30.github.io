@@ -1,0 +1,38 @@
+<!-- The poems on /personal/, one card each, from _data/poems.yml (see the notes at its top). -->
+
+{%- capture nl %}
+{% endcapture %}
+{%- assign stanza_break = nl | append: nl %}
+<div class="poem-cards">
+{%- for poem in site.data.poems %}
+  {%- assign stanzas = poem.text | strip | split: stanza_break %}
+  <article class="poem-card" id="{{ poem.title | slugify }}">
+    <h3 class="poem-title"><a href="{{ poem.url }}" title="Read it on allpoetry.com">{{ poem.title }} <span aria-hidden="true">↗</span></a></h3>
+    {%- if poem.note %}
+    <p class="poem-note">{{ poem.note }}</p>
+    {%- endif %}
+    <div class="poem-text">
+    {%- assign excerpt = false %}
+    {%- for stanza in stanzas %}
+      {%- assign s = stanza | strip %}
+      {%- if s == "…" %}{% assign excerpt = true %}
+      <p class="poem-gap" aria-label="Some stanzas left out">…</p>
+      {%- else %}
+      <p>{{ s | escape | newline_to_br }}</p>
+      {%- endif %}
+    {%- endfor %}
+    </div>
+    {%- if excerpt %}
+    <p class="poem-more"><a href="{{ poem.url }}">Read the full poem ↗</a></p>
+    {%- endif %}
+    {%- if poem.related %}
+    <p class="poem-related">On the blog:
+      {%- for url in poem.related %}
+        {%- assign post = site.posts | where: "url", url | first %}
+        <a href="{{ post.url | relative_url }}">{{ post.title | strip }}</a>{% unless forloop.last %} ·{% endunless %}
+      {%- endfor %}
+    </p>
+    {%- endif %}
+  </article>
+{%- endfor %}
+</div>

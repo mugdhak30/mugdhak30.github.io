@@ -661,7 +661,9 @@ a.post-card {
 .post-search {
   margin: 0.5em 0 1.5em;
 
-  input {
+  input,
+  input[type="search"] {
+    box-sizing: border-box; /* beats the theme's later input[type="search"] content-box reset, which overflowed phones */
     width: 100%;
     max-width: 34em;
     padding: 0.6em 0.9em;
@@ -801,6 +803,67 @@ a.post-card[hidden],
     dd { padding-top: 0.1em; }
   }
 }
+
+/* Personal page: my poems as cards, from _includes/poem-list.html */
+
+.poem-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(15em, 100%), 1fr));
+  gap: 1em;
+  margin: 1em 0 2em;
+}
+
+.poem-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.1em 1.2em 1em;
+  border: 1px solid $border-color;
+  border-radius: 0.6em;
+}
+
+.poem-title {
+  margin: 0 0 0.6em;
+  font-size: 1em;
+
+  a, .archive & a { color: inherit; text-decoration: none; }
+  a:hover { color: $info-color; }
+  span { font-size: 0.75em; color: $info-color; }
+}
+
+.poem-note {
+  margin: 0 0 1em;
+  font-size: 0.75em;
+  font-style: italic;
+  line-height: 1.5;
+  color: $gray;
+}
+
+.poem-text p {
+  margin: 0 0 1em;
+  font-family: $serif;
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+.poem-text .poem-gap { color: $gray; letter-spacing: 0.2em; }
+
+.poem-more,
+.poem-related {
+  margin: 0;
+  font-size: 0.75em;
+  line-height: 1.5;
+}
+
+.poem-more a { font-weight: 600; }
+
+.poem-related {
+  margin-top: auto;
+  padding-top: 0.8em;
+  border-top: 1px solid $border-color;
+  color: $gray;
+}
+
+.poem-more + .poem-related { margin-top: 0.8em; }
 
 /* Personal page: favourite quotes as a two-column wall of soft cards */
 
@@ -966,6 +1029,9 @@ html[data-theme="dark"] {
   .li-post .li-post-date, .li-post .li-post-headline { color: #9aa1a6; }
 
   .quote-block { background: #1a1c1d; }
+  .poem-card, .poem-related { border-color: #2e3133; }
+  .poem-note, .poem-related, .poem-text .poem-gap { color: #9aa1a6; }
+  .poem-title span, .poem-title a:hover { color: lighten($info-color, 12%); }
   .quote-block a { color: lighten($info-color, 12%); }
 
   .cv-button, .cv-links a {
@@ -1026,6 +1092,32 @@ html[data-theme="dark"] {
 .badge-new:hover {
   animation-play-state: paused;
   transform: scale(1);
+}
+
+/* Footer in the page flow, so it can never cover content. The theme pins it with
+   position: absolute and reserves only body's 9em padding-bottom (the script meant to
+   reserve its real height is missing from main.min.js), but on phones the footer is
+   taller than that. A flex column keeps it at the bottom of short pages instead.
+   The extra "html" / "body >" in the selectors outrank the theme's own rules, which
+   come after this file in assets/css/main.scss. */
+html body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding-bottom: 0;
+
+  > * { flex-shrink: 0; }
+}
+
+/* margin-bottom keeps the theme's 3em gap above the footer */
+body > #main {
+  width: 100%;
+  margin-bottom: 3em;
+}
+
+body > .page__footer {
+  position: static;
+  margin-top: auto;
 }
 
 .page__footer-updated {

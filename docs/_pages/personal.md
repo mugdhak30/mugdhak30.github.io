@@ -35,6 +35,12 @@ Personal essays on life beyond travel: the big moments, and what I made of them.
 
 {% include musing-list.html %}
 
+## Poems
+
+Three of my poems. You can find more on my [poetry profile](https://allpoetry.com/Mugdhak).
+
+{% include poem-list.html %}
+
 ## Favourite Quotes
 
 <div class="quote-list">

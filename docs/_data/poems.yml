@@ -1,0 +1,116 @@
+# Poems shown on /personal/ (rendered by _includes/poem-list.html), in this order.
+#
+#   title:    poem title; also gives the card its anchor, e.g. /personal/#antique
+#   url:      the poem on allpoetry.com
+#   note:     optional one-line italic intro above the poem
+#   text:     the poem, with a blank line between stanzas. To show an excerpt,
+#             leave out stanzas and put a line with just … where they were;
+#             the card then adds a "Read the full poem" link.
+#   related:  optional blog post URLs, listed under the poem
+
+- title: "The Lost Sunsets"
+  url: https://allpoetry.com/poem/14030763-The-Lost-Sunsets-by-Mugdhak
+  note: "I shifted from Mumbai (western coast of India) to Chennai (south eastern coast of India). Here is an ode to sunsets over the sea that I miss a lot."
+  text: |
+    As the sand sparkles,
+    The massive waves roar.
+    I am left with a feeling,
+    Of wanting something more.
+
+    Beyond the horizon,
+    Above the sea.
+    The breeze brings,
+    A single question to me.
+
+    “What is missing?”
+    A bright golden glow,
+    That paints the sky
+    Red nice and slow.
+
+    Agreeing with me,
+    The waves roar higher.
+    They miss swallowing,
+    The ball of fire.
+
+    The day doesn't end with
+    The sun making a fall.
+    But it begins as the sea
+    Spits out the fire ball.
+
+    “We begin the day for you”
+    The waves sing in chorus.
+    “If we can't see it end, someone
+    Somewhere will see it for us.”
+
+    My home misses sunrises
+    Over the roaring sea.
+    Here I miss the quiet sunsets
+    With a cup of coffee.
+
+    I feel close to my family,
+    Though I am on my own.
+    The sun I see rising,
+    Will set at my home.
+
+- title: "Harvest"
+  url: https://allpoetry.com/poem/14783571-Harvest-by-Mugdhak
+  text: |
+    Cool breeze, colours galore,
+    red carpet, clear sky,
+
+    Nature's palette, not one
+    colour invisible to the eye.
+
+    A painting with varied
+    hues of glorious dye.
+
+    Naked branches shake
+    as the leaves fly
+
+    then drop, kiss the earth
+    their final goodbye.
+
+    Yet not one poet writes
+    about autumn with a sigh -
+
+    Fall, beautiful leaves, fall
+    all that lives has to die.
+  related:
+    - /Bratislava-Sculpting-Simplicity/
+
+- title: "Antique"
+  url: https://allpoetry.com/poem/16128160-Antique-by-Mugdhak
+  text: |
+    Do the walls of the castle
+    Carved so beautifully
+    Hide behind them
+    Screams of a generation?
+
+    Do the stony roads that
+    Lead to beautiful houses
+    Stand over years of hatred
+    That destroyed a nation?
+
+    Do the beautiful flowers
+    Grow from the tears
+    Of those who were thrashed
+    And killed on this land?
+
+    Do the bombed roofs
+    Stand as a reminder
+    Of what has changed
+    As time slipped like sand?
+
+    Do you want to see how
+    Beautiful, happy people
+    Hide behind their smile
+    A world that's crumbling apart?
+
+    Walk through a quaint
+    German town someday,
+    And try hard to feel
+    The pain behind its art.
+  related:
+    - /Hidden-Treasures-Of-NRW-Minden/
+    - /Heidelberg-Redefining-Romance/
+    - /Sachsenhausen/

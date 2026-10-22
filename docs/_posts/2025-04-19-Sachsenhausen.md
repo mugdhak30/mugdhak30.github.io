@@ -63,7 +63,7 @@ That sentence, along with many others he shared, burned itself into my memory. T
 
 Towards the end of the war, around 30 Jews were executed in Sachsenhausen's gas chamber in Station Z. In total, Sashsenhausen was one of the smallest camps with around 12000 to 18000 prisoners. Visiting this camp felt like the most gentle introduction possible to the darkest chapter in European history—and still, it was utterly harrowing. The bus ride back to Berlin was silent. Heavy. 
 
-Our guide ended the tour with a poem, written by someone who spent eight years imprisoned by the Nazis. As he began reading, I silently thought, *“Oh no, not a poem.”* Poetry has always been my tear trigger—ever since I began writing my own poems. And sure enough, five minutes later I found myself quietly weeping, trying to drown out the silence with loud Bollywood music in my earphones. This experience changed me in ways I could have never imagined. I felt a sudden hatred towards the Nazis coursing through my veins. I don't think I’ve ever felt anger that fiercely before. It made me question my desire to live here, and stirred a deep concern for where the world is heading.
+Our guide ended the tour with a poem, written by someone who spent eight years imprisoned by the Nazis. As he began reading, I silently thought, *“Oh no, not a poem.”* Poetry has always been my tear trigger—ever since I began writing my own poems.[^1] And sure enough, five minutes later I found myself quietly weeping, trying to drown out the silence with loud Bollywood music in my earphones. This experience changed me in ways I could have never imagined. I felt a sudden hatred towards the Nazis coursing through my veins. I don't think I’ve ever felt anger that fiercely before. It made me question my desire to live here, and stirred a deep concern for where the world is heading.
 
 So, in the same spirit our guide ended the tour, I’ll end this post with the poem written by [Martin Niemöller](https://en.wikipedia.org/wiki/Martin_Niem%C3%B6ller) that brought me to tears:
 
@@ -91,3 +91,5 @@ So, in the same spirit our guide ended the tour, I’ll end this post with the p
 	<em>Then they came for me—<br/>
 	And there was no one left to speak out for me.</em><br/>
 </p>
+
+[^1]: **For those interested in poetry, [here](/personal/#antique) is a poem I wrote about the pain hidden behind the beauty of German towns**

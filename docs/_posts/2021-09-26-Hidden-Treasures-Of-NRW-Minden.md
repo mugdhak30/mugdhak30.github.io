@@ -48,4 +48,6 @@ The oddly beautiful architecture of the cathedrals and old houses managed to dis
 ![](/images/Minden4.jpg){:width="400" height="858" style="padding:40px"} 
 {:refdef}
 
-Exploring Minden in all its elegance despite its heartbreaking history was the inspiration behind writing this blog. The emotions that this unfamiliar place evoked in an outsider like me deserve to be written about, talked about and more importantly, shared. Germans born after "the Holocaust" have suffered a lot due to the sins of their ancestors, but they know how to immortalize that history and make sure it never repeats, and Minden is a prime example of that.
+Exploring Minden in all its elegance despite its heartbreaking history was the inspiration behind writing this blog. The emotions that this unfamiliar place evoked in an outsider like me deserve to be written about, talked about and more importantly, shared.[^1] Germans born after "the Holocaust" have suffered a lot due to the sins of their ancestors, but they know how to immortalize that history and make sure it never repeats, and Minden is a prime example of that.
+
+[^1]: **For those interested in poetry, [here](/personal/#antique) is a poem I wrote about the pain hidden behind the beauty of German towns**
