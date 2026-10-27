@@ -3,6 +3,9 @@ layout: archive
 title:  "Pacific Northwest"
 author_profile: true
 tags: USA
+description: "A heartfelt reunion amidst the gorgeous gifts of nature."
+header:
+  teaser: /images/teasers/PacificNW10.jpg
 ---
 Intro. Reunion
 
