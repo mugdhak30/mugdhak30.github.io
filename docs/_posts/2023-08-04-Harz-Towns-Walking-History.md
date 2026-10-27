@@ -33,7 +33,7 @@ Despite being in such a historical place, I have no shame in admitting that I di
 ![](/images/Harz8.jpg){:width="400" height="889" style="padding:20px"}
 {:refdef}
 
-Aimlessly walking through the town has one advantage: you have no idea what you're about to see next. So, when the narrow streets took us to the canals of Goslar, nostalgia hit me harder than I could have imagined. We had our very own little [Amsterdam](https://mugdhak30.github.io/Amsterdam-Sunshine/) tucked in the Harz mountains, with lesser crowd and the prettiest houses as company! I said goodbye to Goslar in a few hours, not having thought it would warm my heart so much. Special thanks to the German shopkeeper who chatted with me about my hometown (Mumbai) and complimented me on my German fluency. It only takes so much to make an expat's day :) 
+Aimlessly walking through the town has one advantage: you have no idea what you're about to see next. So, when the narrow streets took us to the canals of Goslar, nostalgia hit me harder than I could have imagined. We had our very own little [Amsterdam](https://mugdhakhedkar.com/Amsterdam-Sunshine/) tucked in the Harz mountains, with lesser crowd and the prettiest houses as company! I said goodbye to Goslar in a few hours, not having thought it would warm my heart so much. Special thanks to the German shopkeeper who chatted with me about my hometown (Mumbai) and complimented me on my German fluency. It only takes so much to make an expat's day :) 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Harz7.jpg){:width="400" height="889" style="padding:20px"}

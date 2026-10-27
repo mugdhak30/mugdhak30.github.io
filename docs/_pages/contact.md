@@ -12,4 +12,4 @@ author_profile: true
 
 {% include contact-rows.html %}
 
-For students seeking a thesis topic, organizational information [here](https://mugdhak30.github.io/info_for_students/) might interest you.
+For students seeking a thesis topic, organizational information [here](https://mugdhakhedkar.com/info_for_students/) might interest you.

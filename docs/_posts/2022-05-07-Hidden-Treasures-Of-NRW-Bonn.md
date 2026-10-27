@@ -8,7 +8,7 @@ header:
   teaser: /images/teasers/Bonn7.jpg
 ---
 
-Now that the weather is finally getting better, I am back to exploring towns in my state (North-Rhine Westphalia). My friend from [Aachen](https://mugdhak30.github.io/Hidden-Treasures-Of-NRW-Aachen/) and I wanted to catch up but were both too lazy to travel to each other's towns! We live on the opposite ends of the state. We took this opportunity to visit a new town, and we could spend a relaxing weekend along the banks of Rhine river.
+Now that the weather is finally getting better, I am back to exploring towns in my state (North-Rhine Westphalia). My friend from [Aachen](https://mugdhakhedkar.com/Hidden-Treasures-Of-NRW-Aachen/) and I wanted to catch up but were both too lazy to travel to each other's towns! We live on the opposite ends of the state. We took this opportunity to visit a new town, and we could spend a relaxing weekend along the banks of Rhine river.
 
 Situated along the banks of [Rhine](https://en.wikipedia.org/wiki/Rhine) is a very interesting town called [Bonn](https://en.wikipedia.org/wiki/Bonn). It was the capital of West Germany up to 1990. The University of Bonn is one of the largest universities in Germany. Bonn is also well known to have some of the best cherry blossoms[^1] in Germany. These blossoms put on a magnificient display for tourists in the second week of April. While we knew we were a little late to the party, it turns out that the afterparty wasn't half bad! We were just in time to say a final goodbye to the blossoms, promising each other that we will meet here again next year (hopefully during the peak season). 
 
@@ -68,4 +68,4 @@ After finishing the most important part of my visit (the Haribo store, yes), we 
 
 My friend Apeksha and I never spent so much time together when we studied together in Pune. We coincidentally ended up in the same state so far away from home, and she slowly became my go-to person in this beautiful (but strange) country we now call our home. We ended our short trip with a bagful of memories, a very full heart and a promise to visit this quaint town again in the next cherry blossom season.
 
-[^1]: **Cherry blossoms also brightened the streets of Paderborn! You can find some photos [here](https://mugdhak30.github.io/photos_of_paderborn/)**
+[^1]: **Cherry blossoms also brightened the streets of Paderborn! You can find some photos [here](https://mugdhakhedkar.com/photos_of_paderborn/)**

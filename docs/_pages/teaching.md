@@ -52,7 +52,7 @@ I have supervised the following Master theses:
 <li><time datetime="2023-01">Jan 2023</time><span>Qualitative Study of Data Flow Analysis Frameworks: IFDS, IDE and VASCO</span></li>
 </ul>
 
-For students seeking a thesis topic, organizational information [on my webpage](https://mugdhak30.github.io/info_for_students/) and on the [SSE webpage](https://www.hni.uni-paderborn.de/en/sse/teaching/bachelors-masters-theses) might interest you.
+For students seeking a thesis topic, organizational information [on my webpage](https://mugdhakhedkar.com/info_for_students/) and on the [SSE webpage](https://www.hni.uni-paderborn.de/en/sse/teaching/bachelors-masters-theses) might interest you.
 
 ## Seminar Supervision
 

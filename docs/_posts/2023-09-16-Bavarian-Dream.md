@@ -11,7 +11,7 @@ header:
 
 After constant rain in June and July, a much awaited August finally graced us with some rays of sunshine. With clear skies and comfortable temperatures, summer days are perfect to explore Europe. So our first summer trip of the year took us to Bavaria, which is known for its beautiful hiking trails and crystal clear Alpine lakes.
 
-Europe has so many attractive cultural and historical sites that I often forget to appreciate its natural gems. When we visited Bavaria for [a day last year](https://mugdhak30.github.io/The-Deutche-Experience-2/), we had spent all of our time attending the Oktoberfest and exploring Munich and I knew that we had missed experiencing the real beauty of Bavaria. This time we wanted to live the true Bavarian dream, so we skipped the cities and decided to live in a small town near the Austrian border, [Garmisch Partenkirchen](https://en.wikipedia.org/wiki/Garmisch-Partenkirchen). 
+Europe has so many attractive cultural and historical sites that I often forget to appreciate its natural gems. When we visited Bavaria for [a day last year](https://mugdhakhedkar.com/The-Deutche-Experience-2/), we had spent all of our time attending the Oktoberfest and exploring Munich and I knew that we had missed experiencing the real beauty of Bavaria. This time we wanted to live the true Bavarian dream, so we skipped the cities and decided to live in a small town near the Austrian border, [Garmisch Partenkirchen](https://en.wikipedia.org/wiki/Garmisch-Partenkirchen). 
 
 We began our trip with a beautiful hike along the mountain stream, the Partnach. The view of the stream rushing along the mountains took me back to my family trips to Sikkim (India), where we fell in love with the beautiful [Teesta river](https://en.wikipedia.org/wiki/Teesta_River).
 
@@ -52,7 +52,7 @@ The cable car from Eibsee holds the world record for the longest freespan in a c
 *Left to Right: Highest point in Germany, the Austrian side of Zugspitze*
 {: refdef}
 
-The summit offered a beautiful panaromic view of hundreds of mountains in the Northern Alps and the Eibsee. While the foot of the mountain had sweltering heat, the summit had fresh sunshine and cool breeze. The mountain views reminded me of our family trips to [Ladakh (India)](https://mugdhak30.github.io/Ladakh-Little-Tibet/), and it felt like I was back in the Himalayas (sans the biting cold)! We explored some glaciers and then took a beautiful cogwheel train back to Garmisch. 
+The summit offered a beautiful panaromic view of hundreds of mountains in the Northern Alps and the Eibsee. While the foot of the mountain had sweltering heat, the summit had fresh sunshine and cool breeze. The mountain views reminded me of our family trips to [Ladakh (India)](https://mugdhakhedkar.com/Ladakh-Little-Tibet/), and it felt like I was back in the Himalayas (sans the biting cold)! We explored some glaciers and then took a beautiful cogwheel train back to Garmisch. 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Bavaria10.jpg){:width="750" height="338" style="padding:20px"}

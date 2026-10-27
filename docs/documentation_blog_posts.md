@@ -24,7 +24,7 @@ _posts/2026-11-15-Pacific-Northwest.md
 ```
 
 - **The date** decides the year group on the blog index and the "November 2026" on the card.
-- **The part after the date** becomes the address: `mugdhak30.github.io/Pacific-Northwest/`. Use hyphens, no spaces, and don't change it after publishing, or old links break.
+- **The part after the date** becomes the address: `mugdhakhedkar.com/Pacific-Northwest/`. Use hyphens, no spaces, and don't change it after publishing, or old links break.
 
 **Not ready to publish?** Put the file in `_drafts/` instead, without a date in the name, e.g. `_drafts/Pacific-Northwest.md`. Drafts don't appear on the site. Preview them with `bundle exec jekyll serve --drafts`, and move the file into `_posts/` with a date when it's finished.
 

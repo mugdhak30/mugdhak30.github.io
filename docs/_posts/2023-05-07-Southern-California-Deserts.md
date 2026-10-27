@@ -7,7 +7,7 @@ description: "My first U.S. National Park: Joshua trees, rocky landscapes from a
 header:
   teaser: /images/teasers/JNTP2.jpg
 ---
-My first time visiting a National Park in the U.S. was very memorable, in more ways than one. Our [stargazing experience](https://mugdhak30.github.io/Joshua-Tree-Stargazing/) lit up our nights, but the days were equally bright and had many surprises in store for us!
+My first time visiting a National Park in the U.S. was very memorable, in more ways than one. Our [stargazing experience](https://mugdhakhedkar.com/Joshua-Tree-Stargazing/) lit up our nights, but the days were equally bright and had many surprises in store for us!
 
 After I landed in the U.S. for the first time last year, my mother had asked me if everything in the U.S. seems as large and spacious as people have described. And that day I said no. While I still do not understand the fascination many people have with the U.S., I am slowly beginning to see how vast and large this country is. So yes Aai (mother), a lot of the countryside landscape in the U.S. is very spacious, quite literally out of the world. 
 
@@ -51,7 +51,7 @@ We spent the rest of the day hiking along the Mojave Desert and explored more ro
 ![](/images/JNTP7.jpg){:width="750" height="338" style="padding:20px"} 
 {:refdef}
 
-We ended the day with some bucket list stargazing, and began the next day driving through the [Colorado desert](https://en.wikipedia.org/wiki/Colorado_Desert). This desert was not too rocky, and had [Ocotillo](https://www.nps.gov/articles/the-unusual-ocotillo.htm) and [Cholla cacti](https://www.nps.gov/jotr/learn/nature/cacti.htm) instead of Joshua trees. This desert  bore a shocking resemblance to [Ladakh (India)](https://mugdhak30.github.io/Ladakh-Little-Tibet/), the place that made me fall in love with traveling! We decided to skip hiking, because the desert was getting hotter by the hour. Although we did not spend much time here, it was heartwarming to see the Ocotillo and cacti bloom with beautiful little flowers. We found spring where we least expected it: in this beautiful wonderland!
+We ended the day with some bucket list stargazing, and began the next day driving through the [Colorado desert](https://en.wikipedia.org/wiki/Colorado_Desert). This desert was not too rocky, and had [Ocotillo](https://www.nps.gov/articles/the-unusual-ocotillo.htm) and [Cholla cacti](https://www.nps.gov/jotr/learn/nature/cacti.htm) instead of Joshua trees. This desert  bore a shocking resemblance to [Ladakh (India)](https://mugdhakhedkar.com/Ladakh-Little-Tibet/), the place that made me fall in love with traveling! We decided to skip hiking, because the desert was getting hotter by the hour. Although we did not spend much time here, it was heartwarming to see the Ocotillo and cacti bloom with beautiful little flowers. We found spring where we least expected it: in this beautiful wonderland!
 
 {:refdef: style="text-align: center;"}
 ![](/images/JNTP12.jpg){:width="400" height="889" style="padding:20px"}

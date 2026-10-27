@@ -33,7 +33,7 @@ The [Aachen Cathedral](https://www.aachen-tourismus.de/en/discover/sights/aachen
 *Aachen Cathedral*
 {: refdef}
 
-On one of my visits to the city centre, I noticed a hot water spring, Eisenbrunnen. As I dipped my freezing hands in the hot sulfurous water, I remembered my [blog post about Bad Lippspringe](https://mugdhak30.github.io/Hidden-Treasures-Of-NRW-Bad-Lippspringe/). [Wikipedia](https://en.wikipedia.org/wiki/Aachen) gave me some fascinating information: Aachen is a spa city and has been officially certified as "Bad Aachen", but declines to use the prefix so it remains on the top of alphabetical lists. I almost laughed out loud at this, and wondered if Aachen is Germany's "Sharmaji ka beta", always at the top :P
+On one of my visits to the city centre, I noticed a hot water spring, Eisenbrunnen. As I dipped my freezing hands in the hot sulfurous water, I remembered my [blog post about Bad Lippspringe](https://mugdhakhedkar.com/Hidden-Treasures-Of-NRW-Bad-Lippspringe/). [Wikipedia](https://en.wikipedia.org/wiki/Aachen) gave me some fascinating information: Aachen is a spa city and has been officially certified as "Bad Aachen", but declines to use the prefix so it remains on the top of alphabetical lists. I almost laughed out loud at this, and wondered if Aachen is Germany's "Sharmaji ka beta", always at the top :P
 
 {:refdef: style="text-align: center;"}
 ![](/images/Aachen7.jpg){:width="750" height="338" style="padding:20px"}
@@ -42,7 +42,7 @@ On one of my visits to the city centre, I noticed a hot water spring, Eisenbrunn
 *Elisenbrunnen*
 {: refdef}
 
-When I searched online for things to see and do in Aachen, I stumbled upon something interesting and just had to go check it out! I had mentioned [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein) in my [previous blog post](https://mugdhak30.github.io/Hidden-Treasures-Of-NRW-Minden/) and I saw them in Aachen too. 
+When I searched online for things to see and do in Aachen, I stumbled upon something interesting and just had to go check it out! I had mentioned [Stolperstein](https://en.wikipedia.org/wiki/Stolperstein) in my [previous blog post](https://mugdhakhedkar.com/Hidden-Treasures-Of-NRW-Minden/) and I saw them in Aachen too. 
 
 {:refdef: style="text-align: center;"}
 ![](/images/Aachen12.jpg){:width="500" height="626"}

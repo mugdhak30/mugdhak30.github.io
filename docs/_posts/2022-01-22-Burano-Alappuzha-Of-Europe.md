@@ -7,7 +7,7 @@ description: "A foggy winter boat ride to colorful houses, quiet canals and a le
 header:
   teaser: /images/teasers/Burano2.jpg
 ---
-My friend and I celebrated Christmas by touring northern Italy together. I loved the trip, and there is one specific place I grew particularly attached to. Exactly two years after my trip to Alappuzha (I have written about it [here](https://mugdhak30.github.io/Alappuzha-Venice-of-the-East/)), I found it in an island in Italy: a little island "Burano" that is tucked away in a corner even as Venice tries to stay afloat on all its grandeur.
+My friend and I celebrated Christmas by touring northern Italy together. I loved the trip, and there is one specific place I grew particularly attached to. Exactly two years after my trip to Alappuzha (I have written about it [here](https://mugdhakhedkar.com/Alappuzha-Venice-of-the-East/)), I found it in an island in Italy: a little island "Burano" that is tucked away in a corner even as Venice tries to stay afloat on all its grandeur.
 
 [Burano](https://www.isoladiburano.it/en/) is an island in the Venetian lagoon and is about a 45 minutes long boat ride from Venice. We travelled to Burano on a very dull, freezing day. The boat ride was extremely foggy and we thought this weather was our punishment for planning a trip to Italy in winter. As we reached Burano, the fog cleared up but the grey skies remained. The skies desperately needed some color to feel alive; and there it was: in the little lanes of Burano. 
 

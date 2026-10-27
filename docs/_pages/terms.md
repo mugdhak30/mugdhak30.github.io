@@ -3,7 +3,7 @@ layout: archive
 permalink: /privacy/
 title: ""
 seo_title: "Privacy Policy"
-description: "Privacy policy for mugdhak30.github.io."
+description: "Privacy policy for mugdhakhedkar.com."
 author_profile: true
 ---
 

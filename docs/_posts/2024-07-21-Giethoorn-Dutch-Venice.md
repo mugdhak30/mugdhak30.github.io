@@ -37,7 +37,7 @@ After spending a few days in the busy city of Amsterdam, the fresh, cannabis-fre
 ![](/images/Giethoorn11.jpg){:width="750" height="338" style="padding:20px"}
 {:refdef}
 
-The boat ride was nostalgic, and reminded me of our family trip to [Alappuzha (India)](https://mugdhak30.github.io/Alappuzha-Venice-of-the-East/). It was fascinating to see how different villages look in Europe! Once our boat left the canals of Giethoorn, we were sailing on a beautiful lake. This was the most peaceful I had felt in a little while, and the silence of the lake was a perfect break before heading back to the now bustling village.
+The boat ride was nostalgic, and reminded me of our family trip to [Alappuzha (India)](https://mugdhakhedkar.com/Alappuzha-Venice-of-the-East/). It was fascinating to see how different villages look in Europe! Once our boat left the canals of Giethoorn, we were sailing on a beautiful lake. This was the most peaceful I had felt in a little while, and the silence of the lake was a perfect break before heading back to the now bustling village.
 
 {:refdef: style="text-align: center;"}
 ![](/images/Giethoorn13.jpg){:width="400" height="889" style="padding:20px"}

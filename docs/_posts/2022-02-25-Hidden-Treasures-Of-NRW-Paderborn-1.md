@@ -8,7 +8,7 @@ header:
   teaser: /images/teasers/Paderborn2_4.jpg
 ---
 
-I realised last week how I had taken an immense responsibility on my shoulders, that of talking about something ordinary in an extraordinary way! I was pretty nervous until I realised that no perfect place seems extraordinary unless you make the ordinary come alive. With this ode to Paderborn, I try to celebrate the calm town that is tucked away in the lap of Eggberge Hills. I realised that I have many beautiful photos that ought to be seen. You can find them [here](http://mugdhak30.github.io/photos_of_paderborn/), and I sure hope they do justice to the beauty of Paderborn!
+I realised last week how I had taken an immense responsibility on my shoulders, that of talking about something ordinary in an extraordinary way! I was pretty nervous until I realised that no perfect place seems extraordinary unless you make the ordinary come alive. With this ode to Paderborn, I try to celebrate the calm town that is tucked away in the lap of Eggberge Hills. I realised that I have many beautiful photos that ought to be seen. You can find them [here](https://mugdhakhedkar.com/photos_of_paderborn/), and I sure hope they do justice to the beauty of Paderborn!
 
 Paderborn is extremely ordinary, and quiet. But we often fall in love with the most ordinary things and gestures. I fall in love with "good morning" messages from special people, voice notes and so many other little things done across timezones to express love. There is magic in the ordinary! I still remember the petrichor that mingles with the air in monsoons in India, or the chai and pakoras on a rainy evening! 
 

@@ -121,7 +121,7 @@ I presented our short paper <em>Toward an Android Static Analysis Approach for D
 Our short paper <em>Toward an Android Static Analysis Approach for Data Protection</em> was accepted at [MOBILESoft 2024](https://conf.researchr.org/home/mobilesoft-2024) Research Forum 🎉🎊.
 </div></li>
 <li><span class="dated-when">Oct 2023</span><div markdown="1">
-I participated in the [Dagstuhl Research Methods Seminar 2023](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23433) 🇩🇪. I have shared my experience [here](https://mugdhak30.github.io/Schloss-Dagstuhl/).
+I participated in the [Dagstuhl Research Methods Seminar 2023](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23433) 🇩🇪. I have shared my experience [here](https://mugdhakhedkar.com/Schloss-Dagstuhl/).
 </div></li>
 <li><span class="dated-when">May 2023</span><div markdown="1">
 I gave a talk titled "Security and Privacy by Design" at Get to Know HNI 2023, Universität Paderborn.
