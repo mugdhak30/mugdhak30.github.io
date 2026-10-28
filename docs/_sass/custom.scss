@@ -204,7 +204,7 @@
   letter-spacing: 0.05em;
 }
 
-/* CV (/cv/): dates in a left column, matching the publication and talk lists */
+/* CV (/cv/): work and education as a timeline down the left */
 
 .cv-head {
   display: flex;
@@ -232,42 +232,64 @@
   &:hover { border-color: $info-color; }
 }
 
-.cv-item {
-  display: grid;
-  grid-template-columns: 8.5em 1fr;
-  column-gap: 1.25em;
+.cv-subtitle {
+  margin: -0.4em 0 0.75em;
+  font-size: 0.95em;
+  font-style: italic;
+  color: $gray;
+}
 
-  @media (max-width: 560px) {
-    grid-template-columns: 1fr;
+/* One line down the left, a dot per entry; the newest entry's dot is filled */
+.cv-timeline {
+  position: relative;
+  padding-left: 1.75em;
 
-    & + & { border-top: 1px solid $border-color; }
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0.4em;
+    bottom: 0.4em;
+    left: 6px;
+    width: 2px;
+    background: mix(#fff, $gray, 78%);
   }
+}
+
+.cv-item {
+  position: relative;
+  padding: 0.55em 0 0.9em;
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0.95em;
+    left: calc(-1.75em + 1px);
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: $background-color;
+    border: 2px solid $info-color;
+  }
+
+  &:first-child::after { background: $info-color; }
 }
 
 .cv-date {
-  padding-top: 0.9em;
-  font-size: 0.9em;
+  font-size: 0.85em;
   font-weight: 700;
-  color: $gray;
+  color: mix(#000, $info-color, 15%);
   font-variant-numeric: tabular-nums;
-  white-space: nowrap;
 }
 
 .cv-body {
-  border-left: 1px solid $border-color;
-  padding: 0.75em 0 0.9em 1.25em;
-
-  .cv-item + .cv-item & { border-top: 1px solid $border-color; }
-
-  @media (max-width: 560px) {
-    border-left: 0;
-    padding-left: 0;
-    padding-top: 0.1em;
-
-    .cv-item + .cv-item & { border-top: 0; }
-  }
+  min-width: 0;
 
   p { margin: 0; }
+}
+
+.cv-summary {
+  max-width: 40em;
+  margin-bottom: 0.5em;
 }
 
 .cv-title {
@@ -994,10 +1016,13 @@ html[data-theme="dark"] {
   .svc-role { color: #9aa1a6; }
   .pub-me { color: #fff; }
   .talk-stops time, .talk-co { color: #9aa1a6; }
-  .cv-date, .cv-detail, .cv-label, .cv-provider { color: #9aa1a6; }
+  .cv-detail, .cv-label, .cv-provider, .cv-subtitle { color: #9aa1a6; }
+  .cv-date { color: lighten($info-color, 12%); }
   .cv-detail strong { color: #d8d8d8; }
-  .cv-body, .cv-sub, .cv-item, .cv-detail-sub { border-color: #2e3133; }
-
+  .cv-sub, .cv-detail-sub { border-color: #2e3133; }
+  .cv-timeline::before { background: #2e3133; }
+  .cv-item::after { background: #121212; }
+  .cv-item:first-child::after { background: $info-color; }
   .term-tags span { background: #1a1c1d; border-color: #2e3133; color: #9aa1a6; }
   .dated-rows li, .quote-block { border-color: #2e3133; }
   .dated-rows time, .dated-rows .dated-when, .dated-label, .quote-block footer { color: #9aa1a6; }
