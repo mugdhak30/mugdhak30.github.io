@@ -3,7 +3,7 @@ layout: archive
 title:  "Cayucos: Sunsets and Small-Town Charm"
 author_profile: true
 tags: USA
-description: "When the flu canceled our New Mexico trip, we chased elephant seals and sunsets along California's Central Coast instead."
+description: "When the flu canceled our New Mexico trip, we chased elephant seals and sunsets along California's Central Coast."
 header:
   teaser: /images/teasers/Cayucos12.jpg
 ---
