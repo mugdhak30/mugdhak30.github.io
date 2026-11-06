@@ -14,7 +14,7 @@ The last few weeks have been amazing. I got to live my favorite life: of jet lag
 
 Less than a week into my trip, I missed the countryside landscape, the half-timbered houses and the German bakeries. Thankfully, I had planned this trip keeping in mind my interest of exploring quaint towns as compared to big cities (I did go to SF later, but explored some little towns first). Some photos in this post have been clicked by my partner. Thanks Rahul for letting me borrow them :)
 
-My first experience of California countryside was our visit to [Carmel-by-the-Sea](https://www.carmelcalifornia.com/). It is a small beach town around 95 miles away from where I am staying (miles, a reminder that we're in the US now :P). It is known for several unusual laws, like prohibition on wearing high heel shoes without permit (to prevent lawsuits arising from tripping accidents caused by irregular pavement[^1]) :o
+My first experience of California countryside was our visit to [Carmel-by-the-Sea](https://www.carmelcalifornia.com/). It is a small beach town around 95 miles away from where I am staying (miles, a reminder that we're in the U.S. now :P). It is known for several unusual laws, like prohibition on wearing high heel shoes without permit (to prevent lawsuits arising from tripping accidents caused by irregular pavement[^1]) :o
 
 We started our day with a walk on the Carmel beach. This is one of the lesser-known beaches on this coast, and it was very quiet and clean. One of the first things I noticed about Carmel was that it was very dog-friendly and a trip to the Carmel beach was heaven for a dog-lover. The lanes along the beach had a string of beautiful little cottages which assured me that we had chosen a beautiful European style town to explore. 
 
@@ -49,7 +49,7 @@ We stayed at the Pebble beach till the ocean gulped down the sun. I was still ge
 *Sunset at Pebble Beach*
 {: refdef}
 
-You may be wondering why I call Carmel the "Europe of California"! The next morning we explored the little town and I felt like I was in a quaint little town of Europe. The bakeries were as amazing as European bakeries (those who have lived in Europe know that this is a huge compliment). We explored these beautiful lanes with artistic houses on foot and admired the beautiful architecture all around. This is the trip where I transitioned from looking for India in Europe to looking for Europe in the US, and I found it in this beautiful little place curled up alongside the largest ocean in the world!
+You may be wondering why I call Carmel the "Europe of California"! The next morning we explored the little town and I felt like I was in a quaint little town of Europe. The bakeries were as amazing as European bakeries (those who have lived in Europe know that this is a huge compliment). We explored these beautiful lanes with artistic houses on foot and admired the beautiful architecture all around. This is the trip where I transitioned from looking for India in Europe to looking for Europe in the U.S., and I found it in this beautiful little place curled up alongside the largest ocean in the world!
 
 {:refdef: style="text-align: center;"}
 ![](/images/Carmel_4.jpg){:width="400" height="888" style="padding:40px"}

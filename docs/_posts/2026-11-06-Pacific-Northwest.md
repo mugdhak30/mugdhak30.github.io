@@ -8,7 +8,7 @@ header:
   teaser: /images/teasers/PacificNW10.jpg
 ---
 
-2026 has been a year full of milestones. After my husband defended his Ph.D. and I submitted my Ph.D. thesis, we both decided to take a little break. Before we left the U.S., I wanted to go meet my best friend who lives in Seattle. So, over the Memorial Day weekend, we snuck away to meet some friendly faces.
+2026 has been a year full of milestones. After my husband defended his PhD and I submitted my PhD thesis, we both decided to take a little break. Before we left the U.S., I wanted to go meet my best friend who lives in Seattle. So, over the Memorial Day weekend, we snuck away to meet some friendly faces.
 
 More than the getaway itself, I was looking forward to the reunion. Having grown up together and gotten married just a week apart, my friend and I have led very parallel lives, and I couldn’t wait to see hers up close. Little did I know that, apart from the catch-ups and gossip sessions, she had a very special itinerary planned for my first trip to the Pacific Northwest.
 
