@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mugdha Khedkar"
+title                    : "Dr. Mugdha Khedkar"
 title_separator          : "-"
 name                     : &name "Mugdha Khedkar"
 description              : &description "Mugdha Khedkar builds static analysis tools that help Android apps comply with the GDPR, bridging developers and privacy experts. PhD, Paderborn University."
