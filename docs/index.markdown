@@ -10,7 +10,7 @@ author_profile: false
 ![](images/dagstuhl.jpg){:width="250"}
 {:refdef}
 
-Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.getElementById('nameAudio').play(); return false;" title="Play pronunciation">🔊</a>).</small><audio id="nameAudio"><source src="{{ '/assets/audio/mugdha-khedkar.mp3' | relative_url }}" type="audio/mpeg"></audio> I am a Research Associate at [Heinz Nixdorf Institut](https://www.hni.uni-paderborn.de/) at Paderborn University, Germany. I recently completed my PhD under the supervision of [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/). 
+Hi! I am Mugdha Khedkar <small>(pronunciation: <a href="#" onclick="document.getElementById('nameAudio').play(); return false;" title="Play pronunciation">🔊</a>).</small><audio id="nameAudio"><source src="{{ '/assets/audio/mugdha-khedkar.mp3' | relative_url }}" type="audio/mpeg"></audio> I am a Research Associate at [Heinz Nixdorf Institut](https://www.hni.uni-paderborn.de/) at Paderborn University, Germany. I recently completed my Doctorate _(Dr. rer. nat.)_ under the supervision of [Prof. Dr. Eric Bodden](https://www.bodden.de/) in the [Secure Software Engineering group](https://www.hni.uni-paderborn.de/sse/). 
 
 My research lies at the intersection of program analysis and data privacy. I build static analysis tools that help Android apps comply with the GDPR, and I study how developers, privacy experts and legal professionals can collaborate more effectively on privacy assessments. My goal is privacy tooling that is accurate and also genuinely useful to the people responsible for protecting user data.
 
