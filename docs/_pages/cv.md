@@ -14,7 +14,7 @@ redirect_from:
 <a class="cv-button" href="{{ '/assets/MK_Resume.pdf' | relative_url }}">Full CV (PDF)</a>
 </div>
 
-<p class="cv-summary">I am a Research Associate in Secure Software Engineering at Paderborn University, where I completed my PhD in 2026. My research combines static program analysis with data privacy. Before that, I did my M.Sc. at Chennai Mathematical Institute and research stints at IIT Bombay and IISc Bangalore.</p>
+<p class="cv-summary">I am a Research Associate in Secure Software Engineering at Paderborn University, where I completed my Doctorate (Dr. rer. nat.) in 2026. My research combines static program analysis with data privacy. Before that, I did my M.Sc. at Chennai Mathematical Institute and research stints at IIT Bombay and IISc Bangalore.</p>
 
 ## Work Experience
 <p class="cv-subtitle">Where I worked and what I did</p>
