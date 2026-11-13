@@ -8,8 +8,14 @@
 
 {% comment %} seo_title names a page whose title is left empty to hide its heading {% endcomment %}
 {% assign page_title = page.seo_title | default: page.title %}
+{% comment %} Blog posts carry the plain name in the tab; every other page keeps site.title {% endcomment %}
+{% if page.collection == "posts" %}
+  {% assign title_suffix = site.name %}
+{% else %}
+  {% assign title_suffix = site.title %}
+{% endif %}
 {% if page_title and page_title != "" %}
-  {% assign seo_title = page_title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+  {% assign seo_title = page_title | append: " " | append: site.title_separator | append: " " | append: title_suffix %}
 {% endif %}
 
 {% if seo_title %}
