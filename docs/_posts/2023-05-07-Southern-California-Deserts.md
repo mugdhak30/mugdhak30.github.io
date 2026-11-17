@@ -3,6 +3,7 @@ layout: archive
 title:  "Southern California: Spring in the Deserts"
 author_profile: true
 tags: USA
+places: [joshua-tree]
 description: "My first U.S. National Park: Joshua trees, rocky landscapes from another planet, and two deserts in one park."
 header:
   teaser: /images/teasers/JNTP2.jpg

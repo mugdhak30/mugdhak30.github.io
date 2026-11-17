@@ -1,0 +1,87 @@
+# Places shown on the maps on /talks/ and /year-archive/.
+#
+# Each key is a short id. Use it in:
+#   - a talk stop in _data/talks.yml          (place: lisbon)
+#   - a poster in _data/posters.yml           (place: melbourne)
+#   - a blog post's front matter              (places: [lisbon])
+#
+# Only list places that one of those uses: this file is public on GitHub.
+#
+#   name: shown on the map and in lists
+#   cc:   two-letter country code, see _data/countries.yml
+#   lat / lng: decimal coordinates (right-click a spot in Google Maps to copy them)
+
+# Germany
+paderborn:      { name: "Paderborn", cc: DE, lat: 51.719, lng: 8.754 }
+bochum:         { name: "Bochum", cc: DE, lat: 51.482, lng: 7.216 }
+munich:         { name: "Munich", cc: DE, lat: 48.137, lng: 11.575 }
+potsdam:        { name: "Potsdam", cc: DE, lat: 52.391, lng: 13.064 }
+berlin:         { name: "Berlin", cc: DE, lat: 52.520, lng: 13.405 }
+sachsenhausen:  { name: "Sachsenhausen", cc: DE, lat: 52.766, lng: 13.264 }
+dagstuhl:       { name: "Schloss Dagstuhl", cc: DE, lat: 49.413, lng: 6.841 }
+bielefeld:      { name: "Bielefeld", cc: DE, lat: 52.021, lng: 8.535 }
+minden:         { name: "Minden", cc: DE, lat: 52.289, lng: 8.917 }
+bad-lippspringe: { name: "Bad Lippspringe", cc: DE, lat: 51.782, lng: 8.817 }
+detmold:        { name: "Detmold", cc: DE, lat: 51.936, lng: 8.878 }
+externsteine:   { name: "Externsteine", cc: DE, lat: 51.869, lng: 8.917 }
+heidelberg:     { name: "Heidelberg", cc: DE, lat: 49.399, lng: 8.672 }
+aachen:         { name: "Aachen", cc: DE, lat: 50.776, lng: 6.084 }
+monschau:       { name: "Monschau", cc: DE, lat: 50.555, lng: 6.240 }
+bonn:           { name: "Bonn", cc: DE, lat: 50.737, lng: 7.098 }
+herford:        { name: "Herford", cc: DE, lat: 52.115, lng: 8.673 }
+goslar:         { name: "Goslar", cc: DE, lat: 51.906, lng: 10.428 }
+quedlinburg:    { name: "Quedlinburg", cc: DE, lat: 51.789, lng: 11.147 }
+garmisch:       { name: "Garmisch-Partenkirchen", cc: DE, lat: 47.492, lng: 11.096 }
+dortmund:       { name: "Dortmund", cc: DE, lat: 51.514, lng: 7.468 }
+
+# Rest of Europe
+vienna:         { name: "Vienna", cc: AT, lat: 48.208, lng: 16.373 }
+copenhagen:     { name: "Copenhagen", cc: DK, lat: 55.676, lng: 12.568 }
+helsingor:      { name: "Helsingør", cc: DK, lat: 56.036, lng: 12.613 }
+lisbon:         { name: "Lisbon", cc: PT, lat: 38.722, lng: -9.139 }
+brussels:       { name: "Brussels", cc: BE, lat: 50.850, lng: 4.352 }
+bruges:         { name: "Bruges", cc: BE, lat: 51.209, lng: 3.225 }
+limassol:       { name: "Limassol", cc: CY, lat: 34.684, lng: 33.044 }
+budapest:       { name: "Budapest", cc: HU, lat: 47.498, lng: 19.040 }
+bratislava:     { name: "Bratislava", cc: SK, lat: 48.148, lng: 17.107 }
+burano:         { name: "Burano", cc: IT, lat: 45.485, lng: 12.417 }
+florence:       { name: "Florence", cc: IT, lat: 43.770, lng: 11.256 }
+paris:          { name: "Paris", cc: FR, lat: 48.857, lng: 2.352 }
+amsterdam:      { name: "Amsterdam", cc: NL, lat: 52.370, lng: 4.895 }
+giethoorn:      { name: "Giethoorn", cc: NL, lat: 52.740, lng: 6.077 }
+prague:         { name: "Prague", cc: CZ, lat: 50.088, lng: 14.420 }
+zadar:          { name: "Zadar", cc: HR, lat: 44.119, lng: 15.231 }
+andermatt:      { name: "Andermatt (Glacier Express)", cc: CH, lat: 46.635, lng: 8.594 }
+zermatt:        { name: "Zermatt", cc: CH, lat: 46.020, lng: 7.749 }
+helsingborg:    { name: "Helsingborg", cc: SE, lat: 56.046, lng: 12.694 }
+
+# United States
+davis:          { name: "Davis", cc: US, lat: 38.545, lng: -121.740 }
+sacramento:     { name: "Sacramento", cc: US, lat: 38.581, lng: -121.494 }
+santa-clara:    { name: "Santa Clara", cc: US, lat: 37.354, lng: -121.955 }
+carmel:         { name: "Carmel-by-the-Sea", cc: US, lat: 36.555, lng: -121.923 }
+monterey:       { name: "Monterey Bay", cc: US, lat: 36.600, lng: -121.894 }
+santa-cruz:     { name: "Santa Cruz", cc: US, lat: 36.974, lng: -122.031 }
+carmel-valley:  { name: "Carmel Valley", cc: US, lat: 36.480, lng: -121.732 }
+cayucos:        { name: "Cayucos", cc: US, lat: 35.443, lng: -120.892 }
+pismo-beach:    { name: "Pismo Beach", cc: US, lat: 35.143, lng: -120.641 }
+redwoods:       { name: "Redwood Coast", cc: US, lat: 41.213, lng: -124.005 }
+shasta:         { name: "Shasta region", cc: US, lat: 40.718, lng: -122.420 }
+joshua-tree:    { name: "Joshua Tree", cc: US, lat: 33.873, lng: -115.901 }
+grand-canyon:   { name: "Grand Canyon", cc: US, lat: 36.107, lng: -112.113 }
+sedona:         { name: "Sedona", cc: US, lat: 34.870, lng: -111.761 }
+flagstaff:      { name: "Flagstaff", cc: US, lat: 35.198, lng: -111.651 }
+seattle:        { name: "Seattle", cc: US, lat: 47.606, lng: -122.332 }
+mt-rainier:     { name: "Mount Rainier", cc: US, lat: 46.853, lng: -121.760 }
+
+# India
+alappuzha:      { name: "Alappuzha", cc: IN, lat: 9.498, lng: 76.339 }
+ladakh:         { name: "Leh, Ladakh", cc: IN, lat: 34.152, lng: 77.577 }
+havelock:       { name: "Havelock Island", cc: IN, lat: 11.966, lng: 92.994 }
+neil:           { name: "Neil Island", cc: IN, lat: 11.832, lng: 93.032 }
+thar:           { name: "Thar Desert", cc: IN, lat: 26.600, lng: 72.400 }
+jodhpur:        { name: "Jodhpur", cc: IN, lat: 26.238, lng: 73.024 }
+
+# Elsewhere
+rio:            { name: "Rio de Janeiro", cc: BR, lat: -22.906, lng: -43.173 }
+melbourne:      { name: "Melbourne", cc: AU, lat: -37.814, lng: 144.963 }

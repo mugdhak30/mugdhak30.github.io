@@ -3,6 +3,7 @@ layout: archive
 title:  "A Tale of Two Cities: Buda and Pest"
 author_profile: true
 tags: Hungary
+places: [budapest]
 description: "A Halloween weekend in Budapest: Buda Castle, Matthias Church and a night cruise past the glowing Parliament."
 header:
   teaser: /images/teasers/Budapest8.jpg

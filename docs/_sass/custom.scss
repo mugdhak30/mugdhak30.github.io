@@ -19,6 +19,7 @@
 .msc-defense { background-color: #eba8ed; }  /* light pink */
 .invited-talk { background-color: #0d9488; }  /* teal */
 .industry-talk { background-color: #ea580c; } /* orange */
+.poster { background-color: #d97706; } /* amber */
 /* ==========================================================================
    Publication list (/research/), rendered from _data/publications.yml
    ========================================================================== */
@@ -1386,3 +1387,94 @@ html[data-theme="dark"] {
   }
 }
 
+
+
+/* ==========================================================================
+   Place maps at the top of /talks/ and the top of /year-archive/,
+   drawn by assets/js/place-map.js (markup: _includes/place-map.html)
+   ========================================================================== */
+
+.place-map {
+  --pm-bg: #fff;
+  --pm-fg: #2f3437;
+  --pm-muted: #6b7378;
+  --pm-line: #e3e6e8;
+  --pm-panel: #f6f8f9;
+  --pm-land: #e4e8ea;
+  --pm-land-stroke: #fff;
+  --pm-visited: #c6dde6;
+  --pm-conf: #2563eb;
+  --pm-invited: #0d9488;
+  --pm-written: #2563eb;
+  margin: 1em 0 2em;
+}
+
+.place-map-bar {
+  display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 0.6em 1.2em; margin-bottom: 0.6em;
+}
+.place-map-stats {
+  display: flex; flex-wrap: wrap; gap: 0.4em 1.8em; font-variant-numeric: tabular-nums;
+
+  div { display: flex; align-items: baseline; gap: 0.35em; }
+  b { font-size: 1.6em; line-height: 1; }
+  span { color: var(--pm-muted); font-size: 0.85em; }
+}
+.place-map-legend {
+  display: flex; flex-wrap: wrap; gap: 0.3em 1em; font-size: 0.75em; color: var(--pm-muted);
+
+  span { display: inline-flex; align-items: center; gap: 0.45em; }
+}
+.place-map-dot { width: 0.7em; height: 0.7em; border-radius: 50%; display: inline-block; flex: none; }
+
+.place-map-canvas {
+  width: 100%; aspect-ratio: 2 / 1; min-height: 220px;
+  border: 1px solid var(--pm-line); border-radius: 0.5em; background: var(--pm-panel);
+  position: relative; overflow: hidden;
+
+  svg { touch-action: none; }
+  .jvm-zoom-btn {
+    position: absolute; right: 10px; width: 22px; height: 22px; line-height: 21px; text-align: center;
+    border-radius: 4px; background: var(--pm-fg); color: var(--pm-bg); cursor: pointer; user-select: none; font-size: 15px;
+  }
+  .jvm-zoomin { top: 10px; }
+  .jvm-zoomout { top: 36px; }
+}
+.jvm-tooltip {
+  position: absolute; display: none; z-index: 20; white-space: nowrap;
+  border-radius: 6px; padding: 0.35em 0.6em; font-size: 0.75em; line-height: 1.4;
+  background: #2f3437; color: #fff; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  &.active { display: block; }
+}
+// On /talks/ the map sits above the list, so it is kept shorter.
+.place-map[data-kind="talks"] .place-map-canvas { aspect-ratio: 3 / 1; min-height: 180px; }
+.place-map-hint { color: var(--pm-muted); font-size: 0.75em; margin: 0.4em 0 1em; }
+
+.place-map-detail {
+  border: 1px solid var(--pm-line); border-radius: 0.5em; padding: 0.8em 1em; font-size: 0.85em;
+
+  ul { list-style: none; margin: 0.5em 0 0; padding: 0; display: grid; gap: 0.45em; }
+  li { display: flex; gap: 0.6em; align-items: baseline; }
+  li > span:last-child { min-width: 0; }
+  .pub-abbr { margin-left: 0; }
+}
+.place-map-detail-head { display: flex; justify-content: space-between; align-items: center; gap: 1em; }
+.place-map-close { font: inherit; font-size: 1.3em; line-height: 1; background: none; border: 0; color: var(--pm-muted); cursor: pointer; }
+.place-map-when {
+  flex: none; font-size: 0.85em; color: var(--pm-muted); font-variant-numeric: tabular-nums; min-width: 5.5em;
+  padding-left: 0.6em; border-left: 3px solid var(--pm-line);
+}
+.place-map-venue { color: var(--pm-muted); }
+
+html[data-theme="dark"] .place-map {
+  --pm-bg: #121212;
+  --pm-fg: #e4e7e9;
+  --pm-muted: #9aa1a6;
+  --pm-line: #2e3133;
+  --pm-panel: #1a1c1d;
+  --pm-land: #2a2e31;
+  --pm-land-stroke: #121212;
+  --pm-visited: #2f4b57;
+  --pm-conf: #60a5fa;
+  --pm-invited: #2dd4bf;
+  --pm-written: #60a5fa;
+}

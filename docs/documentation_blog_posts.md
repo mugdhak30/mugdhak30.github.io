@@ -108,6 +108,7 @@ layout: archive
 title:  "Pacific Northwest: Islands and Evergreens"
 author_profile: true
 tags: USA
+places: [seattle]
 description: "A reunion in Seattle, ferries between islands, and forests that stay green all winter."
 header:
   teaser: /images/teasers/PacificNW3.jpg
@@ -120,6 +121,7 @@ header:
 | `title` | yes | Shown on the post and on the card. |
 | `author_profile` | yes | Always `true`: shows your profile next to the post. |
 | `tags` | yes | The country, in capitals on the card (`USA`, `Germany`). Use one country per post. It also groups the post on `/blogs_by_country/`. Write a name with a space as a list, `tags: ["Czech Republic"]`, or Jekyll splits it into two tags. |
+| `places` | for travel posts | Where the post is set, as ids from `_data/places.yml`, in square brackets: `[seattle]` or `[goslar, quedlinburg]`. Puts the post on the map on `/year-archive/`. Leave it out for posts that aren't about a trip. See `documentation_maps.md`. |
 | `description` | yes | The one-line teaser on the card. See below. |
 | `header.teaser` | yes | The cover from step 4. Indent `teaser:` by two spaces under `header:`. A post without one still appears, just without a photo. |
 
@@ -160,6 +162,7 @@ Commit the post, its photos in `images/` and its cover in `images/teasers/` toge
 - [ ] Cover made with `_scripts/make_cover.py` and checked
 - [ ] Cover photo has alt text in the post: `![What it shows](/images/...)`
 - [ ] Front matter has `title`, `tags`, `description` and `header.teaser`
+- [ ] Travel post: `places:` set, and each place exists in `_data/places.yml`
 - [ ] Description is one sentence and fits on the card without "…"
 - [ ] Previewed on `/year-archive/` and on the post page
 - [ ] Post, photos and cover committed together

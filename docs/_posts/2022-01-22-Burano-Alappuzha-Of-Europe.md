@@ -3,6 +3,7 @@ layout: archive
 title:  "Burano: Alappuzha of Europe"
 author_profile: true
 tags: Italy
+places: [burano]
 description: "A foggy winter boat ride to colorful houses, quiet canals and a leaning tower: Italy's own Alappuzha."
 header:
   teaser: /images/teasers/Burano2.jpg

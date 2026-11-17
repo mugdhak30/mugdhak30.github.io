@@ -3,6 +3,7 @@ layout: archive
 title:  "Harz Towns: Walking through History"
 author_profile: true
 tags: Germany
+places: [goslar, quedlinburg]
 description: "Rain canceled our North Sea plans, so we wandered the fairytale half-timbered towns of the Harz instead."
 header:
   teaser: /images/teasers/Harz2.jpg

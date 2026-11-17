@@ -96,6 +96,7 @@ Open `_data/talks.yml` and add an entry anywhere in the file:
   badge: invited-talk
   stops:
     - venue: "Security Group, University of Somewhere"
+      place: amsterdam
       flag: 🇳🇱
       date: "2026-11"
 ```
@@ -130,6 +131,8 @@ A talk at a conference, with the optional fields:
 | `stops` → `date` | yes | `"YYYY-MM"`, **in quotes**. Shown as "Nov 2026". |
 | `stops` → `url` | no | Turns the venue into a link. |
 | `stops` → `co_label`, `co_url` | no | Adds "· co-located with …" after the venue. `co_url` makes it a link. |
+| `stops` → `place` | no | Where you gave it, as an id from `_data/places.yml`. Puts the talk on the map at the top of `/talks/`. See `documentation_maps.md`. |
+| `stops` → `virtual` | no | `true` for an online talk. Keeps it off the map. |
 
 **Order:** you don't need to think about it. Each talk goes under the year of its most recent date, and talks are sorted newest first. Talks from the same month keep their order in the file.
 

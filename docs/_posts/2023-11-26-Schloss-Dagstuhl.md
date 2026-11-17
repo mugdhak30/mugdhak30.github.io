@@ -3,6 +3,7 @@ layout: archive
 title:  "Schloss Dagstuhl: Best of Both Worlds"
 author_profile: true
 tags: Germany
+places: [dagstuhl]
 description: "Three days living and working in a castle in the forest, with a library of thousands of Computer Science books."
 header:
   teaser: /images/teasers/Dagstuhl12.jpg

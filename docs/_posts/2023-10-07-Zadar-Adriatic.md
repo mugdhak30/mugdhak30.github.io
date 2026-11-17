@@ -3,6 +3,7 @@ layout: archive
 title:  "Zadar: Melodies of the Adriatic"
 author_profile: true
 tags: Croatia
+places: [zadar]
 description: "Three unhurried days in Croatia's oldest city, with sunsets over the Adriatic and the music of the sea organ."
 header:
   teaser: /images/teasers/Zadar15.jpg

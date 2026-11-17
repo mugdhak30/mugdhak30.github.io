@@ -3,6 +3,7 @@ layout: archive
 title:  "Neil Island: A Blanket of Dreams"
 author_profile: true
 tags: India
+places: [neil]
 description: "Hypnotically blue water, a glass-bottom boat, a hunt for glowing waves and a sunrise worth the wait."
 header:
   teaser: /images/teasers/Neil14.jpg

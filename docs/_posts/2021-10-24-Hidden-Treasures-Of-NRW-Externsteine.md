@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: the Externsteine"
 author_profile: true
 tags: Germany
+places: [externsteine]
 description: "Ice Age sandstone pillars in the Teutoburg Forest, and the forest trail where Google Maps abandoned me."
 header:
   teaser: /images/teasers/Externsteine_4.jpg

@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Detmold (1/2)"
 author_profile: true
 tags: Germany
+places: [detmold]
 description: "A princely palace, a canal with Amsterdam vibes and the view from Hermann's Monument on a rare sunny day."
 header:
   teaser: /images/teasers/Detmold4.jpg

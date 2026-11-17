@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Monschau"
 author_profile: true
 tags: Germany
+places: [monschau]
 description: "A fairytale town near the Belgian border where every shop, cafe and even the bank is half-timbered."
 header:
   teaser: /images/teasers/Monschau10.jpg

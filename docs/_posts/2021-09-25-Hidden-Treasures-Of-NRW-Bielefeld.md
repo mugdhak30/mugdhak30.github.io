@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Bielefeld"
 author_profile: true
 tags: Germany
+places: [bielefeld]
 description: "A hike up to Sparrenburg Castle, art on the Kunsthalle lawns and an Old Market lit up for the art festival."
 header:
   teaser: /images/teasers/Bielefeld9.jpg

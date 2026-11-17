@@ -3,6 +3,7 @@ layout: archive
 title:  "Alappuzha: Venice of the East"
 author_profile: true
 tags: India
+places: [alappuzha]
 description: "A family trip to God's Own Country: houseboats, floating villages and canals under a canopy of coconut trees."
 header:
   teaser: /images/teasers/Kerala10.jpg

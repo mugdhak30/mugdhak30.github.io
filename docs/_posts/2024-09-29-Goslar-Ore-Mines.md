@@ -3,6 +3,7 @@ layout: archive
 title:  "Goslar: Ore Mines and Their Secrets"
 author_profile: true
 tags: Germany
+places: [goslar]
 description: "A half-timbered Airbnb, a noisy bell tower, and a train ride 300 meters down into a 1,000-year-old ore mine."
 header:
   teaser: /images/teasers/Goslar4.jpg

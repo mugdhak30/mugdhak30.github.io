@@ -3,6 +3,7 @@ layout: archive
 title:  "Pacific Northwest: Rare Clear Skies, Rarer Reunions"
 author_profile: true
 tags: USA
+places: [seattle, mt-rainier]
 description: "Ferry rides, snowball fights and lenticular clouds: a heartfelt reunion with my best friend in the gorgeous Pacific Northwest."
 header:
   teaser: /images/teasers/PacificNW10.jpg

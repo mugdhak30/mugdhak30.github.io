@@ -3,6 +3,7 @@ layout: archive
 title:  "Bruges: A Birthday Girl's Dream!"
 author_profile: true
 tags: Belgium
+places: [bruges]
 description: "A birthday among canals, waffles and a Belfry climb in the most romantic place I've ever visited."
 header:
   teaser: /images/teasers/Bruges11.jpg

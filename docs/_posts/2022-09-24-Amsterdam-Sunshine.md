@@ -3,6 +3,7 @@ layout: archive
 title:  "Amsterdam: Sunshine on the Canals"
 author_profile: true
 tags: Netherlands
+places: [amsterdam]
 description: "Showing my partner my life in Europe, starting with the dancing houses and flower-lined canals of Amsterdam."
 header:
   teaser: /images/teasers/Amsterdam12.jpg

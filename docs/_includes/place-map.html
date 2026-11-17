@@ -1,0 +1,52 @@
+{%- comment -%}
+  World map with a dot per place; clicking a dot lists what happened there.
+    {% include place-map.html kind="talks" %}  in-person talks (_data/talks.yml, without thesis defences) and posters (_data/posters.yml)
+    {% include place-map.html kind="blog" %}   blog posts with `places:` in their front matter
+  Drawn by assets/js/place-map.js. See documentation_maps.md.
+{%- endcomment -%}
+{%- assign kind = include.kind -%}
+<div class="place-map" data-kind="{{ kind }}">
+  <div class="place-map-bar">
+    <div class="place-map-stats"></div>
+    <div class="place-map-legend">
+      {%- if kind == "talks" %}
+      <span><i class="place-map-dot" style="background:var(--pm-conf)"></i>Paper or poster at a conference or workshop</span>
+      <span><i class="place-map-dot" style="background:var(--pm-invited)"></i>Invited or industry talk</span>
+      {%- else %}
+      <span><i class="place-map-dot" style="background:var(--pm-written)"></i>Blog post</span>
+      {%- endif %}
+    </div>
+  </div>
+  <div class="place-map-canvas"></div>
+  <p class="place-map-hint">Click a dot to see {% if kind == "talks" %}what I presented there{% else %}the posts about it{% endif %}. Drag to move the map, use + and − to zoom.</p>
+  <div class="place-map-detail" hidden></div>
+  <script type="application/json" class="place-map-data">
+  {
+    "kind": {{ kind | jsonify }},
+    "places": {{ site.data.places | jsonify }},
+    "countries": {{ site.data.countries | jsonify }},
+    "items": [
+    {%- assign first = true -%}
+    {%- if kind == "talks" -%}
+      {%- for t in site.data.talks -%}{%- for s in t.stops -%}{%- if s.place and s.virtual != true -%}{%- unless t.badge contains "defense" -%}
+      {%- unless first %},{% endunless %}{% assign first = false %}
+      { "places": [{{ s.place | jsonify }}], "date": {{ s.date | jsonify }}, "badge": {{ t.badge | jsonify }}, "abbr": {{ t.abbr | jsonify }}, "title": {{ t.title | jsonify }}, "venue": {{ s.venue | jsonify }} }
+      {%- endunless -%}{%- endif -%}{%- endfor -%}{%- endfor -%}
+      {%- for p in site.data.posters -%}
+      {%- unless first %},{% endunless %}{% assign first = false %}
+      { "places": [{{ p.place | jsonify }}], "date": {{ p.date | append: "" | jsonify }}, "badge": "poster", "abbr": "Poster", "title": {{ p.what | jsonify }}, "venue": "" }
+      {%- endfor -%}
+    {%- else -%}
+      {%- for p in site.posts -%}{%- if p.places -%}
+      {%- unless first %},{% endunless %}{% assign first = false %}
+      { "places": {{ p.places | jsonify }}, "date": {{ p.date | date: "%Y-%m" | jsonify }}, "title": {{ p.title | strip | jsonify }}, "url": {{ p.url | relative_url | jsonify }} }
+      {%- endif -%}{%- endfor -%}
+    {%- endif %}
+    ]
+  }
+  </script>
+</div>
+<!-- Map library served from this site, not a CDN, so visitors' browsers don't contact a third party (see /privacy/). -->
+<script src="{{ '/assets/js/jsvectormap/jsvectormap.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/jsvectormap/world.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/place-map.js' | relative_url }}"></script>

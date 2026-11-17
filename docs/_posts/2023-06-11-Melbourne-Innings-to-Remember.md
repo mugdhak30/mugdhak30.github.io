@@ -3,6 +3,7 @@ layout: archive
 title:  "Melbourne: An Innings to Remember"
 author_profile: true
 tags: Australia
+places: [melbourne]
 description: "A cricket fan's dream come true: a behind-the-scenes tour of the Melbourne Cricket Ground."
 header:
   teaser: /images/teasers/Melbourne2_3.jpg

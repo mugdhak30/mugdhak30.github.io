@@ -3,6 +3,7 @@ layout: archive
 title:  "Giethoorn: The Dutch Venice"
 author_profile: true
 tags: Netherlands
+places: [giethoorn]
 description: "Showing my mom and twin sister my life in Europe, by boat through a car-free Dutch village of canals."
 header:
   teaser: /images/teasers/Giethoorn4.jpg

@@ -3,6 +3,7 @@ layout: archive
 title:  "Ladakh: India's Little Tibet"
 author_profile: true
 tags: India
+places: [ladakh]
 description: "A trip from ten years ago: landing among the Himalayas in Leh, quiet monasteries and the Indus river."
 header:
   teaser: /images/teasers/Ladakh2.jpg

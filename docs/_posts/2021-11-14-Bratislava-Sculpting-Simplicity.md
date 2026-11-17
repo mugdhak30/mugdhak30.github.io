@@ -3,6 +3,7 @@ layout: archive
 title:  "Bratislava: Sculpting Simplicity"
 author_profile: true
 tags: Slovakia
+places: [bratislava]
 description: "Quirky life-size statues, a sunset over the Danube, and an autumn street straight out of a poem."
 header:
   teaser: /images/teasers/Bratislava2.jpg

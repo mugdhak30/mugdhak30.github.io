@@ -3,6 +3,7 @@ layout: archive
 title:  "Paris: A Dollop of Fantasy, a Pinch of Reality"
 author_profile: true
 tags: France
+places: [paris]
 description: "An honest day in Paris: an underwhelming first look at the Eiffel Tower, and bakeries that made up for it."
 header:
   teaser: /images/teasers/Paris3.jpg

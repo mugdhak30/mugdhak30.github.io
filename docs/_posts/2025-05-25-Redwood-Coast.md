@@ -3,6 +3,7 @@ layout: archive
 title:  "Redwood Coast: Where Giants Meet the Ocean"
 author_profile: true
 tags: USA
+places: [redwoods]
 description: "A week stolen from our PhDs to wander among the tallest trees on Earth, right where they meet the Pacific."
 header:
   teaser: /images/teasers/Redwood8.jpg

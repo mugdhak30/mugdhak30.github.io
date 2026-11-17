@@ -3,6 +3,7 @@ layout: archive
 title:  "Glacier Express: The Ultimate Alpine Escape"
 author_profile: true
 tags: Switzerland
+places: [andermatt]
 description: "Our first trip as husband and wife: six hours on the 'slowest express train in the world' through the Swiss Alps."
 header:
   teaser: /images/teasers/Glacier2.jpg

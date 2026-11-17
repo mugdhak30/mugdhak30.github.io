@@ -3,6 +3,7 @@ layout: archive
 title:  "Carmel-By-The-Sea: Europe of California"
 author_profile: true
 tags: USA
+places: [carmel]
 description: "My first taste of the California countryside: a quirky beach town with a law against high heels."
 header:
   teaser: /images/teasers/Carmel_7.jpg

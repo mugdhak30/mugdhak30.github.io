@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Bad Lippspringe"
 author_profile: true
 tags: Germany
+places: [bad-lippspringe]
 description: "Odin's eye, the spring where the Lippe river is born, and the healing waters that make this spa town 'Bad'."
 header:
   teaser: /images/teasers/Lippee6.jpg

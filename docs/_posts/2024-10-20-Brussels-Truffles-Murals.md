@@ -3,6 +3,7 @@ layout: archive
 title:  "Truffles, Murals and All Things Belgian"
 author_profile: true
 tags: Belgium
+places: [brussels]
 description: "A shaky first impression, a dazzling Market Square, Tintin murals and a truffle-making class."
 header:
   teaser: /images/teasers/Brussels1.jpg

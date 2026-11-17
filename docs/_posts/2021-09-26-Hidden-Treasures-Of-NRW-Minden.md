@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Minden"
 author_profile: true
 tags: Germany
+places: [minden]
 description: "Half-timbered streets along the Weser, and Stolpersteine on the pavement that tell of Minden's darker history."
 header:
   teaser: /images/teasers/Minden8.jpg

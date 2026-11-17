@@ -3,6 +3,7 @@ layout: archive
 title:  "Budapest: The Wonders on the Danube"
 author_profile: true
 tags: Hungary
+places: [budapest]
 description: "Back in a city I love: thermal baths, ruin bars and the hidden world beneath Buda's cobbled streets."
 header:
   teaser: /images/teasers/Budapest2_1.jpg

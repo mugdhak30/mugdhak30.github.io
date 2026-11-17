@@ -3,6 +3,7 @@ layout: archive
 title:  "Jodhpur: Rao Jodha's Fortress"
 author_profile: true
 tags: India
+places: [jodhpur]
 description: "The blue city of Rajasthan, the mighty Mehrangarh Fort, and an evening of street shopping and mawa kachori."
 header:
   teaser: /images/teasers/Jodhpur1.jpg

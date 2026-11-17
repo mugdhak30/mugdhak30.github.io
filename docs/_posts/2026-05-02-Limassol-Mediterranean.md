@@ -3,6 +3,7 @@ layout: archive
 title:  "Limassol: The Calm of the Mediterranean"
 author_profile: true
 tags: Cyprus
+places: [limassol]
 description: "A conference in Cyprus, the only sunny day of the week, and an old town that reminded me of India."
 header:
   teaser: /images/teasers/Limassol1.jpg

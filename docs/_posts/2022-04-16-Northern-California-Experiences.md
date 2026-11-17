@@ -3,6 +3,7 @@ layout: archive
 title:  "Northern California: Experiences of a Lifetime"
 author_profile: true
 tags: USA
+places: [monterey, santa-cruz]
 description: "Whale watching in Monterey Bay, cliffs along Highway 1, and a takeoff over San Francisco I'll never forget."
 header:
   teaser: /images/teasers/Cali_7.jpg

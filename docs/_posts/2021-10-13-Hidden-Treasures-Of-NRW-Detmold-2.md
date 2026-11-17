@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Detmold (2/2)"
 author_profile: true
 tags: Germany
+places: [detmold]
 description: "Germany's largest open-air museum: 500 years of Westphalian half-timbered houses, farms and country life."
 header:
   teaser: /images/teasers/Detmold_East3.jpg

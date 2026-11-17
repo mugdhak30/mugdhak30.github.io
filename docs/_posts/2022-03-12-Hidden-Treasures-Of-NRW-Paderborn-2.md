@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Paderborn (2/2)"
 author_profile: true
 tags: Germany
+places: [paderborn]
 description: "Sunday walks by Padersee, ice cream and mulled wine at Schloss Neuhaus, and the rivers that shape my town."
 header:
   teaser: /images/teasers/Paderborn2_1.jpg

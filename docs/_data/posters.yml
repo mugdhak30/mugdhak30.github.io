@@ -1,0 +1,13 @@
+# Posters presented in person. Shown on the map at the top of /talks/
+# together with the talks in _data/talks.yml.
+#
+#   place: a key in _data/places.yml (add the place there first)
+#   date:  "YYYY-MM", or "YYYY" if you don't know the month
+#   what:  the event, shown when the dot is clicked
+
+- place: melbourne
+  date: "2023"
+  what: "ICSE 2023 Doctoral Symposium"
+- place: brussels
+  date: "2025"
+  what: "ST&V 2025 summer school"

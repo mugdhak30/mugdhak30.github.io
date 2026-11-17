@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Paderborn (1/2)"
 author_profile: true
 tags: Germany
+places: [paderborn]
 description: "An ode to ordinary Paderborn: the Town Hall, the warm Pader springs and the hometown of Heinz Nixdorf."
 header:
   teaser: /images/teasers/Paderborn2_4.jpg

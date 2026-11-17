@@ -3,6 +3,7 @@ layout: archive
 title:  "Helsingør: The Home of Hamlet"
 author_profile: true
 tags: Denmark
+places: [helsingor, helsingborg]
 description: "Hamlet performed in Kronborg's courtyard, an afternoon of coloring in a castle, and a 15-minute ferry to Sweden."
 header:
   teaser: /images/teasers/Helsingor1.jpg

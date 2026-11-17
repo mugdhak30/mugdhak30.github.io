@@ -3,6 +3,7 @@ layout: archive
 title:  "The Deutsche Experience (2/2)"
 author_profile: true
 tags: Germany
+places: [munich]
 description: "Our first Oktoberfest in Munich: beer, the grand opening parade and the largest public festival in the world."
 header:
   teaser: /images/teasers/Deutsche2_1.jpg

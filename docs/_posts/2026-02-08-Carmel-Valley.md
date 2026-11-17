@@ -3,6 +3,7 @@ layout: archive
 title:  "Carmel Valley: The Reward of Patience"
 author_profile: true
 tags: USA
+places: [carmel-valley]
 description: "A hilltop trailer, a hot tub and a sky full of stars: one more American experience before leaving the U.S."
 header:
   teaser: /images/teasers/Camping7.jpg

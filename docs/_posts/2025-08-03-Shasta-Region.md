@@ -3,6 +3,7 @@ layout: archive
 title:  "Shasta: Trails, Laughs, and Peace by the Water"
 author_profile: true
 tags: USA
+places: [shasta]
 description: "Waterfalls, winding lakes and limestone caves: the offbeat second leg of our Northern California road trip."
 header:
   teaser: /images/teasers/Shasta6.jpg

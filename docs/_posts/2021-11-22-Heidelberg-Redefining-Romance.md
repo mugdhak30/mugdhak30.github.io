@@ -3,6 +3,7 @@ layout: archive
 title:  "Heidelberg: Redefining Romance"
 author_profile: true
 tags: Germany
+places: [heidelberg]
 description: "Germany's oldest university town: the Old Bridge over the Neckar, castle ruins and the world's biggest wine barrel."
 header:
   teaser: /images/teasers/Heidelberg4.jpg

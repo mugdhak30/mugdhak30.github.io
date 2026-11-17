@@ -1,0 +1,20 @@
+# Country names and flags for the maps on /talks/ and /year-archive/, keyed by the `cc` used in _data/places.yml.
+AT: { name: "Austria", flag: "🇦🇹" }
+AU: { name: "Australia", flag: "🇦🇺" }
+BE: { name: "Belgium", flag: "🇧🇪" }
+BR: { name: "Brazil", flag: "🇧🇷" }
+CH: { name: "Switzerland", flag: "🇨🇭" }
+CY: { name: "Cyprus", flag: "🇨🇾" }
+CZ: { name: "Czech Republic", flag: "🇨🇿" }
+DE: { name: "Germany", flag: "🇩🇪" }
+DK: { name: "Denmark", flag: "🇩🇰" }
+FR: { name: "France", flag: "🇫🇷" }
+HR: { name: "Croatia", flag: "🇭🇷" }
+HU: { name: "Hungary", flag: "🇭🇺" }
+IN: { name: "India", flag: "🇮🇳" }
+IT: { name: "Italy", flag: "🇮🇹" }
+NL: { name: "Netherlands", flag: "🇳🇱" }
+PT: { name: "Portugal", flag: "🇵🇹" }
+SE: { name: "Sweden", flag: "🇸🇪" }
+SK: { name: "Slovakia", flag: "🇸🇰" }
+US: { name: "United States", flag: "🇺🇸" }

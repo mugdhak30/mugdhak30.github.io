@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Bonn"
 author_profile: true
 tags: Germany
+places: [bonn]
 description: "Cherry blossoms, an 11th-century minster and a two-story Haribo store in the birthplace of gummy bears."
 header:
   teaser: /images/teasers/Bonn7.jpg

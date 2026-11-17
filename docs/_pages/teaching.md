@@ -42,7 +42,7 @@ author_profile: true
 I have supervised the following Master theses:
 
 <ul class="dated-rows">
-<li><span class="dated-when dated-ongoing">Ongoing</span><span>Exploring Hybrid Analysis for Android Privacy</span></li>
+<li><time datetime="2026-11">Nov 2026</time><span>Exploring Hybrid Analysis for Android Privacy</span></li>
 <li><time datetime="2025-03">Mar 2025</time><span>Automated Privacy Assessment for Android Applications: A DPV Visualisation Approach</span></li>
 <li><time datetime="2025-01">Jan 2025</time><span>Explaining Privacy-Relevant Program Slices to App Developers</span></li>
 <li><time datetime="2025-01">Jan 2025</time><span>Automatically Generating Data Safety Section Labels for Android Apps</span></li>

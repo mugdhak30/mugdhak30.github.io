@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Herford"
 author_profile: true
 tags: Germany
+places: [herford]
 description: "The road less traveled: a quiet old town, untouched by tourists, that turned out to be an eye-opener."
 header:
   teaser: /images/teasers/Herford7.jpg

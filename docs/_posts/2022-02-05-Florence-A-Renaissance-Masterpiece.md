@@ -3,6 +3,7 @@ layout: archive
 title:  "Florence: A Renaissance Masterpiece"
 author_profile: true
 tags: Italy
+places: [florence]
 description: "A December evening in Renaissance Florence: views over the Arno and Ponte Vecchio lit up at dusk."
 header:
   teaser: /images/teasers/Florence1.jpg

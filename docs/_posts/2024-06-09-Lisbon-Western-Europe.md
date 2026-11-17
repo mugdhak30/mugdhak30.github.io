@@ -3,6 +3,7 @@ layout: archive
 title:  "Lisbon: A Slice of Western Europe"
 author_profile: true
 tags: Portugal
+places: [lisbon]
 description: "A conference trip, a free day exploring solo, and books from the oldest operating bookstore in the world."
 header:
   teaser: /images/teasers/Lisbon8.jpg

@@ -3,6 +3,7 @@ layout: archive
 title:  "Havelock Island: A Homecoming to Remember"
 author_profile: true
 tags: India
+places: [havelock]
 description: "My first family trip in over a year: island life in the Andamans, a cyclone, and the best beach in Asia."
 header:
   teaser: /images/teasers/Havelock9.jpg

@@ -3,6 +3,7 @@ layout: archive
 title:  "The Deutsche Experience (1/2)"
 author_profile: true
 tags: Germany
+places: [berlin, dortmund]
 description: "Showing my partner Germany on a 9-euro ticket: Berlin, my favorite city, and the festivals of Paderborn."
 header:
   teaser: /images/teasers/Deutsche1_3.jpg

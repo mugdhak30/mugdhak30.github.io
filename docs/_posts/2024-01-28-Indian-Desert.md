@@ -3,6 +3,7 @@ layout: archive
 title:  "The Great Indian Desert"
 author_profile: true
 tags: India
+places: [thar]
 description: "Back home for the holidays: a jeep safari across the Thar desert, a breathtaking sunset and a camel named Bhura."
 header:
   teaser: /images/teasers/Manvar11.jpg

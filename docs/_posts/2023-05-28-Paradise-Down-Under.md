@@ -3,6 +3,7 @@ layout: archive
 title:  "To the Paradise \"Down Under\""
 author_profile: true
 tags: Australia
+places: [melbourne]
 description: "My first trip to the Southern Hemisphere: Melbourne's trams, an untimely autumn and an upside-down moon."
 header:
   teaser: /images/teasers/Melbourne1_4.jpg

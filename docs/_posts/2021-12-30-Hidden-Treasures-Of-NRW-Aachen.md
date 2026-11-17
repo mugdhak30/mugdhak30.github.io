@@ -3,6 +3,7 @@ layout: archive
 title:  "Hidden Treasures of NRW: Aachen"
 author_profile: true
 tags: Germany
+places: [aachen]
 description: "A dreary December brightened by Aachen: a 1,200-year-old cathedral, a hot spring and Christmas markets."
 header:
   teaser: /images/teasers/Aachen1.jpg

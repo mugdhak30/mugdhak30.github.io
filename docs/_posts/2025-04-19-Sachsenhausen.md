@@ -3,6 +3,7 @@ layout: archive
 title:  "Sachsenhausen: A Graveyard of Humanity"
 author_profile: true
 tags: Germany
+places: [sachsenhausen]
 description: "After four years in Germany, I finally visited a Nazi concentration camp: the most chilling place I have ever set foot in."
 header:
   teaser: /images/teasers/Sachsenhausen4.jpg

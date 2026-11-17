@@ -3,6 +3,7 @@ layout: archive
 title:  "Joshua Tree: A Glimpse of the Heavens"
 author_profile: true
 tags: USA
+places: [joshua-tree]
 description: "A 3 a.m. alarm, a windy desert night, and my first real glimpse of the Milky Way."
 header:
   teaser: /images/teasers/Star2.jpg
