@@ -73,6 +73,7 @@ sedona:         { name: "Sedona", cc: US, lat: 34.870, lng: -111.761 }
 flagstaff:      { name: "Flagstaff", cc: US, lat: 35.198, lng: -111.651 }
 seattle:        { name: "Seattle", cc: US, lat: 47.606, lng: -122.332 }
 mt-rainier:     { name: "Mount Rainier", cc: US, lat: 46.853, lng: -121.760 }
+yosemite:       { name: "Yosemite", cc: US, lat: 37.865101, lng: -119.538330}
 
 # India
 alappuzha:      { name: "Alappuzha", cc: IN, lat: 9.498, lng: 76.339 }

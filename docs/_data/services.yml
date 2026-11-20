@@ -87,16 +87,18 @@ academic:
 
 # Reviewing without fixed years: shown as a plain list.
 reviewer:
+  - name: ACM Transactions on Software Engineering and Methodology
+    url: https://dl.acm.org/journal/tosem
   - name: IEEE Transactions on Software Engineering
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32
   - name: International Journal of Human-Computer Interaction
     url: https://www.tandfonline.com/toc/hihc20/current
   - name: Information and Software Technology
     url: https://www.sciencedirect.com/journal/information-and-software-technology
-  - name: "Journal of Software: Evolution and Process"
-    url: https://onlinelibrary.wiley.com/journal/20477481
   - name: Transportation Research Interdisciplinary Perspectives
     url: https://www.sciencedirect.com/journal/transportation-research-interdisciplinary-perspectives
+  - name: "Journal of Software: Evolution and Process"
+    url: https://onlinelibrary.wiley.com/journal/20477481
   - name: IEEE Transactions on Privacy
     url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10167710
   - name: IEEE Software
